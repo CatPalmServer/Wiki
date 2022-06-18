@@ -16,12 +16,14 @@ birch_planks 64 樺木材
 jungle_planks 64 叢林木材
 acacia_planks 64 相思木材
 dark_oak_planks 64 黑橡木材
+mangrove_planks 64 紅樹林木材
 oak_sapling 64 橡木樹苗
 spruce_sapling 64 杉木樹苗
 birch_sapling 64 樺木樹苗
 jungle_sapling 64 叢林木樹苗
 acacia_sapling 64 相思木樹苗
 dark_oak_sapling 64 黑橡木樹苗
+mangrove_propagule 64 紅樹林木胎生苗
 bedrock 64 基岩
 sand 64 沙
 red_sand 64 紅沙
@@ -39,30 +41,37 @@ birch_log 64 樺木原木
 jungle_log 64 叢林木原木
 acacia_log 64 相思木原木
 dark_oak_log 64 黑橡木原木
+mangrove_log 64 紅樹林木原木
+mangrove_roots 64 紅樹林木根
+muddy_mangrove_roots 64 淤泥紅樹林木根
 stripped_spruce_log 64 剝皮杉木原木
 stripped_birch_log 64 剝皮樺木原木
 stripped_jungle_log 64 剝皮叢林木原木
 stripped_acacia_log 64 剝皮相思木原木
 stripped_dark_oak_log 64 剝皮黑橡木原木
 stripped_oak_log 64 剝皮橡木原木
+stripped_mangrove_log 64 剝皮紅樹林木原木
 oak_wood 64 橡木塊
 spruce_wood 64 杉木塊
 birch_wood 64 樺木塊
 jungle_wood 64 叢林木塊
 acacia_wood 64 相思木塊
 dark_oak_wood 64 黑橡木塊
+mangrove_wood 64 紅樹林木塊
 stripped_oak_wood 64 剝皮橡木塊
 stripped_spruce_wood 64 剝皮杉木塊
 stripped_birch_wood 64 剝皮樺木塊
 stripped_jungle_wood 64 剝皮叢林木塊
 stripped_acacia_wood 64 剝皮相思木塊
 stripped_dark_oak_wood 64 剝皮黑橡木塊
+stripped_mangrove_wood 64 剝皮紅樹林木塊
 oak_leaves 64 橡木樹葉
 spruce_leaves 64 杉木樹葉
 birch_leaves 64 樺木樹葉
 jungle_leaves 64 叢林木樹葉
 acacia_leaves 64 相思木樹葉
 dark_oak_leaves 64 黑橡木樹葉
+mangrove_leaves 64 紅樹林木樹葉
 azalea_leaves 64 杜鵑葉
 flowering_azalea_leaves 64 開花的杜鵑葉
 sponge 64 海綿
@@ -156,6 +165,7 @@ birch_sign 16 樺木告示牌
 acacia_sign 16 相思木告示牌
 jungle_sign 16 叢林木告示牌
 dark_oak_sign 16 黑橡木告示牌
+mangrove_sign 16 紅樹林木告示牌
 oak_door 64 橡木門
 ladder 64 梯子
 rail 64 鐵軌
@@ -169,6 +179,7 @@ birch_pressure_plate 64 樺木壓力板
 jungle_pressure_plate 64 叢林木壓力板
 acacia_pressure_plate 64 相思木壓力板
 dark_oak_pressure_plate 64 黑橡木壓力板
+mangrove_pressure_plate 64 紅樹林木壓力板
 redstone_ore 64 紅石礦
 deepslate_redstone_ore 64 深板岩紅石礦
 redstone_torch 64 紅石火把
@@ -215,10 +226,13 @@ birch_trapdoor 64 樺木地板門
 jungle_trapdoor 64 叢林木地板門
 acacia_trapdoor 64 相思木地板門
 dark_oak_trapdoor 64 黑橡木地板門
+mangrove_trapdoor 64 紅樹林木地板門
 stone_bricks 64 石磚
 mossy_stone_bricks 64 青苔石磚
 cracked_stone_bricks 64 裂紋石磚
 chiseled_stone_bricks 64 浮雕石磚
+packed_mud 64 泥坯
+mud_bricks 64 泥磚
 infested_stone 64 蛀蝕的石頭
 infested_cobblestone 64 蛀蝕的鵝卵石
 infested_stone_bricks 64 蛀蝕的石磚
@@ -234,6 +248,7 @@ glow_lichen 64 發光地衣
 oak_fence_gate 64 橡木柵欄門
 brick_stairs 64 紅磚階梯
 stone_brick_stairs 64 石磚階梯
+mud_brick_stairs 64 泥磚階梯
 mycelium 64 菌絲土
 lily_pad 64 荷葉
 nether_bricks 64 地獄磚
@@ -266,6 +281,7 @@ birch_button 64 樺木按鈕
 jungle_button 64 叢林木按鈕
 acacia_button 64 相思木按鈕
 dark_oak_button 64 黑橡木按鈕
+mangrove_button 64 紅樹林木按鈕
 skeleton_skull 64 骷髏頭顱
 wither_skeleton_skull 64 凋零骷髏頭顱
 zombie_head 64 殭屍頭顱
@@ -323,6 +339,7 @@ red_stained_glass_pane 64 紅色玻璃片
 black_stained_glass_pane 64 黑色玻璃片
 acacia_stairs 64 相思木階梯
 dark_oak_stairs 64 黑橡木階梯
+mangrove_stairs 64 紅樹林木階梯
 slime_block 64 史萊姆方塊
 barrier 64 屏障
 iron_trapdoor 64 鐵製地板門
@@ -388,6 +405,7 @@ birch_slab 64 樺木半磚
 jungle_slab 64 叢林木半磚
 acacia_slab 64 相思木半磚
 dark_oak_slab 64 黑橡木半磚
+mangrove_slab 64 紅樹林木半磚
 stone_slab 64 石半磚
 smooth_stone_slab 64 平滑石半磚
 sandstone_slab 64 砂岩半磚
@@ -396,6 +414,7 @@ petrified_oak_slab 64 石化橡木半磚
 cobblestone_slab 64 鵝卵石半磚
 brick_slab 64 紅磚半磚
 stone_brick_slab 64 石磚半磚
+mud_brick_slab 64 泥磚半磚
 nether_brick_slab 64 地獄磚半磚
 quartz_slab 64 石英半磚
 red_sandstone_slab 64 紅砂岩半磚
@@ -410,16 +429,19 @@ birch_fence_gate 64 樺木柵欄門
 jungle_fence_gate 64 叢林木柵欄門
 acacia_fence_gate 64 相思木柵欄門
 dark_oak_fence_gate 64 黑橡木柵欄門
+mangrove_fence_gate 64 紅樹林木柵欄門
 spruce_fence 64 杉木柵欄
 birch_fence 64 樺木柵欄
 jungle_fence 64 叢林木柵欄
 acacia_fence 64 相思木柵欄
 dark_oak_fence 64 黑橡木柵欄
+mangrove_fence 64 紅樹林木柵欄
 spruce_door 64 杉木門
 birch_door 64 樺木門
 jungle_door 64 叢林木門
 acacia_door 64 相思木門
 dark_oak_door 64 黑橡木門
+mangrove_door 64 紅樹林木門
 end_rod 64 終界燭
 chorus_plant 64 歌萊枝
 chorus_flower 64 歌萊花
@@ -568,6 +590,7 @@ red_sandstone_wall 64 紅砂岩牆
 mossy_stone_brick_wall 64 青苔石磚牆
 granite_wall 64 花崗岩牆
 stone_brick_wall 64 石磚牆
+mud_brick_wall 64 泥磚牆
 nether_brick_wall 64 地獄磚牆
 andesite_wall 64 安山岩牆
 red_nether_brick_wall 64 紅地獄磚牆
@@ -687,6 +710,10 @@ tuff 64 凝灰岩
 calcite 64 方解石
 tinted_glass 64 遮光玻璃
 sculk_sensor 64 伏聆振測器
+sculk 64 伏聆
+sculk_vein 64 伏聆脈絡
+sculk_catalyst 64 伏聆觸媒
+sculk_shrieker 64 伏聆嘯口
 oxidized_copper 64 氧化的銅方塊
 weathered_copper 64 風化的銅方塊
 exposed_copper 64 斑駁的銅方塊
@@ -733,6 +760,7 @@ big_dripleaf 64 大懸葉草
 small_dripleaf 64 小懸葉草
 hanging_roots 64 懸根
 rooted_dirt 64 扎根土
+mud 64 泥巴
 deepslate 64 深板岩
 cobbled_deepslate 64 深板岩碎石
 cobbled_deepslate_stairs 64 碎深板岩階梯
@@ -758,6 +786,11 @@ smooth_basalt 64 平滑玄武岩
 raw_iron_block 64 鐵原礦方塊
 raw_copper_block 64 銅原礦方塊
 raw_gold_block 64 金原礦方塊
+ochre_froglight 64 赭黃蛙光體
+verdant_froglight 64 蒼翠蛙光體
+pearlescent_froglight 64 珠紫蛙光體
+frogspawn 64 青蛙卵
+reinforced_deepslate 64 強化深板岩
 stone 64 石頭
 granite 64 花崗岩
 polished_granite 64 拋光花崗岩
@@ -776,6 +809,7 @@ dirt 64 泥土
 coarse_dirt 64 粗泥
 podzol 64 灰壤
 rooted_dirt 64 扎根土
+mud 64 泥巴
 crimson_nylium 64 緋紅菌絲石
 warped_nylium 64 扭曲菌絲石
 cobblestone 64 鵝卵石
@@ -785,6 +819,7 @@ birch_planks 64 樺木材
 jungle_planks 64 叢林木材
 acacia_planks 64 相思木材
 dark_oak_planks 64 黑橡木材
+mangrove_planks 64 紅樹林木材
 crimson_planks 64 緋紅蕈木材
 warped_planks 64 扭曲蕈木材
 oak_sapling 64 橡木樹苗
@@ -793,6 +828,7 @@ birch_sapling 64 樺木樹苗
 jungle_sapling 64 叢林木樹苗
 acacia_sapling 64 相思木樹苗
 dark_oak_sapling 64 黑橡木樹苗
+mangrove_propagule 64 紅樹林木胎生苗
 bedrock 64 基岩
 sand 64 沙
 red_sand 64 紅沙
@@ -864,6 +900,9 @@ birch_log 64 樺木原木
 jungle_log 64 叢林木原木
 acacia_log 64 相思木原木
 dark_oak_log 64 黑橡木原木
+mangrove_log 64 紅樹林木原木
+mangrove_roots 64 紅樹林木根
+muddy_mangrove_roots 64 淤泥紅樹林木根
 crimson_stem 64 緋紅蕈柄
 warped_stem 64 扭曲蕈柄
 stripped_oak_log 64 剝皮橡木原木
@@ -872,6 +911,7 @@ stripped_birch_log 64 剝皮樺木原木
 stripped_jungle_log 64 剝皮叢林木原木
 stripped_acacia_log 64 剝皮相思木原木
 stripped_dark_oak_log 64 剝皮黑橡木原木
+stripped_mangrove_log 64 剝皮紅樹林木原木
 stripped_crimson_stem 64 剝皮緋紅蕈柄
 stripped_warped_stem 64 剝皮扭曲蕈柄
 stripped_oak_wood 64 剝皮橡木塊
@@ -880,6 +920,7 @@ stripped_birch_wood 64 剝皮樺木塊
 stripped_jungle_wood 64 剝皮叢林木塊
 stripped_acacia_wood 64 剝皮相思木塊
 stripped_dark_oak_wood 64 剝皮黑橡木塊
+stripped_mangrove_wood 64 剝皮紅樹林木塊
 stripped_crimson_hyphae 64 剝皮緋紅菌絲體
 stripped_warped_hyphae 64 剝皮扭曲菌絲體
 oak_wood 64 橡木塊
@@ -888,6 +929,7 @@ birch_wood 64 樺木塊
 jungle_wood 64 叢林木塊
 acacia_wood 64 相思木塊
 dark_oak_wood 64 黑橡木塊
+mangrove_wood 64 紅樹林木塊
 crimson_hyphae 64 緋紅菌絲體
 warped_hyphae 64 扭曲菌絲體
 oak_leaves 64 橡木樹葉
@@ -896,6 +938,7 @@ birch_leaves 64 樺木樹葉
 jungle_leaves 64 叢林木樹葉
 acacia_leaves 64 相思木樹葉
 dark_oak_leaves 64 黑橡木樹葉
+mangrove_leaves 64 紅樹林木樹葉
 azalea_leaves 64 杜鵑葉
 flowering_azalea_leaves 64 開花的杜鵑葉
 sponge 64 海綿
@@ -967,6 +1010,7 @@ birch_slab 64 樺木半磚
 jungle_slab 64 叢林木半磚
 acacia_slab 64 相思木半磚
 dark_oak_slab 64 黑橡木半磚
+mangrove_slab 64 紅樹林木半磚
 crimson_slab 64 緋紅蕈木半磚
 warped_slab 64 扭曲蕈木半磚
 stone_slab 64 石半磚
@@ -977,6 +1021,7 @@ petrified_oak_slab 64 石化橡木半磚
 cobblestone_slab 64 鵝卵石半磚
 brick_slab 64 紅磚半磚
 stone_brick_slab 64 石磚半磚
+mud_brick_slab 64 泥磚半磚
 nether_brick_slab 64 地獄磚半磚
 quartz_slab 64 石英半磚
 red_sandstone_slab 64 紅砂岩半磚
@@ -1001,7 +1046,6 @@ purpur_block 64 紫珀方塊
 purpur_pillar 64 紫珀柱
 purpur_stairs 64 紫珀階梯
 spawner 64 生怪磚
-oak_stairs 64 橡木階梯
 chest 64 儲物箱
 crafting_table 64 工作台
 farmland 64 耕地
@@ -1020,6 +1064,7 @@ birch_fence 64 樺木柵欄
 jungle_fence 64 叢林木柵欄
 acacia_fence 64 相思木柵欄
 dark_oak_fence 64 黑橡木柵欄
+mangrove_fence 64 紅樹林木柵欄
 crimson_fence 64 緋紅蕈木柵欄
 warped_fence 64 扭曲蕈木柵欄
 pumpkin 64 南瓜
@@ -1044,11 +1089,14 @@ stone_bricks 64 石磚
 mossy_stone_bricks 64 青苔石磚
 cracked_stone_bricks 64 裂紋石磚
 chiseled_stone_bricks 64 浮雕石磚
+packed_mud 64 泥坯
+mud_bricks 64 泥磚
 deepslate_bricks 64 深板岩磚
 cracked_deepslate_bricks 64 裂紋深板岩磚
 deepslate_tiles 64 深板岩磚瓦
 cracked_deepslate_tiles 64 裂紋深板岩磚瓦
 chiseled_deepslate 64 浮雕深板岩
+reinforced_deepslate 64 強化深板岩
 iron_bars 64 鐵柵欄
 chain 64 鎖鏈
 glass_pane 64 玻璃片
@@ -1057,6 +1105,7 @@ vine 64 藤蔓
 glow_lichen 64 發光地衣
 brick_stairs 64 紅磚階梯
 stone_brick_stairs 64 石磚階梯
+mud_brick_stairs 64 泥磚階梯
 mycelium 64 菌絲土
 lily_pad 64 荷葉
 nether_bricks 64 地獄磚
@@ -1064,6 +1113,10 @@ cracked_nether_bricks 64 裂紋地獄磚
 chiseled_nether_bricks 64 浮雕地獄磚
 nether_brick_fence 64 地獄磚柵欄
 nether_brick_stairs 64 地獄磚階梯
+sculk 64 伏聆
+sculk_vein 64 伏聆脈絡
+sculk_catalyst 64 伏聆觸媒
+sculk_shrieker 64 伏聆嘯口
 enchanting_table 64 附魔台
 end_portal_frame 64 終界傳送門框架
 end_stone 64 終界石
@@ -1072,9 +1125,13 @@ dragon_egg 64 龍蛋
 sandstone_stairs 64 砂岩階梯
 ender_chest 64 終界箱
 emerald_block 64 綠寶石方塊
+oak_stairs 64 橡木階梯
 spruce_stairs 64 杉木階梯
 birch_stairs 64 樺木階梯
 jungle_stairs 64 叢林木階梯
+acacia_stairs 64 相思木階梯
+dark_oak_stairs 64 黑橡木階梯
+mangrove_stairs 64 紅樹林木階梯
 crimson_stairs 64 緋紅蕈木階梯
 warped_stairs 64 扭曲蕈木階梯
 beacon 64 烽火台
@@ -1086,6 +1143,7 @@ red_sandstone_wall 64 紅砂岩牆
 mossy_stone_brick_wall 64 青苔石磚牆
 granite_wall 64 花崗岩牆
 stone_brick_wall 64 石磚牆
+mud_brick_wall 64 泥磚牆
 nether_brick_wall 64 地獄磚牆
 andesite_wall 64 安山岩牆
 red_nether_brick_wall 64 紅地獄磚牆
@@ -1143,8 +1201,6 @@ red_carpet 64 紅色地毯
 black_carpet 64 黑色地毯
 terracotta 64 陶土
 packed_ice 64 冰磚
-acacia_stairs 64 相思木階梯
-dark_oak_stairs 64 黑橡木階梯
 dirt_path 64 土徑
 sunflower 64 向日葵
 lilac 64 紫丁香
@@ -1366,6 +1422,7 @@ birch_button 64 樺木按鈕
 jungle_button 64 叢林木按鈕
 acacia_button 64 相思木按鈕
 dark_oak_button 64 黑橡木按鈕
+mangrove_button 64 紅樹林木按鈕
 crimson_button 64 緋紅蕈木按鈕
 warped_button 64 扭曲蕈木按鈕
 stone_pressure_plate 64 石製壓力板
@@ -1378,6 +1435,7 @@ birch_pressure_plate 64 樺木壓力板
 jungle_pressure_plate 64 叢林木壓力板
 acacia_pressure_plate 64 相思木壓力板
 dark_oak_pressure_plate 64 黑橡木壓力板
+mangrove_pressure_plate 64 紅樹林木壓力板
 crimson_pressure_plate 64 緋紅蕈木壓力板
 warped_pressure_plate 64 扭曲蕈木壓力板
 iron_door 64 鐵門
@@ -1387,6 +1445,7 @@ birch_door 64 樺木門
 jungle_door 64 叢林木門
 acacia_door 64 相思木門
 dark_oak_door 64 黑橡木門
+mangrove_door 64 紅樹林木門
 crimson_door 64 緋紅蕈木門
 warped_door 64 扭曲蕈木門
 iron_trapdoor 64 鐵製地板門
@@ -1396,6 +1455,7 @@ birch_trapdoor 64 樺木地板門
 jungle_trapdoor 64 叢林木地板門
 acacia_trapdoor 64 相思木地板門
 dark_oak_trapdoor 64 黑橡木地板門
+mangrove_trapdoor 64 紅樹林木地板門
 crimson_trapdoor 64 緋紅蕈木地板門
 warped_trapdoor 64 扭曲蕈木地板門
 oak_fence_gate 64 橡木柵欄門
@@ -1404,6 +1464,7 @@ birch_fence_gate 64 樺木柵欄門
 jungle_fence_gate 64 叢林木柵欄門
 acacia_fence_gate 64 相思木柵欄門
 dark_oak_fence_gate 64 黑橡木柵欄門
+mangrove_fence_gate 64 紅樹林木柵欄門
 crimson_fence_gate 64 緋紅蕈木柵欄門
 warped_fence_gate 64 扭曲蕈木柵欄門
 powered_rail 64 動力鐵軌
@@ -1420,11 +1481,19 @@ carrot_on_a_stick 1 胡蘿蔔釣竿
 warped_fungus_on_a_stick 1 扭曲蕈菇釣竿
 elytra 1 鞘翅
 oak_boat 1 橡木船
+oak_chest_boat 1 儲物箱橡木船
 spruce_boat 1 杉木船
+spruce_chest_boat 1 儲物箱杉木船
 birch_boat 1 樺木船
+birch_chest_boat 1 儲物箱樺木船
 jungle_boat 1 叢林木船
+jungle_chest_boat 1 儲物箱叢林木船
 acacia_boat 1 相思木船
+acacia_chest_boat 1 儲物箱相思木船
 dark_oak_boat 1 黑橡木船
+dark_oak_chest_boat 1 儲物箱黑橡木船
+mangrove_boat 1 紅樹林木船
+mangrove_chest_boat 1 儲物箱紅樹林木船
 turtle_helmet 1 海龜殼
 scute 64 鱗甲
 flint_and_steel 1 打火石
@@ -1521,6 +1590,7 @@ birch_sign 16 樺木告示牌
 jungle_sign 16 叢林木告示牌
 acacia_sign 16 相思木告示牌
 dark_oak_sign 16 黑橡木告示牌
+mangrove_sign 16 紅樹林木告示牌
 crimson_sign 16 緋紅蕈木告示牌
 warped_sign 16 扭曲蕈木告示牌
 bucket 16 鐵桶
@@ -1535,6 +1605,7 @@ salmon_bucket 1 鮭魚桶
 cod_bucket 1 鱈魚桶
 tropical_fish_bucket 1 熱帶魚桶
 axolotl_bucket 1 六角恐龍桶
+tadpole_bucket 1 蝌蚪桶
 brick 64 紅磚頭
 clay_ball 64 黏土球
 dried_kelp_block 64 海帶乾塊
@@ -1543,6 +1614,7 @@ book 64 書
 slime_ball 64 史萊姆球
 egg 16 雞蛋
 compass 64 羅盤
+recovery_compass 64 回生羅盤
 bundle 1 束口袋
 fishing_rod 1 釣竿
 clock 64 時鐘
@@ -1619,6 +1691,7 @@ brewing_stand 64 釀造台
 cauldron 64 鍋釜
 ender_eye 64 終界之眼
 glistering_melon_slice 64 鑲金西瓜片
+allay_spawn_egg 64 悅靈 生怪蛋
 axolotl_spawn_egg 64 六角恐龍 生怪蛋
 bat_spawn_egg 64 蝙蝠 生怪蛋
 bee_spawn_egg 64 蜜蜂 生怪蛋
@@ -1637,6 +1710,7 @@ enderman_spawn_egg 64 終界使者 生怪蛋
 endermite_spawn_egg 64 終界蟎 生怪蛋
 evoker_spawn_egg 64 喚魔者 生怪蛋
 fox_spawn_egg 64 狐狸 生怪蛋
+frog_spawn_egg 64 青蛙 生怪蛋
 ghast_spawn_egg 64 地獄幽靈 生怪蛋
 glow_squid_spawn_egg 64 螢光魷魚 生怪蛋
 goat_spawn_egg 64 山羊 生怪蛋
@@ -1671,6 +1745,7 @@ spider_spawn_egg 64 蜘蛛 生怪蛋
 squid_spawn_egg 64 魷魚 生怪蛋
 stray_spawn_egg 64 流髑 生怪蛋
 strider_spawn_egg 64 熾足獸 生怪蛋
+tadpole_spawn_egg 64 蝌蚪 生怪蛋
 trader_llama_spawn_egg 64 商駝 生怪蛋
 tropical_fish_spawn_egg 64 熱帶魚 生怪蛋
 turtle_spawn_egg 64 海龜 生怪蛋
@@ -1678,6 +1753,7 @@ vex_spawn_egg 64 惱鬼 生怪蛋
 villager_spawn_egg 64 村民 生怪蛋
 vindicator_spawn_egg 64 衛道士 生怪蛋
 wandering_trader_spawn_egg 64 流浪商人 生怪蛋
+warden_spawn_egg 64 伏守者 生怪蛋
 witch_spawn_egg 64 女巫 生怪蛋
 wither_skeleton_spawn_egg 64 凋零骷髏 生怪蛋
 wolf_spawn_egg 64 狼 生怪蛋
@@ -1769,7 +1845,9 @@ music_disc_ward 1 唱片
 music_disc_11 1 唱片
 music_disc_wait 1 唱片
 music_disc_otherside 1 唱片
+music_disc_5 1 唱片
 music_disc_pigstep 1 唱片
+disc_fragment_5 64 唱片碎片
 trident 1 三叉戟
 phantom_membrane 64 夜魅皮膜
 nautilus_shell 64 鸚鵡螺殼
@@ -1783,6 +1861,7 @@ skull_banner_pattern 1 旗幟圖案
 mojang_banner_pattern 1 旗幟圖案
 globe_banner_pattern 1 旗幟圖案
 piglin_banner_pattern 1 旗幟圖案
+goat_horn 1 山羊角
 composter 64 堆肥箱
 barrel 64 木桶
 smoker 64 煙燻爐
@@ -1842,12 +1921,20 @@ medium_amethyst_bud 64 中型紫水晶芽
 large_amethyst_bud 64 大型紫水晶芽
 amethyst_cluster 64 紫水晶晶簇
 pointed_dripstone 64 鐘乳石
+ochre_froglight 64 赭黃蛙光體
+verdant_froglight 64 蒼翠蛙光體
+pearlescent_froglight 64 珠紫蛙光體
+frogspawn 64 青蛙卵
+echo_shard 64 回聲碎片
 slime_chunk_probe 1 史萊姆區塊探針
 red_mushroom_block 64 紅色蘑菇方塊
 brown_mushroom_block 64 棕色蘑菇方塊
 mushroom_stem 64 蘑菇柄
 simple_elevator 64 電梯
 simple_elevator_redstone_signal 64 紅石電梯
+invisible_light_5 64 小隱形光源
+invisible_light_10 64 中隱形光源
+invisible_light_15 64 大隱形光源
 dragon_tooth 64 龍牙
 dragon_blood_tooth 64 血龍牙
 magic_nether_star 64 魔法地獄之星
@@ -1915,6 +2002,7 @@ barter_menu 1 以物易物貿易書
 logger_menu 1 以物易物貿易書
 lottery_ticket_preparation 1 空的抽獎卷
 entity_exterior_tag 1 玩家牌
+soul_link_core 1 靈魂鎖定核心
 command_subtitle_block 64 小標題指令方塊
 command_title_block 64 標題指令方塊
 world_map_view_closest 64 彗星地圖
@@ -1975,28 +2063,6 @@ rabbit_ear_red 1 兔耳
 rabbit_ear_white 1 兔耳
 rabbit_ear_yellow 1 兔耳
 rabbit_ear_rainbow 1 兔耳
-firearms_snipe_bullet 64 狙擊子彈
-firearms_pistol_bullet 64 手槍子彈
-firearms_rifle_bullet 64 步槍子彈
-firearms_submachine_bullet 64 衝鋒槍子彈
-firearms_shotgun_bullet 64 霰彈槍子彈
-firearms_snipe_tegost 1 特高斯特
-firearms_snipe_ma50 1 MA50
-firearms_snipe_meteor 1 流星
-firearms_pistol_wk_3 1 WK-3
-firearms_pistol_pudra 1 普德拉
-firearms_pistol_sman 1 斯曼
-firearms_rifle_rcb 1 RCB
-firearms_rifle_ag_suit 1 AG適應
-firearms_rifle_ms_100 1 MS-100
-firearms_submachine_enihcambus 1 槍蜂沖
-firearms_submachine_destiny 1 命運
-firearms_submachine_de_6 1 DE-6
-firearms_shotgun_rebad 1 雷巴德
-firearms_shotgun_plc_72 1 PLC-72
-firearms_shotgun_survived 1 生還
-random_arsenal_chest 64 §e隨機軍火戰利品
-random_arsenal_barrel 64 §e隨機軍火戰利品
 advanced_tnt_x5 64 x5高級TNT
 advanced_tnt_x9 64 x9高級TNT
 advanced_tnt_x15 64 x15高級TNT
@@ -2026,22 +2092,22 @@ fast_break_magic_wand_blood_tooth 1 快速破壞魔法血龍牙杖
 fast_break_magic_wand_nightmare_crystal 1 快速破壞魔法夢魘結晶杖
 fast_break_magic_wand_creative 1 快速破壞魔法創造者杖
 record_point_gemstone 1 記錄寶石
-record_point_white_banner 16 可記錄點的白色旗幟
-record_point_magenta_banner 16 可記錄點的洋紅色旗幟
+record_point_black_banner 16 可記錄點的黑色旗幟
 record_point_brown_banner 16 可記錄點的棕色旗幟
-record_point_green_banner 16 可記錄點的綠色旗幟
-record_point_yellow_banner 16 可記錄點的黃色旗幟
-record_point_gray_banner 16 可記錄點的灰色旗幟
-record_point_orange_banner 16 可記錄點的橙色旗幟
-record_point_red_banner 16 可記錄點的紅色旗幟
-record_point_purple_banner 16 可記錄點的紫色旗幟
-record_point_pink_banner 16 可記錄點的粉紅色旗幟
 record_point_lime_banner 16 可記錄點的淺綠色旗幟
+record_point_red_banner 16 可記錄點的紅色旗幟
+record_point_orange_banner 16 可記錄點的橙色旗幟
+record_point_light_blue_banner 16 可記錄點的淺藍色旗幟
+record_point_yellow_banner 16 可記錄點的黃色旗幟
+record_point_pink_banner 16 可記錄點的粉紅色旗幟
+record_point_magenta_banner 16 可記錄點的洋紅色旗幟
+record_point_gray_banner 16 可記錄點的灰色旗幟
+record_point_cyan_banner 16 可記錄點的青色旗幟
+record_point_white_banner 16 可記錄點的白色旗幟
+record_point_purple_banner 16 可記錄點的紫色旗幟
 record_point_light_gray_banner 16 可記錄點的淺灰色旗幟
 record_point_blue_banner 16 可記錄點的藍色旗幟
-record_point_black_banner 16 可記錄點的黑色旗幟
-record_point_cyan_banner 16 可記錄點的青色旗幟
-record_point_light_blue_banner 16 可記錄點的淺藍色旗幟
+record_point_green_banner 16 可記錄點的綠色旗幟
 back_golden_apple 64 重生金蘋果
 back_gemstone 1 重生寶石
 back_gemstone_block 64 重生寶石方塊
