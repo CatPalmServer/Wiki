@@ -71,3 +71,13 @@
     <tr><td>顯示領地名稱</td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/></td><td><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/Q6VHCqU.png" width="400"/></td></tr>
     <tr><td>顯示死亡位置</td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/></td><td><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/GjOaJgW.png" width="400"/></td></tr>
 </table>
+
+### 顯示範圍
+<table>
+    <tr><td align="center">比例尺</td><td align="center">範圍</td><td align="center">畫面</td></tr>
+    <tr><td align="center">1:1</td><td align="center">8 x 8 區塊<br/>128 x 128 方塊</td><td><img src="https://i.imgur.com/vZJweBz.png" width="400"/></td></tr>
+    <tr><td align="center">1:2</td><td align="center">16 x 16 區塊<br/>256 x 256 方塊</td><td><img src="https://i.imgur.com/UatPjGc.png" width="400"/></td></tr>
+    <tr><td align="center">1:4</td><td align="center">32 x 32 區塊<br/>512 x 512 方塊</td><td><img src="https://i.imgur.com/QCS44Kc.png" width="400"/></td></tr>
+    <tr><td align="center">1:8</td><td align="center">64 x 64 區塊<br/>1024 x 1024 方塊</td><td><img src="https://i.imgur.com/xpr59Au.png" width="400"/></td></tr>
+    <tr><td align="center">1:16</td><td align="center">128 x 128 區塊<br/>2048 x 2048 方塊</td><td><img src="https://i.imgur.com/IxnctfU.png" width="400"/></td></tr>
+</table>
