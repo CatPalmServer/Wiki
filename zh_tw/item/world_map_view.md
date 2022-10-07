@@ -44,6 +44,9 @@
 ---
 
 ## 使用
+中心白色指針表示自身位置以及朝向方向<br/>
+<img src="https://i.imgur.com/MBPgw7T.png" width="100"/><br/>
+  
 在主手持有下**點擊滑鼠右鍵**可打開選單  
 <table>
     <tr><td align="center">標題</td><td colspan="9">彗星地圖</td></tr>
