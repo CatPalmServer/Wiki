@@ -21,9 +21,9 @@
     <td align="center">1:1</td>
     <td>
         <table>
-            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td colspan="3"></td></tr>
-            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/uikmIgx.gif" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td width="58" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="30"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="32"/></td><td width="58"></td></tr>
-            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td colspan="3"></td></tr>
+            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
+            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/uikmIgx.gif" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="48"/></td><td width="70"></td></tr>
+            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
         </table>
     </td>
 </tr>
@@ -31,9 +31,9 @@
     <td align="center">1:2<br/>1:4<br/>1:8<br/>1:16</td>
     <td>
         <table>
-            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td colspan="3"></td></tr>
-            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td width="58" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="30"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="32"/></td><td width="58"></td></tr>
-            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="32"/></td><td colspan="3"></td></tr>
+            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
+            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="48"/></td><td width="70"></td></tr>
+            <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
         </table>
         1:2 合成需要一張 1:1、1:8 合成需要一張 1:4，其他尺寸也使用相同概念。
     </td>
