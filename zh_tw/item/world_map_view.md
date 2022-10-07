@@ -1,6 +1,10 @@
+# 彗星地圖
+不是衛星！是彗星啦！彗！星！  
+躲貓貓禁品～把你的位置一覽無遺。
+
 ## 資料
 <table>
-<tr><td>圖像</td><td><img src="https://i.imgur.com/w5nzar8.png" width="256"/></td></tr>
+<tr><td>圖像</td><td><img src="https://i.imgur.com/w5nzar8.png" width="128"/></td></tr>
 <tr><td>空間</td><td><code>world_map_view</code></td></tr>
 <tr><td>翻譯</td><td><code>worldmapview.item.world_map_view</code></td></tr>
 <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/地图">地圖</a></td></tr>
@@ -12,7 +16,7 @@
   
 ## 合成
 <table>
-<tr><td><img src="https://i.imgur.com/hK44ttL.png" width="64"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="64"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="64"/></td><td colspan="3"></td></tr>
-<tr><td><img src="https://i.imgur.com/hK44ttL.png" width="64"/></td><td><img src="https://i.imgur.com/uikmIgx.gif" width="64"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="64"/></td><td width="80" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="64"/></td><td width="80"></td></tr>
-<tr><td><img src="https://i.imgur.com/hK44ttL.png" width="64"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="64"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="64"/></td><td colspan="3"></td></tr>
+<tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
+<tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/uikmIgx.gif" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="48"/></td><td width="70"></td></tr>
+<tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
 </table>
