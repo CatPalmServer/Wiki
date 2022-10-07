@@ -46,7 +46,7 @@
 在主手持有下**點擊滑鼠右鍵**可打開選單  
 <table>
     <tr><td align="center">標題</td><td colspan="9">彗星地圖</td></tr>
-    <tr><td rowspan="5" align="center">已儲存的紀錄點清單<br/>9 x 5</td><td><img src="https://i.imgur.com/HrWvLUg.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td rowspan="5" align="center"><a href="#已儲存的紀錄點清單">已儲存的紀錄點清單</a><br/>9 x 5</td><td><img src="https://i.imgur.com/HrWvLUg.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
