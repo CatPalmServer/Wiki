@@ -45,15 +45,18 @@
 ## 使用
 在主手持有下**點擊滑鼠右鍵**可打開選單  
 <table>
-    <tr><td align="center">標題</td><td colspan="9"><h2>彗星地圖</h2></td></tr>
-    <tr><td rowspan="5" align="center">已儲存的紀錄點清單</td><td><img src="https://i.imgur.com/HrWvLUg.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td align="center">標題</td><td colspan="9">彗星地圖</td></tr>
+    <tr><td rowspan="5" align="center">已儲存的紀錄點清單<br/>9 x 5</td><td><img src="https://i.imgur.com/HrWvLUg.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td align="center">配置</td><td><img src="https://i.imgur.com/IF6J0Yo.png" width="48"/></td><td><img src="https://i.imgur.com/2aGm2CI.png" width="48"/></td><td><img src="https://i.imgur.com/vptJPKO.png" width="48"/></td><td><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+    <tr><td align="center">顯示開關<br/>9 x 1</td><td><img src="https://i.imgur.com/fpiJrKm.png" width="48"/><br/><img src="https://i.imgur.com/IF6J0Yo.png" width="48"/></td><td><img src="https://i.imgur.com/RPdzB8B.png" width="48"/><br><img src="https://i.imgur.com/2aGm2CI.png" width="48"/></td><td><img src="https://i.imgur.com/HpOtzbL.png" width="48"/><br/><img src="https://i.imgur.com/vptJPKO.png" width="48"/></td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/><br/><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/><br/><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
 </table>
-全部啟用時
+
+### 已儲存的紀錄點清單
 <table>
-    <tr><td><img src="https://i.imgur.com/fpiJrKm.png" width="48"/></td><td><img src="https://i.imgur.com/RPdzB8B.png" width="48"/></td><td><img src="https://i.imgur.com/HpOtzbL.png" width="48"/></td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/></td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+    <tr><td>慣用手持彗星地圖</td><td><img src="https://i.imgur.com/Br7zuQC.png" width="512"/></td></tr>
+    <tr><td>對準記錄點旗幟稍下方右鍵</td><td><img src="https://i.imgur.com/WqttmNy.png" width="512"/>動作欄位響應"已記錄位置到彗星地圖中"表示成功</td></tr>
+    <tr><td>將顯示在地圖上<br/>可開啟選單切換顯示狀態或移除</td><td><img src="https://i.imgur.com/IFqzYqV.png" width="512"/></td></tr>
 </table>
