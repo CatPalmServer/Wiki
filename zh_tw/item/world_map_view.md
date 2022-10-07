@@ -46,5 +46,14 @@
 在主手持有下**點擊滑鼠右鍵**可打開選單  
 <table>
     <tr><td colspan="9">彗星地圖</td></tr>
-    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td><img src="https://i.imgur.com/HrWvLUg.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td><img src="https://i.imgur.com/IF6J0Yo.png" width="48"/></td><td><img src="https://i.imgur.com/2aGm2CI.png" width="48"/></td><td><img src="https://i.imgur.com/vptJPKO.png" width="48"/></td><td><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+</table>
+全部啟用時
+<table>
+    <tr><td><img src="https://i.imgur.com/fpiJrKm.png" width="48"/></td><td><img src="https://i.imgur.com/RPdzB8B.png" width="48"/></td><td><img src="https://i.imgur.com/HpOtzbL.png" width="48"/></td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/></td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
 </table>
