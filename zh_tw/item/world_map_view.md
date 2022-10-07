@@ -62,7 +62,7 @@
 最多可保存 45 個紀錄點座標，如果要加入紀錄點：
 <table>
     <tr><td>慣用手持彗星地圖</td><td><img src="https://i.imgur.com/Br7zuQC.png" width="720"/></td></tr>
-    <tr><td>對準記錄點旗幟稍下方按右鍵</td><td><img src="https://i.imgur.com/WqttmNy.png" width="720"/><br/>動作欄位響應"已記錄位置到彗星地圖中"表示成功</td></tr>
+    <tr><td>對準記錄點旗幟稍下方按右鍵</td><td><img src="https://i.imgur.com/WqttmNy.png" width="720"/><br/>動作欄位響應"已記錄位置到彗星地圖中"表示成功。</td></tr>
     <tr><td>保存的紀錄點將顯示在畫面內<br/>可開啟選單切換顯示狀態或移除</td><td><img src="https://i.imgur.com/IFqzYqV.png" width="720"/></td></tr>
 </table>
 
@@ -70,7 +70,7 @@
 <table>
     <tr><td align="center">功能</td><td align="center">啟用</td><td align="center">停用</td><td align="center">顯示</td></tr>
     <tr><td>全都沒啟用</td><td colspan="2"></td><td><img src="https://i.imgur.com/qtV5Ysg.png" width="400"/></td></tr>
-    <tr><td>顯示其他玩家</td><td><img src="https://i.imgur.com/fpiJrKm.png" width="48"/></td><td><img src="https://i.imgur.com/IF6J0Yo.png" width="48"/></td><td><img src="https://i.imgur.com/zZx0Eef.png" width="400"/><br/>不會顯示觀察者及具有隱形藥水效果的玩家</td></tr>
+    <tr><td>顯示其他玩家</td><td><img src="https://i.imgur.com/fpiJrKm.png" width="48"/></td><td><img src="https://i.imgur.com/IF6J0Yo.png" width="48"/></td><td><img src="https://i.imgur.com/zZx0Eef.png" width="400"/><br/>不會顯示觀察者及具有隱形藥水效果的玩家。</td></tr>
     <tr><td>顯示其他玩家名稱</td><td><img src="https://i.imgur.com/RPdzB8B.png" width="48"/></td><td><img src="https://i.imgur.com/2aGm2CI.png" width="48"/></td><td><img src="https://i.imgur.com/71ZkaNj.png" width="400"/></td></tr>
     <tr><td>顯示領地範圍</td><td><img src="https://i.imgur.com/HpOtzbL.png" width="48"/></td><td><img src="https://i.imgur.com/vptJPKO.png" width="48"/></td><td><img src="https://i.imgur.com/h7d99CK.png" width="400"/></td></tr>
     <tr><td>顯示領地名稱</td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/></td><td><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/Q6VHCqU.png" width="400"/></td></tr>
