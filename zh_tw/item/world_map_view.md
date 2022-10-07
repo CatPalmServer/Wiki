@@ -55,6 +55,7 @@
 </table>
 
 ### 已儲存的紀錄點清單
+最多可保存 45 個紀錄點座標，如果要加入紀錄點：
 <table>
     <tr><td>慣用手持彗星地圖</td><td><img src="https://i.imgur.com/Br7zuQC.png" width="720"/></td></tr>
     <tr><td>對準記錄點旗幟稍下方按右鍵</td><td><img src="https://i.imgur.com/WqttmNy.png" width="720"/><br/>動作欄位響應"已記錄位置到彗星地圖中"表示成功</td></tr>
