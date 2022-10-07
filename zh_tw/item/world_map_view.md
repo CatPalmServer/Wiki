@@ -74,7 +74,7 @@
 
 ### 顯示範圍
 <table>
-    <tr><td align="center">比例尺</td><td align="center">範圍</td><td align="center">畫面</td></tr>
+    <tr><td align="center">比例尺</td><td align="center">實際範圍</td><td align="center">畫面</td></tr>
     <tr><td align="center">1:1</td><td align="center">8 x 8 區塊<br/>128 x 128 方塊</td><td><img src="https://i.imgur.com/vZJweBz.png" width="400"/></td></tr>
     <tr><td align="center">1:2</td><td align="center">16 x 16 區塊<br/>256 x 256 方塊</td><td><img src="https://i.imgur.com/UatPjGc.png" width="400"/></td></tr>
     <tr><td align="center">1:4</td><td align="center">32 x 32 區塊<br/>512 x 512 方塊</td><td><img src="https://i.imgur.com/QCS44Kc.png" width="400"/></td></tr>
