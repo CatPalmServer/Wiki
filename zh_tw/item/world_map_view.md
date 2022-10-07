@@ -64,6 +64,7 @@
 ### 顯示開關
 <table>
     <tr><td align="center">功能</td><td align="center">啟用</td><td align="center">停用</td><td align="center">顯示</td></tr>
+    <tr><td>全都沒啟用</td><td colspan="2"></td><td><img src="https://i.imgur.com/uBdkWij.png" width="400"/></td></tr>
     <tr><td>顯示其他玩家</td><td><img src="https://i.imgur.com/fpiJrKm.png" width="48"/></td><td><img src="https://i.imgur.com/IF6J0Yo.png" width="48"/></td><td><img src="https://i.imgur.com/zZx0Eef.png" width="400"/></td></tr>
     <tr><td>顯示其他玩家名稱</td><td><img src="https://i.imgur.com/RPdzB8B.png" width="48"/></td><td><img src="https://i.imgur.com/2aGm2CI.png" width="48"/></td><td><img src="https://i.imgur.com/qtV5Ysg.png" width="400"/></td></tr>
     <tr><td>顯示領地範圍</td><td><img src="https://i.imgur.com/HpOtzbL.png" width="48"/></td><td><img src="https://i.imgur.com/vptJPKO.png" width="48"/></td><td><img src="https://i.imgur.com/71ZkaNj.png" width="400"/></td></tr>
