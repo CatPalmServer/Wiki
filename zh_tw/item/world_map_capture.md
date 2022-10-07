@@ -1,7 +1,6 @@
-# 彗星地圖
-不是衛星！是彗星啦！彗！星！  
-放在展示框內是沒有效果的、乖乖拿著吧。  
-躲貓貓禁品～把你的位置一覽無遺。
+# 擷取彗星地圖
+[彗星地圖](world_map_view.md)是一直移動的... 我要怎麼保存固定的畫面？  
+這不就來了嗎！  
 
 ## 資料
 <table>
@@ -18,11 +17,16 @@
 
 ## 合成
 <table>
-    <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
-    <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/uikmIgx.gif" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="48"/></td><td width="70"></td></tr>
-    <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
+    <tr><td><img src="https://i.imgur.com/m8hwGCr.png" width="48"/></td><td><img src="https://i.imgur.com/t8b3Mmf.png" width="48"/></td><td><img src="https://i.imgur.com/m8hwGCr.png" width="48"/></td><td colspan="3"></td></tr>
+    <tr><td><img src="https://i.imgur.com/qpOGxFz.png" width="48"/></td><td><img src="https://i.imgur.com/pCLeiw7.png" width="48"/></td><td><img src="https://i.imgur.com/KjNgrUk.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/Ix15Njd.png" width="48"/></td><td width="70"></td></tr>
+    <tr><td><img src="https://i.imgur.com/m8hwGCr.png" width="48"/></td><td><img src="https://i.imgur.com/Hk1cHf9.png" width="48"/></td><td><img src="https://i.imgur.com/m8hwGCr.png" width="48"/></td><td colspan="3"></td></tr>
 </table>
   
 ---
 
 ## 使用
+<table>
+    <tr><td>非慣用手持<a href="world_map_view">彗星地圖</a>＋<br>慣用手持擷取彗星地圖</td><td><img src="https://i.imgur.com/qWLveX2.png" width="720"/></td></tr>
+    <tr><td>按右鍵<br/>將當前<a href="world_map_view">彗星地圖</a>畫面保存成<a href="draw_map">彩繪畫布</a></td><td><img src="https://i.imgur.com/6NtJ5Ac.png" width="720"/></td></tr>
+    <tr><td>擷取的畫面不會再跟隨座標變動</td><td><img src="https://i.imgur.com/FgXn0dH.png" width="720"/></td></tr>
+</table>
