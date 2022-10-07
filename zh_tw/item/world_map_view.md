@@ -18,7 +18,7 @@
 ## 合成
 <table>
 <tr>
-    <td align="center"><h2>1:1</h2></td>
+    <td align="center">1:1</td>
     <td>
         <table>
             <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
@@ -28,7 +28,7 @@
     </td>
 </tr>
 <tr>
-    <td align="center"><h2>1:2<br/>1:4<br/>1:8<br/>1:16</h2></td>
+    <td align="center">1:2<br/>1:4<br/>1:8<br/>1:16</td>
     <td>
         <table>
             <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
@@ -38,4 +38,13 @@
         1:2 合成需要一張 1:1、1:8 合成需要一張 1:4，其他尺寸也使用相同概念。
     </td>
 </tr>
+</table>
+  
+---
+
+## 使用
+在主手持有下**點擊滑鼠右鍵**可打開選單  
+<table>
+    <tr><td colspan="9">彗星地圖</td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
