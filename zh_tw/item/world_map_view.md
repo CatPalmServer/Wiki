@@ -78,7 +78,7 @@
     <tr><td>顯示死亡位置</td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/></td><td><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/K6TqBrv.png" width="400"/></td></tr>
 </table>
 
-### 顯示範圍
+## 範圍
 <table>
     <tr><td align="center">比例尺</td><td align="center">實際範圍</td><td align="center">畫面</td></tr>
     <tr><td align="center">1:1</td><td align="center">8 x 8 區塊<br/>128 x 128 方塊</td><td><img src="https://i.imgur.com/vZJweBz.png" width="400"/></td></tr>
