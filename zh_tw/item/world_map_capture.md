@@ -30,6 +30,8 @@
     <tr><td>按右鍵<br/>將當前<a href="world_map_view.md">彗星地圖</a>畫面保存成<a href="draw_map.md">彩繪畫布</a></td><td><img src="https://i.imgur.com/6NtJ5Ac.png" width="720"/></td></tr>
     <tr><td>擷取的畫面不會再跟隨座標變動</td><td><img src="https://i.imgur.com/FgXn0dH.png" width="720"/></td></tr>
 </table>
+  
+---
 
 ## 支援
 <table>

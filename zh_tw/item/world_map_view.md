@@ -77,6 +77,8 @@
     <tr><td>顯示領地名稱</td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/></td><td><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/qywvSMk.png" width="400"/><br/>需要啟用"顯示領地範圍"。</td></tr>
     <tr><td>顯示死亡位置</td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/></td><td><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/K6TqBrv.png" width="400"/></td></tr>
 </table>
+  
+---
 
 ## 範圍
 <table>
