@@ -31,7 +31,7 @@
     <tr><td>擷取的畫面不會再跟隨座標變動</td><td><img src="https://i.imgur.com/FgXn0dH.png" width="720"/></td></tr>
 </table>
 
-### 支援
+## 支援
 <table>
     <tr><td align="center">世界渲染</td><td rowspan="2" align="center">可</td></tr>
     <tr><td align="center">世界邊界</td></tr>
