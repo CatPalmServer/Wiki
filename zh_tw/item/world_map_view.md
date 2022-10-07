@@ -17,7 +17,7 @@
 ## 合成
 <table>
 <tr>
-    <td align="center">1:1</td>
+    <td align="center"><h2>1:1</h2></td>
     <td>
         <table>
             <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
@@ -27,14 +27,14 @@
     </td>
 </tr>
 <tr>
-    <td align="center">1:2<br/>1:4<br/>1:8<br/>1:16</td>
+    <td align="center"><h2>1:2<br/>1:4<br/>1:8<br/>1:16</h2></td>
     <td>
         <table>
             <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
             <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/w5nzar8.png" width="48"/></td><td width="70"></td></tr>
             <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
         </table>
-       1:2 合成需要一張 1:1<br/>1:8 合成需要一張 1:4<br/>其他同理
+        1:2 合成需要一張 1:1、1:8 合成需要一張 1:4，其他尺寸也使用相同概念。
     </td>
 </tr>
 </table>
