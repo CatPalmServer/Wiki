@@ -33,10 +33,11 @@
 
 ## 支援
 <table>
-    <tr><td align="center">世界渲染</td><td rowspan="3" align="center">可</td></tr>
+    <tr><td rowspan="3" align="center">可</td><td align="center">世界渲染</td></tr>
     <tr><td align="center">世界邊界</td></tr>
     <tr><td align="center">領地範圍</td></tr>
-    <tr><td align="center">自身方向</td><td rowspan="3" align="center">不可</td></tr>
+    <tr><td rowspan="4" align="center">不可</td><td align="center">自身方向</td></tr>
     <tr><td align="center">玩家位置</td></tr>
     <tr><td align="center">紀錄點</td></tr>
+    <tr><td align="center">死亡位置</td></tr>
 </table>
