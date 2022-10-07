@@ -5,8 +5,14 @@
 <tr><td>翻譯</td><td><code>worldmapview.item.world_map_view</code></td></tr>
 <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/地图">地圖</a></td></tr>
 <tr><td>附魔</td><td>無</td></tr>
+<tr><td>新增</td><td><time datetime="2222-12-20">test</time></td></tr>
 </table>
   
-===
+---
   
 ## 合成
+<table>
+<tr><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2"></td></tr>
+</table>
