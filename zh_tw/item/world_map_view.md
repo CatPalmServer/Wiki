@@ -74,7 +74,7 @@
     <tr><td>顯示其他玩家名稱</td><td><img src="https://i.imgur.com/RPdzB8B.png" width="48"/></td><td><img src="https://i.imgur.com/2aGm2CI.png" width="48"/></td><td><img src="https://i.imgur.com/71ZkaNj.png" width="400"/><br/>需要啟用"顯示其他玩家"。</td></tr>
     <tr><td>顯示領地範圍</td><td><img src="https://i.imgur.com/HpOtzbL.png" width="48"/></td><td><img src="https://i.imgur.com/vptJPKO.png" width="48"/></td><td><img src="https://i.imgur.com/boIw2xo.png" width="400"/></td></tr>
     <tr><td>顯示領地名稱</td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/></td><td><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/qywvSMk.png" width="400"/><br/>需要啟用"顯示領地範圍"。</td></tr>
-    <tr><td>顯示死亡位置</td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/></td><td><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/GjOaJgW.png" width="400"/></td></tr>
+    <tr><td>顯示死亡位置</td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/></td><td><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/K6TqBrv.png" width="400"/></td></tr>
 </table>
 
 ### 顯示範圍
