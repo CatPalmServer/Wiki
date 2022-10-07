@@ -59,7 +59,7 @@
 <table>
     <tr><td>慣用手持彗星地圖</td><td><img src="https://i.imgur.com/Br7zuQC.png" width="720"/></td></tr>
     <tr><td>對準記錄點旗幟稍下方按右鍵</td><td><img src="https://i.imgur.com/WqttmNy.png" width="720"/><br/>動作欄位響應"已記錄位置到彗星地圖中"表示成功</td></tr>
-    <tr><td>保存紀錄點位置<br/>將顯示在畫面內<br/>可開啟選單切換顯示狀態或移除</td><td><img src="https://i.imgur.com/IFqzYqV.png" width="720"/></td></tr>
+    <tr><td>保存的紀錄點將顯示在畫面內<br/>可開啟選單切換顯示狀態或移除</td><td><img src="https://i.imgur.com/IFqzYqV.png" width="720"/></td></tr>
 </table>
 
 ### 顯示開關
