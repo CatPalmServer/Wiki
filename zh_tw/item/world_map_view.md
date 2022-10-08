@@ -92,6 +92,10 @@
     <tr><td>對準記錄點旗幟稍下方按右鍵</td><td><img src="https://i.imgur.com/WqttmNy.png" width="720"/><br/>動作欄位響應"已記錄位置到彗星地圖中"表示成功。</td></tr>
     <tr><td>保存的紀錄點將顯示在畫面內<br/>可開啟選單切換顯示狀態或移除</td><td><img src="https://i.imgur.com/IFqzYqV.png" width="720"/></td></tr>
 </table>
+紀錄點顯示與不顯示
+<table>
+    <tr><td><img src="https://i.imgur.com/9wUnLsH.png" width="400"/></td><td><img src="https://i.imgur.com/VnEXa8q.png" width="400"/></td></tr>
+</table>
 
 ### 顯示開關
 <table>
