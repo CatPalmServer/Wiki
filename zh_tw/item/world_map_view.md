@@ -94,6 +94,7 @@
 </table>
 紀錄點顯示與不顯示
 <table>
+    <tr><td align="center">顯示</td><td align="center">不顯示</td></tr>
     <tr><td><img src="https://i.imgur.com/9wUnLsH.png" width="400"/></td><td><img src="https://i.imgur.com/VnEXa8q.png" width="400"/></td></tr>
 </table>
 
