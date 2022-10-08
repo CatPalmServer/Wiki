@@ -49,7 +49,7 @@
     <tr><td><img src="https://i.imgur.com/YiEtv6S.png" width="32"/></td><td>自己</td></tr>
     <tr><td><img src="https://i.imgur.com/DynLEHZ.png" width="32"/></td><td>其他玩家</td></tr>
     <tr><td><img src="https://i.imgur.com/KutZ4EF.png" width="32"/></td><td>上次死亡</td></tr>
-    <tr><td><img src="https://i.imgur.com/eHl9Jv0.png" width="32"/></td><td>領地中心點</td></tr>
+    <tr><td><img src="https://i.imgur.com/eHl9Jv0.png" width="32"/></td><td>領地中心</td></tr>
     <tr><td><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td>綠林府邸</td></tr>
     <tr><td><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td>海底神殿</td></tr>
     <tr><td><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td>埋藏的寶藏</td></tr>
