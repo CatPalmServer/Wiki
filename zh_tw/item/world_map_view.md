@@ -74,7 +74,7 @@
 ---
 
 ## 使用
-在慣用手持有彗星地圖時點擊右鍵可打開選單  
+在慣用手持彗星地圖時點擊右鍵可打開選單  
 <table>
     <tr><td align="center">標題</td><td colspan="9">彗星地圖</td></tr>
     <tr><td rowspan="5" align="center"><a href="#已儲存的紀錄點清單">已儲存的紀錄點清單</a><br/>9 x 5</td><td><img src="https://i.imgur.com/HrWvLUg.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
