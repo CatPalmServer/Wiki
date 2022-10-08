@@ -41,13 +41,39 @@
     </td>
 </tr>
 </table>
+
+---
+
+## 圖示
+<table>
+    <tr><td><img src="https://i.imgur.com/YiEtv6S.png" width="32"/></td><td>自己</td></tr>
+    <tr><td><img src="https://i.imgur.com/DynLEHZ.png" width="32"/></td><td>其他玩家</td></tr>
+    <tr><td><img src="https://i.imgur.com/KutZ4EF.png" width="32"/></td><td>上次死亡</td></tr>
+    <tr><td><img src="https://i.imgur.com/eHl9Jv0.png" width="32"/></td><td>領地中心點</td></tr>
+    <tr><td><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td>綠林府邸</td></tr>
+    <tr><td><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td>海底神殿</td></tr>
+    <tr><td><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td>埋藏的寶藏</td></tr>
+    <tr><td><img src="https://i.imgur.com/am90YJk.png" width="32"/></td><td rowspan="16">紀錄點</td></tr>
+    <tr><td><img src="https://i.imgur.com/fzle1wS.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/TiF8FjY.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/j3vzW8E.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/5Y1w0tr.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/LBL6ozy.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/yfJvb4v.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/P8ehHAI.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/Juq8YRP.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/zmvi2Fl.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/elPVGhz.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/1L2c9qf.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/VY2bAGB.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/VUm0Hgy.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/W4oCy8A.png" width="32"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/zjSYEn2.png" width="32"/></td></tr>
+</table>
   
 ---
 
 ## 使用
-中心白色指針表示自身位置以及朝向方向<br/>
-<img src="https://i.imgur.com/MBPgw7T.png" width="100"/><br/>
-  
 在主手持有下**點擊滑鼠右鍵**可打開選單  
 <table>
     <tr><td align="center">標題</td><td colspan="9">彗星地圖</td></tr>
