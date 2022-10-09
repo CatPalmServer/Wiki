@@ -9,7 +9,7 @@
     <tr><td>翻譯</td><td><code>worldmapview.item.capture_world_map_view</code></td></tr>
     <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/時鐘">時鐘</a></td></tr>
     <tr><td>堆疊</td><td>64</td></tr>
-    <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/杂项配方">雜項</a></td></tr>
+    <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
     <tr><td>附魔</td><td>無</td></tr>
     <tr><td>新增</td><td>2020-07-10</td></tr>
 </table>
