@@ -26,9 +26,9 @@
 
 ## 使用
 <table>
-    <tr><td></td><td><img src="https://i.imgur.com/OfuTr8T.png" width="720"/></td></tr>
+    <tr><td>更改前</td><td><img src="https://i.imgur.com/OfuTr8T.png" width="720"/></td></tr>
     <tr><td>在<a href="https://minecraft.fandom.com/zh/wiki/鐵砧">鐵砧</a>改成想要的暱稱</td><td><img src="https://i.imgur.com/kaBHSxn.png" width="720"/></td></tr>
-    <tr><td>完成</td><td><img src="https://i.imgur.com/QfU8njF.png" width="720"/></td></tr>
+    <tr><td>更改後</td><td><img src="https://i.imgur.com/QfU8njF.png" width="720"/></td></tr>
 </table>
   
 ---
