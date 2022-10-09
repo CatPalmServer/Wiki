@@ -42,7 +42,7 @@
     <tr><td align="center">有</td><td align="center">xuancat0208✓</td><td align="center">旋(xuancat0208)✓</td></tr>
 </table>
 
-區分大小寫，且特定字符將會被轉換成 "_"(底線)：
+區分大小寫，且特定字符將會被轉換成 `_`*(底線)*：
 <table>
     <tr><td align="center">字符</td><td align="center">名稱</td><td align="center">統一碼</td></tr>
     <tr><td align="center">&ensp;</td><td align="center">半型空格</td><td align="center">u+0020</td></tr>
@@ -59,8 +59,9 @@
     <tr><td align="center">✓</td><td align="center">打勾</td><td align="center">u+2713</td></tr>
 </table>
 
-例如 "I=M~C@M e" 在更改為暱稱時會變為 "I_M~C_M_e"，  
-且全伺服器相同暱稱只能有一個：
+例如 `I=M~C@M e` 變為 `I_M~C_M_e`。 
+
+全伺服器相同暱稱只能有一個：
 
 <table>
     <tr><td align="center">已被ID使用</td><td align="center">已被暱稱使用</td><td align="center">可以更改</td></tr>
