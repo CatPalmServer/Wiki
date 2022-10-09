@@ -28,8 +28,9 @@
 <table>
     <tr><td>更改前</td><td><img src="https://i.imgur.com/OfuTr8T.png" width="720"/></td></tr>
     <tr><td>在<a href="https://minecraft.fandom.com/zh/wiki/鐵砧">鐵砧</a>改成想要的暱稱</td><td><img src="https://i.imgur.com/kaBHSxn.png" width="720"/></td></tr>
-    <tr><td>更改後</td><td><img src="https://i.imgur.com/QfU8njF.png" width="720"/></td></tr>
+    <tr><td>喝下去</td><td><img src="https://i.imgur.com/QfU8njF.png" width="720"/><br/>改名牛奶將被消耗。</td></tr>
 </table>
+如果暱稱已被占用導致不可更改，會返還消耗的改名牛奶。
   
 ---
 
