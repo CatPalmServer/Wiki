@@ -35,7 +35,7 @@
 ---
 
 ## 顯示
-在伺服器內的任何地方都會優先顯示暱稱，如果暱稱與ID一樣則只會顯示ID：
+在任何地方都優先顯示暱稱，暱稱與ID一樣則只會顯示ID：
 <table>
     <tr><td align="center">手機認證</td><td align="center">暱稱與ID一樣</td><td align="center">暱稱與ID不一樣</td></tr>
     <tr><td align="center">沒有</td><td align="center">xuancat0208</td><td align="center">旋(xuancat0208)</td></tr>
