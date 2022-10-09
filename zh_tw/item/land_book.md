@@ -47,4 +47,4 @@
 ---
 
 ## 使用
-新用法開發中，請先參考[舊Wiki說明](ttps://github.com/CatPalmServer/Wiki/wiki/領地群組之書)
+新用法開發中，請先參考[舊Wiki說明](https://github.com/CatPalmServer/Wiki/wiki/領地群組之書)
