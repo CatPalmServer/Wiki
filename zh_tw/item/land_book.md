@@ -51,9 +51,15 @@
 ### 啟用領地群組之書
 
 <table>
-    <tr><td>慣用手持領地群組之書</td><td><img src="https://i.imgur.com/ItNsPkR.png" width="720"/></td></tr>
+    <tr><td>慣用手持已啟用的領地群組之書</td><td><img src="https://i.imgur.com/ItNsPkR.png" width="720"/></td></tr>
     <tr><td>按右鍵</td><td><img src="https://i.imgur.com/QRD1SKh.png" width="720"/><br/>外觀改變表示成功。</td></tr>
     <tr><td>可打開編輯權限</td><td><img src="https://i.imgur.com/qSpACsq.png" width="720"/></td></tr>
 </table>
 
 ### 將領地群組寫入[領地產生器](land_block.md)
+
+<table>
+    <tr><td>慣用手持已啟用的領地群組之書<br/>並對準<a href="land_block.md">領地產生器</a></td><td><img src="https://i.imgur.com/ItNsPkR.png" width="720"/></td></tr>
+    <tr><td>按右鍵</td><td><img src="https://i.imgur.com/QRD1SKh.png" width="720"/><br/>外觀改變表示成功。</td></tr>
+    <tr><td>可打開編輯權限</td><td><img src="https://i.imgur.com/qSpACsq.png" width="720"/></td></tr>
+</table>
