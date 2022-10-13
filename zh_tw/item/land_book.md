@@ -1,5 +1,6 @@
 # 領地群組之書
-保護好自己的家當，避免遭小偷。而且苦力怕還炸不壞～真是太棒了～
+保護好自己的家當，避免遭小偷。而且苦力怕還炸不壞～真是太棒了～  
+可以綁定無限個[領地產生器](land_block.md)！
 
 ## 資料
 <table>
@@ -47,4 +48,12 @@
 ---
 
 ## 使用
-新用法開發中，請先參考[舊Wiki說明](https://github.com/CatPalmServer/Wiki/wiki/領地群組之書)
+### 啟用領地群組之書
+
+<table>
+    <tr><td>慣用手持領地群組之書</td><td><img src="https://i.imgur.com/ItNsPkR.png" width="720"/></td></tr>
+    <tr><td>按右鍵</td><td><img src="https://i.imgur.com/QRD1SKh.png" width="720"/><br/>外觀改變表示成功。</td></tr>
+    <tr><td>可打開編輯權限</td><td><img src="https://i.imgur.com/qSpACsq.png" width="720"/></td></tr>
+</table>
+
+### 將領地群組寫入[領地產生器](land_block.md)
