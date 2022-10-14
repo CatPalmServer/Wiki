@@ -49,7 +49,7 @@
 
 ## 使用
 ### 啟用領地群組之書
-慣用手持未啟用的 <img src="https://i.imgur.com/Vj4LxUG.png" width="32"/> 按右鍵，會變成已啟用的 <img src="https://i.imgur.com/duGvD3y.png" width="32"/>  
+慣用手持未啟用的 <img src="https://i.imgur.com/Vj4LxUG.png" width="16"/> 按右鍵，會變成已啟用的 <img src="https://i.imgur.com/duGvD3y.png" width="16"/>  
 可打開編輯權限  
 <img src="https://i.imgur.com/qSpACsq.png" width="720"/>
 
