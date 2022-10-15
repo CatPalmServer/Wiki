@@ -48,9 +48,57 @@
 ---
 
 ## 使用
-### 啟用領地群組之書
-慣用手持未啟用的 <img src="https://i.imgur.com/Vj4LxUG.png" width="32"/> 按右鍵，會變成已啟用的 <img src="https://i.imgur.com/duGvD3y.png" width="32"/>  
-可打開編輯權限  
-<img src="https://i.imgur.com/qSpACsq.png" width="720"/>
+### 創建一個新的領地群組
+慣用手持未啟用的 <img src="https://i.imgur.com/Vj4LxUG.png" width="32"/> 按右鍵，會變成已啟用的 <img src="https://i.imgur.com/duGvD3y.png" width="32"/>
 
-### 將領地群組寫入[領地產生器](land_block.md)
+### 將領地群組寫入[領地產生器](land_block.md)內
+
+
+### 編輯領地群組的權限
+預設內容
+<table>
+    <tr>
+        <td>
+第 1 頁
+        </td>
+        <td>
+#最大限制200名玩家<br/>
+#格式:<br/>
+#  玩家名稱=權限清單<br/>
+#權限:<br/>
+#  A 盔甲座<br/>
+#  B 船<br/>
+#  D 破壞方塊<br/>
+#  E 實體互動<br/>
+#  F 展示框<br/>
+#  G 畫框<br/>
+#  H 傷害實體<br/>
+#  I 方塊互動<br/>
+#  L 閱讀講座書<br/>
+#  M 礦車
+        </td>
+    </tr>
+    <tr>
+        <td>
+第 2 頁
+        </td>
+        <td>
+#  P 放置方塊<br/>
+#  R 擁有者<br/>
+#  S 生成實體<br/>
+#  T 觸發機關<br/>
+#  U 水桶<br/>
+#  V PVP<br/>
+#  Y 飛行
+        </td>
+    </tr>
+    <tr>
+        <td>
+第 3 頁
+        </td>
+        <td>
+(ALL)=<br/>
+你的暱稱=ABDEFGHILMPRSTUVY
+        </td>
+    </tr>
+</table>
