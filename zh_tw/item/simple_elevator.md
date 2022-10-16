@@ -78,5 +78,5 @@
 
 <table>
     <tr><td align="center">有效</td><td align="center">無效</td></tr>
-    <tr><td><img src="https://i.imgur.com/3fOeV1n.png" width="480"/><img src="https://i.imgur.com/b2QOaTl.png" width="480"/></td><td><img src="https://i.imgur.com/JYYtFGz.png" width="480"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/3fOeV1n.png" width="360"/><img src="https://i.imgur.com/b2QOaTl.png" width="360"/></td><td><img src="https://i.imgur.com/JYYtFGz.png" width="360"/></td></tr>
 </table>
