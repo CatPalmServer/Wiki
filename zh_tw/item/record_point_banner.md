@@ -37,11 +37,17 @@
 ---
 
 ## 使用
-
+### 放置
 <table>
     <tr><td>慣用手持可記錄點的旗幟</td><td><img src="https://i.imgur.com/52EUanE.png" width="720"/></td></tr>
     <tr><td>按右鍵放置在地上</td><td><img src="https://i.imgur.com/d75pfRW.png" width="720"/></td></tr>
 </table>
 
-名稱已經被使用：  
+放置失敗會返還可記錄點的旗幟，並且提示錯誤訊息。
 <img src="https://i.imgur.com/ReA6Rmh.png" width="720"/>
+
+### 拆除
+<table>
+    <tr><td>可記錄點旗幟稍下方點右鍵</td><td><img src="https://i.imgur.com/VpmFGc9.png" width="720"/></td></tr>
+    <tr><td>拆卸成功</td><td><img src="https://i.imgur.com/bUzBSRy.png" width="720"/></td></tr>
+</table>
