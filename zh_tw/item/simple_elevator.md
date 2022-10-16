@@ -77,6 +77,6 @@
 電梯上方要空兩格非固體方塊，否則將無法傳送：
 
 <table>
-    <tr><td align="center">有效</td><td><img src="https://i.imgur.com/3fOeV1n.png" width="360"/> <img src="https://i.imgur.com/b2QOaTl.png" width="360"/></td></tr>
+    <tr><td align="center">有效</td><td><img src="https://i.imgur.com/3fOeV1n.png" width="360"/><img src="https://i.imgur.com/b2QOaTl.png" width="360"/></td></tr>
     <tr><td align="center">無效</td><td><img src="https://i.imgur.com/JYYtFGz.png" width="360"/></td></tr>
 </table>
