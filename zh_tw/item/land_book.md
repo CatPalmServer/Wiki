@@ -64,6 +64,13 @@
 能量點轉換公式
 
 <table>
+    <tr><td align="center">能量程度</td><td align="center">獲得點數</td></tr>
+    <tr><td align="center">小</td><td align="center">1</td></tr>
+    <tr><td align="center">中</td><td align="center">9</td></tr>
+    <tr><td align="center">大</td><td align="center">81</td></tr>
+</table>
+
+<table>
     <tr><td align="center">沒有四層滿</td><td><code>區塊半徑</code>=<code>無條件進位</code>(<code>平方根</code>(<code>總點數</code>)/<code>2</code>)-<code>1</code></td></tr>
     <tr><td align="center">四層滿</td><td><code>區塊半徑</code>=<code>無條件進位</code>(<code>平方根</code>(<code>總點數</code>x<code>1.2</code>)/<code>2</code>)-<code>1</code></td></tr>
 </table>
