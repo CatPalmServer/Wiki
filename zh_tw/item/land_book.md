@@ -49,7 +49,7 @@
 
 ## 使用
 ### 創建新的
-慣用手持未啟用的領地群組之書按右鍵，會變成已啟用的領地群組之書
+慣用手持未啟用的領地群組之書按右鍵，會變成已啟用的領地群組之書。
 
 ### 產生領地
 慣用手持已啟用的領地群組之書對準[領地產生器](land_block.md)右鍵，可以寫入。  
@@ -75,7 +75,13 @@
     <tr><td align="center">四層滿</td><td><code>區塊半徑</code>=<code>無條件進位</code>(<code>平方根</code>(<code>總點數</code>x<code>1.2</code>)/<code>2</code>)-<code>1</code></td></tr>
 </table>
 
-實際面積為`總區塊面積`=`平方`(`區塊半徑`+`1`+`區塊半徑`)
+實際面積為`總區塊面積`=`平方`(`區塊半徑`+`1`+`區塊半徑`)  
+不會覆蓋比自己還早搶佔的領地  
+
+<table>
+    <tr><td><img src="https://i.imgur.com/V14hTPU.png" width="400"/></td><td><img src="https://i.imgur.com/TontIj2.png" width="400"/></td></tr>
+</table>
+
 
 ### 獲取領地
 如果不慎遺失了唯一的已啟用的領地群組之書，依然有方法取回。  
