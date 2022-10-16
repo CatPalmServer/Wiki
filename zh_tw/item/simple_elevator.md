@@ -69,14 +69,14 @@
 <img src="https://i.imgur.com/TCQMFr7.png" width="720"/>
 
 <table>
-    <tr><td align="center">蹲下</td><td align="center">前往下方的電梯</td></tr>
     <tr><td align="center">跳躍</td><td align="center">前往上方的電梯</td></tr>
+    <tr><td align="center">蹲下</td><td align="center">前往下方的電梯</td></tr>
 </table>
 
-沒有高度限制，移動越遠距離耗費的飽食度越多。  
+沒有高度限制，移動距離越遠耗費的飽食度越多。  
 電梯上方要空兩格非固體方塊，否則將無法傳送：
 
 <table>
-    <tr><td align="center">有效</td><td align="center">無效</td></tr>
-    <tr><td><img src="https://i.imgur.com/3fOeV1n.png" width="360"/><img src="https://i.imgur.com/b2QOaTl.png" width="360"/></td><td><img src="https://i.imgur.com/JYYtFGz.png" width="360"/></td></tr>
+    <tr><td align="center">有效</td><td><img src="https://i.imgur.com/3fOeV1n.png" width="360"/> <img src="https://i.imgur.com/b2QOaTl.png" width="360"/></td></tr>
+    <tr><td align="center">無效</td><td><img src="https://i.imgur.com/JYYtFGz.png" width="360"/></td></tr>
 </table>
