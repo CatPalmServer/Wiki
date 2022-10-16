@@ -24,3 +24,4 @@
 <a href="item/random_transfer.md"><img src="https://i.imgur.com/xv4Ph4E.png" width="48"/></a>
 <a href="item/invite_transfer_gemstone.md"><img src="https://i.imgur.com/4zxLVnc.png" width="48"/></a>
 <a href="item/exchange_record_gemstone.md"><img src="https://i.imgur.com/B0iK4sj.png" width="48"/></a>
+<a href="item/barter_menu.md"><img src="https://i.imgur.com/kUN6gyv.png" width="48"/></a>
