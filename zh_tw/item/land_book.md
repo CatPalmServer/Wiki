@@ -66,7 +66,7 @@
 
 ### 群組之書
 第一、二頁為說明，第三頁開始`(ALL)=`及全部[權限](#權限)，格式為`玩家=權限清單`。  
-玩家可以是暱稱或名稱，但編輯完成後一律自動轉換為暱稱。
+玩家可以是暱稱或名稱，但編輯完成後一律自動轉換為[暱稱](rename_milk.md)。
 ```yaml
 #最大限制200名玩家
 #格式:
@@ -94,7 +94,18 @@
 ```
 ```yaml
 (ALL)=
-旋=ABDEFGHILMPRSTUVY
+你的玩家暱稱=ABDEFGHILMPRSTUVY
+```
+如果想讓全部玩家都能飛行  
+```yaml
+(ALL)=Y
+你的玩家暱稱=ABDEFGHILMPRSTUVY
+```
+如果想讓 I_PLAYER 玩家擁有全部的權限  
+```yaml
+(ALL)=
+你的玩家暱稱=ABDEFGHILMPRSTUVY
+I_PLAYER=ABDEFGHILMPRSTUVY
 ```
 
 ---
@@ -109,9 +120,9 @@
 - ### E 實體互動
   [實體](https://minecraft.fandom.com/zh/wiki/動物)的餵食
 - ### F 展示框
-  [展示框](https://minecraft.fandom.com/zh/wiki/展示框)的放置、傷害、換物、旋轉
+  [物品展示框](https://minecraft.fandom.com/zh/wiki/物品展示框)的放置、傷害、換物、旋轉
 - ### G 畫框
-  [畫框](https://minecraft.fandom.com/zh/wiki/畫框)的放置、傷害
+  [畫](https://minecraft.fandom.com/zh/wiki/畫)的放置、傷害
 - ### H 傷害實體
   [實體](https://minecraft.fandom.com/zh/wiki/實體)的損傷  
   ※ 僅保護在領地內誕生的動物
@@ -121,14 +132,14 @@
   [告示牌](https://minecraft.fandom.com/zh/wiki/告示牌)的梗改  
   [音階盒](https://minecraft.fandom.com/zh/wiki/音階盒)的調整
 - ### L 閱讀講座書
-  [講座書](https://minecraft.fandom.com/zh/wiki/講座書)的閱覽
+  [講台](https://minecraft.fandom.com/zh/wiki/講台)的閱覽
 - ### M 礦車
   [船](https://minecraft.fandom.com/zh/wiki/船)的放置、傷害、乘坐
 - ### P 放置方塊
   [方塊](https://minecraft.fandom.com/zh/wiki/方塊)的放置
 - ### R 擁有者
   [領地產生器](land_block.md)的寫入、拆除  
-  [更改領地權限](land_flying_device.md)  
+  更改領地權限
   領地能量的放置、拆除
 - ### S 生成實體
   [生怪蛋](https://minecraft.fandom.com/zh/wiki/生怪蛋)的使用  
@@ -137,9 +148,10 @@
 - ### T 觸發機關
   [絆線鉤](https://minecraft.fandom.com/zh/wiki/絆線鉤)的觸發  
   [陷阱儲物箱](https://minecraft.fandom.com/zh/wiki/陷阱儲物箱)的使用  
-  [壓力版](https://minecraft.fandom.com/zh/wiki/壓力版)的觸發
+  [壓力板](https://minecraft.fandom.com/zh/wiki/壓力板)的觸發
 - ### U 水桶
-  [水桶](https://minecraft.fandom.com/zh/wiki/水桶)的使用
+  [水桶](https://minecraft.fandom.com/zh/wiki/水桶)的使用  
+  [熔岩桶](https://minecraft.fandom.com/zh/wiki/熔岩桶)的使用
 - ### V PVP
   [玩家](https://minecraft.fandom.com/zh/wiki/玩家)的損傷
 - ### Y 飛行
