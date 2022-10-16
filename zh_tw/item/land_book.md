@@ -64,7 +64,7 @@
 能量點轉換公式
 
 <table>
-    <tr><td align="center">能量程度</td><td align="center">獲得點數</td></tr>
+    <tr><td align="center">能量</td><td align="center">點數</td></tr>
     <tr><td align="center">小</td><td align="center">1</td></tr>
     <tr><td align="center">中</td><td align="center">9</td></tr>
     <tr><td align="center">大</td><td align="center">81</td></tr>
