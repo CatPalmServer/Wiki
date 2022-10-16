@@ -54,7 +54,6 @@
 ### 產生領地
 慣用手持已啟用的領地群組之書對準[領地產生器](land_block.md)右鍵，可以寫入。  
 如果[領地產生器](land_block.md)已經被寫入，需要先拆除才可重新使用。
-法
 
 ### 獲取領地
 如果不慎遺失了唯一的已啟用的領地群組之書，依然有方法取回。  
@@ -62,10 +61,12 @@
 
 ### 更改名稱
 將已啟用的領地群組之書在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)改成想要的名稱，領地群組的名稱會跟著改變。  
+可輸入最多36個任意字元。  
 由於快取機制，部份分流需要等待最久30秒新名稱才會生效。
 
 ### 群組之書
-預設內容
+第一、二頁為說明，第三頁開始`(ALL)=`及全部[權限](#權限)，格式為`玩家=權限清單`。  
+玩家可以是暱稱或名稱，但編輯完成後一律自動轉換為暱稱。
 ```yaml
 #最大限制200名玩家
 #格式:
@@ -81,6 +82,8 @@
 #  I 方塊互動
 #  L 閱讀講座書
 #  M 礦車
+```
+```yaml
 #  P 放置方塊
 #  R 擁有者
 #  S 生成實體
@@ -88,6 +91,8 @@
 #  U 水桶
 #  V PVP
 #  Y 飛行
+```
+```yaml
 (ALL)=
 旋=ABDEFGHILMPRSTUVY
 ```
@@ -95,3 +100,47 @@
 ---
 
 ## 權限
+- ### A 盔甲座
+  [盔甲座](https://minecraft.fandom.com/zh/wiki/盔甲座)的放置、傷害、換裝
+- ### B 船
+  [船](https://minecraft.fandom.com/zh/wiki/船)的放置、傷害、乘坐
+- ### D 破壞方塊
+  [方塊](https://minecraft.fandom.com/zh/wiki/方塊)的破壞
+- ### E 實體互動
+  [實體](https://minecraft.fandom.com/zh/wiki/動物)的餵食
+- ### F 展示框
+  [展示框](https://minecraft.fandom.com/zh/wiki/展示框)的放置、傷害、換物、旋轉
+- ### G 畫框
+  [畫框](https://minecraft.fandom.com/zh/wiki/畫框)的放置、傷害
+- ### H 傷害實體
+  [實體](https://minecraft.fandom.com/zh/wiki/實體)的損傷  
+  ※ 僅保護在領地內誕生的動物
+- ### I 方塊互動
+  [儲物箱](https://minecraft.fandom.com/zh/wiki/儲物箱)的使用  
+  [烽火台](https://minecraft.fandom.com/zh/wiki/烽火台)的使用  
+  [告示牌](https://minecraft.fandom.com/zh/wiki/告示牌)的梗改  
+  [音階盒](https://minecraft.fandom.com/zh/wiki/音階盒)的調整
+- ### L 閱讀講座書
+  [講座書](https://minecraft.fandom.com/zh/wiki/講座書)的閱覽
+- ### M 礦車
+  [船](https://minecraft.fandom.com/zh/wiki/船)的放置、傷害、乘坐
+- ### P 放置方塊
+  [方塊](https://minecraft.fandom.com/zh/wiki/方塊)的放置
+- ### R 擁有者
+  [領地產生器](land_block.md)的寫入、拆除  
+  [更改領地權限](land_flying_device.md)  
+  領地能量的放置、拆除
+- ### S 生成實體
+  [生怪蛋](https://minecraft.fandom.com/zh/wiki/生怪蛋)的使用  
+  [友善生物收納繩](amiability_rope.md)的使用  
+  [邪惡生物收納繩](malicious_rope.md)的使用
+- ### T 觸發機關
+  [絆線鉤](https://minecraft.fandom.com/zh/wiki/絆線鉤)的觸發  
+  [陷阱儲物箱](https://minecraft.fandom.com/zh/wiki/陷阱儲物箱)的使用  
+  [壓力版](https://minecraft.fandom.com/zh/wiki/壓力版)的觸發
+- ### U 水桶
+  [水桶](https://minecraft.fandom.com/zh/wiki/水桶)的使用
+- ### V PVP
+  [玩家](https://minecraft.fandom.com/zh/wiki/玩家)的損傷
+- ### Y 飛行
+  領地內可使用[領地飛行鞘翅](land_flying_device.md)
