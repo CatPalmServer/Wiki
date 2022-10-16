@@ -37,12 +37,11 @@
 ---
 
 ## 使用
-右鍵可將旗幟名稱的傳送點放置在地上，如果此名稱在伺服器已被使用會放置失敗：
 
 <table>
     <tr><td>慣用手持可記錄點的旗幟</td><td><img src="https://i.imgur.com/52EUanE.png" width="720"/></td></tr>
-    <tr><td>按右鍵</td><td><img src="https://i.imgur.com/d75pfRW.png" width="720"/></td></tr>
-    <tr><td colspan="2" height="20"></td></tr>
-    <tr><td>名稱已經被使用</td><td><img src="https://i.imgur.com/ReA6Rmh.png" width="720"/></td></tr>
+    <tr><td>按右鍵放置在地上</td><td><img src="https://i.imgur.com/d75pfRW.png" width="720"/></td></tr>
 </table>
 
+名稱已經被使用：  
+<img src="https://i.imgur.com/ReA6Rmh.png" width="720"/>
