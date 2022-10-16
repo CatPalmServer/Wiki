@@ -53,7 +53,13 @@
 慣用手持未啟用的領地群組之書按右鍵，會變成已啟用的領地群組之書。
 
 ### 產生領地
-慣用手持已啟用的領地群組之書對準[領地產生器](land_block.md)右鍵，可以寫入。  
+慣用手持已啟用的領地群組之書對準[領地產生器](land_block.md)右鍵，可以寫入。
+
+<table>
+    <tr><td align="center">未寫入</td><td align="center">已寫入</td></tr>
+    <tr><td><img src="https://i.imgur.com/x9meQTF.png" width="400"/></td><td><img src="https://i.imgur.com/h2Kovir.png" width="400"/></td></tr>
+</table>
+
 如果[領地產生器](land_block.md)已經被寫入，需要先拆除才可重新使用， 領地的擺法與[烽火台](https://minecraft.fandom.com/zh/wiki/烽火台)相同：  
 
 <img src="https://i.imgur.com/nW7GC4b.png" width="720"/>  
@@ -79,7 +85,7 @@
 不會覆蓋比自己還早搶佔的領地  
 
 <table>
-    <tr><td><img src="https://i.imgur.com/V14hTPU.png" width="400"/></td><td><img src="https://i.imgur.com/TontIj2.png" width="400"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/THNRtuf.png" width="400"/></td><td><img src="https://i.imgur.com/C4waK6f.png" width="400"/></td></tr>
 </table>
 
 
