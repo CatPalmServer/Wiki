@@ -55,6 +55,18 @@
 慣用手持已啟用的領地群組之書對準[領地產生器](land_block.md)右鍵，可以寫入。  
 如果[領地產生器](land_block.md)已經被寫入，需要先拆除才可重新使用。  
 領地的擺法與[烽火台](https://minecraft.fandom.com/zh/wiki/烽火台)相同，
+<img src="https://i.imgur.com/nW7GC4b.png" width="720"/>  
+頂層方塊為[領地產生器](land_block.md)  
+下四層可以是[領地小能量](land_energy_small.md)、[領地中能量](land_energy_medium.md)、[領地大能量](land_energy_big.md)  
+只要放滿四層可以獲得額外+20%能量點  
+能量點轉換公式
+
+<table>
+    <tr><td align="center">沒有四層滿</td><td><code>區塊半徑</code>=<code>無條件進位</code>(<code>平方根</code>(<code>總點數</code>)/<code>2</code>)-<code>1</code></td></tr>
+    <tr><td align="center">四層滿</td><td><code>區塊半徑</code>=<code>無條件進位</code>(<code>平方根</code>(<code>總點數</code>x<code>1.2</code>)/<code>2</code>)-<code>1</code></td></tr>
+</table>
+
+實際面積為`總區塊面積`=`平方`(`區塊半徑`+`1`+`區塊半徑`)
 
 ### 獲取領地
 如果不慎遺失了唯一的已啟用的領地群組之書，依然有方法取回。  
