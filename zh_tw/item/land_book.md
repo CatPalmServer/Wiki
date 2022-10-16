@@ -96,17 +96,29 @@
 (ALL)=
 你的玩家暱稱=ABDEFGHILMPRSTUVY
 ```
-如果想讓全部玩家都能飛行  
+
+讓全部玩家都能飛行：  
 ```yaml
 (ALL)=Y
 你的玩家暱稱=ABDEFGHILMPRSTUVY
 ```
-如果想讓 I_PLAYER 玩家擁有全部的權限  
+讓 I_PLAYER 玩家擁有全部的權限：  
 ```yaml
 (ALL)=
 你的玩家暱稱=ABDEFGHILMPRSTUVY
 I_PLAYER=ABDEFGHILMPRSTUVY
 ```
+
+每行的第一個字符為 `#` 表示為註解並不參與內容  
+例如將下方行
+```yaml
+(ALL)=A
+```
+註解掉
+```yaml
+#(ALL)=A
+```
+更新後此行會自行消失
 
 ---
 
