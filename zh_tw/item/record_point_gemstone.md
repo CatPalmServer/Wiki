@@ -26,4 +26,8 @@
 ---
 
 ## 使用
-在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與[旗幟](https://minecraft.fandom.com/zh/wiki/旗幟)可以和成[可記錄點的旗幟](record_point_banner.md)
+在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與[旗幟](https://minecraft.fandom.com/zh/wiki/旗幟)可做出[可記錄點的旗幟](record_point_banner.md)：  
+
+<table>
+    <tr><td><img src="https://i.imgur.com/iID0QLv.png" width="320"/></td><td><img src="https://i.imgur.com/TDoCrxk.png" width="320"/></td></tr>
+</table>
