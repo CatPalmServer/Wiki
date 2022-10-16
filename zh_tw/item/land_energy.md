@@ -36,6 +36,7 @@
     <tr>
         <td align="center">大</td>
     </tr>
+    <tr>
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/ulqCHW3.png" width="128"/></td></tr>
