@@ -64,6 +64,7 @@
 
 ## 使用
 在慣用手持彗星地圖時點擊右鍵可打開選單  
+
 <table>
     <tr><td align="center">標題</td><td colspan="9">彗星地圖</td></tr>
     <tr><td rowspan="5" align="center"><a href="#已儲存的紀錄點清單">已儲存的紀錄點清單</a><br/>9 x 5</td><td><img src="https://i.imgur.com/HrWvLUg.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td><img src="https://i.imgur.com/JdOhQ1T.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -75,13 +76,16 @@
 </table>
 
 ### 已儲存的紀錄點清單
-最多可保存 45 個紀錄點座標，如果要加入紀錄點：
+最多可保存 45 個紀錄點座標，如果要加入紀錄點：  
+
 <table>
     <tr><td>慣用手持彗星地圖</td><td><img src="https://i.imgur.com/Br7zuQC.png" width="720"/></td></tr>
     <tr><td>對準記錄點旗幟稍下方按右鍵</td><td><img src="https://i.imgur.com/WqttmNy.png" width="720"/><br/>動作欄位響應"已記錄位置到彗星地圖中"表示成功。</td></tr>
     <tr><td>保存的紀錄點將顯示在畫面內<br/>可開啟選單切換顯示狀態或移除</td><td><img src="https://i.imgur.com/IFqzYqV.png" width="720"/></td></tr>
 </table>
-紀錄點顯示與不顯示
+
+紀錄點顯示與不顯示  
+
 <table>
     <tr><td align="center">顯示</td><td align="center">不顯示</td></tr>
     <tr><td><img src="https://i.imgur.com/9wUnLsH.png" width="400"/></td><td><img src="https://i.imgur.com/VnEXa8q.png" width="400"/></td></tr>
