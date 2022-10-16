@@ -80,3 +80,7 @@
     <tr><td align="center">有效</td><td><img src="https://i.imgur.com/3fOeV1n.png" width="360"/><img src="https://i.imgur.com/b2QOaTl.png" width="360"/></td></tr>
     <tr><td align="center">無效</td><td><img src="https://i.imgur.com/JYYtFGz.png" width="360"/></td></tr>
 </table>
+
+### 紅石版
+需要有紅石信號才能上樓或下樓，但無論有無紅石信號都能被其他電梯前往。  
+<img src="https://i.imgur.com/5mhxS2h.png" width="480"/>
