@@ -29,9 +29,9 @@
 <img src="https://i.imgur.com/YmqMhfd.png" width="720"></img><br>
 傳送後會有`1秒無敵`+`10秒虛弱II`。
 
-附魔可增加時效：
+附魔耐久可增加時效：
 <table>
-    <tr><td align="center">附魔等級</td><td align="center">有效時間</td></tr>
+    <tr><td align="center">耐久等級</td><td align="center">有效時間</td></tr>
     <tr><td align="center">無</td><td align="center">2分鐘</td></tr>
     <tr><td align="center">I</td><td align="center">3分鐘</td></tr>
     <tr><td align="center">II</td><td align="center">4分鐘</td></tr>
