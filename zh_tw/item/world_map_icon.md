@@ -25,7 +25,8 @@
 ---
 
 ## 使用
-每個只能使用一次，消耗品。
+每個只能使用一次，消耗品。  
+
 <table>
     <tr><td>慣用手持彗星圖示</td><td><img src="https://i.imgur.com/XvYigvs.png" width="720"/></td></tr>
     <tr><td>按右鍵</td><td><img src="https://i.imgur.com/ml62lA9.png" width="720"/><br/>動作欄位響應"圖示加入彗星地圖"表示成功。</td></tr>

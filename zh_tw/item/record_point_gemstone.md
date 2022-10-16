@@ -26,8 +26,9 @@
 ---
 
 ## 使用
-在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與[旗幟](https://minecraft.fandom.com/zh/wiki/旗幟)可做出[可記錄點的旗幟](record_point_banner.md)。  
+在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與[旗幟](https://minecraft.fandom.com/zh/wiki/旗幟)可做出[可記錄點的旗幟](record_point_banner.md)，  
+合成出的名稱會做為傳送點名稱。
 
 <table>
-    <tr><td><img src="https://i.imgur.com/iID0QLv.png" width="480"/></td><td><img src="https://i.imgur.com/TDoCrxk.png" width="480"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/Xq6yCL5.png" width="480"/></td><td><img src="https://i.imgur.com/YE5JOw8.png" width="480"/></td></tr>
 </table>
