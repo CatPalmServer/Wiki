@@ -6,7 +6,6 @@
     <tr>
         <td align="center">小</td>
         <td align="center">中</td>
-        <td align="center">大</td>
     </tr>
     <tr>
         <td>
@@ -33,6 +32,10 @@
                 <tr><td>新增</td><td>2022-10-12</td></tr>
             </table>
         </td>
+    </tr>
+    <tr>
+        <td align="center">大</td>
+    </tr>
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/ulqCHW3.png" width="128"/></td></tr>
