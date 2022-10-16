@@ -71,11 +71,11 @@
 </table>
 
 <table>
-    <tr><td align="center">沒有四層滿</td><td><code>區塊半徑</code>=<code>無條件進位</code>(<code>平方根</code>(<code>總點數</code>)/<code>2</code>)-<code>1</code></td></tr>
-    <tr><td align="center">四層滿</td><td><code>區塊半徑</code>=<code>無條件進位</code>(<code>平方根</code>(<code>總點數</code>x<code>1.2</code>)/<code>2</code>)-<code>1</code></td></tr>
+    <tr><td align="center">沒有四層滿</td><td><code>區塊半徑</code>=無條件進位(平方根(<code>總點數</code>)/<code>2</code>)-<code>1</code></td></tr>
+    <tr><td align="center">四層滿</td><td><code>區塊半徑</code>=無條件進位(平方根(<code>總點數</code>x<code>1.2</code>)/<code>2</code>)-<code>1</code></td></tr>
 </table>
 
-實際面積為`總區塊面積`=`平方`(`區塊半徑`+`1`+`區塊半徑`)  
+實際面積為`總區塊面積`=平方(`區塊半徑`+`1`+`區塊半徑`)  
 不會覆蓋比自己還早搶佔的領地  
 
 <table>
