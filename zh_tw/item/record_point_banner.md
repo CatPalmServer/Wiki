@@ -33,8 +33,10 @@
 ---
 
 ## 合成
-見[紀錄寶石](record_point_gemstone.md)  
-  
+見[紀錄寶石](record_point_gemstone.md)。  
+可記錄點的旗幟在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)改名成想取的傳送點名稱。  
+<img src="https://i.imgur.com/3YdOF91.png" width="480"/>
+
 ---
 
 ## 使用
@@ -44,7 +46,7 @@
     <tr><td>按右鍵放置在地上</td><td><img src="https://i.imgur.com/d75pfRW.png" width="720"/></td></tr>
 </table>
 
-放置後可使用[傳送金蘋果、傳送寶石、傳送寶石方塊](transfer_golden.md)回到該位置  
+放置後可使用[傳送金蘋果、傳送寶石、傳送寶石方塊](transfer.md)回到該位置  
 如果名稱已被使用會返還可記錄點的旗幟，並且提示錯誤訊息。
 
 <img src="https://i.imgur.com/ReA6Rmh.png" width="720"/>

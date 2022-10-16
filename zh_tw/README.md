@@ -1,5 +1,4 @@
 # 物品
-
 <a href="item/world_map_view.md"><img src="https://i.imgur.com/w5nzar8.png" width="48"/></a>
 <a href="item/world_map_capture.md"><img src="https://i.imgur.com/Ix15Njd.png" width="48"/></a>
 <a href="item/world_map_icon.md"><img src="https://i.imgur.com/VpQnV68.png" width="48"/></a>
@@ -13,3 +12,14 @@
 <a href="item/simple_elevator.md"><img src="https://i.imgur.com/a3p64mU.png" width="48"/></a>
 <a href="item/record_point_gemstone.md"><img src="https://i.imgur.com/5IDgby3.png" width="48"/></a>
 <a href="item/record_point_banner.md"><img src="https://i.imgur.com/PtMu2Cu.png" width="48"/></a>
+<a href="item/transfer.md"><img src="https://i.imgur.com/4eKYni0.png" width="48"/></a>
+<a href="item/transfer.md"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></a>
+<a href="item/transfer.md"><img src="https://i.imgur.com/zWMjq19.png" width="48"/></a>
+<a href="item/back.md"><img src="https://i.imgur.com/ILnnHV1.png" width="48"/></a>
+<a href="item/back.md"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></a>
+<a href="item/back.md"><img src="https://i.imgur.com/R3EtEh7.png" width="48"/></a>
+<a href="item/random_transfer.md"><img src="https://i.imgur.com/2QdmOdE.png" width="48"/></a>
+<a href="item/random_transfer.md"><img src="https://i.imgur.com/ME1CeOE.png" width="48"/></a>
+<a href="item/random_transfer.md"><img src="https://i.imgur.com/xv4Ph4E.png" width="48"/></a>
+<a href="item/invite_transfer_gemstone.md"><img src="https://i.imgur.com/4zxLVnc.png" width="48"/></a>
+<a href="item/exchange_record_gemstone.md"><img src="https://i.imgur.com/B0iK4sj.png" width="48"/></a>
