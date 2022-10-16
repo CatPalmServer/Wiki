@@ -11,4 +11,5 @@
 <a href="item/rename_milk.md"><img src="https://i.imgur.com/YX4uOZG.png" width="48"/></a>
 <a href="item/simple_elevator.md"><img src="https://i.imgur.com/OLqL1Kq.png" width="48"/></a>
 <a href="item/simple_elevator.md"><img src="https://i.imgur.com/a3p64mU.png" width="48"/></a>
-<a href="item/simple_elevator.md"><img src="https://i.imgur.com/PtMu2Cu.png" width="48"/></a>
+<a href="item/record_point_banner.md"><img src="https://i.imgur.com/5IDgby3.png" width="48"/></a>
+<a href="item/record_point_banner.md"><img src="https://i.imgur.com/PtMu2Cu.png" width="48"/></a>

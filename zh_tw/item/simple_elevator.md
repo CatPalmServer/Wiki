@@ -12,10 +12,10 @@
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/OLqL1Kq.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>simple_elevator</code></td></tr>
-                <tr><td>翻譯</td><td><code>simpleelevator.item.lore.simple_elevator</code></td></tr>
+                <tr><td>翻譯</td><td><code>simpleelevator.item.simple_elevator</code></td></tr>
                 <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/石頭">石頭</a></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
-                <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
+                <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
                 <tr><td>新增</td><td>2022-10-12</td></tr>
             </table>
@@ -27,7 +27,7 @@
                 <tr><td>翻譯</td><td><code>simpleelevator.item.simple_elevator_redstone_signal</code></td></tr>
                 <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/石頭">石頭</a></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
-                <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
+                <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
                 <tr><td>新增</td><td>2022-10-12</td></tr>
             </table>
