@@ -52,4 +52,4 @@
 <a href="item/pen.md"><img src="https://i.imgur.com/JCIHUl0.gif" width="48"/></a>
 <a href="item/pen.md"><img src="https://i.imgur.com/XzyZjMg.gif" width="48"/></a>
 <a href="item/pen.md"><img src="https://i.imgur.com/Fc9LRKo.gif" width="48"/></a>
-<a href="item/pen.md"><img src="https://i.imgur.com/wShVzC6.gif" width="48"/></a>
+<a href="item/pen.md"><img src="https://i.imgur.com/IkxfYLw.gif" width="48"/></a>
