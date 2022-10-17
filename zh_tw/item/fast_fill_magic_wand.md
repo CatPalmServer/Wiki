@@ -139,3 +139,19 @@
     <tr><td align="center">不信任對角線</td><td align="center">預設</td><td><img src="https://i.imgur.com/XaW9mlj.png" width="480"/></td></tr>
     <tr><td align="center">信任對角線</td><td align="center">按下<code>Shift</code></td><td><img src="https://i.imgur.com/7FCz53L.png" width="480"/></td></tr>
 </table>
+
+不同材質有不同的數值：  
+
+<table>
+    <tr><td align="center">材質</td><td align="center">耐久</td><td align="center">尺寸</td><td align="center">塊數</td></tr>
+    <tr><td align="center">石</td><td align="center">93</td><td align="center">11x11</td><td align="center">5</td></tr>
+    <tr><td align="center">鐵</td><td align="center">178</td><td align="center">15x15</td><td align="center">25</td></tr>
+    <tr><td align="center">鑽石</td><td align="center">1115</td><td align="center">19x19</td><td align="center">61</td></tr>
+    <tr><td align="center">獄髓</td><td align="center">1450</td><td align="center">23x23</td><td align="center">113</td></tr>
+    <tr><td align="center">地獄之星</td><td align="center">1692</td><td align="center">27x27</td><td align="center">181</td></tr>
+    <tr><td align="center">龍蛋</td><td align="center">2031</td><td align="center">31x31</td><td align="center">265</td></tr>
+    <tr><td align="center">龍牙</td><td align="center">2901</td><td align="center">31x31</td><td align="center">265</td></tr>
+    <tr><td align="center">血龍牙</td><td align="center">5077</td><td align="center">31x31</td><td align="center">265</td></tr>
+    <tr><td align="center">夢魘結晶</td><td align="center">20310</td><td align="center">31x31</td><td align="center">265</td></tr>
+    <tr><td align="center">創造者</td><td align="center">無限</td><td align="center">63x63</td><td align="center">2916</td></tr>
+</table>
