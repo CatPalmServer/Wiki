@@ -56,7 +56,15 @@
 
 ### 進行繪畫
 需要[畫筆](pen.md)和[調色盤](palette.md)，並把彩繪畫布放入[物品展示框](https://minecraft.fandom.com/zh/wiki/物品展示框)，  
-慣用手持[畫筆](pen.md)對準彩繪畫布點`右鍵`可上色，  
+慣用手持[畫筆](pen.md)對準彩繪畫布點`右鍵`可上色，畫筆尺寸：
+<table>
+    <tr><td align="center">名稱</td><td align="center">尺寸</td><td align="center">演示</td></tr>
+    <tr><td align="center">針筆</td><td align="center">1x1</td><td><img src="https://i.imgur.com/B1l06La.png" width="150"/></td></tr>
+    <tr><td align="center">細筆</td><td align="center">2x2</td><td><img src="https://i.imgur.com/56oaTGc.png" width="150"/></td></tr>
+    <tr><td align="center">筆</td><td align="center">4x4</td><td><img src="https://i.imgur.com/9sP9rzb.png" width="150"/></td></tr>
+    <tr><td align="center">粗筆</td><td align="center">8x8</td><td><img src="https://i.imgur.com/AkuO4ma.png" width="150"/></td></tr>
+    <tr><td align="center">板刷</td><td align="center">16x16</td><td><img src="https://i.imgur.com/fKqoeNS.png" width="150"/></td></tr>
+</table>
 
 <img src="https://i.imgur.com/2lYxLbW.png" width="400"/>
 

@@ -82,9 +82,9 @@
 
 <table>
     <tr><td align="center">名稱</td><td align="center">尺寸</td><td align="center">演示</td></tr>
-    <tr><td align="center">針筆</td><td align="center">1x1</td><td><img src="https://i.imgur.com/B1l06La.png" width="200"/></td></tr>
-    <tr><td align="center">細筆</td><td align="center">2x2</td><td><img src="https://i.imgur.com/56oaTGc.png" width="200"/></td></tr>
-    <tr><td align="center">筆</td><td align="center">4x4</td><td><img src="https://i.imgur.com/9sP9rzb.png" width="200"/></td></tr>
-    <tr><td align="center">粗筆</td><td align="center">8x8</td><td><img src="https://i.imgur.com/AkuO4ma.png" width="200"/></td></tr>
-    <tr><td align="center">板刷</td><td align="center">16x16</td><td><img src="https://i.imgur.com/fKqoeNS.png" width="200"/></td></tr>
+    <tr><td align="center">針筆</td><td align="center">1x1</td><td><img src="https://i.imgur.com/B1l06La.png" width="150"/></td></tr>
+    <tr><td align="center">細筆</td><td align="center">2x2</td><td><img src="https://i.imgur.com/56oaTGc.png" width="150"/></td></tr>
+    <tr><td align="center">筆</td><td align="center">4x4</td><td><img src="https://i.imgur.com/9sP9rzb.png" width="150"/></td></tr>
+    <tr><td align="center">粗筆</td><td align="center">8x8</td><td><img src="https://i.imgur.com/AkuO4ma.png" width="150"/></td></tr>
+    <tr><td align="center">板刷</td><td align="center">16x16</td><td><img src="https://i.imgur.com/fKqoeNS.png" width="150"/></td></tr>
 </table>
