@@ -77,7 +77,7 @@
 ---
 
 ## 使用
-詳情見[彩繪畫布](draw_map.md)，要改畫筆顏色需要[調色盤](palette.md)，  
+詳情見[彩繪畫布](draw_map.md)，改畫筆顏色需要[調色盤](palette.md)，  
 實際尺寸：
 
 <table>
