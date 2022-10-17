@@ -27,8 +27,8 @@
 ## 使用
 放在慣用手使用可邀請所有人前來當前位置：  
 <img src="https://i.imgur.com/YmqMhfd.png" width="720"></img><br>
-傳送後會有`1秒無敵`+`10秒虛弱II`。
 
+傳送後會有`1秒無敵`+`10秒虛弱II`。  
 附魔耐久可增加時效：
 <table>
     <tr><td align="center">耐久等級</td><td align="center">有效時間</td></tr>

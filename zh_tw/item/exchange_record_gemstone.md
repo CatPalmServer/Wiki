@@ -59,6 +59,7 @@
 - 將當前位置保存到寶石內
 - 傳送到剛取出的位置
 
+傳送後會有`1秒無敵`+`10秒虛弱II`。  
 想清空交換紀錄寶石已儲存的位置需要牛奶一起合成：  
 <table>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
