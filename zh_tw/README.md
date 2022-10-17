@@ -53,3 +53,4 @@
 <a href="item/pen.md"><img src="https://i.imgur.com/XzyZjMg.gif" width="48"/></a>
 <a href="item/pen.md"><img src="https://i.imgur.com/Fc9LRKo.gif" width="48"/></a>
 <a href="item/pen.md"><img src="https://i.imgur.com/Sn4dH5a.gif" width="48"/></a>
+<a href="item/entity_exterior_tag.md"><img src="https://i.imgur.com/nSlDuha.gif" width="48"/></a>
