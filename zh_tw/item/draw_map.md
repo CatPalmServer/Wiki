@@ -53,11 +53,11 @@
 </table>
 
 ### 進行繪畫
-需要[畫筆](pen.md)、[調色盤](palette.md)，  
+需要[畫筆](pen.md)、[調色盤](palette.md)，並把彩繪畫布放入[物品展示框](https://minecraft.fandom.com/zh/wiki/物品展示框)，  
 
 <img src="https://i.imgur.com/2lYxLbW.png" width="400"/>
 
-旋轉依然可作畫。  
+物品展示框旋轉依然可作畫。  
 
 <table>
     <tr><td><img src="https://i.imgur.com/KfEiw0R.png" width="400"/></td><td><img src="https://i.imgur.com/ctU1P58.png" width="400"/></td></tr>
