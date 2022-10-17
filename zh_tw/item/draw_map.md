@@ -76,15 +76,15 @@
 上鎖後無法再畫圖，但可以批量複製，  
 在[製圖台](https://minecraft.fandom.com/zh/wiki/製圖台)與[玻璃片](https://minecraft.fandom.com/zh/wiki/玻璃片)可鎖定彩繪畫布。
 
-<img src="https://i.imgur.com/suHivAD.png" width="720"/>
+<img src="https://i.imgur.com/Bu6NNuF.png" width="400"/>
 
 ### 進行複製
 在[製圖台](https://minecraft.fandom.com/zh/wiki/製圖台)與[空白彩繪畫布](https://minecraft.fandom.com/zh/wiki/空白彩繪畫布)可複製彩繪畫布。
 
-<img src="https://i.imgur.com/U1ZI4Bh.png" width="720"/>
+<img src="https://i.imgur.com/hm76Etw.png" width="400"/>
 
 ### 禁止複製
 禁止彩繪畫布[複製](#進行複製)，  
 在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)與[剪刀](https://minecraft.fandom.com/zh/wiki/剪刀)可禁止複製彩繪畫布。
 
-<img src="https://i.imgur.com/iJYCDrh.png" width="720"/>
+<img src="https://i.imgur.com/oMzwJ6w.png" width="400"/>
