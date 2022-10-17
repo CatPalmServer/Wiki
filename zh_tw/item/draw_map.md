@@ -61,5 +61,30 @@
 
 <table>
     <tr><td><img src="https://i.imgur.com/KfEiw0R.png" width="400"/></td><td><img src="https://i.imgur.com/ctU1P58.png" width="400"/></td></tr>
-    <tr><td><img src="https://i.imgur.com/d0qVkCr.png" width="400"/></td><td><img src="https://i.imgur.com/foEpjfX.png" width="400"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/d0qVkCr.png" width="400"/></td><td><img src="https://i.imgur.com/9mmCm2h.png" width="400"/></td></tr>
 </table>
+
+
+<table>
+    <tr><td align="center">狀態</td><td align="center">可以畫圖</td><td align="center">可以複製</td></tr>
+    <tr><td align="center">未鎖定</td><td align="center">O</td><td align="center">X</td></tr>
+    <tr><td align="center"><a href="#進行上鎖">已鎖定</a></td><td align="center">X</td><td align="center">O</td></tr>
+    <tr><td align="center"><a href="#進行上鎖">已鎖定</a>+<a href="#禁止複製">禁止複製</a></td><td align="center">X</td><td align="center">X</td></tr>
+</table>
+
+### 進行上鎖
+上鎖後無法再畫圖，但可以批量複製，  
+在[製圖台](https://minecraft.fandom.com/zh/wiki/製圖台)與[玻璃片](https://minecraft.fandom.com/zh/wiki/玻璃片)可鎖定彩繪畫布。
+
+<img src="https://i.imgur.com/suHivAD.png" width="720"/>
+
+### 進行複製
+在[製圖台](https://minecraft.fandom.com/zh/wiki/製圖台)與[空白彩繪畫布](https://minecraft.fandom.com/zh/wiki/空白彩繪畫布)可複製彩繪畫布。
+
+<img src="https://i.imgur.com/U1ZI4Bh.png" width="720"/>
+
+### 禁止複製
+禁止彩繪畫布[複製](#進行複製)，  
+在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)與[剪刀](https://minecraft.fandom.com/zh/wiki/剪刀)可禁止複製彩繪畫布。
+
+<img src="https://i.imgur.com/iJYCDrh.png" width="720"/>
