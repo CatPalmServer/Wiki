@@ -139,4 +139,3 @@
     <tr><td align="center">相同材質且不信任對角線</td><td align="center">預設</td><td><img src="https://i.imgur.com/XaW9mlj.png" width="320"/></td></tr>
     <tr><td align="center">相同材質且信任對角線</td><td align="center">按下<code>Shift</code></td><td><img src="https://i.imgur.com/7FCz53L.png" width="320"/></td></tr>
 </table>
-``、``
