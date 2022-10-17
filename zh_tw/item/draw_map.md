@@ -57,7 +57,7 @@
 
 <img src="https://i.imgur.com/2lYxLbW.png" width="400"/>
 
-旋轉依然可作畫：  
+旋轉依然可作畫。  
 
 <table>
     <tr><td><img src="https://i.imgur.com/KfEiw0R.png" width="400"/></td><td><img src="https://i.imgur.com/ctU1P58.png" width="400"/></td></tr>
