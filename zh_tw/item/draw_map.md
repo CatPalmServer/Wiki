@@ -87,4 +87,4 @@
 禁止彩繪畫布[複製](#進行複製)，  
 在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)與[剪刀](https://minecraft.fandom.com/zh/wiki/剪刀)可禁止複製彩繪畫布。
 
-<img src="https://i.imgur.com/oMzwJ6w.png" width="400"/>
+<img src="https://i.imgur.com/pQQUJh7.png" width="400"/>
