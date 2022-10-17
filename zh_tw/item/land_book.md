@@ -81,7 +81,7 @@
 </table>
 
 實際面積為`總區塊面積`=平方(`區塊半徑`+`1`+`區塊半徑`)  
-不會覆蓋比自己還早搶佔的領地  
+不會覆蓋比自己還早搶佔的領地：  
 
 <table>
     <tr><td><img src="https://i.imgur.com/THNRtuf.png" width="400"/></td><td><img src="https://i.imgur.com/C4waK6f.png" width="400"/></td></tr>

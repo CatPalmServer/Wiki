@@ -25,3 +25,25 @@
 <a href="item/invite_transfer_gemstone.md"><img src="https://i.imgur.com/4zxLVnc.png" width="48"/></a>
 <a href="item/exchange_record_gemstone.md"><img src="https://i.imgur.com/B0iK4sj.png" width="48"/></a>
 <a href="item/barter_menu.md"><img src="https://i.imgur.com/kUN6gyv.png" width="48"/></a>
+
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/K3mWYK0.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/0UFpEqL.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/UGRvBmN.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/sMWjMmB.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/9a7kCfj.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/aHALsII.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/W49RaLU.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/wrtJ1c4.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/4tg5NLb.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/as54EEM.png" width="48"/></a>
+
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/B8jH9ap.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/r6sqP9S.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/ileKj0W.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/sGzfVo7.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/mPh5IMd.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/25URfru.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/7cOnwYJ.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/mu3pml6.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/4wVjMpa.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/vHVetpI.png" width="48"/></a>
