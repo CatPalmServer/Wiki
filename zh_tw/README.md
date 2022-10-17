@@ -45,3 +45,5 @@
 <a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/mu3pml6.png" width="48"/></a>
 <a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/4wVjMpa.png" width="48"/></a>
 <a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/vHVetpI.png" width="48"/></a>
+<a href="item/draw_map.md"><img src="https://i.imgur.com/qjhMAMR.png" width="48"/></a>
+<a href="item/draw_map.md"><img src="https://i.imgur.com/vQoektV.png" width="48"/></a>
