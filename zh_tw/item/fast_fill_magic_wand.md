@@ -116,6 +116,10 @@
             </table>
         </td>
     </tr>
+    <tr>
+        <td align="center">創造者</td>
+        <td align="center">不可合成</td>
+    </tr>
 </table>
 
 ---
