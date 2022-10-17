@@ -79,7 +79,7 @@
 <img src="https://i.imgur.com/Bu6NNuF.png" width="400"/>
 
 ### 進行複製
-在[製圖台](https://minecraft.fandom.com/zh/wiki/製圖台)與[空白彩繪畫布](https://minecraft.fandom.com/zh/wiki/空白彩繪畫布)可複製彩繪畫布。
+在[製圖台](https://minecraft.fandom.com/zh/wiki/製圖台)與空白彩繪畫布可複製彩繪畫布。
 
 <img src="https://i.imgur.com/hm76Etw.png" width="400"/>
 
