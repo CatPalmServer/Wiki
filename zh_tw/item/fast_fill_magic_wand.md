@@ -155,3 +155,15 @@
     <tr><td align="center">夢魘結晶</td><td align="center">20310</td><td align="center">31x31</td><td align="center">265</td></tr>
     <tr><td align="center">創造者</td><td align="center">無限</td><td align="center">63x63</td><td align="center">2916</td></tr>
 </table>
+
+[耐久](https://minecraft.fandom.com/zh/wiki/耐久)損壞抑制：  
+
+<table>
+    <tr><td align="center">等級</td><td align="center">抑制</td></tr>
+    <tr><td align="center">無</td><td align="center">0%</td></tr>
+    <tr><td align="center">I</td><td align="center">50%</td></tr>
+    <tr><td align="center">II</td><td align="center">67%</td></tr>
+    <tr><td align="center">III</td><td align="center">75%</td></tr>
+</table>
+
+使用大於當前耐久量會有損毀保護，耐久值剩1繼續使用會直接損壞。
