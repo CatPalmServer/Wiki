@@ -123,3 +123,20 @@
 </table>
 
 ---
+
+## 使用
+慣用手持快速填充魔法杖可以預覽填充的範圍，並會依照背包內剩餘的相同材質來決定能擺放多少：
+
+<table>
+    <tr><td align="center">背包相同物品數量</td><td align="center">沒有</td><td align="center">6個</td><td align="center">很多個</td></tr>
+    <tr><td align="center">展示</td><td><img src="https://i.imgur.com/laCm4tE.png" width="320"/></td><td><img src="https://i.imgur.com/nGpTq9O.png" width="320"/></td><td><img src="https://i.imgur.com/S9eQEQF.png" width="320"/></td></tr>
+</table>
+
+有兩種模式可以選擇，分別是：
+
+<table>
+    <tr><td align="center">模式</td><td align="center">使用方式</td><td align="center">展示</td></tr>
+    <tr><td align="center">相同材質且不信任對角線</td><td align="center">預設</td><td><img src="https://i.imgur.com/XaW9mlj.png" width="320"/></td></tr>
+    <tr><td align="center">相同材質且信任對角線</td><td align="center">按下<code>Shift</code></td><td><img src="https://i.imgur.com/7FCz53L.png" width="320"/></td></tr>
+</table>
+``、``
