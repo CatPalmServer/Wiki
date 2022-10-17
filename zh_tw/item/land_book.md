@@ -15,7 +15,6 @@
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/Vj4LxUG.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>land_system_book_empty</code></td></tr>
                 <tr><td>翻譯</td><td><code>landsystem.item.land_system_book_empty</code></td></tr>
-                <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/書">書</a></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
@@ -27,7 +26,6 @@
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/duGvD3y.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>land_system_book</code></td></tr>
                 <tr><td>翻譯</td><td><code>landsystem.item.land_system_book</code></td></tr>
-                <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/書和羽毛筆">書和羽毛筆</a></td></tr>
                 <tr><td>堆疊</td><td>1</td></tr>
                 <tr><td>配方</td><td>無</td></tr>
                 <tr><td>附魔</td><td>無</td></tr>

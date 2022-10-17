@@ -7,7 +7,6 @@
     <tr><td>圖像</td><td><img src="https://i.imgur.com/VpQnV68.png" width="128"/></td></tr>
     <tr><td>空間</td><td><code>world_map_icon</code></td></tr>
     <tr><td>翻譯</td><td><code>worldmapview.item.world_map_icon</code></td></tr>
-    <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/木劍">木劍</a></td></tr>
     <tr><td>堆疊</td><td>1</td></tr>
     <tr><td>配方</td><td>無</td></tr>
     <tr><td>附魔</td><td>無</td></tr>

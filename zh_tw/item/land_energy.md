@@ -1,5 +1,5 @@
 # 領地能量
-[領地群組之書](land_book.md)的必備方塊
+[領地群組之書](land_book.md)的必備方塊。
 
 ## 資料
 <table>
@@ -13,7 +13,6 @@
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/Q7zi1Dp.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>land_energy_small</code></td></tr>
                 <tr><td>翻譯</td><td><code>landsystem.item.land_energy_small</code></td></tr>
-                <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/石頭">石頭</a></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
@@ -25,7 +24,6 @@
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/gDlF2M6.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>land_energy_medium</code></td></tr>
                 <tr><td>翻譯</td><td><code>landsystem.item.land_energy_medium</code></td></tr>
-                <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/石頭">石頭</a></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
@@ -42,7 +40,6 @@
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/ulqCHW3.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>land_energy_big</code></td></tr>
                 <tr><td>翻譯</td><td><code>landsystem.item.land_energy_big</code></td></tr>
-                <tr><td>材質</td><td><a href="https://minecraft.fandom.com/zh/wiki/石頭">石頭</a></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
