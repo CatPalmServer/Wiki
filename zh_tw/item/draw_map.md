@@ -52,8 +52,11 @@
     <tr><td><img src="https://i.imgur.com/Jb3CFVx.png" width="400"/></td><td><img src="https://i.imgur.com/4UGi51e.png" width="400"/></td></tr>
 </table>
 
+每張彩繪畫布解析度為128x128，可使用的顏色見[調色盤](palette.md)。
+
 ### 進行繪畫
-需要[畫筆](pen.md)、[調色盤](palette.md)，並把彩繪畫布放入[物品展示框](https://minecraft.fandom.com/zh/wiki/物品展示框)，  
+需要[畫筆](pen.md)和[調色盤](palette.md)，並把彩繪畫布放入[物品展示框](https://minecraft.fandom.com/zh/wiki/物品展示框)，  
+慣用手持[畫筆](pen.md)對準彩繪畫布點`右鍵`可上色，  
 
 <img src="https://i.imgur.com/2lYxLbW.png" width="400"/>
 
