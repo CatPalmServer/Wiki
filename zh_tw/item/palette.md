@@ -66,3 +66,5 @@
 <tr><td><img src="https://singlecolorimage.com/get/4f1519/40x40"/></td><td><img src="https://singlecolorimage.com/get/401114/40x40"/></td><td><img src="https://singlecolorimage.com/get/5c191d/40x40"/></td><td><img src="https://singlecolorimage.com/get/300d0f/40x40"/></td><td><img src="https://singlecolorimage.com/get/542829/40x40"/></td><td><img src="https://singlecolorimage.com/get/703637/40x40"/></td><td><img src="https://singlecolorimage.com/get/8a4243/40x40"/></td><td><img src="https://singlecolorimage.com/get/a04d4e/40x40"/></td><td><img src="https://singlecolorimage.com/get/852122/40x40"/></td></tr>
 <tr><td><img src="https://singlecolorimage.com/get/a3292a/40x40"/></td><td><img src="https://singlecolorimage.com/get/bd3031/40x40"/></td></tr>
 </table>
+
+在調色盤內選擇顏色後，點擊背包內的[畫筆](pen.md)可將顏色套用。
