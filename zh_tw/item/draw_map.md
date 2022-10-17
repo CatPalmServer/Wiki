@@ -13,7 +13,7 @@
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/qjhMAMR.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>map</code></td></tr>
                 <tr><td>翻譯</td><td><code>item.minecraft.map</code></td></tr>
-                <tr><td>堆疊</td><td>1</td></tr>
+                <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
                 <tr><td>新增</td><td>2020-07-10</td></tr>
@@ -24,7 +24,7 @@
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/vQoektV.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>draw_map</code></td></tr>
                 <tr><td>翻譯</td><td><code>item.minecraft.filled_map</code></td></tr>
-                <tr><td>堆疊</td><td>1</td></tr>
+                <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
                 <tr><td>新增</td><td>2020-07-10</td></tr>
