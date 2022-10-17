@@ -154,7 +154,7 @@
 
 <table>
     <tr><td>沒有挖掘疲勞</td><td><code>損壞</code>=最大值(<code>1</code>,(<code>方塊硬度</code>/<code>破壞速度</code>)x(<code>1</code>-<code>0.05</code>x<code>挖掘加速等級</code>))</td></tr>
-    <tr><td>有挖掘疲勞</td><td><code>損壞</code>=最大值(<code>1</code>,(<code>方塊硬度</code>/<code>破壞速度</code>)x<code>40</code>x<code>挖掘疲勞等級</code>)</td></tr>
+    <tr><td>有挖掘疲勞</td><td><code>強制損壞</code>=最大值(<code>1</code>,(<code>方塊硬度</code>/<code>破壞速度</code>)x<code>40</code>x<code>挖掘疲勞等級</code>)</td></tr>
 </table>
 
 [耐久](https://minecraft.fandom.com/zh/wiki/耐久)損壞抑制：
