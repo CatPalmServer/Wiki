@@ -52,7 +52,7 @@
     <tr><td><img src="https://i.imgur.com/Jb3CFVx.png" width="400"/></td><td><img src="https://i.imgur.com/4UGi51e.png" width="400"/></td></tr>
 </table>
 
-### 繪畫
+### 進行繪畫
 需要[畫筆](pen.md)、[調色盤](palette.md)，  
 
 <img src="https://i.imgur.com/2lYxLbW.png" width="400"/>
