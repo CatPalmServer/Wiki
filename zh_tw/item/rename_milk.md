@@ -41,9 +41,9 @@
     <tr><td align="center">有</td><td align="center">xuancat0208✓</td><td align="center">旋(xuancat0208)✓</td></tr>
 </table>
 
-區分大小寫，且特定字符將會被轉換成 `_`*(底線)*：
+區分大小寫，可輸入最多16個字元，特定字元將會被轉換成 `_`*(底線)*：
 <table>
-    <tr><td align="center">字符</td><td align="center">名稱</td><td align="center">統一碼</td></tr>
+    <tr><td align="center">字元</td><td align="center">名稱</td><td align="center">統一碼</td></tr>
     <tr><td align="center">&ensp;</td><td align="center">半型空格</td><td align="center">u+0020</td></tr>
     <tr><td align="center">&emsp;</td><td align="center">全型空格</td><td align="center">u+3000</td></tr>
     <tr><td align="center">=</td><td align="center">等於</td><td align="center">u+003d</td></tr>
