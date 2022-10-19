@@ -58,7 +58,7 @@
     <tr><td><img src="https://i.imgur.com/x9meQTF.png" width="400"/></td><td><img src="https://i.imgur.com/h2Kovir.png" width="400"/></td></tr>
 </table>
 
-如果[領地產生器](land_block.md)已經被寫入，需要先拆除才可重新使用， 領地的擺法與[烽火台](https://minecraft.fandom.com/zh/wiki/烽火台)相同：  
+如果[領地產生器](land_block.md)已經被寫入，需要先拆除才可重新使用，領地的擺法與[烽火台](https://minecraft.fandom.com/zh/wiki/烽火台)相同：  
 
 <img src="https://i.imgur.com/nW7GC4b.png" width="720"/>  
 
