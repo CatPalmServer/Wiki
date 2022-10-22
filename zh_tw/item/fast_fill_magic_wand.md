@@ -5,7 +5,12 @@
 <table>
     <tr><td>堆疊</td><td>1</td></tr>
     <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/工具配方">工具</a></td></tr>
-    <tr><td>附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失詛咒</a></td></tr>
+    <tr><td>附魔</td><td>
+        <table>
+            <tr><td>非夢魘結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失詛咒</a></td></tr>
+            <tr><td>夢魘結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失詛咒</a></td></tr>
+        </table>
+    </td></tr>
     <tr><td>新增</td><td>2020-10-12</td></tr>
 </table>
 <table>
@@ -152,7 +157,7 @@
     <tr><td align="center">龍蛋</td><td align="center">2031</td><td align="center">31x31</td><td align="center">265</td></tr>
     <tr><td align="center">龍牙</td><td align="center">2901</td><td align="center">31x31</td><td align="center">265</td></tr>
     <tr><td align="center">血龍牙</td><td align="center">5077</td><td align="center">31x31</td><td align="center">265</td></tr>
-    <tr><td align="center">夢魘結晶</td><td align="center">20310</td><td align="center">31x31</td><td align="center">265</td></tr>
+    <tr><td align="center">夢魘結晶</td><td align="center">無限</td><td align="center">31x31</td><td align="center">265</td></tr>
     <tr><td align="center">創造者</td><td align="center">無限</td><td align="center">63x63</td><td align="center">2916</td></tr>
 </table>
 

@@ -4,8 +4,8 @@
 ## 資料
 <table>
     <tr>
-        <td align="center">未啟用</td>
-        <td align="center">已啟用</td>
+        <td align="center">空的</td>
+        <td align="center">有內容ㄊ</td>
     </tr>
     <tr>
         <td>
@@ -45,3 +45,21 @@
 ---
 
 ## 使用
+慣用手持空的抽獎卷可開啟選單：  
+
+<table>
+    <tr><td align="center">標題</td><td colspan="9">貿易書物品詳細信息</td></tr>
+    <tr><td rowspan="3" align="center">物品清單<br/>9 x 3</td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td align="center">選單<br/>9 x 1</td><td><img src="https://i.imgur.com/QtuKo31.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/mpgmuwq.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+</table>
+
+<table>
+    <tr><td align="center"><img src="https://i.imgur.com/QtuKo31.png" width="48"/></td><td>完成</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/mpgmuwq.png" width="48"/></td><td>要抽獎的物品從背包中點擊</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
+</table>
+
+每1格欄位等於1張抽獎卷，至少有1格欄位才能創建，每次抽選都是隨機不重複格欄位。  
+雖然堆疊上限是64，但實際上最多只有27張，等於27格欄位。

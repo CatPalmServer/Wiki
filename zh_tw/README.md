@@ -54,5 +54,7 @@
 <a href="item/pen.md"><img src="https://i.imgur.com/Fc9LRKo.gif" width="48"/></a>
 <a href="item/pen.md"><img src="https://i.imgur.com/Sn4dH5a.gif" width="48"/></a>
 <a href="item/entity_exterior_tag.md"><img src="https://i.imgur.com/nSlDuha.gif" width="48"/></a>
+<a href="item/lottery_ticket.md"><img src="https://i.imgur.com/qegwzus.gif" width="48"/></a>
+<a href="item/lottery_ticket.md"><img src="https://i.imgur.com/50XAfyr.gif" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
