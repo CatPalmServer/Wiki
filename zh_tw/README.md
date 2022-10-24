@@ -53,26 +53,14 @@
 <a href="item/pen.md"><img src="https://i.imgur.com/XzyZjMg.gif" width="48"/></a>
 <a href="item/pen.md"><img src="https://i.imgur.com/Fc9LRKo.gif" width="48"/></a>
 <a href="item/pen.md"><img src="https://i.imgur.com/Sn4dH5a.gif" width="48"/></a>
-<a href="item/entity_exterior_tag.md"><img src="https://i.imgur.com/nSlDuha.gif" width="48"/></a>
-<a href="item/lottery_ticket.md"><img src="https://i.imgur.com/qegwzus.gif" width="48"/></a>
-<a href="item/lottery_ticket.md"><img src="https://i.imgur.com/50XAfyr.gif" width="48"/></a>
-<a href="item/magic_nether_star.md"><img src="https://i.imgur.com/IWZz8YM.gif" width="48"/></a>
-<a href="item/dragon_tooth.md"><img src="https://i.imgur.com/ZJn6ZOj.gif" width="48"/></a>
-<a href="item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/VNWujqZ.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/entity_exterior_tag.md"><img src="https://i.imgur.com/nSlDuha.png" width="48"/></a>
+<a href="item/lottery_ticket.md"><img src="https://i.imgur.com/qegwzus.png" width="48"/></a>
+<a href="item/lottery_ticket.md"><img src="https://i.imgur.com/50XAfyr.png" width="48"/></a>
+<a href="item/magic_nether_star.md"><img src="https://i.imgur.com/IWZz8YM.png" width="48"/></a>
+<a href="item/dragon_tooth.md"><img src="https://i.imgur.com/ZJn6ZOj.png" width="48"/></a>
+<a href="item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/VNWujqZ.png" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.png" width="48"/></a>
 
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
-<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
