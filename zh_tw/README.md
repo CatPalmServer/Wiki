@@ -64,29 +64,36 @@
 <a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/5JcMq75.png" width="48"/></a>
 <a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/VNWujqZ.png" width="48"/></a>
 <a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.png" width="48"/></a>
-
 <a href="item/pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
-<a href="item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
-<a href="item/pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
-
 <a href="item/axe.md"><img src="https://i.imgur.com/uysb6iv.png" width="48"/></a>
+<a href="item/bow.md"><img src="https://i.imgur.com/OG1BKLZ.png" width="48"/></a>
+<a href="item/sword.md"><img src="https://i.imgur.com/Pr9Lvlq.png" width="48"/></a>
+<a href="item/shovel.md"><img src="https://i.imgur.com/PWVHzv7.png" width="48"/></a>
+<a href="item/hoe.md"><img src="https://i.imgur.com/9KdiXDi.png" width="48"/></a>
+<a href="item/helmet.md"><img src="https://i.imgur.com/zZtcnuU.png" width="48"/></a>
+<a href="item/chestplate.md"><img src="https://i.imgur.com/A2lVkZG.png" width="48"/></a>
+<a href="item/leggings.md"><img src="https://i.imgur.com/2GF9HK6.png" width="48"/></a>
+<a href="item/boots.md"><img src="https://i.imgur.com/eTBvKLO.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
 <a href="item/axe.md"><img src="https://i.imgur.com/Cj6g0bi.png" width="48"/></a>
+<a href="item/bow.md"><img src="https://i.imgur.com/4Nnxagh.png" width="48"/></a>
+<a href="item/sword.md"><img src="https://i.imgur.com/yIzgPwQ.png" width="48"/></a>
+<a href="item/shovel.md"><img src="https://i.imgur.com/8xf18Pa.png" width="48"/></a>
+<a href="item/hoe.md"><img src="https://i.imgur.com/VeOmr49.png" width="48"/></a>
+<a href="item/helmet.md"><img src="https://i.imgur.com/X7aCueQ.png" width="48"/></a>
+<a href="item/chestplate.md"><img src="https://i.imgur.com/Z51McG5.png" width="48"/></a>
+<a href="item/leggings.md"><img src="https://i.imgur.com/tGMa21y.png" width="48"/></a>
+<a href="item/boots.md"><img src="https://i.imgur.com/PAuaERZ.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
 <a href="item/axe.md"><img src="https://i.imgur.com/1xabTbw.png" width="48"/></a>
+<a href="item/bow.md"><img src="https://i.imgur.com/OpjZs4m.png" width="48"/></a>
+<a href="item/sword.md"><img src="https://i.imgur.com/RV6EYFJ.png" width="48"/></a>
+<a href="item/shovel.md"><img src="https://i.imgur.com/U0mx2o6.png" width="48"/></a>
+<a href="item/hoe.md"><img src="https://i.imgur.com/v7lJRQe.png" width="48"/></a>
+<a href="item/helmet.md"><img src="https://i.imgur.com/3TUXrLd.png" width="48"/></a>
+<a href="item/chestplate.md"><img src="https://i.imgur.com/CKid2Sf.png" width="48"/></a>
+<a href="item/leggings.md"><img src="https://i.imgur.com/IdCbNxt.png" width="48"/></a>
+<a href="item/boots.md"><img src="https://i.imgur.com/JZu4crW.png" width="48"/></a>
 
-<a href="item/bow.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
-<a href="item/bow.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
-<a href="item/bow.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
-
-<a href="item/sword.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
-<a href="item/sword.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
-<a href="item/sword.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
-
-<a href="item/shovel.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
-<a href="item/shovel.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
-<a href="item/shovel.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
-
-<a href="item/hoe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
-<a href="item/hoe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
-<a href="item/hoe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
