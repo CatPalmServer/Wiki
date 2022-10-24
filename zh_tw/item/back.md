@@ -6,6 +6,7 @@
     <tr>
         <td align="center">金蘋果</td>
         <td align="center">寶石</td>
+        <td align="center">寶石方塊</td>
     </tr>
     <tr>
         <td>
@@ -24,11 +25,6 @@
                 <tr><td>附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>
             </table>
         </td>
-    </tr>
-    <tr>
-        <td align="center">寶石方塊</td>
-    </tr>
-    <tr>
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/R3EtEh7.png" width="128"/></td></tr>
