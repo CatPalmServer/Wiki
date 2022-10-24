@@ -13,17 +13,17 @@
     </td></tr>
 </table>
 <table>
-    <tr><td align="center">圖像</td><td align="center">材質</td><td align="center">空間</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/K3mWYK0.png" height="48"/></td><td align="center">石</td><td><code>fast_break_magic_wand_stone</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/0UFpEqL.png" height="48"/></td><td align="center">鐵</td><td><code>fast_break_magic_wand_iron</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/UGRvBmN.png" height="48"/></td><td align="center">鑽石</td><td><code>fast_break_magic_wand_diamond</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/sMWjMmB.png" height="48"/></td><td align="center">獄髓</td><td><code>fast_break_magic_wand_netherite</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/9a7kCfj.png" height="48"/></td><td align="center">地獄之星</td><td><code>fast_break_magic_wand_star</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/aHALsII.png" height="48"/></td><td align="center">龍蛋</td><td><code>fast_break_magic_wand_dragon</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/W49RaLU.png" height="48"/></td><td align="center">龍牙</td><td><code>fast_break_magic_wand_tooth</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/wrtJ1c4.png" height="48"/></td><td align="center">血龍牙</td><td><code>fast_break_magic_wand_blood_tooth</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/4tg5NLb.png" height="48"/></td><td align="center">夢魘結晶</td><td><code>fast_break_magic_wand_nightmare_crystal</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/as54EEM.png" height="48"/></td><td align="center">創造者</td><td><code>fast_break_magic_wand_creative</code></td></tr>
+    <tr><td align="center">材質</td><td align="center">圖像</td></tr>
+    <tr><td align="center">石</td><td><img src="https://i.imgur.com/K3mWYK0.png" height="48"/></td></tr>
+    <tr><td align="center">鐵</td><td><img src="https://i.imgur.com/0UFpEqL.png" height="48"/></td></tr>
+    <tr><td align="center">鑽石</td><td><img src="https://i.imgur.com/UGRvBmN.png" height="48"/></td></tr>
+    <tr><td align="center">獄髓</td><td><img src="https://i.imgur.com/sMWjMmB.png" height="48"/></td></tr>
+    <tr><td align="center">地獄之星</td><td><img src="https://i.imgur.com/9a7kCfj.png" height="48"/></td></tr>
+    <tr><td align="center">龍蛋</td><td><img src="https://i.imgur.com/aHALsII.png" height="48"/></td></tr>
+    <tr><td align="center">龍牙</td><td><img src="https://i.imgur.com/W49RaLU.png" height="48"/></td></tr>
+    <tr><td align="center">血龍牙</td><td><img src="https://i.imgur.com/wrtJ1c4.png" height="48"/></td></tr>
+    <tr><td align="center">夢魘結晶</td><td><img src="https://i.imgur.com/4tg5NLb.png" height="48"/></td></tr>
+    <tr><td align="center">創造者</td><td><img src="https://i.imgur.com/as54EEM.png" height="48"/></td></tr>
 </table>
   
 ---

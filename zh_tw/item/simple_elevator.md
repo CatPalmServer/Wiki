@@ -11,7 +11,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/OLqL1Kq.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>simple_elevator</code></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
@@ -20,7 +19,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/a3p64mU.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>simple_elevator_redstone_signal</code></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>

@@ -11,7 +11,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/ILnnHV1.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>back_golden_apple</code></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
@@ -20,7 +19,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/1KwfKwH.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>back_gemstone</code></td></tr>
                 <tr><td>堆疊</td><td>1</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
                 <tr><td>附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>
@@ -34,7 +32,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/R3EtEh7.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>back_gemstone_block</code></td></tr>
                 <tr><td>堆疊</td><td>1</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>

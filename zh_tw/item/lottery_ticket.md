@@ -11,7 +11,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/qegwzus.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>lottery_ticket_preparation</code></td></tr>
                 <tr><td>堆疊</td><td>1</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
@@ -20,7 +19,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/50XAfyr.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>lottery_ticket_chance</code></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td>無</td></tr>
                 <tr><td>附魔</td><td>無</td></tr>

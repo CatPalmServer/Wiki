@@ -4,7 +4,6 @@
 ## 資料
 <table>
     <tr><td>圖像</td><td><img src="https://i.imgur.com/YX4uOZG.png" width="128"/></td></tr>
-    <tr><td>空間</td><td><code>rename_milk</code></td></tr>
     <tr><td>堆疊</td><td>1</td></tr>
     <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/工具配方">工具</a></td></tr>
     <tr><td>附魔</td><td>無</td></tr>

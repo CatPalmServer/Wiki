@@ -11,7 +11,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/5JcMq75.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>nightmare_crystal_ore</code></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
@@ -27,7 +26,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/VNWujqZ.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>nightmare_crystal_fragment</code></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
@@ -43,7 +41,6 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/pivPa8U.png" width="128"/></td></tr>
-                <tr><td>空間</td><td><code>nightmare_crystal</code></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>

@@ -13,10 +13,10 @@
     </td></tr>
 </table>
 <table>
-    <tr><td align="center">圖像</td><td align="center">材質</td><td align="center">空間</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/8Az4lnz.png" height="48"/></td><td align="center"><a href="dragon_tooth.md">龍牙</a></td><td><code>dragon_tooth_pickaxe</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/JNU7eKp.png" height="48"/></td><td align="center"><a href="dragon_blood_tooth.md">血龍牙</a></td><td><code>dragon_blood_tooth_pickaxe</code></td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/lHvmvzX.png" height="48"/></td><td align="center"><a href="nightmare_crystal.md">夢魘結晶</a></td><td><code>nightmare_crystal_pickaxe</code></td></tr>
+    <tr><td align="center">材質</td><td align="center">圖像</td></tr>
+    <tr><td align="center"><a href="dragon_tooth.md">龍牙</a></td><td><img src="https://i.imgur.com/8Az4lnz.png" height="128"/></td></tr>
+    <tr><td align="center"><a href="dragon_blood_tooth.md">血龍牙</a></td><td><img src="https://i.imgur.com/JNU7eKp.png" height="128"/></td></tr>
+    <tr><td align="center"><a href="nightmare_crystal.md">夢魘結晶</a></td><td><img src="https://i.imgur.com/lHvmvzX.png" height="128"/></td></tr>
 </table>
   
 ---
