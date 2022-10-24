@@ -59,9 +59,9 @@
 
 ## 資料
 
-耐久度
 <table>
-    <tr><td align="center">龍牙</td><td align="center">2640</td></tr>
-    <tr><td align="center">血龍牙</td><td align="center">3858</td></tr>
-    <tr><td align="center">夢魘結晶</td><td align="center">無限</td></tr>
+    <tr><td align="center">材質</td><td align="center">耐久</td><td align="center">效果</td></tr>
+    <tr><td align="center">龍牙</td><td align="center">2640</td><td><a href="../feature/ore_glowing.md">礦物透視</a></td></tr>
+    <tr><td align="center">血龍牙</td><td align="center">3858</td><td><a href="../feature/ore_glowing.md">礦物透視</a></td></tr>
+    <tr><td align="center">夢魘結晶</td><td align="center">無限</td><td><a href="../feature/ore_glowing.md">礦物透視</a></td></tr>
 </table>

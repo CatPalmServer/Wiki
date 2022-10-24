@@ -61,8 +61,12 @@
 <a href="item/magic_nether_star.md"><img src="https://i.imgur.com/IWZz8YM.png" width="48"/></a>
 <a href="item/dragon_tooth.md"><img src="https://i.imgur.com/ZJn6ZOj.png" width="48"/></a>
 <a href="item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/5JcMq75.png" width="48"/></a>
 <a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/VNWujqZ.png" width="48"/></a>
 <a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.png" width="48"/></a>
 
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
