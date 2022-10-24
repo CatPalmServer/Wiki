@@ -10,11 +10,11 @@
 </table>
 <table>
     <tr><td align="center">名稱</td><td align="center">尺寸</td><td align="center">圖像</td></tr>
-    <tr><td align="center">針筆</td><td align="center">最小</td><td align="center"><img src="https://i.imgur.com/WlYn4nT.gif" height="128"/></td></tr>
-    <tr><td align="center">細筆</td><td align="center">小</td><td align="center"><img src="https://i.imgur.com/JCIHUl0.gif" height="128"/></td></tr>
-    <tr><td align="center">筆</td><td align="center">中</td><td align="center"><img src="https://i.imgur.com/XzyZjMg.gif" height="128"/></td></tr>
-    <tr><td align="center">粗筆</td><td align="center">大</td><td align="center"><img src="https://i.imgur.com/Fc9LRKo.gif" height="128"/></td></tr>
-    <tr><td align="center">板刷</td><td align="center">最大</td><td align="center"><img src="https://i.imgur.com/Sn4dH5a.gif" height="128"/></td></tr>
+    <tr><td align="center">針筆</td><td align="center">最小</td><td align="center"><img src="https://i.imgur.com/WlYn4nT.gif" height="48"/></td></tr>
+    <tr><td align="center">細筆</td><td align="center">小</td><td align="center"><img src="https://i.imgur.com/JCIHUl0.gif" height="48"/></td></tr>
+    <tr><td align="center">筆</td><td align="center">中</td><td align="center"><img src="https://i.imgur.com/XzyZjMg.gif" height="48"/></td></tr>
+    <tr><td align="center">粗筆</td><td align="center">大</td><td align="center"><img src="https://i.imgur.com/Fc9LRKo.gif" height="48"/></td></tr>
+    <tr><td align="center">板刷</td><td align="center">最大</td><td align="center"><img src="https://i.imgur.com/Sn4dH5a.gif" height="48"/></td></tr>
 </table>
   
 ---
