@@ -69,4 +69,24 @@
 <a href="item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
 <a href="item/pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
 
+<a href="item/axe.md"><img src="https://i.imgur.com/uysb6iv.png" width="48"/></a>
+<a href="item/axe.md"><img src="https://i.imgur.com/Cj6g0bi.png" width="48"/></a>
+<a href="item/axe.md"><img src="https://i.imgur.com/1xabTbw.png" width="48"/></a>
+
+<a href="item/bow.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
+<a href="item/bow.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="item/bow.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
+
+<a href="item/sword.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
+<a href="item/sword.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="item/sword.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
+
+<a href="item/shovel.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
+<a href="item/shovel.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="item/shovel.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
+
+<a href="item/hoe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
+<a href="item/hoe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="item/hoe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
+
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
