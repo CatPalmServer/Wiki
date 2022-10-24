@@ -64,6 +64,6 @@
 
 踩在上面顯示的尺寸：
 <table>
-    <tr><td>小</td><td><img src="https://i.imgur.com/1FTaBO1.png" width="720"/></td></tr>
-    <tr><td>大</td><td><img src="https://i.imgur.com/NubzEhC.png" width="720"/></td></tr>
+<td align="center">小</td><td align="center">大</td>
+    <tr><td><img src="https://i.imgur.com/1FTaBO1.png" width="480"/></td><td><img src="https://i.imgur.com/NubzEhC.png" width="480"/></td></tr>
 </table>
