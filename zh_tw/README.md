@@ -94,6 +94,12 @@
 <a href="item/chestplate.md"><img src="https://i.imgur.com/CKid2Sf.png" width="48"/></a>
 <a href="item/leggings.md"><img src="https://i.imgur.com/IdCbNxt.png" width="48"/></a>
 <a href="item/boots.md"><img src="https://i.imgur.com/JZu4crW.png" width="48"/></a>
-
+<a href="item/land_flying_device.md"><img src="https://i.imgur.com/sMykckD.png" width="48"/></a>
+<a href="item/land_flying_device.md"><img src="https://i.imgur.com/eKWcQ5V.png" width="48"/></a>
+<a href="item/title_block.md"><img src="https://i.imgur.com/u3Xw80S.png" width="48"/></a>
+<a href="item/title_block.md"><img src="https://i.imgur.com/Pnw2qaJ.png" width="48"/></a>
+<a href="item/railway_block.md"><img src="https://i.imgur.com/cO4kFh3.png" width="48"/></a>
+<a href="item/railway_block.md"><img src="https://i.imgur.com/5v9heKY.png" width="48"/></a>
+<a href="item/railway_block.md"><img src="https://i.imgur.com/yVAdA3i.png" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
