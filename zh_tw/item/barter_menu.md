@@ -5,11 +5,9 @@
 <table>
     <tr><td>圖像</td><td><img src="https://i.imgur.com/kUN6gyv.png" width="128"/></td></tr>
     <tr><td>空間</td><td><code>barter_menu</code></td></tr>
-    <tr><td>翻譯</td><td><code>bartersystem.item.barter_menu</code></td></tr>
     <tr><td>堆疊</td><td>1</td></tr>
     <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
     <tr><td>附魔</td><td>無</td></tr>
-    <tr><td>新增</td><td>2022-10-12</td></tr>
 </table>
   
 ---

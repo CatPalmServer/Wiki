@@ -12,22 +12,18 @@
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/4eKYni0.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>transfer_golden_apple</code></td></tr>
-                <tr><td>翻譯</td><td><code>transfersystem.item.transfer_golden_apple</code></td></tr>
                 <tr><td>堆疊</td><td>64</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
-                <tr><td>新增</td><td>2020-07-10</td></tr>
             </table>
         </td>
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/OAmPEYz.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>transfer_gemstone</code></td></tr>
-                <tr><td>翻譯</td><td><code>transfersystem.item.transfer_gemstone</code></td></tr>
                 <tr><td>堆疊</td><td>1</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
-                <tr><td>附魔</td><td>無</td></tr>
-                <tr><td>新增</td><td>2020-07-10</td></tr>
+                <tr><td>附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>
             </table>
         </td>
     </tr>
@@ -39,11 +35,9 @@
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/zWMjq19.png" width="128"/></td></tr>
                 <tr><td>空間</td><td><code>transfer_gemstone_block</code></td></tr>
-                <tr><td>翻譯</td><td><code>transfersystem.item.transfer_gemstone_block</code></td></tr>
                 <tr><td>堆疊</td><td>1</td></tr>
                 <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
                 <tr><td>附魔</td><td>無</td></tr>
-                <tr><td>新增</td><td>2020-07-10</td></tr>
             </table>
         </td>
     </tr>

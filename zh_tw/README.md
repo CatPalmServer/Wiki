@@ -62,4 +62,17 @@
 <a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/VNWujqZ.gif" width="48"/></a>
 <a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
 
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.gif" width="48"/></a>
+
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
