@@ -6,6 +6,8 @@
 <table>
     <tr>
         <td align="center">礦石</td>
+        <td align="center">碎片</td>
+        <td align="center">單顆</td>
     </tr>
     <tr>
         <td>
@@ -16,13 +18,6 @@
                 <tr><td>附魔</td><td>無</td></tr>
             </table>
         </td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <td align="center">碎片</td>
-    </tr>
-    <tr>
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/VNWujqZ.png" width="128"/></td></tr>
@@ -31,13 +26,6 @@
                 <tr><td>附魔</td><td>無</td></tr>
             </table>
         </td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <td align="center">單顆</td>
-    </tr>
-    <tr>
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/pivPa8U.png" width="128"/></td></tr>
