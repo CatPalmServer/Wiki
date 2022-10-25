@@ -402,7 +402,7 @@
 
 ## 資料
 ### 強化
-在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與[龍牙](dragon_tooth.md)、[血龍牙](dragon_blood_tooth.md)、[夢魘結晶](nightmare_crystal.md)合成能機率性強化1級別，  
+在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與[龍牙](dragon_tooth.md)、[血龍牙](dragon_blood_tooth.md)、[夢魘結晶](nightmare_crystal.md)合成能機率性強化1級別：    
 
 <table>
     <tr>
@@ -454,6 +454,8 @@
         <td align="center">2%</td>
     </tr>
 </table>
+
+如果機率為100%將消耗10等經驗值，機率為20%消耗2等經驗值，以此類推。
 
 <table>
     <tr><td align="center">非<a href="../feature/cat_power.md">貓之力</a>期間</td><td align="center"><a href="../feature/cat_power.md">貓之力</a>期間</td></tr>
