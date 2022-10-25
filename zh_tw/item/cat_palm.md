@@ -56,8 +56,8 @@
                             <tr><td align="center">　紅</td><td align="center"><img src="https://i.imgur.com/VnW89dT.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/quTQewd.png" height="48"/></td></tr>
                             <tr><td align="center">　黑</td><td align="center"><img src="https://i.imgur.com/lQXc3Kt.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/Z4Uypyn.png" height="48"/></td></tr>
                             <tr><td align="center">　彩</td><td align="center"><img src="https://i.imgur.com/CQwCV4g.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/N3Z0vMJ.gif" height="48"/></td></tr>
-                            ※鑽石棒部分變成金色
                         </table>
+                        ※鑽石棒部分變成金色
                     </td>
                 </tr>
             </table>
@@ -111,8 +111,8 @@
                             <tr><td align="center">　紅</td><td align="center"><img src="https://i.imgur.com/qu5sBnI.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/ijqdtpb.png" height="48"/></td></tr>
                             <tr><td align="center">　黑</td><td align="center"><img src="https://i.imgur.com/PmRcnrY.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/jXwmltj.png" height="48"/></td></tr>
                             <tr><td align="center">　彩</td><td align="center"><img src="https://i.imgur.com/0WG5CJ1.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/zPXfxx5.gif" height="48"/></td></tr>
-                            ※爪子部分變成金色
                         </table>
+                        ※爪子部分變成金色
                     </td>
                 </tr>
             </table>
