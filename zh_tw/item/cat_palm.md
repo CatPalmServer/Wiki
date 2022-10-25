@@ -403,7 +403,7 @@
     </tr>
     <tr>
         <td align="center">彩</td>
-        <td colspan="2">不可合成</td>
+        <td colspan="2">不可合成，只能透過<a href="../feature/anniversary.md">周年慶</a>競標取得</td>
     </tr>
 </table>
 
