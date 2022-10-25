@@ -505,7 +505,7 @@
     </tr>
 </table>
 
-## 爆擊
+### 爆擊
 機率對非[Boss生物](https://minecraft.fandom.com/zh/wiki/Category:Boss生物)造成2倍傷害：  
 
 <table>
