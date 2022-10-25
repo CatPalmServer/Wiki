@@ -406,49 +406,49 @@
 
 <table>
     <tr>
-        <td align="center">當前強化級別</td>
+        <td align="center">升級</td>
         <td align="center" width="60">龍牙</td>
         <td align="center" width="60">血龍牙</td>
         <td align="center" width="60">夢魘結晶</td>
     </tr>
     <tr>
-        <td align="center">0</td>
-        <td align="center">40%</td>
-        <td align="center">100%</td>
-        <td align="center">100%</td>
-    </tr>
-    <tr>
         <td align="center">1</td>
-        <td align="center">10%</td>
+        <td align="center">40%</td>
         <td align="center">100%</td>
         <td align="center">100%</td>
     </tr>
     <tr>
         <td align="center">2</td>
-        <td align="center">2%</td>
-        <td align="center">40%</td>
+        <td align="center">10%</td>
+        <td align="center">100%</td>
         <td align="center">100%</td>
     </tr>
     <tr>
         <td align="center">3</td>
-        <td align="center">0%</td>
-        <td align="center">10%</td>
+        <td align="center">2%</td>
+        <td align="center">40%</td>
         <td align="center">100%</td>
     </tr>
     <tr>
         <td align="center">4</td>
         <td align="center">0%</td>
+        <td align="center">10%</td>
+        <td align="center">100%</td>
+    </tr>
+    <tr>
+        <td align="center">5</td>
+        <td align="center">0%</td>
         <td align="center">2%</td>
         <td align="center">40%</td>
     </tr>
     <tr>
-        <td align="center">5</td>
+        <td align="center">6</td>
         <td align="center">0%</td>
         <td align="center">0%</td>
         <td align="center">10%</td>
     </tr>
     <tr>
-        <td align="center">6</td>
+        <td align="center">7</td>
         <td align="center">0%</td>
         <td align="center">0%</td>
         <td align="center">2%</td>
