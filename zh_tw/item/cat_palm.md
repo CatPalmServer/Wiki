@@ -133,6 +133,13 @@
                 <tr><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
             </table>
         </td>
+        <td>
+            <table>
+                <tr><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/64Ww9Ly.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/64Ww9Ly.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/64Ww9Ly.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/gUwAtm9.png" width="48"/></td><td width="70"></td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/64Ww9Ly.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td colspan="3"></td></tr>
+            </table>
+        </td>
     </tr>
     <tr>
         <td align="center">橙</td>
@@ -289,13 +296,6 @@
 <table>
     <tr>
         <td align="center">白</td>
-        <td>
-            <table>
-                <tr><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/64Ww9Ly.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td colspan="3"></td></tr>
-                <tr><td><img src="https://i.imgur.com/64Ww9Ly.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/64Ww9Ly.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/gUwAtm9.png" width="48"/></td><td width="70"></td></tr>
-                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/64Ww9Ly.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td colspan="3"></td></tr>
-            </table>
-        </td>
     </tr>
     <tr>
         <td align="center">橙</td>
