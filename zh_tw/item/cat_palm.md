@@ -402,7 +402,7 @@
 
 ## 資料
 ### 強化
-在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與[龍牙](dragon_tooth.md)、[血龍牙](dragon_blood_tooth.md)、[夢魘結晶](nightmare_crystal.md)合成能機率性強化1級別：    
+在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與[龍牙](dragon_tooth.md)、[血龍牙](dragon_blood_tooth.md)、[夢魘結晶](nightmare_crystal.md)合成能機率性強化級別：    
 
 <table>
     <tr>
