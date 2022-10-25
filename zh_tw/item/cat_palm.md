@@ -416,9 +416,9 @@
 <table>
     <tr>
         <td align="center">升級</td>
-        <td align="center" width="100">龍牙</td>
-        <td align="center" width="100">血龍牙</td>
-        <td align="center" width="100">夢魘結晶</td>
+        <td align="center" width="120">每個龍牙</td>
+        <td align="center" width="120">每個血龍牙</td>
+        <td align="center" width="120">每個夢魘結晶</td>
     </tr>
     <tr>
         <td align="center">1</td>
