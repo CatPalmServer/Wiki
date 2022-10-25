@@ -449,3 +449,123 @@
         </td>
     </tr>
 </table>
+
+---
+
+## 資料
+### 強化
+在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與[龍牙](dragon_tooth.md)、[血龍牙](dragon_blood_tooth.md)、[夢魘結晶](nightmare_crystal.md)合成能機率性強化1級別，  
+
+<table>
+    <tr>
+        <td align="center">當前強化級別</td>
+        <td align="center" width="60">龍牙</td>
+        <td align="center" width="60">血龍牙</td>
+        <td align="center" width="60">夢魘結晶</td>
+    </tr>
+    <tr>
+        <td align="center">0</td>
+        <td align="center">40%</td>
+        <td align="center">100%</td>
+        <td align="center">100%</td>
+    </tr>
+    <tr>
+        <td align="center">1</td>
+        <td align="center">10%</td>
+        <td align="center">100%</td>
+        <td align="center">100%</td>
+    </tr>
+    <tr>
+        <td align="center">2</td>
+        <td align="center">2%</td>
+        <td align="center">40%</td>
+        <td align="center">100%</td>
+    </tr>
+    <tr>
+        <td align="center">3</td>
+        <td align="center">0%</td>
+        <td align="center">10%</td>
+        <td align="center">100%</td>
+    </tr>
+    <tr>
+        <td align="center">4</td>
+        <td align="center">0%</td>
+        <td align="center">2%</td>
+        <td align="center">40%</td>
+    </tr>
+    <tr>
+        <td align="center">5</td>
+        <td align="center">0%</td>
+        <td align="center">0%</td>
+        <td align="center">10%</td>
+    </tr>
+    <tr>
+        <td align="center">6</td>
+        <td align="center">0%</td>
+        <td align="center">0%</td>
+        <td align="center">2%</td>
+    </tr>
+</table>
+
+<table>
+    <tr><td align="center">非<a href="../feature/cat_power.md">貓之力</a>期間</td><td align="center"><a href="../feature/cat_power.md">貓之力</a>期間</td></tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td align="center">樣式</td>
+                    <td align="center">鑽石攻擊力</td>
+                    <td align="center">獄髓攻擊力</td>
+                    <td align="center">強化每級增加攻擊力</td>
+                </tr>
+                <tr>
+                    <td align="center">劍</td>
+                    <td align="center">7</td>
+                    <td align="center">8</td>
+                    <td align="center">1</td>
+                </tr>
+                <tr>
+                    <td align="center">斧</td>
+                    <td align="center">9</td>
+                    <td align="center">10</td>
+                    <td align="center">1.5</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center">樣式</td>
+                    <td align="center">鑽石攻擊力</td>
+                    <td align="center">獄髓攻擊力</td>
+                    <td align="center">強化每級增加攻擊力</td>
+                </tr>
+                <tr>
+                    <td align="center">劍</td>
+                    <td align="center" colspan="2">32</td>
+                    <td align="center">無</td>
+                </tr>
+                <tr>
+                    <td align="center">斧</td>
+                    <td align="center" colspan="2">40</td>
+                    <td align="center">無</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+## 爆擊
+機率對非[Boss生物](https://minecraft.fandom.com/zh/wiki/Category:Boss生物)造成2倍傷害：  
+
+<table>
+    <tr>
+        <td align="center">標準</td>
+        <td align="center">配戴<a href="cat_ear.md">貓耳</a></td>
+        <td align="center">配戴<a href="cat_helmet.md">貓帽</a></td>
+    </tr>
+    <tr>
+        <td align="center">5%</td>
+        <td align="center" colspan="2">25%</td>
+    </tr>
+</table>
