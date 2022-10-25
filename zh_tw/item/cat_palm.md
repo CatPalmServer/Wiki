@@ -407,9 +407,9 @@
 <table>
     <tr>
         <td align="center">升級</td>
-        <td align="center" width="60">龍牙</td>
-        <td align="center" width="60">血龍牙</td>
-        <td align="center" width="60">夢魘結晶</td>
+        <td align="center" width="80">龍牙</td>
+        <td align="center" width="80">血龍牙</td>
+        <td align="center" width="80">夢魘結晶</td>
     </tr>
     <tr>
         <td align="center">1</td>
