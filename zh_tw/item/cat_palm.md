@@ -416,9 +416,9 @@
 <table>
     <tr>
         <td align="center">升級</td>
-        <td align="center" width="120">每個龍牙</td>
-        <td align="center" width="120">每個血龍牙</td>
-        <td align="center" width="120">每個夢魘結晶</td>
+        <td align="center" width="100">龍牙</td>
+        <td align="center" width="100">血龍牙</td>
+        <td align="center" width="100">夢魘結晶</td>
     </tr>
     <tr>
         <td align="center">1</td>
@@ -464,7 +464,8 @@
     </tr>
 </table>
 
-如果機率為100%將消耗10等經驗值，機率為20%將消耗2等經驗值，機率為10%以下將消耗1等經驗值，以此類推。 
+可以疊加，例如龍牙1顆機率是5%，同時使用3顆機率是15%。  
+機率為100%需消耗10等經驗值，機率為20%需消耗2等經驗值，機率為10%以下需消耗1等經驗值，以此類推。 
 
 <table>
     <tr><td align="center">非<a href="../feature/cat_power.md">貓之力</a>期間</td><td align="center"><a href="../feature/cat_power.md">貓之力</a>期間</td></tr>
