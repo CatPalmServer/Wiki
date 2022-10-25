@@ -8,7 +8,7 @@
     <tr><td align="end">附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/綁定詛咒">綁定詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>
 </table>
 <table>
-    <tr><td align="center">損壞</td><td align="center">圖像</td></tr>
+    <tr><td align="center">耐久度</td><td align="center">圖像</td></tr>
     <tr><td align="center">正常</td><td><img src="https://i.imgur.com/sMykckD.png" height="48"/></td></tr>
     <tr><td align="center">瀕臨損毀</td><td><img src="https://i.imgur.com/eKWcQ5V.png" height="48"/></td></tr>
 </table>
