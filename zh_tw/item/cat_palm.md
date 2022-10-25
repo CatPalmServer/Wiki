@@ -10,9 +10,6 @@
 <table>
     <tr>
         <td align="center">劍</td>
-        <td align="center">斧</td>
-    </tr>
-    <tr>
         <td>
             <table>
                 <tr><td align="center">非<a href="../feature/cat_power.md">貓之力</a>期間</td><td align="center"><a href="../feature/cat_power.md">貓之力</a>期間</td></tr>
@@ -64,6 +61,9 @@
                 </tr>
             </table>
         </td>
+    </tr>
+    <tr>
+        <td align="center">斧</td>
         <td>
             <table>
                 <tr><td align="center">非<a href="../feature/cat_power.md">貓之力</a>期間</td><td align="center"><a href="../feature/cat_power.md">貓之力</a>期間</td></tr>
