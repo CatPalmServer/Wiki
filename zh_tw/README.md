@@ -105,7 +105,39 @@
 <a href="item/rope.md"><img src="https://i.imgur.com/horYOR1.png" width="48"/></a>
 <a href="item/rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
 <a href="item/rope.md"><img src="https://i.imgur.com/qvrHVFH.png" width="48"/></a>
-
-
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/NPueuTE.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/KRZdBzb.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/XGricDM.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/KR1xCVf.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/DrX0oX4.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/E8T8pdA.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/EqNP85I.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/sbEFsan.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/xbhdFWI.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/ewrcAfe.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/CKVJaaa.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/sibxc3Q.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/xTdR0iu.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/5AVmtKo.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/SrUaJHU.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/dYyGRUZ.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/c1inAh8.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/2LSExAT.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/ceBdgpl.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/Br40cQf.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/XQ48mqt.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/Y8Ur8Zd.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/QfC3axT.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/GLwRx8Y.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/x6M8KIn.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/0IFaMLZ.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/mAaNxkB.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/vk4l9po.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/aIchx82.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/3pUEnJ8.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/1lDLObl.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/gPvEwaV.png" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/w2Jcc3C.gif" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/mthVuxz.gif" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
