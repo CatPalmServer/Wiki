@@ -71,45 +71,45 @@
                     <td>
                         <table>
                             <tr><td align="center">顏色</td><td align="center">鑽石材質圖像</td><td align="center">獄髓材質圖像</td></tr>
-                            <tr><td align="center">　白</td><td align="center"><img src="https://i.imgur.com/gUwAtm9.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/ywG8Olc.png" height="48"/></td></tr>
-                            <tr><td align="center">　橙</td><td align="center"><img src="https://i.imgur.com/1Y0zQGq.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/MILLLJT.png" height="48"/></td></tr>
-                            <tr><td align="center">　洋</td><td align="center"><img src="https://i.imgur.com/POfww2a.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/oTSrC4G.png" height="48"/></td></tr>
-                            <tr><td align="center">淺藍</td><td align="center"><img src="https://i.imgur.com/VJXGiSP.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/qG50Qy8.png" height="48"/></td></tr>
-                            <tr><td align="center">　黃</td><td align="center"><img src="https://i.imgur.com/OryBBW4.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/T7EsjCx.png" height="48"/></td></tr>
-                            <tr><td align="center">淺綠</td><td align="center"><img src="https://i.imgur.com/DwivW6I.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/2vR3P0v.png" height="48"/></td></tr>
-                            <tr><td align="center">粉紅</td><td align="center"><img src="https://i.imgur.com/Lq0Aanx.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/wMssYrY.png" height="48"/></td></tr>
-                            <tr><td align="center">　灰</td><td align="center"><img src="https://i.imgur.com/G9KVrUo.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/FGBsDB3.png" height="48"/></td></tr>
-                            <tr><td align="center">淺灰</td><td align="center"><img src="https://i.imgur.com/M9DHzXs.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/gbY8JFN.png" height="48"/></td></tr>
-                            <tr><td align="center">　青</td><td align="center"><img src="https://i.imgur.com/2aKiWqD.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/oWyVvm5.png" height="48"/></td></tr>
-                            <tr><td align="center">　紫</td><td align="center"><img src="https://i.imgur.com/AoBXCRF.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/GAWJPxb.png" height="48"/></td></tr>
-                            <tr><td align="center">　藍</td><td align="center"><img src="https://i.imgur.com/TjlWo7N.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/x1oSwCc.png" height="48"/></td></tr>
-                            <tr><td align="center">　棕</td><td align="center"><img src="https://i.imgur.com/M4OVGb3.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/q8wkTFr.png" height="48"/></td></tr>
-                            <tr><td align="center">　綠</td><td align="center"><img src="https://i.imgur.com/t0YqYxT.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/M5EaFYt.png" height="48"/></td></tr>
-                            <tr><td align="center">　紅</td><td align="center"><img src="https://i.imgur.com/agcVeaA.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/qu5sBnI.png" height="48"/></td></tr>
-                            <tr><td align="center">　黑</td><td align="center"><img src="https://i.imgur.com/iijoXzD.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/PmRcnrY.png" height="48"/></td></tr>
-                            <tr><td align="center">　彩</td><td align="center"><img src="https://i.imgur.com/7tQnuoW.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/0WG5CJ1.gif" height="48"/></td></tr>
+                            <tr><td align="center">　白</td><td align="center"><img src="https://i.imgur.com/gUwAtm9.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/icGBiuV.png" height="48"/></td></tr>
+                            <tr><td align="center">　橙</td><td align="center"><img src="https://i.imgur.com/1Y0zQGq.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/k4t0Y3U.png" height="48"/></td></tr>
+                            <tr><td align="center">　洋</td><td align="center"><img src="https://i.imgur.com/POfww2a.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/RExyHLi.png" height="48"/></td></tr>
+                            <tr><td align="center">淺藍</td><td align="center"><img src="https://i.imgur.com/VJXGiSP.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/FLsPWCt.png" height="48"/></td></tr>
+                            <tr><td align="center">　黃</td><td align="center"><img src="https://i.imgur.com/OryBBW4.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/PD0jlo0.png" height="48"/></td></tr>
+                            <tr><td align="center">淺綠</td><td align="center"><img src="https://i.imgur.com/DwivW6I.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/fDjxoVd.png" height="48"/></td></tr>
+                            <tr><td align="center">粉紅</td><td align="center"><img src="https://i.imgur.com/Lq0Aanx.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/9cIFVz8.png" height="48"/></td></tr>
+                            <tr><td align="center">　灰</td><td align="center"><img src="https://i.imgur.com/G9KVrUo.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/gQxV5vZ.png" height="48"/></td></tr>
+                            <tr><td align="center">淺灰</td><td align="center"><img src="https://i.imgur.com/M9DHzXs.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/FfqDiSZ.png" height="48"/></td></tr>
+                            <tr><td align="center">　青</td><td align="center"><img src="https://i.imgur.com/2aKiWqD.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/AZshztV.png" height="48"/></td></tr>
+                            <tr><td align="center">　紫</td><td align="center"><img src="https://i.imgur.com/AoBXCRF.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/fDj2kXK.png" height="48"/></td></tr>
+                            <tr><td align="center">　藍</td><td align="center"><img src="https://i.imgur.com/TjlWo7N.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/olmJSOS.png" height="48"/></td></tr>
+                            <tr><td align="center">　棕</td><td align="center"><img src="https://i.imgur.com/M4OVGb3.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/H0obGSp.png" height="48"/></td></tr>
+                            <tr><td align="center">　綠</td><td align="center"><img src="https://i.imgur.com/t0YqYxT.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/ZqadybQ.png" height="48"/></td></tr>
+                            <tr><td align="center">　紅</td><td align="center"><img src="https://i.imgur.com/agcVeaA.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/xSWz1IM.png" height="48"/></td></tr>
+                            <tr><td align="center">　黑</td><td align="center"><img src="https://i.imgur.com/iijoXzD.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/sd0PDy8.png" height="48"/></td></tr>
+                            <tr><td align="center">　彩</td><td align="center"><img src="https://i.imgur.com/7tQnuoW.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/FW1nORV.gif" height="48"/></td></tr>
                         </table>
                     </td>
                     <td>
                         <table>
                             <tr><td align="center">顏色</td><td align="center">鑽石材質圖像</td><td align="center">獄髓材質圖像</td></tr>
-                            <tr><td align="center">　白</td><td align="center"><img src="https://i.imgur.com/icGBiuV.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/5ycjLbX.png" height="48"/></td></tr>
-                            <tr><td align="center">　橙</td><td align="center"><img src="https://i.imgur.com/k4t0Y3U.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/SvqPAld.png" height="48"/></td></tr>
-                            <tr><td align="center">　洋</td><td align="center"><img src="https://i.imgur.com/RExyHLi.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/26wXIUE.png" height="48"/></td></tr>
-                            <tr><td align="center">淺藍</td><td align="center"><img src="https://i.imgur.com/FLsPWCt.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/N8Qknqk.png" height="48"/></td></tr>
-                            <tr><td align="center">　黃</td><td align="center"><img src="https://i.imgur.com/PD0jlo0.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/Wejj02b.png" height="48"/></td></tr>
-                            <tr><td align="center">淺綠</td><td align="center"><img src="https://i.imgur.com/fDjxoVd.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/g8Kf1Dk.png" height="48"/></td></tr>
-                            <tr><td align="center">粉紅</td><td align="center"><img src="https://i.imgur.com/9cIFVz8.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/MNjWwNn.png" height="48"/></td></tr>
-                            <tr><td align="center">　灰</td><td align="center"><img src="https://i.imgur.com/gQxV5vZ.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/KqtZ8h8.png" height="48"/></td></tr>
-                            <tr><td align="center">淺灰</td><td align="center"><img src="https://i.imgur.com/FfqDiSZ.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/4FwVF10.png" height="48"/></td></tr>
-                            <tr><td align="center">　青</td><td align="center"><img src="https://i.imgur.com/AZshztV.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/R5dmcI5.png" height="48"/></td></tr>
-                            <tr><td align="center">　紫</td><td align="center"><img src="https://i.imgur.com/fDj2kXK.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/ukLtU7j.png" height="48"/></td></tr>
-                            <tr><td align="center">　藍</td><td align="center"><img src="https://i.imgur.com/olmJSOS.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/pTEw4Cw.png" height="48"/></td></tr>
-                            <tr><td align="center">　棕</td><td align="center"><img src="https://i.imgur.com/H0obGSp.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/OQAH2OF.png" height="48"/></td></tr>
-                            <tr><td align="center">　綠</td><td align="center"><img src="https://i.imgur.com/ZqadybQ.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/4KH7S8Y.png" height="48"/></td></tr>
-                            <tr><td align="center">　紅</td><td align="center"><img src="https://i.imgur.com/xSWz1IM.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/ijqdtpb.png" height="48"/></td></tr>
-                            <tr><td align="center">　黑</td><td align="center"><img src="https://i.imgur.com/sd0PDy8.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/jXwmltj.png" height="48"/></td></tr>
-                            <tr><td align="center">　彩</td><td align="center"><img src="https://i.imgur.com/FW1nORV.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/zPXfxx5.gif" height="48"/></td></tr>
+                            <tr><td align="center">　白</td><td align="center"><img src="https://i.imgur.com/ywG8Olc.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/5ycjLbX.png" height="48"/></td></tr>
+                            <tr><td align="center">　橙</td><td align="center"><img src="https://i.imgur.com/MILLLJT.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/SvqPAld.png" height="48"/></td></tr>
+                            <tr><td align="center">　洋</td><td align="center"><img src="https://i.imgur.com/oTSrC4G.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/26wXIUE.png" height="48"/></td></tr>
+                            <tr><td align="center">淺藍</td><td align="center"><img src="https://i.imgur.com/qG50Qy8.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/N8Qknqk.png" height="48"/></td></tr>
+                            <tr><td align="center">　黃</td><td align="center"><img src="https://i.imgur.com/T7EsjCx.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/Wejj02b.png" height="48"/></td></tr>
+                            <tr><td align="center">淺綠</td><td align="center"><img src="https://i.imgur.com/2vR3P0v.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/g8Kf1Dk.png" height="48"/></td></tr>
+                            <tr><td align="center">粉紅</td><td align="center"><img src="https://i.imgur.com/wMssYrY.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/MNjWwNn.png" height="48"/></td></tr>
+                            <tr><td align="center">　灰</td><td align="center"><img src="https://i.imgur.com/FGBsDB3.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/KqtZ8h8.png" height="48"/></td></tr>
+                            <tr><td align="center">淺灰</td><td align="center"><img src="https://i.imgur.com/gbY8JFN.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/4FwVF10.png" height="48"/></td></tr>
+                            <tr><td align="center">　青</td><td align="center"><img src="https://i.imgur.com/oWyVvm5.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/R5dmcI5.png" height="48"/></td></tr>
+                            <tr><td align="center">　紫</td><td align="center"><img src="https://i.imgur.com/GAWJPxb.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/ukLtU7j.png" height="48"/></td></tr>
+                            <tr><td align="center">　藍</td><td align="center"><img src="https://i.imgur.com/x1oSwCc.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/pTEw4Cw.png" height="48"/></td></tr>
+                            <tr><td align="center">　棕</td><td align="center"><img src="https://i.imgur.com/q8wkTFr.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/OQAH2OF.png" height="48"/></td></tr>
+                            <tr><td align="center">　綠</td><td align="center"><img src="https://i.imgur.com/M5EaFYt.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/4KH7S8Y.png" height="48"/></td></tr>
+                            <tr><td align="center">　紅</td><td align="center"><img src="https://i.imgur.com/qu5sBnI.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/ijqdtpb.png" height="48"/></td></tr>
+                            <tr><td align="center">　黑</td><td align="center"><img src="https://i.imgur.com/PmRcnrY.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/jXwmltj.png" height="48"/></td></tr>
+                            <tr><td align="center">　彩</td><td align="center"><img src="https://i.imgur.com/0WG5CJ1.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/zPXfxx5.gif" height="48"/></td></tr>
                         </table>
                     </td>
                 </tr>
