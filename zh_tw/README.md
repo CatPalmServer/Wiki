@@ -101,5 +101,11 @@
 <a href="item/railway_block.md"><img src="https://i.imgur.com/cO4kFh3.png" width="48"/></a>
 <a href="item/railway_block.md"><img src="https://i.imgur.com/5v9heKY.png" width="48"/></a>
 <a href="item/railway_block.md"><img src="https://i.imgur.com/yVAdA3i.png" width="48"/></a>
+<a href="item/rope.md"><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></a>
+<a href="item/rope.md"><img src="https://i.imgur.com/horYOR1.png" width="48"/></a>
+<a href="item/rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
+<a href="item/rope.md"><img src="https://i.imgur.com/qvrHVFH.png" width="48"/></a>
+
+
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)

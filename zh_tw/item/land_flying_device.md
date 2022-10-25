@@ -3,9 +3,9 @@
 
 ## 資料
 <table>
-    <tr><td>堆疊</td><td>1</td></tr>
-    <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
-    <tr><td>附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/綁定詛咒">綁定詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>
+    <tr><td align="end">堆疊</td><td>1</td></tr>
+    <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
+    <tr><td align="end">附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/綁定詛咒">綁定詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>
 </table>
 <table>
     <tr><td align="center">損壞</td><td align="center">圖像</td></tr>

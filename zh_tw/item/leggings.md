@@ -3,9 +3,9 @@
 
 ## 資料
 <table>
-    <tr><td>堆疊</td><td>1</td></tr>
-    <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/武器配方">武器</a></td></tr>
-    <tr><td>附魔</td><td>
+    <tr><td align="end">堆疊</td><td>1</td></tr>
+    <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/武器配方">武器</a></td></tr>
+    <tr><td align="end">附魔</td><td>
         <table>
             <tr><td>非夢魘結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/火焰保護">火焰保護</a>、<a href="https://minecraft.fandom.com/zh/wiki/投射物保護">投射物保護</a>、<a href="https://minecraft.fandom.com/zh/wiki/爆炸保護">爆炸保護</a>、<a href="https://minecraft.fandom.com/zh/wiki/保護">保護</a>、<a href="https://minecraft.fandom.com/zh/wiki/尖刺">尖刺</a>、<a href="https://minecraft.fandom.com/zh/wiki/綁定詛咒">綁定詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/迅捷潛行">迅捷潛行</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>
             <tr><td>夢魘結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/火焰保護">火焰保護</a>、<a href="https://minecraft.fandom.com/zh/wiki/投射物保護">投射物保護</a>、<a href="https://minecraft.fandom.com/zh/wiki/爆炸保護">爆炸保護</a>、<a href="https://minecraft.fandom.com/zh/wiki/保護">保護</a>、<a href="https://minecraft.fandom.com/zh/wiki/尖刺">尖刺</a>、<a href="https://minecraft.fandom.com/zh/wiki/綁定詛咒">綁定詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/迅捷潛行">迅捷潛行</a></td></tr>

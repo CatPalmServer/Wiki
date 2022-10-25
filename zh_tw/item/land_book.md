@@ -13,17 +13,17 @@
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/Vj4LxUG.png" width="128"/></td></tr>
-                <tr><td>堆疊</td><td>64</td></tr>
-                <tr><td>配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
-                <tr><td>附魔</td><td>無</td></tr>
+                <tr><td align="end">堆疊</td><td>64</td></tr>
+                <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
+                <tr><td align="end">附魔</td><td>無</td></tr>
             </table>
         </td>
         <td>
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/duGvD3y.png" width="128"/></td></tr>
-                <tr><td>堆疊</td><td>1</td></tr>
-                <tr><td>配方</td><td>無</td></tr>
-                <tr><td>附魔</td><td>無</td></tr>
+                <tr><td align="end">堆疊</td><td>1</td></tr>
+                <tr><td align="end">配方</td><td>無</td></tr>
+                <tr><td align="end">附魔</td><td>無</td></tr>
             </table>
         </td>
     </tr>
@@ -180,8 +180,8 @@ I_PLAYER=ABDEFGHILMPRSTUVY
   領地能量的放置、拆除
 - ### S 生成實體
   [生怪蛋](https://minecraft.fandom.com/zh/wiki/生怪蛋)的使用  
-  [友善生物收納繩](amiability_rope.md)的使用  
-  [邪惡生物收納繩](malicious_rope.md)的使用
+  [友善生物收納繩](rope.md)的使用  
+  [邪惡生物收納繩](rope.md)的使用
 - ### T 觸發機關
   [絆線鉤](https://minecraft.fandom.com/zh/wiki/絆線鉤)的觸發  
   [陷阱儲物箱](https://minecraft.fandom.com/zh/wiki/陷阱儲物箱)的使用  
