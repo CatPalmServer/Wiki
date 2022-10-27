@@ -173,5 +173,11 @@
 <a href="item/cat_palm.md"><img src="https://i.imgur.com/sd0PDy8.png" width="48"/></a>
 <a href="item/cat_palm.md"><img src="https://i.imgur.com/7tQnuoW.gif" width="48"/></a>
 <a href="item/cat_palm.md"><img src="https://i.imgur.com/FW1nORV.gif" width="48"/></a>
+<a href="item/peaceful_proof.md"><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/ChdGHZh.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/cTC2fkv.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/tZPaxWI.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/zj97a5z.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/5NXrwba.png" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
