@@ -47,7 +47,7 @@
 使用`右鍵`對準非永久和平方塊可消耗1等級充能100點能量，能量會改變其顯示或方塊狀態：  
 
 <table>
-    <tr><td align="center">累計能量</td><td align="center">狀態</td><td align="center">挖掘</td></tr>
+    <tr><td align="center">累計能量</td><td align="center">狀態</td><td align="center">挖掘後</td></tr>
     <tr><td align="center">0</td><td align="center"><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></td><td align="center">無損失</td></tr>
     <tr><td align="center">1～4999</td><td align="center"><img src="https://i.imgur.com/cTC2fkv.png" height="48"/></td><td align="center">損失能量</td></tr>
     <tr><td align="center">5000～9999</td><td align="center"><img src="https://i.imgur.com/tZPaxWI.png" height="48"/></td><td align="center">損失能量</td></tr>
