@@ -17,7 +17,7 @@
         <td align="center">劍</td>
         <td>
             <table>
-                <tr><td align="center">非<a href="../feature/cat_power.md">貓之力</a>期間</td><td align="center"><a href="../feature/cat_power.md">貓之力</a>期間</td></tr>
+                <tr><td align="center">非<a href="../feature/cat_day.md">貓之日</a>期間</td><td align="center"><a href="../feature/cat_day.md">貓之日</a>期間</td></tr>
                 <tr>
                     <td>
                         <table>
@@ -71,7 +71,7 @@
         <td align="center">斧</td>
         <td>
             <table>
-                <tr><td align="center">非<a href="../feature/cat_power.md">貓之力</a>期間</td><td align="center"><a href="../feature/cat_power.md">貓之力</a>期間</td></tr>
+                <tr><td align="center">非<a href="../feature/cat_day.md">貓之日</a>期間</td><td align="center"><a href="../feature/cat_day.md">貓之日</a>期間</td></tr>
                 <tr>
                     <td>
                         <table>
@@ -123,7 +123,7 @@
     </tr>
 </table>
 
-斧的[貓之力](../feature/cat_power.md)版本差異在爪子顏色。
+斧的[貓之日](../feature/cat_day.md)版本差異在爪子顏色。
   
 ---
 
@@ -468,7 +468,7 @@
 機率為100%需消耗10等經驗值，機率為20%需消耗2等經驗值，機率為10%以下需消耗1等經驗值，以此類推。 
 
 <table>
-    <tr><td align="center">非<a href="../feature/cat_power.md">貓之力</a>期間</td><td align="center"><a href="../feature/cat_power.md">貓之力</a>期間</td></tr>
+    <tr><td align="center">非<a href="../feature/cat_day.md">貓之日</a>期間</td><td align="center"><a href="../feature/cat_day.md">貓之日</a>期間</td></tr>
     <tr>
         <td>
             <table>
