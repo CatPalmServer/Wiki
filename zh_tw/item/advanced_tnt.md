@@ -14,32 +14,32 @@
         <td align="center" width="100">絲綢之觸</td>
     </tr>
     <tr>
-        <td align="center">5</td>
+        <td align="center">X5</td>
         <td align="center"><img src="https://i.imgur.com/OM9DgZA.png" height="48"/></td>
         <td align="center"><img src="https://i.imgur.com/JpzWsch.png" height="48"/></td>
     </tr>
     <tr>
-        <td align="center">9</td>
+        <td align="center">X9</td>
         <td align="center"><img src="https://i.imgur.com/nJw5AaN.png" height="48"/></td>
         <td align="center"><img src="https://i.imgur.com/BfufQi6.png" height="48"/></td>
     </tr>
     <tr>
-        <td align="center">15</td>
+        <td align="center">X15</td>
         <td align="center"><img src="https://i.imgur.com/0d8LO0r.png" height="48"/></td>
         <td align="center"><img src="https://i.imgur.com/JeIiF9r.png" height="48"/></td>
     </tr>
     <tr>
-        <td align="center">25</td>
+        <td align="center">X25</td>
         <td align="center"><img src="https://i.imgur.com/DRkESCG.png" height="48"/></td>
         <td align="center"><img src="https://i.imgur.com/oO6WHc0.png" height="48"/></td>
     </tr>
     <tr>
-        <td align="center">43</td>
+        <td align="center">X43</td>
         <td align="center"><img src="https://i.imgur.com/A0UTu5w.png" height="48"/></td>
         <td align="center"><img src="https://i.imgur.com/l9gYhYS.png" height="48"/></td>
     </tr>
     <tr>
-        <td align="center">73</td>
+        <td align="center">X73</td>
         <td align="center"><img src="https://i.imgur.com/g08OVuf.png" height="48"/></td>
         <td align="center"><img src="https://i.imgur.com/lQ9ou2E.png" height="48"/></td>
     </tr>
@@ -55,7 +55,7 @@
         <td align="center">絲綢之觸</td>
     </tr>
     <tr>
-        <td align="center">5</td>
+        <td align="center">X5</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/8FSBrRo.png" width="48"/></td><td><img src="https://i.imgur.com/a6baH1V.png" width="48"/></td><td><img src="https://i.imgur.com/8FSBrRo.png" width="48"/></td><td colspan="3"></td></tr>
@@ -72,7 +72,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">9</td>
+        <td align="center">X9</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td><img src="https://i.imgur.com/OM9DgZA.png" width="48"/></td><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td colspan="3"></td></tr>
@@ -89,7 +89,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">15</td>
+        <td align="center">X15</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td><img src="https://i.imgur.com/nJw5AaN.png" width="48"/></td><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td colspan="3"></td></tr>
@@ -106,7 +106,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">25</td>
+        <td align="center">X25</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td><img src="https://i.imgur.com/0d8LO0r.png" width="48"/></td><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td colspan="3"></td></tr>
@@ -123,7 +123,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">43</td>
+        <td align="center">X43</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td><img src="https://i.imgur.com/DRkESCG.png" width="48"/></td><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td colspan="3"></td></tr>
@@ -140,7 +140,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">73</td>
+        <td align="center">X73</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td><img src="https://i.imgur.com/A0UTu5w.png" width="48"/></td><td><img src="https://i.imgur.com/xJYACxZ.png" width="48"/></td><td colspan="3"></td></tr>
