@@ -26,7 +26,7 @@
         </td>
     </tr>
 </table>
-  
+
 ---
   
 ## 合成
@@ -35,7 +35,7 @@
     <tr><td><img src="https://i.imgur.com/0VSclPu.png" width="48"/></td><td><img src="https://i.imgur.com/nTDcFr1.png" width="48"/></td><td><img src="https://i.imgur.com/0VSclPu.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/7OTyHPW.png" width="48"/></td><td width="70"></td></tr>
     <tr><td></td><td><img src="https://i.imgur.com/0VSclPu.png" width="48"/></td><td></td><td colspan="3"></td></tr>
 </table>
-  
+
 ---
 
 ## 使用

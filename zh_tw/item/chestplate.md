@@ -18,7 +18,7 @@
     <tr><td align="center"><a href="dragon_blood_tooth.md">血龍牙</a></td><td><img src="https://i.imgur.com/Z51McG5.png" height="48"/></td></tr>
     <tr><td align="center"><a href="nightmare_crystal.md">夢魘結晶</a></td><td><img src="https://i.imgur.com/CKid2Sf.png" height="48"/></td></tr>
 </table>
-  
+
 ---
 
 ## 合成

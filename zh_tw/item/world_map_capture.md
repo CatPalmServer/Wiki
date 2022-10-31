@@ -9,7 +9,7 @@
     <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
     <tr><td align="end">附魔</td><td>無</td></tr>
 </table>
-  
+
 ---
 
 ## 合成
@@ -18,7 +18,7 @@
     <tr><td><img src="https://i.imgur.com/qpOGxFz.png" width="48"/></td><td><img src="https://i.imgur.com/pCLeiw7.png" width="48"/></td><td><img src="https://i.imgur.com/KjNgrUk.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/Ix15Njd.png" width="48"/></td><td width="70"></td></tr>
     <tr><td><img src="https://i.imgur.com/m8hwGCr.png" width="48"/></td><td><img src="https://i.imgur.com/Hk1cHf9.png" width="48"/></td><td><img src="https://i.imgur.com/m8hwGCr.png" width="48"/></td><td colspan="3"></td></tr>
 </table>
-  
+
 ---
 
 ## 使用
@@ -27,7 +27,7 @@
     <tr><td>按<code>右鍵</code><br/>將當前<a href="world_map_view.md">彗星地圖</a>畫面保存成<a href="draw_map.md">彩繪畫布</a></td><td><img src="https://i.imgur.com/6NtJ5Ac.png" width="720"/></td></tr>
     <tr><td>擷取的畫面不會再跟隨座標變動</td><td><img src="https://i.imgur.com/Gf7aXwB.png" width="720"/></td></tr>
 </table>
-  
+
 ---
 
 ## 支援

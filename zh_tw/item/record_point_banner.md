@@ -27,7 +27,7 @@
     <tr><td align="center">紅</td><td align="center"><img src="https://i.imgur.com/gFEJgwh.png" height="48"/></td></tr>
     <tr><td align="center">黑</td><td align="center"><img src="https://i.imgur.com/0NSNQhg.png" height="48"/></td></tr>
 </table>
-  
+
 ---
 
 ## 合成

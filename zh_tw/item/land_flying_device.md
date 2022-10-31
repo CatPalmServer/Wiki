@@ -12,7 +12,7 @@
     <tr><td align="center">正常</td><td><img src="https://i.imgur.com/sMykckD.png" height="48"/></td></tr>
     <tr><td align="center">瀕臨損毀</td><td><img src="https://i.imgur.com/eKWcQ5V.png" height="48"/></td></tr>
 </table>
-  
+
 ---
 
 ## 合成
@@ -21,7 +21,7 @@
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/E4LgClR.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/sMykckD.png" width="48"/></td><td width="70"></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
 </table>
-  
+
 ---
 
 ## 使用

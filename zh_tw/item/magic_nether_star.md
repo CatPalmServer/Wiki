@@ -9,12 +9,12 @@
     <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
     <tr><td align="end">附魔</td><td>無</td></tr>
 </table>
-  
+
 ---
 
 ## 獲取
 [凋零怪](https://minecraft.fandom.com/zh/wiki/凋零怪)有5%機率掉落。
-  
+
 ---
 
 ## 用途

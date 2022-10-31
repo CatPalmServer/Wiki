@@ -30,7 +30,7 @@
         </td>
     </tr>
 </table>
-  
+
 ---
 
 ## 合成
@@ -39,7 +39,7 @@
     <tr><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td><img src="https://i.imgur.com/IWZz8YM.png" width="48"/></td><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/ChdGHZh.png" width="48"/></td><td width="70"></td></tr>
     <tr><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td colspan="3"></td></tr>
 </table>
-  
+
 ---
 
 ## 使用

@@ -11,7 +11,7 @@
     <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
     <tr><td align="end">附魔</td><td>無</td></tr>
 </table>
-  
+
 ---
   
 ## 合成
@@ -55,7 +55,7 @@
     <tr><td><img src="https://i.imgur.com/Juq8YRP.png" width="32"/></td><td><img src="https://i.imgur.com/zmvi2Fl.png" width="32"/></td><td><img src="https://i.imgur.com/elPVGhz.png" width="32"/></td><td><img src="https://i.imgur.com/1L2c9qf.png" width="32"/></td></tr>
     <tr><td><img src="https://i.imgur.com/VY2bAGB.png" width="32"/></td><td><img src="https://i.imgur.com/VUm0Hgy.png" width="32"/></td><td><img src="https://i.imgur.com/W4oCy8A.png" width="32"/></td><td><img src="https://i.imgur.com/zjSYEn2.png" width="32"/></td></tr>
 </table>
-  
+
 ---
 
 ## 使用
@@ -97,7 +97,7 @@
     <tr><td>顯示領地名稱</td><td><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/></td><td><img src="https://i.imgur.com/qywvSMk.png" width="400"/><br/>需要啟用"顯示領地範圍"。</td></tr>
     <tr><td>顯示死亡位置</td><td><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/></td><td><img src="https://i.imgur.com/K6TqBrv.png" width="400"/></td></tr>
 </table>
-  
+
 ---
 
 ## 範圍

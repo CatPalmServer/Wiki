@@ -16,7 +16,7 @@
     <tr><td align="center">粗筆</td><td align="center">大</td><td align="center"><img src="https://i.imgur.com/Fc9LRKo.gif" height="48"/></td></tr>
     <tr><td align="center">板刷</td><td align="center">最大</td><td align="center"><img src="https://i.imgur.com/Sn4dH5a.gif" height="48"/></td></tr>
 </table>
-  
+
 ---
 
 ## 合成

@@ -8,7 +8,7 @@
     <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
     <tr><td align="end">附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>
 </table>
-  
+
 ---
 
 ## 合成

@@ -8,7 +8,7 @@
     <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/工具配方">工具</a></td></tr>
     <tr><td align="end">附魔</td><td>無</td></tr>
 </table>
-  
+
 ---
 
 ## 合成
@@ -17,7 +17,7 @@
     <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/Tg2ncsJ.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/YX4uOZG.png" width="48"/></td><td width="70"></td></tr>
     <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td colspan="3"></td></tr>
 </table>
-  
+
 ---
 
 ## 使用
@@ -27,7 +27,7 @@
     <tr><td>喝下去</td><td><img src="https://i.imgur.com/QfU8njF.png" width="720"/><br/>改名牛奶將被消耗。</td></tr>
 </table>
 如果暱稱已被占用導致不可更改，會返還消耗的改名牛奶。
-  
+
 ---
 
 ## 顯示

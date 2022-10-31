@@ -9,7 +9,7 @@
     <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
     <tr><td align="end">附魔</td><td>無</td></tr>
 </table>
-  
+
 ---
 
 ## 合成
@@ -18,7 +18,7 @@
     <tr><td><img src="https://i.imgur.com/wkLqvqi.png" width="48"/></td><td><img src="https://i.imgur.com/fWIUn4F.png" width="48"/></td><td><img src="https://i.imgur.com/wkLqvqi.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/5IDgby3.png" width="48"/></td><td width="70"></td></tr>
     <tr><td></td><td><img src="https://i.imgur.com/wkLqvqi.png" width="48"/></td><td></td><td colspan="3"></td></tr>
 </table>
-  
+
 ---
 
 ## 使用

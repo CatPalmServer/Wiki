@@ -25,7 +25,7 @@
     <tr><td align="center">夢魘結晶</td><td><img src="https://i.imgur.com/4wVjMpa.png" height="48"/></td></tr>
     <tr><td align="center">創造者</td><td><img src="https://i.imgur.com/vHVetpI.png" height="48"/></td></tr>
 </table>
-  
+
 ---
 
 ## 合成

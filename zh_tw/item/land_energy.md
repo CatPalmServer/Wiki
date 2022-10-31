@@ -13,7 +13,7 @@
     <tr><td align="center">中</td><td><img src="https://i.imgur.com/gDlF2M6.png" height="48"/></td></tr>
     <tr><td align="center">大</td><td><img src="https://i.imgur.com/ulqCHW3.png" height="48"/></td></tr>
 </table>
-  
+
 ---
 
 ## 合成
@@ -49,7 +49,7 @@
         </td>
     </tr>
 </table>
-  
+
 ---
 
 ## 使用
