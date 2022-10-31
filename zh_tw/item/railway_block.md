@@ -84,8 +84,13 @@
 <img src="https://i.imgur.com/tUCGWqI.png" width="480"/>
 
 ### 強制方向
-允許通行的方向取決於放置時朝向的方向，  
-<img src="https://i.imgur.com/66I0z3v.png" width="480"/>  
+允許通行的方向取決於放置時朝向的方向，共有4種：  
+<img src="https://i.imgur.com/66I0z3v.png" width="480"/>
+<table>
+    <tr><td align="center" width="70" height="70"></td><td align="center" width="70" height="70">北</td><td align="center" width="70" height="70"></td></tr>
+    <tr><td align="center" width="70" height="70">西</td><td align="center" width="70" height="70"></td><td align="center" width="70" height="70">東</td></tr>
+    <tr><td align="center" width="70" height="70"></td><td align="center" width="70" height="70">南</td><td align="center" width="70" height="70"></td></tr>
+</table>
 
 只有滿足條件的礦車才可通過：
 - 車上有乘客

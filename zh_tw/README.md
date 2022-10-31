@@ -191,6 +191,6 @@
 <a href="item/advanced_tnt.md"><img src="https://i.imgur.com/l9gYhYS.png" width="48"/></a>
 <a href="item/advanced_tnt.md"><img src="https://i.imgur.com/g08OVuf.png" width="48"/></a>
 <a href="item/advanced_tnt.md"><img src="https://i.imgur.com/lQ9ou2E.png" width="48"/></a>
-
+<a href="item/dragon_hammer.md"><img src="https://i.imgur.com/tvhOfLt.gif" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
