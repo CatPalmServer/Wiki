@@ -10,8 +10,8 @@
 <table>
     <tr>
         <td align="center">尺寸</td>
-        <td align="center" width="100">非絲綢之觸</td>
-        <td align="center" width="100">絲綢之觸</td>
+        <td align="center" width="120">非絲綢之觸</td>
+        <td align="center" width="120">絲綢之觸</td>
     </tr>
     <tr>
         <td align="center">X5</td>
