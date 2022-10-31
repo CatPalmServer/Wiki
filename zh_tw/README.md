@@ -179,5 +179,18 @@
 <a href="item/peaceful_block.md"><img src="https://i.imgur.com/tZPaxWI.png" width="48"/></a>
 <a href="item/peaceful_block.md"><img src="https://i.imgur.com/zj97a5z.png" width="48"/></a>
 <a href="item/peaceful_block.md"><img src="https://i.imgur.com/5NXrwba.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/OM9DgZA.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/JpzWsch.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/nJw5AaN.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/BfufQi6.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/0d8LO0r.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/JeIiF9r.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/DRkESCG.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/oO6WHc0.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/A0UTu5w.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/l9gYhYS.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/g08OVuf.png" width="48"/></a>
+<a href="item/advanced_tnt.md"><img src="https://i.imgur.com/lQ9ou2E.png" width="48"/></a>
+
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
