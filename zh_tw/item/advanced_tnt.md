@@ -159,3 +159,39 @@
 </table>
   
 ---
+
+## 使用
+放置於地上並受到紅時信號／燃燒的箭失／爆炸時會點燃高級TNT，已及站在同個XYZ軸的實體將受到5.5傷害，
+
+<table>
+    <tr>
+        <td align="center">尺寸</td>
+        <td align="center">實際體積</td>
+    </tr>
+    <tr>
+        <td align="center">X5</td>
+        <td align="center">5x5x5 方塊</td>
+    </tr>
+    <tr>
+        <td align="center">X9</td>
+        <td align="center">9x9x9 方塊</td>
+    </tr>
+    <tr>
+        <td align="center">X15</td>
+        <td align="center">15x15x15 方塊</td>
+    </tr>
+    <tr>
+        <td align="center">X25</td>
+        <td align="center">25x25x25 方塊</td>
+    </tr>
+    <tr>
+        <td align="center">X43</td>
+        <td align="center">43x43x43 方塊</td>
+    </tr>
+    <tr>
+        <td align="center">X73</td>
+        <td align="center">73x73x73 方塊</td>
+    </tr>
+</table>
+
+絲綢之觸的高級TNT在破壞方塊時就像使用[絲綢之觸](https://minecraft.fandom.com/zh/wiki/絲綢之觸)的工具挖掘一樣。
