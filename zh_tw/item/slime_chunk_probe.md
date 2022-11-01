@@ -39,4 +39,4 @@
 ---
 
 ## 使用
-放在背包如果該區塊是[史萊姆區塊](https://minecraft.fandom.com/zh/wiki/史萊姆#史萊姆區塊)生成區塊則會觸發。
+放在背包內如果所在區塊是[史萊姆區塊](https://minecraft.fandom.com/zh/wiki/史萊姆#史萊姆區塊)生成區塊則會觸發。
