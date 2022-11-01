@@ -121,4 +121,13 @@
 ---
 
 ## 使用
-標準貨幣、買賣就用它！
+標準貨幣、買賣就用它！  
+
+<table>
+    <tr><td align="center">類型</td><td align="center">價值</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/UA6ZVdH.png" width="48"/></td><td align="end">1</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/Rl6yWlF.png" width="48"/></td><td align="end">50</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/GGSuwRm.png" width="48"/></td><td align="end">2,500</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td align="end">125,000</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/k9kSZd8.png" width="48"/></td><td align="end">6,250,000</td></tr>
+</table>
