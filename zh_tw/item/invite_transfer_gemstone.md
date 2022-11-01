@@ -5,7 +5,6 @@
 <table>
     <tr><td>圖像</td><td><img src="https://i.imgur.com/4zxLVnc.png" width="128"/></td></tr>
     <tr><td align="end">堆疊</td><td>1</td></tr>
-    <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/運輸配方">運輸</a></td></tr>
     <tr><td align="end">附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a></td></tr>
 </table>
 

@@ -5,7 +5,6 @@
 <table>
     <tr><td>圖像</td><td><img src="https://i.imgur.com/ATkGUJe.png" width="128"/></td></tr>
     <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/裝置配方">裝置</a></td></tr>
     <tr><td align="end">附魔</td><td>無</td></tr>
 </table>
 

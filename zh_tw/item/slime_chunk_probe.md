@@ -12,7 +12,6 @@
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/Uup8aA6.png" width="128"/></td></tr>
                 <tr><td align="end">堆疊</td><td>1</td></tr>
-                <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/工具配方">工具</a></td></tr>
                 <tr><td align="end">附魔</td><td>無</td></tr>
             </table>
         </td>
@@ -20,7 +19,6 @@
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/wPjuFeU.gif" width="128"/></td></tr>
                 <tr><td align="end">堆疊</td><td>1</td></tr>
-                <tr><td align="end">配方</td><td>無</td></tr>
                 <tr><td align="end">附魔</td><td>無</td></tr>
             </table>
         </td>

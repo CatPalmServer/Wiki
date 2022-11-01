@@ -5,7 +5,6 @@
 <table>
     <tr><td>圖像</td><td><img src="https://i.imgur.com/tvhOfLt.gif" width="128"/></td></tr>
     <tr><td align="end">堆疊</td><td>1</td></tr>
-    <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/武器配方">武器</a></td></tr>
     <tr><td align="end">附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/鋒利">鋒利</a></td></tr>
 </table>
 

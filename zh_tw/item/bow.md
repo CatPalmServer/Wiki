@@ -4,7 +4,6 @@
 ## 資料
 <table>
     <tr><td align="end">堆疊</td><td>1</td></tr>
-    <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/武器配方">武器</a></td></tr>
     <tr><td align="end">附魔</td><td>
         <table>
             <tr><td>非夢魘結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/強力">強力</a>、<a href="https://minecraft.fandom.com/zh/wiki/衝擊">衝擊</a>、<a href="https://minecraft.fandom.com/zh/wiki/火焰">火焰</a>、<a href="https://minecraft.fandom.com/zh/wiki/無限">無限</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失詛咒</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>

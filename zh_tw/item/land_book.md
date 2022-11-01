@@ -14,7 +14,6 @@
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/Vj4LxUG.png" width="128"/></td></tr>
                 <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">配方</td><td><a href="https://minecraft.fandom.com/zh/wiki/合成/雜項配方">雜項</a></td></tr>
                 <tr><td align="end">附魔</td><td>無</td></tr>
             </table>
         </td>
@@ -22,7 +21,6 @@
             <table>
                 <tr><td>圖像</td><td><img src="https://i.imgur.com/duGvD3y.png" width="128"/></td></tr>
                 <tr><td align="end">堆疊</td><td>1</td></tr>
-                <tr><td align="end">配方</td><td>無</td></tr>
                 <tr><td align="end">附魔</td><td>無</td></tr>
             </table>
         </td>
