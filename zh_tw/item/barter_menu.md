@@ -86,7 +86,7 @@
 ### 收取物品
 <table>
     <tr><td align="center">標題</td><td colspan="9">貿易書-收取物品 第 ? 頁</td></tr>
-    <tr><td rowspan="5" align="center">存放清單<br/>9 x 5</td><td><img src="https://i.imgur.com/kvpaf37.png" width="48"/></td><td><img src="https://i.imgur.com/kvpaf37.png" width="48"/></td><td><img src="https://i.imgur.com/kvpaf37.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td rowspan="5" align="center">存放清單<br/>9 x 5</td><td><img src="https://i.imgur.com/kvpaf37.png" width="48"/></td><td><img src="https://i.imgur.com/kvpaf37.png" width="48"/></td><td><img src="https://i.imgur.com/kvpaf37.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
