@@ -204,5 +204,16 @@
 <a href="item/wither_bone_meal.md"><img src="https://i.imgur.com/KgGV0Bj.png" width="48"/></a>
 <a href="item/notification_block.md"><img src="https://i.imgur.com/ATkGUJe.png" width="48"/></a>
 <a href="item/restricted_crafting_table.md"><img src="https://i.imgur.com/ojHcQsH.png" width="48"/></a>
+<a href="item/currency_converter.md"><img src="https://i.imgur.com/txfuZLk.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/UA6ZVdH.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/Rl6yWlF.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/GGSuwRm.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/k9kSZd8.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/iWJJWkm.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/b9U3njt.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/qyGQo5A.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/MCnWIkp.png" width="48"/></a>
+<a href="item/coin.md"><img src="https://i.imgur.com/3I4mWbh.png" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
