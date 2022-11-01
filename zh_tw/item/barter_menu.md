@@ -66,7 +66,7 @@
 ### 販售物品
 <table>
     <tr><td align="center">標題</td><td colspan="9">貿易書販售物品</td></tr>
-    <tr><td rowspan="3" align="center">物品清單<br/>9 x 3</td><td><img src="https://i.imgur.com/A6GqgiT.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td rowspan="3" align="center">物品清單<br/>9 x 3</td><td><img src="https://i.imgur.com/A6GqgiT.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td align="center">選單<br/>9 x 1</td><td><img src="https://i.imgur.com/QtuKo31.png" width="48"/></td><td><img src="https://i.imgur.com/wuMxqVT.png" width="48"/><br/><img src="https://i.imgur.com/1Xml5UZ.png" width="48"/></td><td><img src="https://i.imgur.com/DqcVv4y.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/Rmxj4Sf.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
