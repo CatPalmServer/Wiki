@@ -197,5 +197,6 @@
 <a href="item/soul_core.md"><img src="https://i.imgur.com/5xQV9Yo.png" width="48"/></a>
 <a href="item/slime_chunk_probe.md"><img src="https://i.imgur.com/Uup8aA6.png" width="48"/></a>
 <a href="item/slime_chunk_probe.md"><img src="https://i.imgur.com/wPjuFeU.gif" width="48"/></a>
+<a href="item/logger_menu.md"><img src="https://i.imgur.com/UyNV7cG.png" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
