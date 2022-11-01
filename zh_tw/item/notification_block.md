@@ -21,12 +21,21 @@
 ---
 
 ## 使用
-別人使用通知器時，是放置通知器的那個人會收到通知！  
-
+### 放置
+別人使用通知器時，是放置通知器的那個人會收到通知！
 <table>
     <tr><td>在<a href="https://minecraft.fandom.com/zh/wiki/鐵砧">鐵砧</a>改成想要的訊息</td><td><img src="https://i.imgur.com/B2lZOum.png" width="720"/></td></tr>
-    <tr><td>放置</td><td><img src="https://i.imgur.com/QGphye0.png" width="720"/><br/></td></tr>
+    <tr><td>放置</td><td><img src="https://i.imgur.com/QGphye0.png" width="720"/></td></tr>
 </table>
 
-其他玩家可以無視領地權限去使用通知器，然後你會在[Discord](../feature/discord_server.md)收穫一則密語通知：  
-<img src="https://i.imgur.com/dwNSB7t.png" width="320"/>
+### 呼叫
+其他玩家可以無視領地權限去使用通知器，  
+
+<img src="https://i.imgur.com/vQPNsSz.png" width="480"/>  
+
+然後你會在遊戲內、[Discord](../feature/discord_server.md)密語收穫一則密語通知：  
+
+<table>
+    <tr><td align="center">遊戲</td><td align="center">群組</td></tr>
+    <tr><td><img src="https://i.imgur.com/T3cJvvk.png" width="400"/></td><td><img src="https://i.imgur.com/TATxUhE.png" width="200"/></td></tr>
+</table>
