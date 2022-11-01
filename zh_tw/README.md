@@ -201,9 +201,7 @@
 <a href="item/invisible_light.md"><img src="https://i.imgur.com/DZl5PMR.gif" width="48"/></a>
 <a href="item/invisible_light.md"><img src="https://i.imgur.com/R6vaG0p.gif" width="48"/></a>
 <a href="item/invisible_light.md"><img src="https://i.imgur.com/Pa0upl8.gif" width="48"/></a>
-
 <a href="item/wither_bone_meal.md"><img src="https://i.imgur.com/KgGV0Bj.png" width="48"/></a>
-
 <a href="item/notification_block.md"><img src="https://i.imgur.com/ATkGUJe.png" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
