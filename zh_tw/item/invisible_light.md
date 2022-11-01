@@ -55,4 +55,9 @@
 ## 使用
 放置即消耗1個，無法回收。
 
----
+<table>
+    <tr><td align="center">程度</td><td align="center">亮度</td></tr>
+    <tr><td align="center">小</td><td align="center">5</td></tr>
+    <tr><td align="center">中</td><td align="center">10</td></tr>
+    <tr><td align="center">大</td><td align="center">15</td></tr>
+</table>
