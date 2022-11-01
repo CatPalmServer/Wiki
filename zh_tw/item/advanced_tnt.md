@@ -1,8 +1,6 @@
 # 高級TNT
 炸出完美的方形區域。
 
-<img src="https://i.imgur.com/QKK77ls.gif" height="260"/>
-
 ## 資料
 <table>
     <tr><td align="end">堆疊</td><td>64</td></tr>
