@@ -193,5 +193,9 @@
 <a href="item/advanced_tnt.md"><img src="https://i.imgur.com/lQ9ou2E.png" width="48"/></a>
 <a href="item/dragon_hammer.md"><img src="https://i.imgur.com/tvhOfLt.gif" width="48"/></a>
 <a href="item/powerful_ejector_block.md"><img src="https://i.imgur.com/yPFVjtw.png" width="48"/></a>
+<a href="item/soul_core.md"><img src="https://i.imgur.com/n260znG.png" width="48"/></a>
+<a href="item/soul_core.md"><img src="https://i.imgur.com/5xQV9Yo.png" width="48"/></a>
+<a href="item/slime_chunk_probe.md"><img src="https://i.imgur.com/Uup8aA6.png" width="48"/></a>
+<a href="item/slime_chunk_probe.md"><img src="https://i.imgur.com/wPjuFeU.gif" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)

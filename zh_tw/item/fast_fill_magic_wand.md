@@ -1,6 +1,8 @@
 # 快速填充魔法杖
 建築師和懶人的必備神器。
 
+<img src="https://i.imgur.com/Rb2bxVf.gif" height="260"/>
+
 ## 資料
 <table>
     <tr><td align="end">堆疊</td><td>1</td></tr>
