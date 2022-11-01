@@ -21,7 +21,7 @@
 ---
 
 ## 使用
-手持龍槌攻擊任何實體可造成傷害並消耗1個，附上鋒利可將傷害提升:
+手持龍槌攻擊任何實體可造成傷害並消耗1個，附上鋒利可將傷害提升：
 
 <table>
     <tr><td align="center">鋒利等級</td><td align="center">無</td><td align="center">I</td><td align="center">II</td><td align="center">III</td><td align="center">IV</td><td align="center">V</td></tr>
