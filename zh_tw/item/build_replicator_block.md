@@ -1,5 +1,5 @@
 # 建築複製器
-比藍圖模組方便億點點。
+比藍圖模組方便億點點，也可以看看[建築藍圖](build_blueprint.md)。
 
 ## 資料
 <table>
@@ -60,4 +60,4 @@
 
 <img src="https://i.imgur.com/6Fmk6E3.png" width="720"/>
 
-慣用手持[建築藍圖](build_blueprint.md)對準互動角右鍵可複製建築到藍圖內。
+慣用手持[建築藍圖](build_blueprint.md)對準互動角`右鍵`可複製建築到藍圖內。

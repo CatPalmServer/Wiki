@@ -216,5 +216,7 @@
 <a href="item/coin.md"><img src="https://i.imgur.com/MCnWIkp.png" width="48"/></a>
 <a href="item/coin.md"><img src="https://i.imgur.com/3I4mWbh.png" width="48"/></a>
 <a href="item/build_replicator_block.md"><img src="https://i.imgur.com/gs5l20b.png" width="48"/></a>
+<a href="item/build_blueprint.md"><img src="https://i.imgur.com/uSkju47.png" width="48"/></a>
+<a href="item/build_blueprint.md"><img src="https://i.imgur.com/Dy4SfMt.png" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)

@@ -20,4 +20,16 @@
 ---
 
 ## 使用
-見[發射器工業](../feature/dispenser_industry.md)。
+工作檯限制器放置後`右鍵`開啟選單，  
+
+<table>
+    <tr><td align="center">標題</td><td colspan="9">工作檯限制器</td></tr>
+    <tr><td align="center">選擇要合成的物品、選單<br/>9 x 1</td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+</table>
+
+<table>
+    <tr><td align="center"><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td>選擇要合成的物品</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
+</table>
+
+其他見[發射器工業](../feature/dispenser_industry.md)。

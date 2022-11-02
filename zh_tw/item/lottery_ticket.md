@@ -40,7 +40,7 @@
 慣用手持空的抽獎卷可開啟選單：  
 
 <table>
-    <tr><td align="center">標題</td><td colspan="9">貿易書物品詳細信息</td></tr>
+    <tr><td align="center">標題</td><td colspan="9">選擇內容物</td></tr>
     <tr><td rowspan="3" align="center">物品清單<br/>9 x 3</td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
