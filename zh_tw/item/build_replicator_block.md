@@ -58,6 +58,6 @@
 
 如果放置正確則看向互動角會顯示白色框線，  
 
-<img src="https://i.imgur.com/6Fmk6E3.png" width="400"/>
+<img src="https://i.imgur.com/6Fmk6E3.png" width="720"/>
 
 慣用手持[建築藍圖](build_blueprint.md)對準互動角右鍵可複製建築到藍圖內。
