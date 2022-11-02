@@ -17,4 +17,23 @@
 ---
 
 ## 用途
-裝備、工具、道具的原材料。
+裝備、工具、道具的原材料。  
+
+<a href="item/land_flying_device.md"><img src="https://i.imgur.com/sMykckD.png" width="48"/></a>
+<a href="item/land_flying_device.md"><img src="https://i.imgur.com/eKWcQ5V.png" width="48"/></a>
+<a href="item/transfer.md"><img src="https://i.imgur.com/zWMjq19.png" width="48"/></a>
+<a href="item/back.md"><img src="https://i.imgur.com/R3EtEh7.png" width="48"/></a>
+<a href="item/random_transfer.md"><img src="https://i.imgur.com/xv4Ph4E.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="item/axe.md"><img src="https://i.imgur.com/Cj6g0bi.png" width="48"/></a>
+<a href="item/bow.md"><img src="https://i.imgur.com/4Nnxagh.png" width="48"/></a>
+<a href="item/sword.md"><img src="https://i.imgur.com/yIzgPwQ.png" width="48"/></a>
+<a href="item/shovel.md"><img src="https://i.imgur.com/8xf18Pa.png" width="48"/></a>
+<a href="item/hoe.md"><img src="https://i.imgur.com/VeOmr49.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/ChdGHZh.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/cTC2fkv.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/tZPaxWI.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/zj97a5z.png" width="48"/></a>
+<a href="item/peaceful_block.md"><img src="https://i.imgur.com/5NXrwba.png" width="48"/></a>
+<a href="item/notification_block.md"><img src="https://i.imgur.com/ATkGUJe.png" width="48"/></a>
+<a href="item/build_replicator_block.md"><img src="https://i.imgur.com/gs5l20b.png" width="48"/></a>

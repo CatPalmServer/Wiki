@@ -44,4 +44,17 @@
 ---
 
 ## 用途
-裝備、工具、道具的原材料，且無限耐久。
+裝備、工具、道具的原材料，且無限耐久。  
+
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/4tg5NLb.png" width="48"/></a>
+<a href="item/fast_fill_magic_wand.md"><img src="https://i.imgur.com/4wVjMpa.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
+<a href="item/axe.md"><img src="https://i.imgur.com/1xabTbw.png" width="48"/></a>
+<a href="item/bow.md"><img src="https://i.imgur.com/OpjZs4m.png" width="48"/></a>
+<a href="item/sword.md"><img src="https://i.imgur.com/RV6EYFJ.png" width="48"/></a>
+<a href="item/shovel.md"><img src="https://i.imgur.com/U0mx2o6.png" width="48"/></a>
+<a href="item/hoe.md"><img src="https://i.imgur.com/v7lJRQe.png" width="48"/></a>
+<a href="item/helmet.md"><img src="https://i.imgur.com/3TUXrLd.png" width="48"/></a>
+<a href="item/chestplate.md"><img src="https://i.imgur.com/CKid2Sf.png" width="48"/></a>
+<a href="item/leggings.md"><img src="https://i.imgur.com/IdCbNxt.png" width="48"/></a>
+<a href="item/boots.md"><img src="https://i.imgur.com/JZu4crW.png" width="48"/></a>
