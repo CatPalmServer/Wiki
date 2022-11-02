@@ -55,6 +55,6 @@
     <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
 </table>
 
-當補充完畢材料後可以預覽、`右鍵`放置，如果放置被阻擋會返還材料。  
+當補充完畢材料後可以預覽、`右鍵`放置，能選轉`90°`／`180°`／`270°`，如果放置被阻擋會返還材料。  
 
 <img src="https://i.imgur.com/6lXc3p7.png" width="720"/>
