@@ -223,5 +223,22 @@
 <a href="item/cat_hair.md"><img src="https://i.imgur.com/W1d7YNU.png" width="48"/></a>
 <a href="item/cat_hair.md"><img src="https://i.imgur.com/Q74ewSi.png" width="48"/></a>
 <a href="item/cat_amulet.md"><img src="https://i.imgur.com/SgUm9Sf.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/tjvHeKd.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/PEpbgK0.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/VnhOHFM.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/N4ARs3V.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/KZYOKl1.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/YglxPVa.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/GLHjTnS.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/NG4KYcV.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/kB21dNs.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/NJMG6Gd.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/1SQ4Zxt.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/hic5Fgp.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/J0ski7T.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/EDLvJ9H.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/TZh4Evw.png" width="48"/></a>
+<a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/uRalRs5.png" width="48"/></a>
+
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
