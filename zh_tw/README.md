@@ -239,6 +239,7 @@
 <a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/EDLvJ9H.png" width="48"/></a>
 <a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/TZh4Evw.png" width="48"/></a>
 <a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/uRalRs5.png" width="48"/></a>
-
+<a href="item/canned_cat.md"><img src="https://i.imgur.com/wxw402A.png" width="48"/></a>
+<a href="item/super_fish_cracker.md"><img src="https://i.imgur.com/FKdV3M1.gif" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
