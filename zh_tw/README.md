@@ -241,5 +241,25 @@
 <a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/uRalRs5.png" width="48"/></a>
 <a href="item/canned_cat.md"><img src="https://i.imgur.com/wxw402A.png" width="48"/></a>
 <a href="item/super_fish_cracker.md"><img src="https://i.imgur.com/FKdV3M1.gif" width="48"/></a>
+<a href="item/rotten_flesh_block.md"><img src="https://i.imgur.com/z2ZCMfc.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/XtnjByk.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/SMGsAXQ.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/YhQcTsN.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/lolyRi3.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/N8WDjZp.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/5hD8E2c.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/sOtwsq4.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/T0gOmzk.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/ep6q3j6.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/RxrxVnt.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/pN2CEKp.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/h8AfAmo.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/8EtdGmc.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/B6VI90v.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/D3ZFSlE.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/Bn3nH1C.png" width="48"/></a>
+<a href="item/laser_crystal.md"><img src="https://i.imgur.com/TuqWIfn.png" width="48"/></a>
+<a href="item/particle_block.md"><img src="https://i.imgur.com/zQVaAJl.png" width="48"/></a>
+<a href="item/pitch_change_pen.md"><img src="https://i.imgur.com/T5Y5D5D.gif" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
