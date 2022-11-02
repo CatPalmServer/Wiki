@@ -25,7 +25,7 @@
 
 <table>
     <tr><td align="center" width="70" height="70">西北</td><td align="center" width="70" height="70">北</td><td align="center" width="70" height="70">北東</td></tr>
-    <tr><td align="center" width="70" height="70">西</td><td align="center" width="70" height="70">上</td><td align="center" width="70" height="70">東</td></tr>
+    <tr><td align="center" width="70" height="70">西</td><td align="center" width="70" height="70">朝上</td><td align="center" width="70" height="70">東</td></tr>
     <tr><td align="center" width="70" height="70">南西</td><td align="center" width="70" height="70">南</td><td align="center" width="70" height="70">南東</td></tr>
 </table>
 
