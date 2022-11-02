@@ -7,7 +7,7 @@
     <tr><td align="end">附魔</td><td>比照原樣</td></tr>
 </table>
 <table>
-    <tr><td align="center">材質</td><td align="center">正常</td><td align="center">瀕臨損毀</td></tr>
+    <tr><td align="center">材質</td><td align="center">正常</td><td align="center">損毀</td></tr>
     <tr><td align="center">鎖鏈</td><td><img src="https://i.imgur.com/tjvHeKd.png" height="48"/></td><td><img src="https://i.imgur.com/PEpbgK0.png" height="48"/></td></tr>
     <tr><td align="center">鐵</td><td><img src="https://i.imgur.com/VnhOHFM.png" height="48"/></td><td><img src="https://i.imgur.com/N4ARs3V.png" height="48"/></td></tr>
     <tr><td align="center">鑽石</td><td><img src="https://i.imgur.com/KZYOKl1.png" height="48"/></td><td><img src="https://i.imgur.com/YglxPVa.png" height="48"/></td></tr>
