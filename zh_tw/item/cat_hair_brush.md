@@ -21,5 +21,3 @@
 
 ## 使用
 慣用手持對著貓按下`右鍵`可掉落[貓毛](cat_hair.md)、貓躺下。  
-
-<img src="https://i.imgur.com/GqRKjBG.png" width="480"/>
