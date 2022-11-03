@@ -3,7 +3,7 @@
 
 ## 資料
 <table>
-    <tr><td>圖像</td><td><img src="https://i.imgur.com/APrqstL.png" width="128"/></td></tr>
+    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/APrqstL.png" width="128"/></td></tr>
     <tr><td align="end">堆疊</td><td>1</td></tr>
     <tr><td align="end">附魔</td><td>無</td></tr>
 </table>

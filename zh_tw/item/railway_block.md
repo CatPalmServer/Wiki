@@ -11,21 +11,21 @@
     <tr>
         <td>
             <table>
-                <tr><td>圖像</td><td><img src="https://i.imgur.com/cO4kFh3.png" width="128"/></td></tr>
+                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/cO4kFh3.png" width="128"/></td></tr>
                 <tr><td align="end">堆疊</td><td>64</td></tr>
                 <tr><td align="end">附魔</td><td>無</td></tr>
             </table>
         </td>
         <td>
             <table>
-                <tr><td>圖像</td><td><img src="https://i.imgur.com/5v9heKY.png" width="128"/></td></tr>
+                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/5v9heKY.png" width="128"/></td></tr>
                 <tr><td align="end">堆疊</td><td>64</td></tr>
                 <tr><td align="end">附魔</td><td>無</td></tr>
             </table>
         </td>
         <td>
             <table>
-                <tr><td>圖像</td><td><img src="https://i.imgur.com/yVAdA3i.png" width="128"/></td></tr>
+                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/yVAdA3i.png" width="128"/></td></tr>
                 <tr><td align="end">堆疊</td><td>64</td></tr>
                 <tr><td align="end">附魔</td><td>無</td></tr>
             </table>

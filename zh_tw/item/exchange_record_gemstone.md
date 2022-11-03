@@ -10,14 +10,14 @@
     <tr>
         <td>
             <table>
-                <tr><td>圖像</td><td><img src="https://i.imgur.com/7OTyHPW.png" width="128"/></td></tr>
+                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/7OTyHPW.png" width="128"/></td></tr>
                 <tr><td align="end">堆疊</td><td>1</td></tr>
                 <tr><td align="end">附魔</td><td>無</td></tr>
             </table>
         </td>
         <td>
             <table>
-                <tr><td>圖像</td><td><img src="https://i.imgur.com/B0iK4sj.png" width="128"/></td></tr>
+                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/B0iK4sj.png" width="128"/></td></tr>
                 <tr><td align="end">堆疊</td><td>1</td></tr>
                 <tr><td align="end">附魔</td><td><a href="https://minecraft.fandom.com/zh/wiki/修補">修補</a></td></tr>
             </table>
