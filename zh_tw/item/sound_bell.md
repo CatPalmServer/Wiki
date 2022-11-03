@@ -69,7 +69,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="#琴葉茜">琴葉茜</a></td>
+        <td align="center"><a href="#琴葉 茜・葵">琴葉茜</a></td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td colspan="3"></td></tr>
@@ -86,7 +86,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="#琴葉葵">琴葉葵</a></td>
+        <td align="center"><a href="#琴葉 茜・葵">琴葉葵</a></td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td colspan="3"></td></tr>
@@ -125,10 +125,10 @@
 
 ## 資料
 ### 紲星燈
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jks-9xm0vTU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[https://www.ah-soft.com/voiceroid/akari/](https://www.ah-soft.com/voiceroid/akari/)
 ### 結月緣
-### 琴葉茜
-### 琴葉葵
+[https://www.ah-soft.com/voiceroid/yukari/](https://www.ah-soft.com/voiceroid/yukari/)
+### 琴葉 茜・葵
+[https://www.ah-soft.com/voiceroid/kotonoha/](https://www.ah-soft.com/voiceroid/kotonoha/)
 ### 伊織弓鶴
+[https://www.ah-soft.com/voiceroid/iori/](https://www.ah-soft.com/voiceroid/iori/)
