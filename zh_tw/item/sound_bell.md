@@ -69,7 +69,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="#琴葉 茜・葵">琴葉茜</a></td>
+        <td align="center"><a href="#琴葉-茜葵">琴葉茜</a></td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td colspan="3"></td></tr>
@@ -86,7 +86,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="#琴葉 茜・葵">琴葉葵</a></td>
+        <td align="center"><a href="#琴葉-茜葵">琴葉葵</a></td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td colspan="3"></td></tr>
