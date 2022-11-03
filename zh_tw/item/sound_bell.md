@@ -124,6 +124,8 @@
 ---
 
 ## 資料
+做很多事情都會有額外聲音。
+
 ### 紲星燈
 [https://www.ah-soft.com/voiceroid/akari/](https://www.ah-soft.com/voiceroid/akari/)  
 共185種音效：
