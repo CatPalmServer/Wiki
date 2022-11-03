@@ -520,8 +520,8 @@
 <table>
     <tr>
         <td align="center">標準</td>
-        <td align="center">配戴<a href="cat_ear.md">貓耳</a></td>
-        <td align="center">配戴<a href="cat_helmet.md">貓帽</a></td>
+        <td align="center">配戴<a href="../decor/cat_ear.md">貓耳</a></td>
+        <td align="center">配戴<a href="../decor/cat_helmet.md">貓帽</a></td>
     </tr>
     <tr>
         <td align="center">5%</td>
