@@ -125,10 +125,37 @@
 
 ## 資料
 ### 紲星燈
-[https://www.ah-soft.com/voiceroid/akari/](https://www.ah-soft.com/voiceroid/akari/)
+[https://www.ah-soft.com/voiceroid/akari/](https://www.ah-soft.com/voiceroid/akari/)  
+共185種音效：
+<table>
+    <tr><td align="center" colspan="3">攻擊</td><td align="center" rowspan="2">鈴鐺</td><td align="center" colspan="3">受傷</td><td align="center" rowspan="2">打破</td><td align="center" rowspan="2">損壞</td><td align="center" rowspan="2">掉落</td><td align="center" rowspan="2">難吃</td><td align="center" rowspan="2">撿起</td><td align="center" rowspan="2">放置</td><td align="center" rowspan="2">飽食</td><td align="center" rowspan="2">跳躍</td><td align="center" rowspan="2">待機</td><td align="center" rowspan="2">傳送</td><td align="center" colspan="2">升級</td></tr>
+    <tr><td align="center">大</td><td align="center">中</td><td align="center">小</td><td align="center">大</td><td align="center">中</td><td align="center">小</td><td align="center">失敗</td><td align="center">成功</td></tr>
+    <tr><td align="center">12</td><td align="center">29</td><td align="center">10</td><td align="center">6</td><td align="center">5</td><td align="center">17</td><td align="center">15</td><td align="center">9</td><td align="center">10</td><td align="center">4</td><td align="center">4</td><td align="center">3</td><td align="center">3</td><td align="center">12</td><td align="center">6</td><td align="center">6</td><td align="center">15</td><td align="center">8</td><td align="center">11</td></tr>
+</table>
+
 ### 結月緣
-[https://www.ah-soft.com/voiceroid/yukari/](https://www.ah-soft.com/voiceroid/yukari/)
+[https://www.ah-soft.com/voiceroid/yukari/](https://www.ah-soft.com/voiceroid/yukari/)  
+共104種音效：  
+<table>
+    <tr><td align="center" colspan="3">攻擊</td><td align="center" rowspan="2">鈴鐺</td><td align="center" colspan="3">受傷</td><td align="center" rowspan="2">打破</td><td align="center" rowspan="2">損壞</td><td align="center" rowspan="2">掉落</td><td align="center" rowspan="2">難吃</td><td align="center" rowspan="2">撿起</td><td align="center" rowspan="2">放置</td><td align="center" rowspan="2">飽食</td><td align="center" rowspan="2">跳躍</td><td align="center" rowspan="2">待機</td><td align="center" rowspan="2">傳送</td><td align="center" colspan="2">升級</td></tr>
+    <tr><td align="center">大</td><td align="center">中</td><td align="center">小</td><td align="center">大</td><td align="center">中</td><td align="center">小</td><td align="center">失敗</td><td align="center">成功</td></tr>
+    <tr><td align="center">6</td><td align="center">20</td><td align="center">12</td><td align="center">3</td><td align="center">4</td><td align="center">11</td><td align="center">7</td><td align="center">8</td><td align="center">3</td><td align="center">1</td><td align="center">3</td><td align="center">1</td><td align="center">3</td><td align="center">3</td><td align="center">3</td><td align="center">9</td><td align="center">3</td><td align="center">2</td><td align="center">2</td></tr>
+</table>
+
 ### 琴葉 茜・葵
-[https://www.ah-soft.com/voiceroid/kotonoha/](https://www.ah-soft.com/voiceroid/kotonoha/)
+[https://www.ah-soft.com/voiceroid/kotonoha/](https://www.ah-soft.com/voiceroid/kotonoha/)  
+共58種音效：
+<table>
+    <tr><td align="center" colspan="3">攻擊</td><td align="center" rowspan="2">鈴鐺</td><td align="center" colspan="3">受傷</td><td align="center" rowspan="2">打破</td><td align="center" rowspan="2">損壞</td><td align="center" rowspan="2">掉落</td><td align="center" rowspan="2">難吃</td><td align="center" rowspan="2">撿起</td><td align="center" rowspan="2">放置</td><td align="center" rowspan="2">飽食</td><td align="center" rowspan="2">跳躍</td><td align="center" rowspan="2">待機</td><td align="center" rowspan="2">傳送</td><td align="center" colspan="2">升級</td></tr>
+    <tr><td align="center">大</td><td align="center">中</td><td align="center">小</td><td align="center">大</td><td align="center">中</td><td align="center">小</td><td align="center">失敗</td><td align="center">成功</td></tr>
+    <tr><td align="center">3</td><td align="center">9</td><td align="center">4</td><td align="center">1</td><td align="center">3</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">3</td><td align="center">1</td><td align="center">3</td><td align="center">1</td><td align="center">1</td><td align="center">6</td><td align="center">1</td><td align="center">6</td><td align="center">4</td><td align="center">5</td><td align="center">1</td></tr>
+</table>
+
 ### 伊織弓鶴
-[https://www.ah-soft.com/voiceroid/iori/](https://www.ah-soft.com/voiceroid/iori/)
+[https://www.ah-soft.com/voiceroid/iori/](https://www.ah-soft.com/voiceroid/iori/)  
+共61種音效：
+<table>
+    <tr><td align="center" colspan="3">攻擊</td><td align="center" rowspan="2">鈴鐺</td><td align="center" colspan="3">受傷</td><td align="center" rowspan="2">打破</td><td align="center" rowspan="2">損壞</td><td align="center" rowspan="2">掉落</td><td align="center" rowspan="2">難吃</td><td align="center" rowspan="2">撿起</td><td align="center" rowspan="2">放置</td><td align="center" rowspan="2">飽食</td><td align="center" rowspan="2">跳躍</td><td align="center" rowspan="2">待機</td><td align="center" rowspan="2">傳送</td><td align="center" colspan="2">升級</td></tr>
+    <tr><td align="center">大</td><td align="center">中</td><td align="center">小</td><td align="center">大</td><td align="center">中</td><td align="center">小</td><td align="center">失敗</td><td align="center">成功</td></tr>
+    <tr><td align="center">3</td><td align="center">5</td><td align="center">4</td><td align="center">5</td><td align="center">2</td><td align="center">4</td><td align="center">3</td><td align="center">1</td><td align="center">4</td><td align="center">1</td><td align="center">2</td><td align="center">1</td><td align="center">2</td><td align="center">6</td><td align="center">3</td><td align="center">3</td><td align="center">3</td><td align="center">6</td><td align="center">3</td></tr>
+</table>

@@ -261,5 +261,7 @@
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/TuqWIfn.png" width="48"/></a>
 <a href="item/particle_block.md"><img src="https://i.imgur.com/zQVaAJl.png" width="48"/></a>
 <a href="item/pitch_change_pen.md"><img src="https://i.imgur.com/T5Y5D5D.gif" width="48"/></a>
+<a href="item/sound_bell.md"><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></a>
+<a href="item/sound_bell.md"><img src="https://i.imgur.com/GcZe1DG.png" width="48"/></a>
 
 [部分道具還沒更新到新WIKI，點我前往](https://github.com/CatPalmServer/Wiki/wiki)
