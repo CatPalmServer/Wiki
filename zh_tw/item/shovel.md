@@ -56,7 +56,8 @@
 
 ---
 
-## 資料
+## 數據
+
 <table>
     <tr><td align="center">材質</td><td align="center">耐久</td><td align="center">傷害</td><td align="center">效果</td></tr>
     <tr><td align="center">龍牙</td><td align="center">2640</td><td align="center">7.5</td><td><a href="../feature/entity_glowing.md">生物發光</a>距離12格方塊</td></tr>

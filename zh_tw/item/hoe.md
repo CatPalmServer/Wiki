@@ -56,7 +56,7 @@
 
 ---
 
-## 資料
+## 數據
 
 <table>
     <tr><td align="center">材質</td><td align="center">耐久</td><td align="center">攻擊速度</td><td align="center">效果</td></tr>

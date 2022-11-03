@@ -56,7 +56,7 @@
 
 ---
 
-## 資料
+## 數據
 
 <table>
     <tr><td align="center">材質</td><td align="center">耐久</td><td align="center">抗擊退</td><td align="center">強度</td></tr>
