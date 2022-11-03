@@ -5,7 +5,7 @@
 <table>
     <tr>
         <td align="center">常駐</td>
-        <td align="center">周年期間限定</td>
+        <td align="center"><a href="../feature/anniversary.md">周年慶</a>期間限定</td>
     </tr>
     <tr>
         <td>
@@ -32,7 +32,7 @@
     <tr>
         <td align="center">款式</td>
         <td align="center">常駐</td>
-        <td align="center">周年期間限定</td>
+        <td align="center"><a href="../feature/anniversary.md">周年慶</a>期間限定</td>
     </tr>
     <tr>
         <td align="center"><a href="#紲星燈">紲星燈</a></td>
