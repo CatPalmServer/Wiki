@@ -1,7 +1,7 @@
 # 貓碗
 享受以下特權。
 
-- 飛行許可能在有`Y權限`的領地內飛行、使用`/ob`或`F3+N`切換成[旁觀者模式](https://minecraft.fandom.com/zh/wiki/旁觀者模式)
+- 飛行許可能在有[Y權限的領地](../item/land_book.md#y-飛行)內飛行、使用`/ob`或`F3+N`切換成[旁觀者模式](https://minecraft.fandom.com/zh/wiki/旁觀者模式)
 - [上傳圖片](https://discord.com/channels/799977829805981716/837221297586438156)許可
 - 最大視野距離從`15`提升到`31`
 - 可使用`/experience`扔出身上的經驗值
