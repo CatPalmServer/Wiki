@@ -394,4 +394,7 @@
 <a href="feature/entity_glowing.md"><img src="https://i.imgur.com/wG3wG8k.png" width="198"/></a>
 <a href="feature/ore_glowing.md"><img src="https://i.imgur.com/fsfRjxx.png" width="198"/></a>
 
-### [掉落物限制](feature/drop_limit.md)、[實體限制](feature/entity_limit.md)、[漏斗限制](feature/hopper_limit.md)、[紅石限制](feature/redstone_limit.md)
+<a href="feature/drop_limit.md"><img src="https://i.imgur.com/V1Vvawi.png" width="198"/></a>
+<a href="feature/entity_limit.md"><img src="https://i.imgur.com/DcqI4YZ.png" width="198"/></a>
+<a href="feature/hopper_limit.md"><img src="https://i.imgur.com/TcDSNFW.png" width="198"/></a>
+<a href="feature/redstone_limit.md"><img src="https://i.imgur.com/k3dEgE8.png" width="198"/></a>
