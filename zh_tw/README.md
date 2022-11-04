@@ -403,9 +403,11 @@
 <a href="feature/enhanced_dragon.md"><img src="https://i.imgur.com/87CtBW9.png" width="198"/></a>
 <a href="feature/enhanced_wither.md"><img src="https://i.imgur.com/WNJRwOv.png" width="198"/></a>
 <a href="feature/enhanced_warden.md"><img src="https://i.imgur.com/FjLg3Ms.png" width="198"/></a>
-
-# 限制
-<a href="limit/drop_limit.md"><img src="https://i.imgur.com/V1Vvawi.png" width="198"/></a>
-<a href="limit/entity_limit.md"><img src="https://i.imgur.com/DcqI4YZ.png" width="198"/></a>
-<a href="limit/hopper_limit.md"><img src="https://i.imgur.com/TcDSNFW.png" width="198"/></a>
-<a href="limit/redstone_limit.md"><img src="https://i.imgur.com/k3dEgE8.png" width="198"/></a>
+<a href="feature/item_placement.md"><img src="https://i.imgur.com/YXTtebu.png" width="198"/></a>
+<a href="feature/edit_sign.md"><img src="https://i.imgur.com/YFUKe8Y.png" width="198"/></a>
+<a href="feature/invisible_item_frame.md"><img src="https://i.imgur.com/7cAn8Qg.png" width="198"/></a>
+<br/>
+<a href="feature/drop_limit.md"><img src="https://i.imgur.com/V1Vvawi.png" width="198"/></a>
+<a href="feature/entity_limit.md"><img src="https://i.imgur.com/DcqI4YZ.png" width="198"/></a>
+<a href="feature/hopper_limit.md"><img src="https://i.imgur.com/TcDSNFW.png" width="198"/></a>
+<a href="feature/redstone_limit.md"><img src="https://i.imgur.com/k3dEgE8.png" width="198"/></a>
