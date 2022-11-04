@@ -385,13 +385,13 @@
 
 
 # 特性
-<a href="feature/anniversary.md"><img src="https://i.imgur.com/yP02AmR.png" width="200"/></a>
-<a href="feature/cat_bowl.md"><img src="https://i.imgur.com/li4ro8m.png" width="200"/></a>
-<a href="feature/discord_server.md"><img src="https://i.imgur.com/HXIUDj8.png" width="200"/></a>
-<a href="feature/daily_signin.md"><img src="https://i.imgur.com/8RUiZF4.png" width="200"/></a>
-<a href="feature/cat_day.md"><img src="https://i.imgur.com/XsaVIjI.png" width="200"/></a>
-<a href="feature/dispenser_industry.md"><img src="https://i.imgur.com/OgMWpRi.png" width="200"/></a>
-<a href="feature/entity_glowing.md"><img src="https://i.imgur.com/wG3wG8k.png" width="200"/></a>
-<a href="feature/ore_glowing.md"><img src="https://i.imgur.com/fsfRjxx.png" width="200"/></a>
+<a href="feature/anniversary.md"><img src="https://i.imgur.com/yP02AmR.png" width="180"/></a>
+<a href="feature/cat_bowl.md"><img src="https://i.imgur.com/li4ro8m.png" width="180"/></a>
+<a href="feature/discord_server.md"><img src="https://i.imgur.com/HXIUDj8.png" width="180"/></a>
+<a href="feature/daily_signin.md"><img src="https://i.imgur.com/8RUiZF4.png" width="180"/></a>
+<a href="feature/cat_day.md"><img src="https://i.imgur.com/XsaVIjI.png" width="180"/></a>
+<a href="feature/dispenser_industry.md"><img src="https://i.imgur.com/OgMWpRi.png" width="180"/></a>
+<a href="feature/entity_glowing.md"><img src="https://i.imgur.com/wG3wG8k.png" width="180"/></a>
+<a href="feature/ore_glowing.md"><img src="https://i.imgur.com/fsfRjxx.png" width="180"/></a>
 
 ### [掉落物限制](feature/drop_limit.md)、[實體限制](feature/entity_limit.md)、[漏斗限制](feature/hopper_limit.md)、[紅石限制](feature/redstone_limit.md)
