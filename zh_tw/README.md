@@ -382,11 +382,11 @@
 <a href="decor/rabbit_ear.md"><img src="https://i.imgur.com/D3eGjbH.gif" width="48"/></a>
 
 # 特殊
-<a href="decor/barrier.md"><img src="https://i.imgur.com/uBzq1SX.png" width="48"/></a>
-<a href="decor/brown_mushroom.md"><img src="https://i.imgur.com/iupt5LZ.png" width="48"/></a>
-<a href="decor/red_mushroom.md"><img src="https://i.imgur.com/56Xtpeu.png" width="48"/></a>
-<a href="decor/elytra.md"><img src="https://i.imgur.com/E4LgClR.png" width="48"/></a>
-<a href="decor/cobweb.md"><img src="https://i.imgur.com/fWQQ0pc.png" width="48"/></a>
+<a href="special/barrier.md"><img src="https://i.imgur.com/uBzq1SX.png" width="48"/></a>
+<a href="special/brown_mushroom.md"><img src="https://i.imgur.com/iupt5LZ.png" width="48"/></a>
+<a href="special/red_mushroom.md"><img src="https://i.imgur.com/56Xtpeu.png" width="48"/></a>
+<a href="special/elytra.md"><img src="https://i.imgur.com/E4LgClR.png" width="48"/></a>
+<a href="special/cobweb.md"><img src="https://i.imgur.com/fWQQ0pc.png" width="48"/></a>
 
 # 特性
 <a href="feature/anniversary.md"><img src="https://i.imgur.com/yP02AmR.png" width="198"/></a>
