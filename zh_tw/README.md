@@ -396,9 +396,9 @@
 <a href="feature/entity_summon.md"><img src="https://i.imgur.com/RfUHbOB.png" width="198"/></a>
 <a href="feature/full_map.md"><img src="https://i.imgur.com/HsNxiPQ.png" width="198"/></a>
 <a href="feature/soul_link.md"><img src="https://i.imgur.com/MrPbkOY.png" width="198"/></a>
-<a href="feature/enhanced_dragon.md"><img src="https://i.imgur.com/w2sRBcf.png" width="198"/></a>
-<a href="feature/enhanced_wither.md"><img src="https://i.imgur.com/c7N9rwB.png" width="198"/></a>
-<a href="feature/enhanced_warden.md"><img src="https://i.imgur.com/n9rRPKR.png" width="198"/></a>
+<a href="feature/enhanced_dragon.md"><img src="https://i.imgur.com/87CtBW9.png" width="198"/></a>
+<a href="feature/enhanced_wither.md"><img src="https://i.imgur.com/WNJRwOv.png" width="198"/></a>
+<a href="feature/enhanced_warden.md"><img src="https://i.imgur.com/FjLg3Ms.png" width="198"/></a>
 <br/>
 <a href="feature/drop_limit.md"><img src="https://i.imgur.com/V1Vvawi.png" width="198"/></a>
 <a href="feature/entity_limit.md"><img src="https://i.imgur.com/DcqI4YZ.png" width="198"/></a>
