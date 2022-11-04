@@ -387,4 +387,5 @@
 # 特性
 <a href="feature/anniversary.md"><img src="https://i.imgur.com/0p63BjG.png" width="200"/></a>
 <a href="feature/cat_bowl.md"><img src="https://i.imgur.com/3Hks7x0.png" width="200"/></a>
+<a href="feature/cat_day.md"><img src="https://i.imgur.com/XsaVIjI.png" width="200"/></a>
 
