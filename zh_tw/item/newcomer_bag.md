@@ -33,7 +33,7 @@
     <tr><td>鐵鎬</td><td>x 1</td></tr>
     <tr><td><a href="world_map_view.md">彗星地圖 1:1</a></td><td>x 1</td></tr>
     <tr><td><a href="food.md">牛肉起司三明治</a></td><td>x 24</td></tr>
-    <tr><td><a href="random_transfer.md">隨機<a href="transfer.md">傳送金蘋果</a></a></td><td>x 24</td></tr>
+    <tr><td><a href="random_transfer.md">隨機傳送金蘋果</a></td><td>x 24</td></tr>
     <tr><td><a href="back.md">重生金蘋果</a></td><td>x 24</td></tr>
     <tr><td><a href="invite_transfer_gemstone.md">邀請傳送寶石</a></td><td>x 2</td></tr>
     <tr><td><a href="transfer.md">傳送金蘋果</a><br/>※改名為<code>spawn</code></td><td>x 24</td></tr>
