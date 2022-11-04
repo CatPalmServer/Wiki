@@ -412,3 +412,6 @@
 <a href="feature/entity_limit.md"><img src="https://i.imgur.com/DcqI4YZ.png" width="198"/></a>
 <a href="feature/hopper_limit.md"><img src="https://i.imgur.com/TcDSNFW.png" width="198"/></a>
 <a href="feature/redstone_limit.md"><img src="https://i.imgur.com/k3dEgE8.png" width="198"/></a>
+
+# 紀念
+<a href="https://zh.wikipedia.org/wiki/Technoblade"><img src="https://i.imgur.com/Lzsztat.png" width="48"/></a>
