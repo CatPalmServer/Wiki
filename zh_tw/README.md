@@ -1,4 +1,5 @@
 # 道具
+<a href="item/newcomer_bag.md"><img src="https://i.imgur.com/KqzjESH.png" width="48"/></a>
 <a href="item/world_map_view.md"><img src="https://i.imgur.com/w5nzar8.png" width="48"/></a>
 <a href="item/world_map_capture.md"><img src="https://i.imgur.com/Ix15Njd.png" width="48"/></a>
 <a href="item/world_map_icon.md"><img src="https://i.imgur.com/VpQnV68.png" width="48"/></a>
