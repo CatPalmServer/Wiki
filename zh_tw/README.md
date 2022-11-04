@@ -263,6 +263,7 @@
 <a href="item/pitch_change_pen.md"><img src="https://i.imgur.com/T5Y5D5D.gif" width="48"/></a>
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></a>
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/GcZe1DG.png" width="48"/></a>
+<a href="item/ender_dragon_queue.md"><img src="https://i.imgur.com/4tafEkT.gif" width="48"/></a>
 <a href="item/food.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
 <a href="item/food.md"><img src="https://i.imgur.com/peF2d4K.png" width="48"/></a>
 <a href="item/food.md"><img src="https://i.imgur.com/olzWTz3.png" width="48"/></a>
