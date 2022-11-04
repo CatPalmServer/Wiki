@@ -388,4 +388,5 @@
 <a href="feature/anniversary.md"><img src="https://i.imgur.com/0p63BjG.png" width="200"/></a>
 <a href="feature/cat_bowl.md"><img src="https://i.imgur.com/li4ro8m.png" width="200"/></a>
 <a href="feature/cat_day.md"><img src="https://i.imgur.com/XsaVIjI.png" width="200"/></a>
-<a href="feature/daily_signin.md"><img src="https://i.imgur.com/aplXAuz.png" width="200"/></a>
+<a href="feature/daily_signin.md"><img src="https://i.imgur.com/8RUiZF4.png" width="200"/></a>
+<a href="feature/discord_server.md"><img src="https://i.imgur.com/8nUlyvy.png" width="200"/></a>
