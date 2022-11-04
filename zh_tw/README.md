@@ -393,6 +393,9 @@
 <a href="feature/dispenser_industry.md"><img src="https://i.imgur.com/OgMWpRi.png" width="198"/></a>
 <a href="feature/entity_glowing.md"><img src="https://i.imgur.com/wG3wG8k.png" width="198"/></a>
 <a href="feature/ore_glowing.md"><img src="https://i.imgur.com/fsfRjxx.png" width="198"/></a>
+<a href="feature/entity_summon.md"><img src="https://i.imgur.com/RfUHbOB.png" width="198"/></a>
+<a href="feature/full_map.md"><img src="https://i.imgur.com/HsNxiPQ.png" width="198"/></a>
+<a href="feature/soul_link.md"><img src="https://i.imgur.com/MrPbkOY.png" width="198"/></a>
 <br/>
 <a href="feature/drop_limit.md"><img src="https://i.imgur.com/V1Vvawi.png" width="198"/></a>
 <a href="feature/entity_limit.md"><img src="https://i.imgur.com/DcqI4YZ.png" width="198"/></a>
