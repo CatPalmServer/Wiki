@@ -10,9 +10,10 @@
 - 可使用`/backpack`打開臨時背包
 - 可使用`/magnet`啟用掉落物磁鐵
 - 無視連線數量限制
-- 每日"`喵`"累計[簽到獎勵](#簽到獎勵)
+- 每日"`喵`"／"`meow`"累計[簽到獎勵](#簽到獎勵)
 
 ## 簽到獎勵
+[每日簽到](daily_signin.md)會額外獲得。
 <table>
     <tr><td align="center">天數</td><td align="center">獲得</td></tr>
     <tr><td align="center">1</td><td>地獄之星 x 1</td></tr>
