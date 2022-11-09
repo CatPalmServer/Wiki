@@ -25,19 +25,9 @@
     <tr><td align="center">紫</td><td><img src="https://i.imgur.com/App8Vkx.png" height="80"/></td></tr>
     <tr><td align="center">洋</td><td><img src="https://i.imgur.com/WExUqf5.png" height="80"/></td></tr>
     <tr><td align="center">粉紅</td><td><img src="https://i.imgur.com/AhfJlsv.png" height="80"/></td></tr>
-    <tr><td align="center">彩</td><td><img src="https://i.imgur.com/EgOXfxK.gif" height="80"/></td></tr>
 </table>
 
 ---
 
 ## 獲取
-<table>
-    <tr>
-        <td align="center">彩</td>
-        <td>透過<a href="../feature/anniversary.md">周年慶</a>競標取得。</td>
-    </tr>
-    <tr>
-        <td align="center">其他</td>
-        <td><a href="../feature/enhanced_wandering_trader.md">流浪商人交易</a>。</td>
-    </tr>
-</table>
+<a href="../feature/enhanced_wandering_trader.md">流浪商人交易</a>。
