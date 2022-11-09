@@ -349,7 +349,7 @@
 <a href="special/cobweb.md"><img src="https://i.imgur.com/fWQQ0pc.png" width="48"/></a>
 
 # 特性
-<a href="feature/discord_server.md"><img src="https://i.imgur.com/HXIUDj8.png" width="198"/></a>
+<a href="feature/discord_server.md"><img src="https://i.imgur.com/VgZ5mvh.png" width="198"/></a>
 <a href="feature/cat_day.md"><img src="https://i.imgur.com/XsaVIjI.png" width="198"/></a>
 <a href="feature/dispenser_industry.md"><img src="https://i.imgur.com/OgMWpRi.png" width="198"/></a>
 <a href="feature/entity_glowing.md"><img src="https://i.imgur.com/wG3wG8k.png" width="198"/></a>
