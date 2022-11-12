@@ -45,11 +45,11 @@
 </table>
 
 ### 貨幣兌換
-每小時往少於`100,000`枚的各池內投入`線上玩家數量`x`20`數量的貨幣，可使用特定礦物兌出，當池內剩餘5%以下時便會開始漲價，  
+每小時往少於`100,000`枚的各池內投入`線上玩家數量`x`補貨`數量的貨幣，可使用特定礦物兌出，當池內剩餘5%以下時便會開始漲價，  
 
 <table>
-    <tr><td align="center">類型</td><td align="center">最低價位</td><td align="center">最高價位</td><td align="center">每次兌換</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/27FH0FO.png" width="48"/></td><td align="center">20</td><td align="center">64</td><td align="center">1</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td align="center">2</td><td align="center">9</td><td align="center">1</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td align="center">1</td><td align="center">3</td><td align="center">20</td></tr>
+    <tr><td align="center">類型</td><td align="center">池子</td><td align="center">補貨</td><td align="center">最低價位</td><td align="center">最高價位</td><td align="center">最低兌換</td><td align="center">最高兌換</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/27FH0FO.png" width="48"/></td><td align="center">100000</td><td align="center">40</td><td align="center">20</td><td align="center">64</td><td align="center" colspan="2">1</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td align="center">100000</td><td align="center">40</td><td align="center">2</td><td align="center">6</td><td align="center" colspan="2">1</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td align="center">2500</td><td align="center">1</td><td align="center" colspan="2">1</td><td align="center">12</td><td align="center">40</td></tr>
 </table>
