@@ -43,7 +43,9 @@
 ## 圖示
 <table>
     <tr><td>自己</td><td colspan=""><img src="https://i.imgur.com/YiEtv6S.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td>其他玩家</td><td><img src="https://i.imgur.com/DynLEHZ.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td>上次死亡</td><td><img src="https://i.imgur.com/KutZ4EF.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td>領地中心</td><td><img src="https://i.imgur.com/eHl9Jv0.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td><a href="https://minecraft.fandom.com/zh/wiki/綠林府邸">綠林府邸</a></td><td><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td><a href="https://minecraft.fandom.com/zh/wiki/海底神殿">海底神殿</a></td><td><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td><a href="https://minecraft.fandom.com/zh/wiki/埋藏的寶藏">埋藏的寶藏</a></td><td><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td colspan="3"></td></tr>
@@ -65,7 +67,7 @@
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td align="center"><a href="#顯示開關">顯示開關</a><br/>9 x 1</td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/><br/><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+    <tr><td align="center"><a href="#顯示開關">顯示開關</a><br/>9 x 1</td><td><img src="https://i.imgur.com/fpiJrKm.png" width="48"/><br/><img src="https://i.imgur.com/IF6J0Yo.png" width="48"/></td><td><img src="https://i.imgur.com/RPdzB8B.png" width="48"/><br/><img src="https://i.imgur.com/2aGm2CI.png" width="48"/></td><td><img src="https://i.imgur.com/HpOtzbL.png" width="48"/><br/><img src="https://i.imgur.com/vptJPKO.png" width="48"/></td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/><br/><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/><br/><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
 </table>
 
 ### 已儲存的紀錄點清單
@@ -88,6 +90,10 @@
 <table>
     <tr><td align="center">功能</td><td align="center">停用</td><td align="center">啟用</td><td align="center">顯示</td></tr>
     <tr><td>全都沒啟用</td><td colspan="2"></td><td><img src="https://i.imgur.com/qtV5Ysg.png" width="400"/></td></tr>
+    <tr><td>顯示其他玩家</td><td><img src="https://i.imgur.com/IF6J0Yo.png" width="48"/></td><td><img src="https://i.imgur.com/fpiJrKm.png" width="48"/></td><td><img src="https://i.imgur.com/zZx0Eef.png" width="400"/><br/>不會顯示觀察者及具有隱形藥水效果的玩家。</td></tr>
+    <tr><td>顯示其他玩家名稱</td><td><img src="https://i.imgur.com/2aGm2CI.png" width="48"/></td><td><img src="https://i.imgur.com/RPdzB8B.png" width="48"/></td><td><img src="https://i.imgur.com/71ZkaNj.png" width="400"/><br/>需要啟用"顯示其他玩家"。</td></tr>
+    <tr><td>顯示領地範圍</td><td><img src="https://i.imgur.com/vptJPKO.png" width="48"/></td><td><img src="https://i.imgur.com/HpOtzbL.png" width="48"/></td><td><img src="https://i.imgur.com/boIw2xo.png" width="400"/></td></tr>
+    <tr><td>顯示領地名稱</td><td><img src="https://i.imgur.com/pu7E7cv.png" width="48"/></td><td><img src="https://i.imgur.com/FXRzzkX.png" width="48"/></td><td><img src="https://i.imgur.com/qywvSMk.png" width="400"/><br/>需要啟用"顯示領地範圍"。</td></tr>
     <tr><td>顯示死亡位置</td><td><img src="https://i.imgur.com/RhbrKHB.png" width="48"/></td><td><img src="https://i.imgur.com/uX3xOAj.png" width="48"/></td><td><img src="https://i.imgur.com/K6TqBrv.png" width="400"/></td></tr>
 </table>
 

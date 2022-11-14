@@ -37,6 +37,7 @@
                             <tr><td align="center">紫</td><td align="center"><img src="https://i.imgur.com/XQ48mqt.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/Y8Ur8Zd.png" height="48"/></td></tr>
                             <tr><td align="center">洋</td><td align="center"><img src="https://i.imgur.com/DrX0oX4.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/E8T8pdA.png" height="48"/></td></tr>
                             <tr><td align="center">粉紅</td><td align="center"><img src="https://i.imgur.com/xTdR0iu.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/5AVmtKo.png" height="48"/></td></tr>
+                            <tr><td align="center">彩</td><td align="center"><img src="https://i.imgur.com/w2Jcc3C.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/mthVuxz.gif" height="48"/></td></tr>
                         </table>
                     </td>
                     <td>
@@ -58,6 +59,7 @@
                             <tr><td align="center">紫</td><td align="center"><img src="https://i.imgur.com/riabWgI.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/4Cm3rU8.png" height="48"/></td></tr>
                             <tr><td align="center">洋</td><td align="center"><img src="https://i.imgur.com/NoG9ONh.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/Imb3xFZ.png" height="48"/></td></tr>
                             <tr><td align="center">粉紅</td><td align="center"><img src="https://i.imgur.com/dVA9b1r.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/kA0SuyG.png" height="48"/></td></tr>
+                            <tr><td align="center">彩</td><td align="center"><img src="https://i.imgur.com/CQwCV4g.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/N3Z0vMJ.gif" height="48"/></td></tr>
                         </table>
                     </td>
                 </tr>
@@ -89,6 +91,7 @@
                             <tr><td align="center">紫</td><td align="center"><img src="https://i.imgur.com/AoBXCRF.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/fDj2kXK.png" height="48"/></td></tr>
                             <tr><td align="center">洋</td><td align="center"><img src="https://i.imgur.com/POfww2a.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/RExyHLi.png" height="48"/></td></tr>
                             <tr><td align="center">粉紅</td><td align="center"><img src="https://i.imgur.com/Lq0Aanx.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/9cIFVz8.png" height="48"/></td></tr>
+                            <tr><td align="center">彩</td><td align="center"><img src="https://i.imgur.com/7tQnuoW.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/FW1nORV.gif" height="48"/></td></tr>
                         </table>
                     </td>
                     <td>
@@ -110,6 +113,7 @@
                             <tr><td align="center">紫</td><td align="center"><img src="https://i.imgur.com/GAWJPxb.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/ukLtU7j.png" height="48"/></td></tr>
                             <tr><td align="center">洋</td><td align="center"><img src="https://i.imgur.com/oTSrC4G.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/26wXIUE.png" height="48"/></td></tr>
                             <tr><td align="center">粉紅</td><td align="center"><img src="https://i.imgur.com/wMssYrY.png" height="48"/></td><td align="center"><img src="https://i.imgur.com/MNjWwNn.png" height="48"/></td></tr>
+                            <tr><td align="center">彩</td><td align="center"><img src="https://i.imgur.com/0WG5CJ1.gif" height="48"/></td><td align="center"><img src="https://i.imgur.com/zPXfxx5.gif" height="48"/></td></tr>
                         </table>
                     </td>
                 </tr>
@@ -395,6 +399,10 @@
                 <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/r1TCiwX.png" width="48"/></td><td><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td colspan="3"></td></tr>
             </table>
         </td>
+    </tr>
+    <tr>
+        <td align="center">彩</td>
+        <td colspan="2">不可合成，只能透過<a href="../feature/anniversary.md">周年慶</a>競標取得。</td>
     </tr>
 </table>
 
