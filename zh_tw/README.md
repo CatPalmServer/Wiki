@@ -383,6 +383,7 @@
 <a href="decor/rabbit_ear.md"><img src="https://i.imgur.com/D3eGjbH.gif" width="48"/></a>
 
 # 特殊
+<a href="special/wandering_trader_spawn_egg.md"><img src="https://i.imgur.com/n06STMh.png" width="48"/></a>
 <a href="special/barrier.md"><img src="https://i.imgur.com/uBzq1SX.png" width="48"/></a>
 <a href="special/brown_mushroom.md"><img src="https://i.imgur.com/iupt5LZ.png" width="48"/></a>
 <a href="special/red_mushroom.md"><img src="https://i.imgur.com/56Xtpeu.png" width="48"/></a>
