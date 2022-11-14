@@ -2,7 +2,7 @@
 
 ## 貿易
 ### 90%
-[銅幣](../item/coin.md)x1兌換x8，最多4次。
+鑽石x1兌換x8，最多4次。
 
 <a href="https://minecraft.fandom.com/zh/wiki/花"><img src="https://i.imgur.com/WydimGB.png" width="48"/></a>
 <a href="../item/food.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
@@ -28,7 +28,7 @@
 <a href="https://minecraft.fandom.com/zh/wiki/經驗瓶"><img src="https://i.imgur.com/Qwc39mw.png" width="48"/></a>
 
 ### 6.5%
-[銅幣](../item/coin.md)x12個兌換x1，最多1次。
+鑽石x12個兌換x1，最多1次。
 
 <a href="../item/back.md"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></a>
 <a href="../item/transfer.md"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></a>
@@ -43,7 +43,7 @@
 <a href="../item/dragon_hammer.md"><img src="https://i.imgur.com/tvhOfLt.gif" width="48"/></a>
 
 ### 2.99%
-[鐵幣](../item/coin.md)x1兌換x1，最多1次。
+鑽石x50兌換x1，最多1次。
 
 <a href="../item/peaceful_block.md"><img src="https://i.imgur.com/ChdGHZh.png" width="48"/></a>
 <a href="../decor/cat_ear.md"><img src="https://i.imgur.com/iaXK5vI.png" width="48"/></a>
@@ -128,7 +128,6 @@
 <a href="../decor/deer_horn.md"><img src="https://i.imgur.com/KsmZw9n.png" width="48"/></a>
 <a href="../item/magic_nether_star.md"><img src="https://i.imgur.com/IWZz8YM.png" width="48"/></a>
 <a href="../item/dragon_tooth.md"><img src="https://i.imgur.com/ZJn6ZOj.png" width="48"/></a>
-<a href="../item/land_flying_device.md"><img src="https://i.imgur.com/sMykckD.png" width="48"/></a>
 <a href="../item/rope.md"><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></a>
 <a href="../item/rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
 <a href="../item/back.md"><img src="https://i.imgur.com/R3EtEh7.png" width="48"/></a>
@@ -147,7 +146,7 @@
 <a href="../decor/cat_hat.md"><img src="https://i.imgur.com/KzfuYRq.png" width="48"/></a>
 
 ### 0.5%
-[鐵幣](../item/coin.md)x8兌換x1，最多1次。
+鑽石x400兌換x1，最多1次。
 
 <a href="../item/peaceful_block.md"><img src="https://i.imgur.com/5NXrwba.png" width="48"/></a>
 <a href="../item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a>
@@ -163,7 +162,7 @@
 <a href="../item/boots.md"><img src="https://i.imgur.com/eTBvKLO.png" width="48"/></a>
 
 ### 0.01%
-[銀幣](../item/coin.md)x8兌換x1，最多1次。
+鑽石x1152兌換x1，最多1次。
 
 <a href="../item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
 <a href="../item/axe.md"><img src="https://i.imgur.com/Cj6g0bi.png" width="48"/></a>
