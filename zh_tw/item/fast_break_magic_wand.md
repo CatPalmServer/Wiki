@@ -125,7 +125,7 @@
     </tr>
 </table>
 
-※ 升級時會保留附魔、[靈魂鎖定](../feature/soul_link.md)。
+※升級時會保留附魔、[靈魂鎖定](../feature/soul_link.md)。
 
 ---
 
