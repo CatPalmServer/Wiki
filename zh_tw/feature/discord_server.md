@@ -1,5 +1,5 @@
 # Discord群組
-[https://discord.gg/utTBPy6yVM](https://discord.gg/utTBPy6yVM)
+[中文](https://discord.gg/utTBPy6yVM)、[日本語](https://discord.gg/JfbdJQDkHA)
 
 ### 狀態
 每3分鐘更新1次伺服器狀態，包括人數統計、CPU、RAM、儲存空間、分流、線上玩家清單。
