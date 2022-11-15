@@ -16,6 +16,7 @@
 <a href="../food/ice_cream_cone.md"><img src="https://i.imgur.com/ARtw2Tg.png" width="48"/></a>
 <a href="../food/ice_cream_cone.md"><img src="https://i.imgur.com/x6kVTMg.png" width="48"/></a>
 <a href="../food/ice_cream_cone.md"><img src="https://i.imgur.com/vBF6NFM.png" width="48"/></a>
+<a href="../food/cheese_puff.md"><img src="https://i.imgur.com/vddFUpl.png" width="48"/></a>
 <a href="../item/back.md"><img src="https://i.imgur.com/ILnnHV1.png" width="48"/></a>
 <a href="../item/transfer.md"><img src="https://i.imgur.com/4eKYni0.png" width="48"/>
 <a href="../item/random_transfer.md"><img src="https://i.imgur.com/2QdmOdE.png" width="48"/>

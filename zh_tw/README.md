@@ -278,6 +278,15 @@
 <a href="food/ice_cream_cone.md"><img src="https://i.imgur.com/ARtw2Tg.png" width="48"/></a>
 <a href="food/ice_cream_cone.md"><img src="https://i.imgur.com/x6kVTMg.png" width="48"/></a>
 <a href="food/ice_cream_cone.md"><img src="https://i.imgur.com/vBF6NFM.png" width="48"/></a>
+<a href="food/chocolate_bone.md"><img src="https://i.imgur.com/aNQWSKm.png" width="48"/></a>
+<a href="food/cheese_puff.md"><img src="https://i.imgur.com/vddFUpl.png" width="48"/></a>
+<a href="food/candy_cane.md"><img src="https://i.imgur.com/hY62lxE.png" width="48"/></a>
+<a href="food/candy_cane.md"><img src="https://i.imgur.com/GiYPFhV.png" width="48"/></a>
+<a href="food/candy_cane.md"><img src="https://i.imgur.com/NyUD8De.png" width="48"/></a>
+<a href="food/candy_cane.md"><img src="https://i.imgur.com/4NYp3aX.png" width="48"/></a>
+<a href="food/candy_cane.md"><img src="https://i.imgur.com/LfuePOU.png" width="48"/></a>
+<a href="food/candy_cane.md"><img src="https://i.imgur.com/XWclnLY.png" width="48"/></a>
+<a href="food/candy_cane.md"><img src="https://i.imgur.com/aC0rrW4.png" width="48"/></a>
 
 # 裝飾
 <a href="decor/alien_antenna.md"><img src="https://i.imgur.com/7kP0AMr.gif" width="48"/></a>
