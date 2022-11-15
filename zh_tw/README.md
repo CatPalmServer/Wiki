@@ -265,17 +265,19 @@
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></a>
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/GcZe1DG.png" width="48"/></a>
 <a href="item/ender_dragon_queue.md"><img src="https://i.imgur.com/4tafEkT.gif" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/peF2d4K.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/olzWTz3.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/O7E1t2p.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/j8F7WrL.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/LoR2YqN.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/EfpTEpg.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/kKV6nDy.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/ARtw2Tg.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/x6kVTMg.png" width="48"/></a>
-<a href="item/food.md"><img src="https://i.imgur.com/vBF6NFM.png" width="48"/></a>
+
+# 食物
+<a href="food/beef_jerky.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
+<a href="food/mouldy_bread.md"><img src="https://i.imgur.com/peF2d4K.png" width="48"/></a>
+<a href="food/cheese.md"><img src="https://i.imgur.com/olzWTz3.png" width="48"/></a>
+<a href="food/beef_cheese_sandwich.md"><img src="https://i.imgur.com/O7E1t2p.png" width="48"/></a>
+<a href="food/chocolate.md"><img src="https://i.imgur.com/j8F7WrL.png" width="48"/></a>
+<a href="food/chocolate_cake.md"><img src="https://i.imgur.com/LoR2YqN.png" width="48"/></a>
+<a href="food/chocolate_bread.md"><img src="https://i.imgur.com/EfpTEpg.png" width="48"/></a>
+<a href="food/chocolate_cookie.md"><img src="https://i.imgur.com/kKV6nDy.png" width="48"/></a>
+<a href="food/ice_cream_cone.md"><img src="https://i.imgur.com/ARtw2Tg.png" width="48"/></a>
+<a href="food/ice_cream_cone.md"><img src="https://i.imgur.com/x6kVTMg.png" width="48"/></a>
+<a href="food/ice_cream_cone.md"><img src="https://i.imgur.com/vBF6NFM.png" width="48"/></a>
 
 # 裝飾
 <a href="decor/alien_antenna.md"><img src="https://i.imgur.com/7kP0AMr.gif" width="48"/></a>

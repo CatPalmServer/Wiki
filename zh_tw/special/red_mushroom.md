@@ -7,4 +7,4 @@
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
 </table>
 
-※[發霉麵包](../item/food.md)
+※[發霉麵包](../food/mouldy_bread.md)
