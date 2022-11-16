@@ -29,7 +29,7 @@
 <a href="https://minecraft.fandom.com/zh/wiki/經驗瓶"><img src="https://i.imgur.com/Qwc39mw.png" width="48"/></a>
 
 ### 6.5%
-[銅幣](../item/coin.md)x12個兌換x1，最多1次。
+[銅幣](../item/coin.md)x12兌換x1，最多1次。
 
 <a href="../item/back.md"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></a>
 <a href="../item/transfer.md"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></a>
