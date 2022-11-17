@@ -70,10 +70,10 @@
 
 
 <table>
-    <tr><td align="center">状態</td><td align="center">絵可能</td><td align="center">再生可能</td></tr>
+    <tr><td align="center">状態</td><td align="center">絵可能</td><td align="center">複製可能</td></tr>
     <tr><td align="center">ノーロック</td><td align="center">O</td><td align="center">X</td></tr>
-    <tr><td align="center"><a href="#ロックする">はロック</a></td><td align="center">X</td><td align="center">O</td></tr>
-    <tr><td align="center"><a href="#ロックする">はロック</a>+<a href="#禁止カンバス">禁止カンバス</a></td><td align="center">X</td><td align="center">X</td></tr>
+    <tr><td align="center"><a href="#ロックする">ロック</a></td><td align="center">X</td><td align="center">O</td></tr>
+    <tr><td align="center"><a href="#ロックする">ロック</a>+<a href="#複製不可">複製不可</a></td><td align="center">X</td><td align="center">X</td></tr>
 </table>
 
 ### ロックする
@@ -87,8 +87,8 @@
 
 <img src="https://i.imgur.com/hm76Etw.png" width="400"/>
 
-### 禁止カンバス
-禁止カンバス[クポイ](#クポイを使う)，  
+### 複製不可
+[クポイ](#クポイを使う)複製不可，  
 [金床](https://minecraft.fandom.com/ja/wiki/金床)に[ハサミ](https://minecraft.fandom.com/ja/wiki/ハサミ)でカンバスコピーを無効にすることができます。
 
 <img src="https://i.imgur.com/pQQUJh7.png" width="400"/>
