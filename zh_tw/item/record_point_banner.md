@@ -30,7 +30,7 @@
 ---
 
 ## 合成
-見[紀錄寶石](record_point_gemstone.md)。  
+見[記錄寶石](record_point_gemstone.md)。  
 可記錄點的旗幟在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)改名成想取的傳送點名稱。  
 <img src="https://i.imgur.com/3YdOF91.png" width="480"/>
 
