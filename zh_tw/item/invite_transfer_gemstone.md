@@ -35,5 +35,5 @@
 </table>
 
 在[鐵砧](https://minecraft.fandom.com/zh/wiki/铁砧)內[重新命名](https://minecraft.fandom.com/zh/wiki/铁砧#重命名)可加入備註：  
-<img src="https://i.imgur.com/AaLEzgA.png" width="720"></img>
+<img src="https://i.imgur.com/AaLEzgA.png" width="720"></img>  
 <img src="https://i.imgur.com/aGnQraf.png" width="720"></img>
