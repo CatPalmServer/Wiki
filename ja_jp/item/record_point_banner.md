@@ -1,55 +1,55 @@
-# 可記錄點的旗幟
-居家旅行必備物品。  
-多插幾個，只要別忘記名稱就好～
+# セーブができるフラグ
+ご家庭の必需品です。  
+ただ、名前は忘れないようにね～
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">堆疊</td><td>16</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">スタック</td><td>16</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 <table>
-    <tr><td align="center">顏色</td><td align="center" width="64">圖像</td></tr>
+    <tr><td align="center">色彩</td><td align="center" width="64">圖像</td></tr>
     <tr><td align="center">白</td><td align="center"><img src="https://i.imgur.com/BuMmuHp.png" height="48"/></td></tr>
     <tr><td align="center">橙</td><td align="center"><img src="https://i.imgur.com/VKViBBF.png" height="48"/></td></tr>
-    <tr><td align="center">洋</td><td align="center"><img src="https://i.imgur.com/fzI7uU1.png" height="48"/></td></tr>
-    <tr><td align="center">淺藍</td><td align="center"><img src="https://i.imgur.com/SakX0ob.png" height="48"/></td></tr>
+    <tr><td align="center">赤紫</td><td align="center"><img src="https://i.imgur.com/fzI7uU1.png" height="48"/></td></tr>
+    <tr><td align="center">空</td><td align="center"><img src="https://i.imgur.com/SakX0ob.png" height="48"/></td></tr>
     <tr><td align="center">黃</td><td align="center"><img src="https://i.imgur.com/NHVhFib.png" height="48"/></td></tr>
-    <tr><td align="center">淺綠</td><td align="center"><img src="https://i.imgur.com/4tutFKY.png" height="48"/></td></tr>
-    <tr><td align="center">粉紅</td><td align="center"><img src="https://i.imgur.com/RFlTVJj.png" height="48"/></td></tr>
+    <tr><td align="center">黄緑</td><td align="center"><img src="https://i.imgur.com/4tutFKY.png" height="48"/></td></tr>
+    <tr><td align="center">桃</td><td align="center"><img src="https://i.imgur.com/RFlTVJj.png" height="48"/></td></tr>
     <tr><td align="center">灰</td><td align="center"><img src="https://i.imgur.com/PXDQxCY.png" height="48"/></td></tr>
-    <tr><td align="center">淺灰</td><td align="center"><img src="https://i.imgur.com/CVu7BST.png" height="48"/></td></tr>
+    <tr><td align="center">薄灰</td><td align="center"><img src="https://i.imgur.com/CVu7BST.png" height="48"/></td></tr>
     <tr><td align="center">青</td><td align="center"><img src="https://i.imgur.com/1LSD75F.png" height="48"/></td></tr>
     <tr><td align="center">紫</td><td align="center"><img src="https://i.imgur.com/2fBocRI.png" height="48"/></td></tr>
-    <tr><td align="center">藍</td><td align="center"><img src="https://i.imgur.com/LTMfEKo.png" height="48"/></td></tr>
-    <tr><td align="center">棕</td><td align="center"><img src="https://i.imgur.com/872RsZw.png" height="48"/></td></tr>
-    <tr><td align="center">綠</td><td align="center"><img src="https://i.imgur.com/IqG5RFA.png" height="48"/></td></tr>
-    <tr><td align="center">紅</td><td align="center"><img src="https://i.imgur.com/gFEJgwh.png" height="48"/></td></tr>
+    <tr><td align="center">青</td><td align="center"><img src="https://i.imgur.com/LTMfEKo.png" height="48"/></td></tr>
+    <tr><td align="center">茶</td><td align="center"><img src="https://i.imgur.com/872RsZw.png" height="48"/></td></tr>
+    <tr><td align="center">緑</td><td align="center"><img src="https://i.imgur.com/IqG5RFA.png" height="48"/></td></tr>
+    <tr><td align="center">赤</td><td align="center"><img src="https://i.imgur.com/gFEJgwh.png" height="48"/></td></tr>
     <tr><td align="center">黑</td><td align="center"><img src="https://i.imgur.com/0NSNQhg.png" height="48"/></td></tr>
 </table>
 
 ---
 
-## 合成
-見[紀錄寶石](record_point_gemstone.md)。  
-可記錄點的旗幟在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)改名成想取的傳送點名稱。  
+## 組合
+参考[セーブジェム](record_point_gemstone.md)。  
+セーブができるフラグは[金床](https://minecraft.fandom.com/zh/wiki/金床)に置かれ、希望する転送先の名前に変更されます。  
 <img src="https://i.imgur.com/3YdOF91.png" width="480"/>
 
 ---
 
 ## 使用
-### 放置
+### 配置する
 <table>
-    <tr><td>慣用手持可記錄點的旗幟</td><td><img src="https://i.imgur.com/52EUanE.png" width="720"/></td></tr>
-    <tr><td>按<code>右鍵</code>放置在地上</td><td><img src="https://i.imgur.com/d75pfRW.png" width="720"/></td></tr>
+    <tr><td> 慣性ハンドに置かれたセーブができるフラグ</td><td><img src="https://i.imgur.com/52EUanE.png" width="720"/></td></tr>
+    <tr><td><code>右クリック</code>を押すと、地面に置くことができます</td><td><img src="https://i.imgur.com/d75pfRW.png" width="720"/></td></tr>
 </table>
 
-放置後可使用[傳送金蘋果、傳送寶石、傳送寶石方塊](transfer.md)回到該位置  
-如果名稱已被使用會返還可記錄點的旗幟，並且提示錯誤訊息。
+[転送の金ごリンゴ、転送のジェム、転送のジェム方塊](transfer.md)は、装着後にこの位置に戻すことができます，  
+名前が使用されている場合は、セーブができるフラグが返され、エラーメッセージが表示されます。
 
 <img src="https://i.imgur.com/ReA6Rmh.png" width="720"/>
 
-### 拆除
+### 解体
 <table>
-    <tr><td>可記錄點旗幟稍下方點<code>右鍵</code></td><td><img src="https://i.imgur.com/VpmFGc9.png" width="720"/></td></tr>
-    <tr><td>拆卸成功</td><td><img src="https://i.imgur.com/bUzBSRy.png" width="720"/></td></tr>
+    <tr><td>セーブができるフラグの少し下を<code>右クリック</code>する</td><td><img src="https://i.imgur.com/VpmFGc9.png" width="720"/></td></tr>
+    <tr><td>解体の成功</td><td><img src="https://i.imgur.com/bUzBSRy.png" width="720"/></td></tr>
 </table>

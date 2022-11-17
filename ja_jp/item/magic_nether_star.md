@@ -1,23 +1,23 @@
-# 魔法地獄之星
-高級材料。  
-不會被爆炸、燃燒損毀。
+# 魔法のネザースター
+高級素材。  
+爆発性、発火性による破損がないこと。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/IWZz8YM.png" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/IWZz8YM.png" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 
 ---
 
-## 獲取
-[凋零怪](https://minecraft.fandom.com/zh/wiki/凋零怪)有5%機率掉落。
+## ゲット
+[ウィザー](https://minecraft.fandom.com/zh/wiki/ウィザー)5%の確率でドロップする。
 
 ---
 
 ## 用途
-裝備、工具、道具的原材料。  
+機器、工具、道具の原材料。
 
 <a href="land_flying_device.md"><img src="https://i.imgur.com/sMykckD.png" width="48"/></a>
 <a href="land_flying_device.md"><img src="https://i.imgur.com/eKWcQ5V.png" width="48"/></a>

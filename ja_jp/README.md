@@ -268,7 +268,7 @@
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/GcZe1DG.png" width="48"/></a>
 <a href="item/ender_dragon_queue.md"><img src="https://i.imgur.com/4tafEkT.gif" width="48"/></a>
 
-# 食物
+# 食品
 <a href="food/beef_jerky.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
 <a href="food/mouldy_bread.md"><img src="https://i.imgur.com/peF2d4K.png" width="48"/></a>
 <a href="food/cheese.md"><img src="https://i.imgur.com/olzWTz3.png" width="48"/></a>
@@ -290,7 +290,7 @@
 <a href="food/candy_cane.md"><img src="https://i.imgur.com/XWclnLY.png" width="48"/></a>
 <a href="food/candy_cane.md"><img src="https://i.imgur.com/aC0rrW4.png" width="48"/></a>
 
-# 裝飾
+# 装飾
 <a href="decor/alien_antenna.md"><img src="https://i.imgur.com/7kP0AMr.gif" width="48"/></a>
 <a href="decor/angel_circle.md"><img src="https://i.imgur.com/ymQfXnG.png" width="48"/></a>
 <a href="decor/angel_circle.md"><img src="https://i.imgur.com/xtX6NUT.png" width="48"/></a>
@@ -395,7 +395,7 @@
 <a href="decor/rabbit_ear.md"><img src="https://i.imgur.com/brW4b3k.png" width="48"/></a>
 <a href="decor/rabbit_ear.md"><img src="https://i.imgur.com/D3eGjbH.gif" width="48"/></a>
 
-# 特殊
+# スペシャル
 <a href="special/wandering_trader_spawn_egg.md"><img src="https://i.imgur.com/n06STMh.png" width="48"/></a>
 <a href="special/barrier.md"><img src="https://i.imgur.com/uBzq1SX.png" width="48"/></a>
 <a href="special/brown_mushroom.md"><img src="https://i.imgur.com/iupt5LZ.png" width="48"/></a>
@@ -403,32 +403,32 @@
 <a href="special/elytra.md"><img src="https://i.imgur.com/E4LgClR.png" width="48"/></a>
 <a href="special/cobweb.md"><img src="https://i.imgur.com/fWQQ0pc.png" width="48"/></a>
 
-# 特性
-<a href="feature/anniversary.md"><img src="https://i.imgur.com/yP02AmR.png" width="198"/></a>
-<a href="feature/cat_bowl.md"><img src="https://i.imgur.com/li4ro8m.png" width="198"/></a>
-<a href="feature/discord_server.md"><img src="https://i.imgur.com/HXIUDj8.png" width="198"/></a>
-<a href="feature/daily_signin.md"><img src="https://i.imgur.com/8RUiZF4.png" width="198"/></a>
-<a href="feature/cat_day.md"><img src="https://i.imgur.com/XsaVIjI.png" width="198"/></a>
-<a href="feature/dispenser_industry.md"><img src="https://i.imgur.com/OgMWpRi.png" width="198"/></a>
-<a href="feature/entity_glowing.md"><img src="https://i.imgur.com/wG3wG8k.png" width="198"/></a>
-<a href="feature/ore_glowing.md"><img src="https://i.imgur.com/fsfRjxx.png" width="198"/></a>
-<a href="feature/entity_summon.md"><img src="https://i.imgur.com/RfUHbOB.png" width="198"/></a>
-<a href="feature/full_map.md"><img src="https://i.imgur.com/HsNxiPQ.png" width="198"/></a>
-<a href="feature/soul_link.md"><img src="https://i.imgur.com/MrPbkOY.png" width="198"/></a>
-<a href="feature/enhanced_dragon.md"><img src="https://i.imgur.com/87CtBW9.png" width="198"/></a>
-<a href="feature/enhanced_wither.md"><img src="https://i.imgur.com/WNJRwOv.png" width="198"/></a>
-<a href="feature/enhanced_warden.md"><img src="https://i.imgur.com/FjLg3Ms.png" width="198"/></a>
-<a href="feature/item_placement.md"><img src="https://i.imgur.com/YXTtebu.png" width="198"/></a>
-<a href="feature/edit_sign.md"><img src="https://i.imgur.com/YFUKe8Y.png" width="198"/></a>
-<a href="feature/invisible_item_frame.md"><img src="https://i.imgur.com/7cAn8Qg.png" width="198"/></a>
-<a href="feature/enhanced_wandering_trader.md"><img src="https://i.imgur.com/MoA9u6y.png" width="198"/></a>
-<a href="feature/spawn_elder_guardian.md"><img src="https://i.imgur.com/gHJCJH3.png" width="198"/></a>
-<a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/Tvh9gqo.png" width="198"/></a>
+# 特徴
+<a href="feature/anniversary.md"><img src="https://i.imgur.com/uil3Cm1.png" width="198"/></a>
+<a href="feature/cat_bowl.md"><img src="https://i.imgur.com/p6hFN7l.png" width="198"/></a>
+<a href="feature/discord_server.md"><img src="https://i.imgur.com/A3LoXdG.png" width="198"/></a>
+<a href="feature/daily_signin.md"><img src="https://i.imgur.com/kYKAfw8.png" width="198"/></a>
+<a href="feature/cat_day.md"><img src="https://i.imgur.com/5cIdSsJ.png" width="198"/></a>
+<a href="feature/dispenser_industry.md"><img src="https://i.imgur.com/h01iTyE.png" width="198"/></a>
+<a href="feature/entity_glowing.md"><img src="https://i.imgur.com/W71vv5v.png" width="198"/></a>
+<a href="feature/ore_glowing.md"><img src="https://i.imgur.com/3lsrAHf.png" width="198"/></a>
+<a href="feature/entity_summon.md"><img src="https://i.imgur.com/27sQyid.png" width="198"/></a>
+<a href="feature/full_map.md"><img src="https://i.imgur.com/iHewVie.png" width="198"/></a>
+<a href="feature/soul_link.md"><img src="https://i.imgur.com/RqzVZaf.png" width="198"/></a>
+<a href="feature/enhanced_dragon.md"><img src="https://i.imgur.com/gY2wFmf.png" width="198"/></a>
+<a href="feature/enhanced_wither.md"><img src="https://i.imgur.com/2t8rYFm.png" width="198"/></a>
+<a href="feature/enhanced_warden.md"><img src="https://i.imgur.com/Wz8aHMa.png" width="198"/></a>
+<a href="feature/item_placement.md"><img src="https://i.imgur.com/bcMA2b5.png" width="198"/></a>
+<a href="feature/edit_sign.md"><img src="https://i.imgur.com/gjShflC.png" width="198"/></a>
+<a href="feature/invisible_item_frame.md"><img src="https://i.imgur.com/EJ6dbVn.png" width="198"/></a>
+<a href="feature/enhanced_wandering_trader.md"><img src="https://i.imgur.com/LcGhe7h.png" width="198"/></a>
+<a href="feature/spawn_elder_guardian.md"><img src="https://i.imgur.com/Ox12sfh.png" width="198"/></a>
+<a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/tVnUvaK.png" width="198"/></a>
 <br/>
-<a href="feature/drop_limit.md"><img src="https://i.imgur.com/V1Vvawi.png" width="198"/></a>
-<a href="feature/entity_limit.md"><img src="https://i.imgur.com/DcqI4YZ.png" width="198"/></a>
-<a href="feature/hopper_limit.md"><img src="https://i.imgur.com/TcDSNFW.png" width="198"/></a>
-<a href="feature/redstone_limit.md"><img src="https://i.imgur.com/k3dEgE8.png" width="198"/></a>
+<a href="feature/drop_limit.md"><img src="https://i.imgur.com/cgfT2uC.png" width="198"/></a>
+<a href="feature/entity_limit.md"><img src="https://i.imgur.com/We80Bmy.png" width="198"/></a>
+<a href="feature/hopper_limit.md"><img src="https://i.imgur.com/2S7w2C3.png" width="198"/></a>
+<a href="feature/redstone_limit.md"><img src="https://i.imgur.com/iVxXtTw.png" width="198"/></a>
 
-# 紀念
+# 追悼
 <a href="https://zh.wikipedia.org/wiki/Technoblade"><img src="https://i.imgur.com/Lzsztat.png" width="48"/></a>

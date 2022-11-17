@@ -1,27 +1,27 @@
-# 領地群組之書
-保護好自己的家當，避免遭小偷。而且苦力怕還炸不壞～真是太棒了～  
-可以綁定無限個[領地產生器](land_block.md)！  
-怪物不會受到保護、只保護在領地內誕生的動物。
+# 領地グループの本
+泥棒から持ち物を守る。そしてクリーパーはブロックを爆破することができない～素晴らしい～  
+[領地ジェネレーター](land_block.md)は無制限にバインド可能！  
+モンスターは保護されず、領地で生まれた動物だけが保護される。
 
-## 資料
+## データ
 <table>
     <tr>
-        <td align="center">未啟用</td>
-        <td align="center">已啟用</td>
+        <td align="center">有効化なし</td>
+        <td align="center">有効化</td>
     </tr>
     <tr>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/Vj4LxUG.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/Vj4LxUG.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/duGvD3y.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>1</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/duGvD3y.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>1</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
     </tr>
@@ -29,7 +29,7 @@
 
 ---
   
-## 合成
+## 組合
 <table>
     <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td><img src="https://i.imgur.com/Oqe8FMm.png" width="48"/></td><td><img src="https://i.imgur.com/hK44ttL.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/Vj4LxUG.png" width="48"/></td><td width="70"></td></tr>
@@ -39,155 +39,157 @@
 ---
 
 ## 使用
-### 創建新的
-慣用手持未啟用的領地群組之書按`右鍵`，會變成已啟用的領地群組之書。
+### 新規作成
+慣例的な手持ちの無効になっている領地グループの本は`右クリック`を押すと有効になっている領地グループの本になります。
 
-### 產生領地
-慣用手持已啟用的領地群組之書對準[領地產生器](land_block.md)`右鍵`，可以寫入。
+### 記入領地
+慣用的な手持ち有効になっている領地グループの本は、[領地ジェネレーター](land_block.md)を右クリックすることで記入が可能です。
 
 <table>
-    <tr><td align="center">未寫入</td><td align="center">已寫入</td></tr>
+    <tr><td align="center">未記入</td><td align="center">記入</td></tr>
     <tr><td><img src="https://i.imgur.com/x9meQTF.png" width="400"/></td><td><img src="https://i.imgur.com/h2Kovir.png" width="400"/></td></tr>
 </table>
 
-如果[領地產生器](land_block.md)已經被寫入，需要先拆除才可重新使用，領地的擺法與[烽火台](https://minecraft.fandom.com/zh/wiki/烽火台)相同：  
+[領地ジェネレーター](land_block.md)が記入になった場合、再利用する前に取り外す必要があります。領地は[ビーコン](https://minecraft.fandom.com/zh/wiki/ビーコン)と同じです。
 
 <img src="https://i.imgur.com/nW7GC4b.png" width="720"/>  
 
-頂層方塊為[領地產生器](land_block.md)  
-下四層可以是[領地小能量、領地中能量、領地大能量](land_energy.md)混搭  
-放滿四層滿獲得額外+20%能量點，能量點轉換公式：
+最上部のブロックは[領地ジェネレーター](land_block.md)  
+次の4段階のブロックは[領地エネルギー小、領地エネルギー中、領地エネルギー大](land_energy.md)を混在させることができます  
+ブロックを4レベルで埋めると、さらに+20%のエネルギーポイントを得ることができます、エネルギーポイント換算式：
 
 <table>
-    <tr><td align="center">能量</td><td align="center">點數</td></tr>
+    <tr><td align="center">エネルギー</td><td align="center">点数</td></tr>
     <tr><td align="center">小</td><td align="center">1</td></tr>
     <tr><td align="center">中</td><td align="center">9</td></tr>
     <tr><td align="center">大</td><td align="center">81</td></tr>
 </table>
 
 <table>
-    <tr><td align="center">沒有四層滿</td><td><code>區塊半徑</code>=無條件進位(平方根(<code>總點數</code>)/<code>2</code>)-<code>1</code></td></tr>
-    <tr><td align="center">四層滿</td><td><code>區塊半徑</code>=無條件進位(平方根(<code>總點數</code>x<code>1.2</code>)/<code>2</code>)-<code>1</code></td></tr>
+    <tr><td align="center">4層ブロックは完成していません</td><td><code>チャンク半径</code>=無条件キャリー(平方根(<code>合計点数</code>)/<code>2</code>)-<code>1</code></td></tr>
+    <tr><td align="center">4層ブロックは完成</td><td><code>チャンク半径</code>=無条件キャリー(平方根(<code>合計点数</code>x<code>1.2</code>)/<code>2</code>)-<code>1</code></td></tr>
 </table>
 
-實際面積為`總區塊面積`=平方(`區塊半徑`+`1`+`區塊半徑`)  
-不會覆蓋比自己還早搶佔的領地：  
+実際の面積は`ブロック総面積`です=平方(`チャンク半径`+`1`+`チャンク半径`)  
+領地は先行する者をカバーすることはできない：  
 
 <table>
     <tr><td><img src="https://i.imgur.com/THNRtuf.png" width="400"/></td><td><img src="https://i.imgur.com/C4waK6f.png" width="400"/></td></tr>
 </table>
 
 
-### 獲取領地
-如果不慎遺失了已啟用的領地群組之書，依然有方法取回。  
-慣用手持未啟用的領地群組之書對著[領地產生器](land_block.md)`右鍵`，可將已寫入的領地群組還原到書中。
+### 取得領地
 
-### 更改名稱
-將已啟用的領地群組之書在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)改成想要的名稱，領地群組的名稱會跟著改變。  
-可輸入最多36個任意字元。  
-由於快取機制，部份分流需要等待最久30秒新名稱才會生效。
+有効になっている領地グループの本を誤って紛失してしまった場合でも、回収する方法があります。  
+無効になっている領地グループの本を手にした状態で[領地ジェネレーター](land_block.md)を`右クリック`すると、記入になっている領地をブックに戻すことができます。
 
-### 群組之書
-第一、二頁為說明，第三頁開始`(ALL)=`及全部[權限](#權限)，格式為`玩家=權限清單`。  
+### 領地名の変更
+[金床](https://minecraft.fandom.com/zh/wiki/金床)で有効になっている領地グループの本を任意の名前に変更すると、それに応じて領地グループの名前も変更されます。  
+お好きな文字を最大36文字まで入力できます。  
+キャッシュ機構により、一部の転用では新しい名前が有効になるまでに最大30秒を要します。
+
+### グループの本
+
+1ページ目と2ページ目は説明文です，3ページ以降`(ALL)=`とすべての[権限](#権限)，書式は`プレイヤー=権限リスト`。  
 玩家可以是暱稱或名稱，但編輯完成後一律自動轉換為[暱稱](rename_milk.md)。
 ```yaml
-#最大限制200名玩家
-#格式:
-#  玩家名稱=權限清單
-#權限:
-#  A 盔甲座
-#  B 船
-#  D 破壞方塊
-#  E 實體互動
-#  F 展示框
-#  G 畫框
-#  H 傷害實體
-#  I 方塊互動
-#  L 閱讀講座書
-#  M 礦車
+#最大プレイヤー数200名
+#フォーマット:
+#  プレイヤー名=権限リスト
+#権限:
+#  A 防具立て
+#  B ボート
+#  D ブロックの破壊
+#  E コミュニケーション
+#  F 額縁
+#  G 絵画
+#  H ダメージ
+#  I ブロックへのアクション
+#  L 書見台の閲覧
+#  M トロッコ
 ```
 ```yaml
-#  P 放置方塊
-#  R 擁有者
-#  S 生成實體
-#  T 觸發機關
-#  U 水桶
+#  P ブロックの置き
+#  R 所有者
+#  S Mobの生成
+#  T 回路の起動
+#  U バケツ
 #  V PVP
 #  Y 飛行
 ```
 ```yaml
 (ALL)=
-你的玩家暱稱=ABDEFGHILMPRSTUVY
+あなたのニックネーム=ABDEFGHILMPRSTUVY
 ```
 
-讓全部玩家都能飛行：  
+すべてのプレーヤーに飛行を：  
 ```yaml
 (ALL)=Y
-你的玩家暱稱=ABDEFGHILMPRSTUVY
+あなたのニックネーム=ABDEFGHILMPRSTUVY
 ```
-讓 I_PLAYER 玩家擁有全部的權限：  
+I_PLAYER プレーヤーに完全な権限を持たせる：  
 ```yaml
 (ALL)=
-你的玩家暱稱=ABDEFGHILMPRSTUVY
+あなたのニックネーム=ABDEFGHILMPRSTUVY
 I_PLAYER=ABDEFGHILMPRSTUVY
 ```
 
-每行的第一個字元為 `#` 表示為註解並不參與內容  
-例如將下方行
+各行の最初の文字は、コメントであり、内容に関与しないことを示す`#`です  
+例えば、次のような行です。
 ```yaml
 (ALL)=A
 ```
-註解掉
+キャンセル
 ```yaml
 #(ALL)=A
 ```
-更新後此行會自行消失
+アップデート後消えます
 
 ---
 
-## 權限
-- ### A 盔甲座
-  [盔甲座](https://minecraft.fandom.com/zh/wiki/盔甲座)的放置、傷害、換裝
-- ### B 船
-  [船](https://minecraft.fandom.com/zh/wiki/船)的放置、傷害、乘坐
-- ### D 破壞方塊
-  [方塊](https://minecraft.fandom.com/zh/wiki/方塊)的破壞
-- ### E 實體互動
-  [實體](https://minecraft.fandom.com/zh/wiki/動物)的餵食
-- ### F 展示框
-  [物品展示框](https://minecraft.fandom.com/zh/wiki/物品展示框)的放置、傷害、換物、旋轉
-- ### G 畫框
-  [畫](https://minecraft.fandom.com/zh/wiki/畫)的放置、傷害
-- ### H 傷害實體
-  [實體](https://minecraft.fandom.com/zh/wiki/實體)的損傷  
-  ※ 僅保護在領地內誕生的動物
-- ### I 方塊互動
-  [儲物箱](https://minecraft.fandom.com/zh/wiki/儲物箱)的使用  
-  [烽火台](https://minecraft.fandom.com/zh/wiki/烽火台)的使用  
-  [告示牌](https://minecraft.fandom.com/zh/wiki/告示牌)的梗改  
-  [音階盒](https://minecraft.fandom.com/zh/wiki/音階盒)的調整
-- ### L 閱讀講座書
-  [講台](https://minecraft.fandom.com/zh/wiki/講台)的閱覽
-- ### M 礦車
-  [船](https://minecraft.fandom.com/zh/wiki/船)的放置、傷害、乘坐
-- ### P 放置方塊
-  [方塊](https://minecraft.fandom.com/zh/wiki/方塊)的放置
-- ### R 擁有者
-  [領地產生器](land_block.md)的寫入、拆除  
-  更改領地權限
-  領地能量的放置、拆除
-- ### S 生成實體
-  [生怪蛋](https://minecraft.fandom.com/zh/wiki/生怪蛋)的使用  
-  [友善生物收納繩](rope.md)的使用  
-  [邪惡生物收納繩](rope.md)的使用
-- ### T 觸發機關
-  [絆線鉤](https://minecraft.fandom.com/zh/wiki/絆線鉤)的觸發  
-  [陷阱儲物箱](https://minecraft.fandom.com/zh/wiki/陷阱儲物箱)的使用  
-  [壓力板](https://minecraft.fandom.com/zh/wiki/壓力板)的觸發
-- ### U 水桶
-  [水桶](https://minecraft.fandom.com/zh/wiki/水桶)的使用  
-  [熔岩桶](https://minecraft.fandom.com/zh/wiki/熔岩桶)的使用
+## 権限
+- ### A 防具立て
+  [防具立て](https://minecraft.fandom.com/zh/wiki/防具立て)の配置、破損、交換
+- ### B ボート
+  [ボート](https://minecraft.fandom.com/zh/wiki/ボート)の配置、傷害、乗車
+- ### D ブロックの破壊
+  [ブロック](https://minecraft.fandom.com/zh/wiki/ブロック)の破壊
+- ### E コミュニケーション
+  [Mob](https://minecraft.fandom.com/ja/wiki/Mob)の給餌
+- ### F 額縁
+  [額縁](https://minecraft.fandom.com/zh/wiki/額縁)の配置、傷害、変化、回転
+- ### G 絵画
+  [絵画](https://minecraft.fandom.com/zh/wiki/絵画)の装着、傷害
+- ### H ダメージ
+  [エンティティ](https://minecraft.fandom.com/zh/wiki/エンティティ)の損傷  
+  ※ 僅ダメージ軽減在領地內誕生的動物
+- ### I ブロックへのアクション
+  [チェスト](https://minecraft.fandom.com/zh/wiki/チェスト)の使用  
+  [ビーコン](https://minecraft.fandom.com/zh/wiki/ビーコン)の使用  
+  [看板](https://minecraft.fandom.com/zh/wiki/看板)の変更  
+  [音符ブロック](https://minecraft.fandom.com/zh/wiki/音符ブロック)の調整
+- ### L 書見台の閲覧
+  [書見台](https://minecraft.fandom.com/zh/wiki/書見台)の読み物
+- ### M トロッコ
+  [トロッコ](https://minecraft.fandom.com/zh/wiki/トロッコ)の配置、傷害、乗車
+- ### P ブロックの置き
+  [ブロック](https://minecraft.fandom.com/zh/wiki/ブロック)の配置
+- ### R 所有者
+  [領地ジェネレーター](land_block.md)の書き込み、削除  
+  領地の権限変更  
+  領地能量の配置・撤去  
+- ### S Mobの生成
+  [スポーンエッグ](https://minecraft.fandom.com/zh/wiki/スポーンエッグ)の使用  
+  [友好Mobリード](rope.md)の使用  
+  [敵対Mobリード](rope.md)の使用
+- ### T 回路の起動
+  [トリップワイヤーフック](https://minecraft.fandom.com/zh/wiki/トリップワイヤーフック)のトリガー  
+  [トラップチェスト](https://minecraft.fandom.com/zh/wiki/トラップチェスト)の使用  
+  [感圧板](https://minecraft.fandom.com/zh/wiki/感圧板)のトリガー
+- ### U バケツ
+  [バケツ](https://minecraft.fandom.com/zh/wiki/バケツ)の使用  
+  [溶岩入りバケツ](https://minecraft.fandom.com/zh/wiki/溶岩入りバケツ)の使用
 - ### V PVP
-  [玩家](https://minecraft.fandom.com/zh/wiki/玩家)的損傷
+  [プレイヤー](https://minecraft.fandom.com/zh/wiki/プレイヤー)の損傷
 - ### Y 飛行
-  領地內可使用[領地飛行鞘翅](land_flying_device.md)
+  [領地飛行可能エントラ](land_flying_device.md)は領地で使用することができます

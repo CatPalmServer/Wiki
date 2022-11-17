@@ -1,30 +1,31 @@
-# 終界龍排隊器
-一個一個來，不要吵。
+# エンダードラゴン排隊器
+一人ずつ来て、騒がないように。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/4tafEkT.gif" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/4tafEkT.gif" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 不可
 
 ---
 
 ## 使用
-可以在終界出生地平台旁看到終界龍排隊器，  
+ジ・エンド発祥の地のプラットフォームの隣にはエンダードラゴン排隊器が見える。
 
 <img src="https://i.imgur.com/tyDLhow.png" width="720"/>
 
-`右鍵`點擊可開啟選單進行排隊，  
+`右クリック`すると、キューイング用のメニューが表示されます，  
 
 <img src="https://i.imgur.com/RuxSGTw.png" width="720"/>
 
-每個玩家最多可同時排隊2次，當輪到你時會自動傳送到終界並倒數60秒召喚終界龍的機會。  
+
+各プレイヤーは同時に2回までキューイングすることができ、自分の番が来ると自動的にジ・エンドに転送され、エンダードラゴンをコールするまで60秒カウントダウンされます。
 
 <img src="https://i.imgur.com/PlXOBrW.png" width="720"/>
 

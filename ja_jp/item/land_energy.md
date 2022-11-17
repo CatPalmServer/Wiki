@@ -1,13 +1,13 @@
 # 領地能量
-[領地群組之書](land_book.md)的必備方塊。
+[領地グループの本](land_book.md)に必要なブロック。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 <table>
-    <tr><td align="center">程度</td><td align="center">圖像</td></tr>
+    <tr><td align="center">レベル</td><td align="center">画像</td></tr>
     <tr><td align="center">小</td><td><img src="https://i.imgur.com/Q7zi1Dp.png" height="48"/></td></tr>
     <tr><td align="center">中</td><td><img src="https://i.imgur.com/gDlF2M6.png" height="48"/></td></tr>
     <tr><td align="center">大</td><td><img src="https://i.imgur.com/ulqCHW3.png" height="48"/></td></tr>
@@ -15,7 +15,7 @@
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
         <td align="center">小</td>
@@ -52,14 +52,14 @@
 ---
 
 ## 使用
-作為領地下四層方塊使用  
+領地の下で4段ブロックとして使用  
 
 <table>
-    <tr><td align="center">能量</td><td align="center">點數</td></tr>
+    <tr><td align="center">エネルギー</td><td align="center">点数</td></tr>
     <tr><td align="center">小</td><td align="center">1</td></tr>
     <tr><td align="center">中</td><td align="center">9</td></tr>
     <tr><td align="center">大</td><td align="center">81</td></tr>
 </table>
 
-詳情見[領地群組之書](land_book.md)  
+詳しくは[領地グループの本](land_book.md)をご覧ください  
 <img src="https://i.imgur.com/nW7GC4b.png" width="720"/>

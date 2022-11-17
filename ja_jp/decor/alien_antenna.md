@@ -1,20 +1,20 @@
-# 天線
-逼逼逼。
+# 日線
+べべべ。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/7kP0AMr.gif" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>1</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
-    <tr><td align="end">配戴</td><td>頭盔</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/7kP0AMr.gif" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>1</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
+    <tr><td align="end">装備</td><td>ヘルメット</td></tr>
 </table>
 
 ---
 
-## 獲取
+## ゲット
 <table>
     <tr>
-        <td align="center">彩</td>
-        <td>透過<a href="../feature/anniversary.md">周年慶</a>競標取得。</td>
+        <td align="center">虹</td>
+        <td><a href="../feature/anniversary.md">周年記念</a>入札で取得。</td>
     </tr>
 </table>

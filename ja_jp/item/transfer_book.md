@@ -1,16 +1,16 @@
-# 傳送之書
-可以存入[傳送金蘋果、傳送寶石](transfer.md)。
+# 転送之書
+[転送の金ごリンゴ、転送のジェム](transfer.md)に預けることも可能です。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/APrqstL.png" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>1</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/APrqstL.png" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>1</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td><img src="https://i.imgur.com/AeLjor8.png" width="48"/></td><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/APrqstL.png" width="48"/></td><td width="70"></td></tr>
@@ -20,28 +20,28 @@
 ---
 
 ## 使用
-在慣用手持傳送之書時點擊`右鍵`可打開選單  
+通常の手のひら転送之書クリック`右クリック`でメニューが表示されます： 
 
 <table>
-    <tr><td align="center">標題</td><td colspan="9">傳送之書</td></tr>
-    <tr><td rowspan="4" align="center"><a href="#已儲存的傳送點清單">已儲存的傳送點清單</a><br/>9 x 5</td><td><img src="https://i.imgur.com/4eKYni0.png" width="48"/></td><td><img src="https://i.imgur.com/4eKYni0.png" width="48"/></td><td><img src="https://i.imgur.com/4eKYni0.png" width="48"/></td><td><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td align="center">タイトル</td><td colspan="9">転送之書</td></tr>
+    <tr><td rowspan="4" align="center"><a href="#保存された転送ポイント一覧">保存された転送ポイント一覧</a><br/>9 x 5</td><td><img src="https://i.imgur.com/4eKYni0.png" width="48"/></td><td><img src="https://i.imgur.com/4eKYni0.png" width="48"/></td><td><img src="https://i.imgur.com/4eKYni0.png" width="48"/></td><td><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td align="center">選單<br/>9 x 1</td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+    <tr><td align="center">メニュー<br/>9 x 1</td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
 </table>
 
 <table>
-    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>閉じる</td></tr>
 </table>
 
-### 已儲存的傳送點清單
-最多可保存 36 個傳送點座標，如果要加入傳送點：  
+### 保存された転送ポイント一覧
+転送先の座標を最大36個まで保存、転送先を追加する場合：  
 
 <table>
-    <tr><td>準備好已經改名的<br/><a href="transfer.md">傳送金蘋果、傳送寶石</a></td><td><img src="https://i.imgur.com/Gi21eXy.png" width="720"/></td></tr>
-    <tr><td>把要放入的傳送點按下<br/><code>Shift+右鍵</code></td><td><img src="https://i.imgur.com/S9jUyYi.png" width="720"/><br/>放入後將不可取出。</td></tr>
+    <tr><td><br/><a href="transfer.md">転送の金ごリンゴ、転送のジェム</a>に改名する準備が整いました</td><td><img src="https://i.imgur.com/Gi21eXy.png" width="720"/></td></tr>
+    <tr><td>入れたい転送ポイントを押す<code>Shift+右クリック</code></td><td><img src="https://i.imgur.com/S9jUyYi.png" width="720"/><br/>放入後將不可取出。</td></tr>
 </table>
 
-會自動按照名稱排序，[傳送金蘋果](transfer.md)最多64個同樣的。  
-如果[傳送寶石](transfer.md)所需消耗的等級不足夠則不會損傷，而是直接消失。
+名前順に自動で並べられ、同じものが64個まで[転送の金ごリンゴ](transfer.md)されます。  
+[転送のジェム](transfer.md)は十分な量を消費しないと、ダメージを受けることなく、ただ消えていくだけです。

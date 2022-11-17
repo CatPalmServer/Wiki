@@ -1,34 +1,34 @@
 # 拐杖糖
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
     <tr>
-        <td align="end">食用</td>
+        <td align="end">食品</td>
         <td>
             <table>
-                <tr><td align="center">食物水平</td><td align="start">1</td></tr>
-                <tr><td align="center">食物飽食度</td><td align="start">0.2</td></tr>
+                <tr><td align="center">満腹度</td><td align="start">1</td></tr>
+                <tr><td align="center">満腹度消費度</td><td align="start">0.2</td></tr>
             </table>
         </td>
     </tr>
 </table>
 <table>
-    <tr><td align="center">紅</td><td><img src="https://i.imgur.com/hY62lxE.png" height="48"/></td></tr>
+    <tr><td align="center">赤</td><td><img src="https://i.imgur.com/hY62lxE.png" height="48"/></td></tr>
     <tr><td align="center">橙</td><td><img src="https://i.imgur.com/GiYPFhV.png" height="48"/></td></tr>
     <tr><td align="center">黃</td><td><img src="https://i.imgur.com/NyUD8De.png" height="48"/></td></tr>
-    <tr><td align="center">綠</td><td><img src="https://i.imgur.com/4NYp3aX.png" height="48"/></td></tr>
-    <tr><td align="center">藍</td><td><img src="https://i.imgur.com/LfuePOU.png" height="48"/></td></tr>
+    <tr><td align="center">緑</td><td><img src="https://i.imgur.com/4NYp3aX.png" height="48"/></td></tr>
+    <tr><td align="center">青</td><td><img src="https://i.imgur.com/LfuePOU.png" height="48"/></td></tr>
     <tr><td align="center">紫</td><td><img src="https://i.imgur.com/XWclnLY.png" height="48"/></td></tr>
     <tr><td align="center">粉</td><td><img src="https://i.imgur.com/aC0rrW4.png" height="48"/></td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
-        <td align="center">紅</td>
+        <td align="center">赤</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/K971eZe.png" width="48"/></td><td><img src="https://i.imgur.com/K971eZe.png" width="48"/></td><td><img src="https://i.imgur.com/K971eZe.png" width="48"/></td><td colspan="3"></td></tr>
@@ -58,7 +58,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">綠</td>
+        <td align="center">緑</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/K971eZe.png" width="48"/></td><td><img src="https://i.imgur.com/K971eZe.png" width="48"/></td><td><img src="https://i.imgur.com/K971eZe.png" width="48"/></td><td colspan="3"></td></tr>
@@ -68,7 +68,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">藍</td>
+        <td align="center">青</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/K971eZe.png" width="48"/></td><td><img src="https://i.imgur.com/K971eZe.png" width="48"/></td><td><img src="https://i.imgur.com/K971eZe.png" width="48"/></td><td colspan="3"></td></tr>

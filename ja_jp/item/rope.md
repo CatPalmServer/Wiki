@@ -1,23 +1,23 @@
-# 收納繩
-千萬不能對著玩家用... 要不然會... 被打。
+# Mobリード
+プレイヤーには絶対に使わないでください...でないと...攻撃される。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">堆疊</td><td>1</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">スタック</td><td>1</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 <table>
-    <tr><td align="center">類型</td><td align="center">未收納圖像</td><td align="center">已收納圖像</td></tr>
-    <tr><td align="center">友善</td><td><img src="https://i.imgur.com/ZvzYK32.png" height="48"/></td><td><img src="https://i.imgur.com/horYOR1.png" height="48"/></td></tr>
-    <tr><td align="center">邪惡</td><td><img src="https://i.imgur.com/bLvlyCD.png" height="48"/></td><td><img src="https://i.imgur.com/qvrHVFH.png" height="48"/></td></tr>
+    <tr><td align="center">種類</td><td align="center">未收納圖像</td><td align="center">已收納圖像</td></tr>
+    <tr><td align="center">友好</td><td><img src="https://i.imgur.com/ZvzYK32.png" height="48"/></td><td><img src="https://i.imgur.com/horYOR1.png" height="48"/></td></tr>
+    <tr><td align="center">敵対</td><td><img src="https://i.imgur.com/bLvlyCD.png" height="48"/></td><td><img src="https://i.imgur.com/qvrHVFH.png" height="48"/></td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
-        <td align="center">友善</td>
+        <td align="center">友好</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/ZJn6ZOj.png" width="48"/></td><td><img src="https://i.imgur.com/Il5pGn3.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
@@ -27,7 +27,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">邪惡</td>
+        <td align="center">敵対</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/ZJn6ZOj.png" width="48"/></td><td><img src="https://i.imgur.com/Il5pGn3.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
@@ -41,30 +41,30 @@
 ---
 
 ## 使用
-放置於慣用手持`右鍵`可將生物收納至繩子內，再使用`右鍵`可放出來，收納的生物會保留一切數據，可無限次使用。  
-獲取生怪蛋需要用一圈雞蛋合成：
+モブを通常の手持ちの`右クリック`に入れることでリードに格納し、`右クリック`で解除することができる。  
+スポーンエッグを入手するには、周囲に卵の輪を形成する必要があります。
 
 <table>
     <tr>
-        <td align="center">友善</td>
+        <td align="center">友好</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td colspan="3"></td></tr>
                 <tr><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/horYOR1.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/RrFmemu.png" width="48"/></td><td width="70"></td></tr>
                 <tr><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td colspan="3"></td></tr>
             </table>
-            會返還空的友善生物收納繩
+            空的友好Mobリードを返します
         </td>
     </tr>
     <tr>
-        <td align="center">邪惡</td>
+        <td align="center">敵対</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td colspan="3"></td></tr>
                 <tr><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/qvrHVFH.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/TwJZAU3.png" width="48"/></td><td width="70"></td></tr>
                 <tr><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td><img src="https://i.imgur.com/NJNPzfh.png" width="48"/></td><td colspan="3"></td></tr>
             </table>
-            會返還空的邪惡生物收納繩
+            空的敵対Mobリードを返します
         </td>
     </tr>
 </table>

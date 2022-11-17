@@ -1,3 +1,2 @@
-# 生成遠古深海守衛
-
-[深海守衛](https://minecraft.fandom.com/zh/wiki/深海守衛)具有恢復、力量狀態效果時被雷擊會變為[遠古深海守衛](https://minecraft.fandom.com/zh/wiki/遠古深海守衛)。
+# エルダーガーディアンを生成する
+[ガーディアン](https://minecraft.fandom.com/zh/wiki/ガーディアン)が再生能力、攻撃力上昇のステータス効果を持っている場合、雷に打たれると[エルダーガーディアン](https://minecraft.fandom.com/zh/wiki/エルダーガーディアン)に変化する。

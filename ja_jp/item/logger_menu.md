@@ -1,16 +1,16 @@
-# 紀錄書
-誰偷了我的東西！我現在就去查！
+# 記録の本
+誰が私のものを盗んだの！？ これから探します!
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/UyNV7cG.png" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>1</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/UyNV7cG.png" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>1</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/W9Ce5PI.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/W9Ce5PI.png" width="48"/></td><td><img src="https://i.imgur.com/AeLjor8.png" width="48"/></td><td><img src="https://i.imgur.com/W9Ce5PI.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/UyNV7cG.png" width="48"/></td><td width="70"></td></tr>
@@ -20,57 +20,57 @@
 ---
 
 ## 使用
-在慣用手持紀錄書時點擊`右鍵`可打開選單，按照該方塊的紀錄時間新到舊排序：
+恒例のハンドヘルド記録の本クリック `右クリック` でメニューを開き、ブロックが記録された時間で新しいものから古いものへとソートします：
 
 <table>
-    <tr><td align="center">標題</td><td colspan="9">紀錄書 第 ? 頁</td></tr>
-    <tr><td rowspan="5" align="center"><a href="#紀錄清單">紀錄清單</a><br/>9 x 5</td><td><img src="https://i.imgur.com/LrIALaD.png" width="48"/></td><td><img src="https://i.imgur.com/P8HjRL0.png" width="48"/></td><td><img src="https://i.imgur.com/jKBMHfE.png" width="48"/></td><td><img src="https://i.imgur.com/P8HjRL0.png" width="48"/></td><td><img src="https://i.imgur.com/P8HjRL0.png" width="48"/></td><td><img src="https://i.imgur.com/jKBMHfE.png" width="48"/></td><td><img src="https://i.imgur.com/P8HjRL0.png" width="48"/></td><td><img src="https://i.imgur.com/LrIALaD.png" width="48"/></td><td><img src="https://i.imgur.com/LrIALaD.png" width="48"/></td></tr>
+    <tr><td align="center">タイトル</td><td colspan="9">ブロック履歴 ? ページ目</td></tr>
+    <tr><td rowspan="5" align="center"><a href="#記録一覧">記録一覧</a><br/>9 x 5</td><td><img src="https://i.imgur.com/LrIALaD.png" width="48"/></td><td><img src="https://i.imgur.com/P8HjRL0.png" width="48"/></td><td><img src="https://i.imgur.com/jKBMHfE.png" width="48"/></td><td><img src="https://i.imgur.com/P8HjRL0.png" width="48"/></td><td><img src="https://i.imgur.com/P8HjRL0.png" width="48"/></td><td><img src="https://i.imgur.com/jKBMHfE.png" width="48"/></td><td><img src="https://i.imgur.com/P8HjRL0.png" width="48"/></td><td><img src="https://i.imgur.com/LrIALaD.png" width="48"/></td><td><img src="https://i.imgur.com/LrIALaD.png" width="48"/></td></tr>
     <tr><td><img src="https://i.imgur.com/LrIALaD.png" width="48"/></td><td><img src="https://i.imgur.com/jKBMHfE.png" width="48"/></td><td><img src="https://i.imgur.com/jKBMHfE.png" width="48"/></td><td><img src="https://i.imgur.com/jKBMHfE.png" width="48"/></td><td><img src="https://i.imgur.com/LrIALaD.png" width="48"/></td><td><img src="https://i.imgur.com/LrIALaD.png" width="48"/></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td align="center">選單<br/>9 x 1</td><td><img src="https://i.imgur.com/pPb7Mvj.png" width="48"/></td><td><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/SiqPzjW.png" width="48"/></td><td><img src="https://i.imgur.com/n4ZOA7e.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+    <tr><td align="center">メニュー<br/>9 x 1</td><td><img src="https://i.imgur.com/pPb7Mvj.png" width="48"/></td><td><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/SiqPzjW.png" width="48"/></td><td><img src="https://i.imgur.com/n4ZOA7e.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
 </table>
 
 <table>
-    <tr><td align="center"><img src="https://i.imgur.com/pPb7Mvj.png" width="48"/></td><td>範圍減小</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td>範圍加大</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/SiqPzjW.png" width="48"/></td><td>上一頁</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/n4ZOA7e.png" width="48"/></td><td>下一頁</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/pPb7Mvj.png" width="48"/></td><td>範囲を下げる</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td>範囲を上げる</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/SiqPzjW.png" width="48"/></td><td>前のページ</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/n4ZOA7e.png" width="48"/></td><td>次のページ</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>閉じる</td></tr>
 </table>
 
-### 紀錄清單
-記錄玩家行為，
+### 記録一覧
+プレーヤーの挙動を記録する，
 
 <table>
     <tr>
-        <td align="center" rowspan="3">方塊</td>
-        <td align="center">破壞</td>
+        <td align="center" rowspan="3">ブロック</td>
+        <td align="center">破壊する</td>
     </tr>
     <tr>
-        <td align="center">放置</td>
+        <td align="center">配置する</td>
     </tr>
     <tr>
-        <td align="center">更新</td>
+        <td align="center">更新する</td>
     </tr>
     <tr>
-        <td align="center" rowspan="2">物品</td>
-        <td align="center">撿起</td>
+        <td align="center" rowspan="2">アイテム</td>
+        <td align="center">拾う</td>
     </tr>
     <tr>
-        <td align="center">丟棄</td>
+        <td align="center">捨てる</td>
     </tr>
     <tr>
-        <td align="center" rowspan="2">容器</td>
-        <td align="center">拿取</td>
+        <td align="center" rowspan="2">コンテナ</td>
+        <td align="center">取る</td>
     </tr>
     <tr>
-        <td align="center">放入</td>
+        <td align="center">入れる</td>
     </tr>
     <tr>
-        <td align="center" rowspan="6">實體</td>
-        <td align="center">傷害</td>
+        <td align="center" rowspan="6">エンティティ</td>
+        <td align="center">ダメージ</td>
     </tr>
     <tr>
         <td align="center"><a href="rope.md">捕獲</a></td>
@@ -79,14 +79,14 @@
         <td align="center">生成</td>
     </tr>
     <tr>
-        <td align="center">更改</td>
+        <td align="center">変換</td>
     </tr>
     <tr>
         <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/村民#交易">貿易</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/栓繩">栓繩</a></td>
+        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/栓繩">ロープ</a></td>
     </tr>
 </table>
 
-最久保留180天。
+最大180日間保存可能。

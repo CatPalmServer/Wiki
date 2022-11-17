@@ -1,33 +1,33 @@
 # 鐵路方塊
 擴展鐵路更多功用～
 
-## 資料
+## データ
 <table>
     <tr>
-        <td align="center">增加速限</td>
-        <td align="center">減少速限</td>
-        <td align="center">強制方向</td>
+        <td align="center">スピードリミッターを追加</td>
+        <td align="center">スピードリミッターを除去</td>
+        <td align="center">向き強制変更器</td>
     </tr>
     <tr>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/cO4kFh3.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/cO4kFh3.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/5v9heKY.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/5v9heKY.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/yVAdA3i.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/yVAdA3i.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
     </tr>
@@ -35,10 +35,10 @@
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
-        <td align="center">增加速限</td>
+        <td align="center">スピードリミッターを追加</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/8FSBrRo.png" width="48"/></td><td><img src="https://i.imgur.com/Y1x7fbq.png" width="48"/></td><td><img src="https://i.imgur.com/8FSBrRo.png" width="48"/></td><td colspan="3"></td></tr>
@@ -48,7 +48,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">減少速限</td>
+        <td align="center">スピードリミッターを除去</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/8FSBrRo.png" width="48"/></td><td><img src="https://i.imgur.com/Y1x7fbq.png" width="48"/></td><td><img src="https://i.imgur.com/8FSBrRo.png" width="48"/></td><td colspan="3"></td></tr>
@@ -58,7 +58,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">強制方向</td>
+        <td align="center">向き強制変更器</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/8FSBrRo.png" width="48"/></td><td><img src="https://i.imgur.com/Y1x7fbq.png" width="48"/></td><td><img src="https://i.imgur.com/8FSBrRo.png" width="48"/></td><td colspan="3"></td></tr>
@@ -72,16 +72,16 @@
 ---
 
 ## 使用
-### 增加速限
-礦車經過後會使常駐速度增加`0.1`，直到`2.0`最高速。  
+### スピードリミッターを追加
+レールは最高速度の`2.0`まで`0.1`ずつ速度が上げていきます。  
 <img src="https://i.imgur.com/Xu9VkAN.png" width="480"/>
 
-### 減少速限
-礦車經過後會使常駐速度減少`0.1`，直到`0.01`最低速。  
+### スピードリミッターを除去
+レールは最低速度の`0.01`まで`0.1`ずつ速度を下げていきます。  
 <img src="https://i.imgur.com/tUCGWqI.png" width="480"/>
 
-### 強制方向
-允許通行的方向取決於放置時朝向的方向，共有4種：  
+### 向き強制変更器
+置かれた方向によって通過可能な方向が異なり、次の4種類があります：  
 <img src="https://i.imgur.com/66I0z3v.png" width="480"/>
 <table>
     <tr><td align="center" width="70" height="70"></td><td align="center" width="70" height="70">北</td><td align="center" width="70" height="70"></td></tr>
@@ -89,9 +89,9 @@
     <tr><td align="center" width="70" height="70"></td><td align="center" width="70" height="70">南</td><td align="center" width="70" height="70"></td></tr>
 </table>
 
-只有滿足條件的礦車才可通過：
-- 車上有乘客
-- 是允許的方向
+条件を満たしたレールのみ通過可能：
+- 搭乗者の有無
+- は許可された方向
 
-如果條件不滿足會將礦車變回掉落物。  
+条件を満たさない場合は、トロッコからドロップに戻ります。  
 <img src="https://i.imgur.com/xtgag7f.png" width="480"/>

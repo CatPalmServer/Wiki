@@ -1,7 +1,7 @@
-# 標題方塊
-顯示一些重要文字！
+# タイトルブロック
+重要なテキストを表示する!
 
-## 資料
+## データ
 <table>
     <tr>
         <td align="center">小</td>
@@ -10,16 +10,16 @@
     <tr>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/u3Xw80S.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/u3Xw80S.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/Pnw2qaJ.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/Pnw2qaJ.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
     </tr>
@@ -27,7 +27,7 @@
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
         <td align="center">小</td>
@@ -55,12 +55,12 @@
 
 ## 使用
 <table>
-    <tr><td>更改前</td><td><img src="https://i.imgur.com/UzZYyBx.png" width="720"/></td></tr>
-    <tr><td>在<a href="https://minecraft.fandom.com/zh/wiki/鐵砧">鐵砧</a>改成要顯示的標題</td><td><img src="https://i.imgur.com/MCTMmoP.png" width="720"/></td></tr>
-    <tr><td>放在地上</td><td><img src="https://i.imgur.com/9zJMV0Z.png" width="720"/></td></tr>
+    <tr><td>変更前</td><td><img src="https://i.imgur.com/UzZYyBx.png" width="720"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/金床">金床</a>で表示されるようにタイトルを変更</td><td><img src="https://i.imgur.com/MCTMmoP.png" width="720"/></td></tr>
+    <tr><td>地面に置く</td><td><img src="https://i.imgur.com/9zJMV0Z.png" width="720"/></td></tr>
 </table>
 
-踩在上面顯示的尺寸：
+踏み込むとサイズがわかる：
 <table>
 <td align="center">小</td><td align="center">大</td>
     <tr><td><img src="https://i.imgur.com/1FTaBO1.png" width="480"/></td><td><img src="https://i.imgur.com/NubzEhC.png" width="480"/></td></tr>

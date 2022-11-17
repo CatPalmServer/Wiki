@@ -1,18 +1,18 @@
 # 和平方塊
-你也可以看看[和平之證](peaceful_proof.md)。
+你也可以看看[ピースの証](peaceful_proof.md)。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 <table>
     <tr>
         <td align="center">非永久</td>
         <td>
             <table>
-                <tr><td align="center">能量</td><td align="center">圖像</td></tr>
-                <tr><td align="center">無</td><td><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></td></tr>
+                <tr><td align="center">エネルギー</td><td align="center">画像</td></tr>
+                <tr><td align="center">なし</td><td><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></td></tr>
                 <tr><td align="center">小</td><td><img src="https://i.imgur.com/cTC2fkv.png" height="48"/></td></tr>
                 <tr><td align="center">中</td><td><img src="https://i.imgur.com/tZPaxWI.png" height="48"/></td></tr>
                 <tr><td align="center">大</td><td><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td></tr>
@@ -32,7 +32,7 @@
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td><img src="https://i.imgur.com/IWZz8YM.png" width="48"/></td><td><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/ChdGHZh.png" width="48"/></td><td width="70"></td></tr>
@@ -46,7 +46,7 @@
 使用`右鍵`對準非永久和平方塊可消耗1等級充能100點能量，能量會改變其顯示或方塊狀態：  
 
 <table>
-    <tr><td align="center">累計能量</td><td align="center">狀態</td><td align="center">挖掘後</td></tr>
+    <tr><td align="center">累計能量</td><td align="center">状態</td><td align="center">挖掘後</td></tr>
     <tr><td align="center">0</td><td align="center"><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></td><td align="center">無損失</td></tr>
     <tr><td align="center">1～4999</td><td align="center"><img src="https://i.imgur.com/cTC2fkv.png" height="48"/></td><td align="center">損失能量</td></tr>
     <tr><td align="center">5000～9999</td><td align="center"><img src="https://i.imgur.com/tZPaxWI.png" height="48"/></td><td align="center">損失能量</td></tr>

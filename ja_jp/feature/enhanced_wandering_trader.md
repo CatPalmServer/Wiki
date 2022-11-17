@@ -1,8 +1,8 @@
-# 增強型流浪商人
+# 強化された行商人
 
-## 貿易
+## 取引
 ### 90%
-[銅幣](../item/coin.md)x1兌換x8，最多4次。
+[銅貨](../item/coin.md)x1交換x8，最大4回まで。
 
 <a href="https://minecraft.fandom.com/zh/wiki/花"><img src="https://i.imgur.com/WydimGB.png" width="48"/></a>
 <a href="../food/beef_jerky.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
@@ -29,7 +29,7 @@
 <a href="https://minecraft.fandom.com/zh/wiki/經驗瓶"><img src="https://i.imgur.com/Qwc39mw.png" width="48"/></a>
 
 ### 6.5%
-[銅幣](../item/coin.md)x12個兌換x1，最多1次。
+[銅貨](../item/coin.md)x12交換x1，最大1回まで。
 
 <a href="../item/back.md"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></a>
 <a href="../item/transfer.md"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></a>
@@ -44,7 +44,7 @@
 <a href="../item/dragon_hammer.md"><img src="https://i.imgur.com/tvhOfLt.gif" width="48"/></a>
 
 ### 2.99%
-[鐵幣](../item/coin.md)x1兌換x1，最多1次。
+[鐵幣](../item/coin.md)x1交換x1，最大1回まで。
 
 <a href="../item/peaceful_block.md"><img src="https://i.imgur.com/ChdGHZh.png" width="48"/></a>
 <a href="../decor/cat_ear.md"><img src="https://i.imgur.com/iaXK5vI.png" width="48"/></a>
@@ -148,7 +148,7 @@
 <a href="../decor/cat_hat.md"><img src="https://i.imgur.com/KzfuYRq.png" width="48"/></a>
 
 ### 0.5%
-[鐵幣](../item/coin.md)x8兌換x1，最多1次。
+[鐵幣](../item/coin.md)x8交換x1，最大1回まで。
 
 <a href="../item/peaceful_block.md"><img src="https://i.imgur.com/5NXrwba.png" width="48"/></a>
 <a href="../item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a>
@@ -164,7 +164,7 @@
 <a href="../item/boots.md"><img src="https://i.imgur.com/eTBvKLO.png" width="48"/></a>
 
 ### 0.01%
-[銀幣](../item/coin.md)x8兌換x1，最多1次。
+[銀幣](../item/coin.md)x8交換x1，最大1回まで。
 
 <a href="../item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
 <a href="../item/axe.md"><img src="https://i.imgur.com/Cj6g0bi.png" width="48"/></a>

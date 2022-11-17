@@ -1,16 +1,16 @@
-# 調色盤
-需要跟[彩繪畫布](draw_map.md)和[畫筆](pen.md)才能作畫。
+# パレット
+描画するためには、[カンバス](draw_map.md)と[絵筆](pen.md)が続く必要があります。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/skbOVM5.gif" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>1</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/skbOVM5.gif" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>1</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr><td><img src="https://i.imgur.com/hSZ7kwS.png" width="48"/></td><td><img src="https://i.imgur.com/hSZ7kwS.png" width="48"/></td><td><img src="https://i.imgur.com/hSZ7kwS.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/hSZ7kwS.png" width="48"/></td><td><img src="https://i.imgur.com/RnoRJkd.png" width="48"/></td><td><img src="https://i.imgur.com/hSZ7kwS.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/skbOVM5.gif" width="48"/></td><td width="70"></td></tr>
@@ -20,11 +20,11 @@
 ---
 
 ## 使用
-在慣用手持調色盤時點擊`右鍵`可打開選單，顏色排序上到下：  
+パレットをいつもの手に持って、`右クリック`してメニューを表示します。：
 
 <table>
     <tr>
-        <td>第1頁</td>
+        <td>1ページ目</td>
         <td>
             <table>
                 <tr><td align="center">透明</td><td><img src="https://singlecolorimage.com/get/0d0d0d/40x40"/></td><td><img src="https://singlecolorimage.com/get/111111/40x40"/></td><td><img src="https://singlecolorimage.com/get/151515/40x40"/></td><td><img src="https://singlecolorimage.com/get/191919/40x40"/></td><td><img src="https://singlecolorimage.com/get/282828/40x40"/></td><td><img src="https://singlecolorimage.com/get/2e3030/40x40"/></td><td><img src="https://singlecolorimage.com/get/353535/40x40"/></td><td><img src="https://singlecolorimage.com/get/343434/40x40"/></td></tr>
@@ -36,7 +36,7 @@
         </td>
     </tr>
     <tr>
-        <td>第2頁</td>
+        <td>2ページ目</td>
         <td>
             <table>
                 <tr><td><img src="https://singlecolorimage.com/get/6c2424/40x40"/></td><td><img src="https://singlecolorimage.com/get/842c2c/40x40"/></td><td><img src="https://singlecolorimage.com/get/993333/40x40"/></td><td><img src="https://singlecolorimage.com/get/511b1b/40x40"/></td><td><img src="https://singlecolorimage.com/get/641919/40x40"/></td><td><img src="https://singlecolorimage.com/get/600100/40x40"/></td><td><img src="https://singlecolorimage.com/get/4f0100/40x40"/></td><td><img src="https://singlecolorimage.com/get/3b0100/40x40"/></td><td><img src="https://singlecolorimage.com/get/700200/40x40"/></td></tr>
@@ -48,7 +48,7 @@
         </td>
     </tr>
     <tr>
-        <td>第3頁</td>
+        <td>3ページ目</td>
         <td>
             <table>
                 <tr><td><img src="https://singlecolorimage.com/get/5b3c22/40x40"/></td><td><img src="https://singlecolorimage.com/get/985924/40x40"/></td><td><img src="https://singlecolorimage.com/get/ba6d2c/40x40"/></td><td><img src="https://singlecolorimage.com/get/72431b/40x40"/></td><td><img src="https://singlecolorimage.com/get/d87f33/40x40"/></td><td><img src="https://singlecolorimage.com/get/815631/40x40"/></td><td><img src="https://singlecolorimage.com/get/6f4a2a/40x40"/></td><td><img src="https://singlecolorimage.com/get/442d19/40x40"/></td><td><img src="https://singlecolorimage.com/get/483524/40x40"/></td></tr>
@@ -60,7 +60,7 @@
         </td>
     </tr>
     <tr>
-        <td>第4頁</td>
+        <td>4ページ目</td>
         <td>
             <table>
                 <tr><td><img src="https://singlecolorimage.com/get/435e1d/40x40"/></td><td><img src="https://singlecolorimage.com/get/7fb238/40x40"/></td><td><img src="https://singlecolorimage.com/get/597d27/40x40"/></td><td><img src="https://singlecolorimage.com/get/6d9930/40x40"/></td><td><img src="https://singlecolorimage.com/get/7fcc19/40x40"/></td><td><img src="https://singlecolorimage.com/get/436c0d/40x40"/></td><td><img src="https://singlecolorimage.com/get/6db015/40x40"/></td><td><img src="https://singlecolorimage.com/get/599011/40x40"/></td><td><img src="https://singlecolorimage.com/get/005700/40x40"/></td></tr>
@@ -72,7 +72,7 @@
         </td>
     </tr>
     <tr>
-        <td>第5頁</td>
+        <td>5ページ目</td>
         <td>
             <table>
                 <tr><td><img src="https://singlecolorimage.com/get/4a80ff/40x40"/></td><td><img src="https://singlecolorimage.com/get/345ab4/40x40"/></td><td><img src="https://singlecolorimage.com/get/274387/40x40"/></td><td><img src="https://singlecolorimage.com/get/737681/40x40"/></td><td><img src="https://singlecolorimage.com/get/a4a8b8/40x40"/></td><td><img src="https://singlecolorimage.com/get/334cb2/40x40"/></td><td><img src="https://singlecolorimage.com/get/1b285e/40x40"/></td><td><img src="https://singlecolorimage.com/get/2c4199/40x40"/></td><td><img src="https://singlecolorimage.com/get/24357d/40x40"/></td></tr>
@@ -84,7 +84,7 @@
         </td>
     </tr>
     <tr>
-        <td>第6頁</td>
+        <td>6ページ目</td>
         <td>
             <table>
                 <tr><td><img src="https://singlecolorimage.com/get/95576c/40x40"/></td><td><img src="https://singlecolorimage.com/get/aa5974/40x40"/></td><td><img src="https://singlecolorimage.com/get/d06d8e/40x40"/></td><td><img src="https://singlecolorimage.com/get/f27fa5/40x40"/></td><td><img src="https://singlecolorimage.com/get/804357/40x40"/></td><td><img src="https://singlecolorimage.com/get/56333e/40x40"/></td><td><img src="https://singlecolorimage.com/get/40262e/40x40"/></td><td><img src="https://singlecolorimage.com/get/7a4958/40x40"/></td><td><img src="https://singlecolorimage.com/get/693e4b/40x40"/></td></tr>
@@ -98,4 +98,4 @@
 
 
 
-在調色盤內選擇顏色後，點擊背包內的[畫筆](pen.md)可將顏色套用。
+パレットから色を選んだら、バックパックの中の[絵筆](pen.md)をクリックして色を塗ります。

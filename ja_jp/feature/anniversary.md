@@ -1,15 +1,15 @@
-# 周年慶
-每年`07/21`該周為周年慶，例如`星期一`是`20`號、`星期日`是`26`號那周年慶就是7月的`20`~`26`號。  
-周年慶活動每天都可能不同，但總體會有以下幾項活動。
+# 周年記念
+`07/21`の週が記念日の週となります。例えば、`月曜日`が`20`、`日曜日`が`26`の場合、記念日は7月の`20`から`26`の間となります。
+記念日のイベントは日によって異なりますが、一般的にはいくつかのイベントがあります。
 
-## 期間免費[貓碗](cat_bowl.md)
-只有在周年慶開始前登入過的玩家能獲得，但不會有[魚餅乾](../item/super_fish_cracker.md)。
+## 期間中は無料[ネコの皿](cat_bowl.md)
+記念日開始前にログインしているプレイヤーのみ受け取れますが、[スーパーフィッシュクッキー](../item/super_fish_cracker.md)はありません。
 
-## 世界尋寶
-開始活動前會上傳最新的[全地圖](full_map.md)，並於當周每日約晚上09:00發放藏寶圖，玩家需要核對相符的座標並前往該處獲得寶藏，
+## 世界宝探し
+イベント開始前に最新版[フルマップ](full_map.md)をアップロードし、各曜日の09:00頃に宝の地図を公開する予定です。
 
-## 競標彩色裝飾
-使用[貨幣](../item/coin.md)喊價，出價最高者得。  
+## 入札のためのカラフルな装飾者得。
+[両](../item/coin.md)シャウトを使用して、最高額の入札者が落札します。  
 <a href="../decor/alien_antenna.md"><img src="https://i.imgur.com/7kP0AMr.gif" width="48"/></a>
 <a href="../decor/angel_circle.md"><img src="https://i.imgur.com/ojKGaam.gif" width="48"/></a>
 <a href="../decor/cat_ear.md"><img src="https://i.imgur.com/9vi3xsa.gif" width="48"/></a>
@@ -19,11 +19,11 @@
 <a href="../decor/headband_headset.md"><img src="https://i.imgur.com/VnKSxgG.gif" width="48"/></a>
 <a href="../decor/rabbit_ear.md"><img src="https://i.imgur.com/D3eGjbH.gif" width="48"/></a>
 
-## 槍戰遊戲
-周日舉辦，按照存活名次發放獎勵。
+## ガンファイトゲーム
+日曜日を開催し、生存者数に応じて表彰を行います。
 
 <table>
-    <tr><td align="center">存活名次</td><td align="center">獎金</td></tr>
+    <tr><td align="center">生存率ランキング</td><td align="center">スカラシップ</td></tr>
     <tr><td align="center">0%</td><td align="end">250</td></tr>
     <tr><td align="center">50%</td><td align="end">500</td></tr>
     <tr><td align="center">80%</td><td align="end">1,000</td></tr>

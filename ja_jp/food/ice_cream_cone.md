@@ -1,23 +1,23 @@
-# 冰淇淋甜筒
+# アイスクリームコーン
 
-## 資料
+## データ
 <table>
     <tr>
-        <td align="center">原味</td>
-        <td align="center">巧克力</td>
-        <td align="center">甜莓</td>
+        <td align="center">の味</td>
+        <td align="center">チョコレート</td>
+        <td align="center">スイートベリー</td>
     </tr>
     <tr>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/ARtw2Tg.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/ARtw2Tg.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
                 <tr>
-                    <td align="end">食用</td>
+                    <td align="end">食品</td>
                     <td>
                         <table>
-                            <tr><td align="center">食物水平</td><td align="start">10</td></tr>
-                            <tr><td align="center">食物飽食度</td><td align="start">0.2</td></tr>
+                            <tr><td align="center">満腹度</td><td align="start">10</td></tr>
+                            <tr><td align="center">満腹度消費度</td><td align="start">0.2</td></tr>
                         </table>
                     </td>
                 </tr>
@@ -25,14 +25,14 @@
         </td>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/x6kVTMg.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/x6kVTMg.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
                 <tr>
-                    <td align="end">食用</td>
+                    <td align="end">食品</td>
                     <td>
                         <table>
-                            <tr><td align="center">食物水平</td><td align="start">12</td></tr>
-                            <tr><td align="center">食物飽食度</td><td align="start">0.2</td></tr>
+                            <tr><td align="center">満腹度</td><td align="start">12</td></tr>
+                            <tr><td align="center">満腹度消費度</td><td align="start">0.2</td></tr>
                         </table>
                     </td>
                 </tr>
@@ -40,14 +40,14 @@
         </td>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/vBF6NFM.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/vBF6NFM.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
                 <tr>
-                    <td align="end">食用</td>
+                    <td align="end">食品</td>
                     <td>
                         <table>
-                            <tr><td align="center">食物水平</td><td align="start">11</td></tr>
-                            <tr><td align="center">食物飽食度</td><td align="start">0.2</td></tr>
+                            <tr><td align="center">満腹度</td><td align="start">11</td></tr>
+                            <tr><td align="center">満腹度消費度</td><td align="start">0.2</td></tr>
                         </table>
                     </td>
                 </tr>
@@ -58,10 +58,10 @@
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
-        <td align="center">原味</td>
+        <td align="center">の味</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/KgS5h2t.png" width="48"/></td><td><img src="https://i.imgur.com/KgS5h2t.png" width="48"/></td><td><img src="https://i.imgur.com/KgS5h2t.png" width="48"/></td><td colspan="3"></td></tr>
@@ -71,7 +71,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">巧克力</td>
+        <td align="center">チョコレート</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/KgS5h2t.png" width="48"/></td><td><img src="https://i.imgur.com/KgS5h2t.png" width="48"/></td><td><img src="https://i.imgur.com/KgS5h2t.png" width="48"/></td><td colspan="3"></td></tr>
@@ -81,7 +81,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">甜莓</td>
+        <td align="center">スイートベリー</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/KgS5h2t.png" width="48"/></td><td><img src="https://i.imgur.com/KgS5h2t.png" width="48"/></td><td><img src="https://i.imgur.com/KgS5h2t.png" width="48"/></td><td colspan="3"></td></tr>

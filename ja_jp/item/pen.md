@@ -1,27 +1,27 @@
-# 畫筆
-需要跟[彩繪畫布](draw_map.md)和[調色盤](palette.md)才能作畫。
+# 絵筆
+描画するためには、[カンバス](draw_map.md)と[絵筆](pen.md)が続く必要があります。
 
-## 資料
+## データ
 
 <table>
-    <tr><td align="end">堆疊</td><td>1</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">スタック</td><td>1</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 <table>
-    <tr><td align="center">名稱</td><td align="center">尺寸</td><td align="center">圖像</td></tr>
-    <tr><td align="center">針筆</td><td align="center">最小</td><td align="center"><img src="https://i.imgur.com/WlYn4nT.gif" height="48"/></td></tr>
-    <tr><td align="center">細筆</td><td align="center">小</td><td align="center"><img src="https://i.imgur.com/JCIHUl0.gif" height="48"/></td></tr>
-    <tr><td align="center">筆</td><td align="center">中</td><td align="center"><img src="https://i.imgur.com/XzyZjMg.gif" height="48"/></td></tr>
-    <tr><td align="center">粗筆</td><td align="center">大</td><td align="center"><img src="https://i.imgur.com/Fc9LRKo.gif" height="48"/></td></tr>
-    <tr><td align="center">板刷</td><td align="center">最大</td><td align="center"><img src="https://i.imgur.com/Sn4dH5a.gif" height="48"/></td></tr>
+    <tr><td align="center">名称</td><td align="center">サイズ</td><td align="center">画像</td></tr>
+    <tr><td align="center">針ペン</td><td align="center">最小</td><td align="center"><img src="https://i.imgur.com/WlYn4nT.gif" height="48"/></td></tr>
+    <tr><td align="center">細ペン</td><td align="center">小</td><td align="center"><img src="https://i.imgur.com/JCIHUl0.gif" height="48"/></td></tr>
+    <tr><td align="center">ペン</td><td align="center">中</td><td align="center"><img src="https://i.imgur.com/XzyZjMg.gif" height="48"/></td></tr>
+    <tr><td align="center">粗ペン</td><td align="center">大</td><td align="center"><img src="https://i.imgur.com/Fc9LRKo.gif" height="48"/></td></tr>
+    <tr><td align="center">ブラシ</td><td align="center">最大</td><td align="center"><img src="https://i.imgur.com/Sn4dH5a.gif" height="48"/></td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
-        <td align="center">針筆</td>
+        <td align="center">針ペン</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/XefUJXX.png" width="48"/></td><td colspan="3"></td></tr>
@@ -31,7 +31,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">細筆</td>
+        <td align="center">細ペン</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/XefUJXX.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
@@ -41,7 +41,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">筆</td>
+        <td align="center">ペン</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/XefUJXX.png" width="48"/></td><td><img src="https://i.imgur.com/XefUJXX.png" width="48"/></td><td colspan="3"></td></tr>
@@ -51,7 +51,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">粗筆</td>
+        <td align="center">粗ペン</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/XefUJXX.png" width="48"/></td><td><img src="https://i.imgur.com/XefUJXX.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
@@ -61,7 +61,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">板刷</td>
+        <td align="center">ブラシ</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/XefUJXX.png" width="48"/></td><td><img src="https://i.imgur.com/XefUJXX.png" width="48"/></td><td><img src="https://i.imgur.com/XefUJXX.png" width="48"/></td><td colspan="3"></td></tr>
@@ -75,14 +75,14 @@
 ---
 
 ## 使用
-詳情見[彩繪畫布](draw_map.md)，改畫筆顏色需要[調色盤](palette.md)，  
-實際尺寸：
+詳細は[カンバス](draw_map.md)を参照、[パレット](palette.md)は絵筆の色を変更するために必要です，  
+実寸大：
 
 <table>
-    <tr><td align="center">名稱</td><td align="center">尺寸</td><td align="center">演示</td></tr>
-    <tr><td align="center">針筆</td><td align="center">1x1</td><td><img src="https://i.imgur.com/B1l06La.png" width="150"/></td></tr>
-    <tr><td align="center">細筆</td><td align="center">2x2</td><td><img src="https://i.imgur.com/56oaTGc.png" width="150"/></td></tr>
-    <tr><td align="center">筆</td><td align="center">4x4</td><td><img src="https://i.imgur.com/9sP9rzb.png" width="150"/></td></tr>
-    <tr><td align="center">粗筆</td><td align="center">8x8</td><td><img src="https://i.imgur.com/AkuO4ma.png" width="150"/></td></tr>
-    <tr><td align="center">板刷</td><td align="center">16x16</td><td><img src="https://i.imgur.com/fKqoeNS.png" width="150"/></td></tr>
+    <tr><td align="center">名称</td><td align="center">サイズ</td><td align="center">デモ</td></tr>
+    <tr><td align="center">針ペン</td><td align="center">1x1</td><td><img src="https://i.imgur.com/B1l06La.png" width="150"/></td></tr>
+    <tr><td align="center">細ペン</td><td align="center">2x2</td><td><img src="https://i.imgur.com/56oaTGc.png" width="150"/></td></tr>
+    <tr><td align="center">ペン</td><td align="center">4x4</td><td><img src="https://i.imgur.com/9sP9rzb.png" width="150"/></td></tr>
+    <tr><td align="center">粗ペン</td><td align="center">8x8</td><td><img src="https://i.imgur.com/AkuO4ma.png" width="150"/></td></tr>
+    <tr><td align="center">ブラシ</td><td align="center">16x16</td><td><img src="https://i.imgur.com/fKqoeNS.png" width="150"/></td></tr>
 </table>

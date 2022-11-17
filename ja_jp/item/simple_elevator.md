@@ -1,25 +1,25 @@
-# 電梯
-方便上上下下、等下... 還有人在用樓梯嗎？
+# エレベーター
+上上下下... 今でも階段を使っている人はいるのでしょうか？
 
-## 資料
+## データ
 <table>
     <tr>
-        <td align="center">無須紅石信號</td>
-        <td align="center">須紅石信號</td>
+        <td align="center">レッドストーンシグナルは必要ありません</td>
+        <td align="center">レッドストーンシグナルが必要</td>
     </tr>
     <tr>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/OLqL1Kq.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/OLqL1Kq.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/a3p64mU.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/a3p64mU.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
     </tr>
@@ -27,10 +27,10 @@
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
-        <td align="center">無須紅石信號</td>
+        <td align="center">レッドストーンシグナルは必要ありません</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/MGimsYu.png" width="48"/></td><td><img src="https://i.imgur.com/8CTkfhE.png" width="48"/></td><td><img src="https://i.imgur.com/MGimsYu.png" width="48"/></td><td colspan="3"></td></tr>
@@ -40,7 +40,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center">須紅石信號</td>
+        <td align="center">レッドストーンシグナルが必要</td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/MGimsYu.png" width="48"/></td><td><img src="https://i.imgur.com/8CTkfhE.png" width="48"/></td><td><img src="https://i.imgur.com/MGimsYu.png" width="48"/></td><td colspan="3"></td></tr>
@@ -54,23 +54,23 @@
 ---
 
 ## 使用
-在同個高度擺放至少兩個電梯：
+少なくとも2つのエレベーターが同じY軸上に配置されている必要がある：
 
 <img src="https://i.imgur.com/TCQMFr7.png" width="720"/>
 
 <table>
-    <tr><td align="center">跳躍</td><td align="center">前往上方的電梯</td></tr>
-    <tr><td align="center">蹲下</td><td align="center">前往下方的電梯</td></tr>
+    <tr><td align="center">ジャンプ</td><td align="center">上記エレベーターへ移動</td></tr>
+    <tr><td align="center">クラウチ</td><td align="center">下記エレベーターへ移動</td></tr>
 </table>
 
-沒有高度限制，移動距離越遠耗費的飽食度越多。  
-電梯上方要空兩格非固體方塊，否則將無法傳送：
+高さ制限なし、移動するほど消費される満腹度。  
+エレベーターは、非固体ブロックの上に2つの空白のマスがなければ、転送されません：
 
 <table>
-    <tr><td align="center">有效</td><td><img src="https://i.imgur.com/3fOeV1n.png" width="360"/><img src="https://i.imgur.com/b2QOaTl.png" width="360"/></td></tr>
-    <tr><td align="center">無效</td><td><img src="https://i.imgur.com/JYYtFGz.png" width="360"/></td></tr>
+    <tr><td align="center">効く</td><td><img src="https://i.imgur.com/3fOeV1n.png" width="360"/><img src="https://i.imgur.com/b2QOaTl.png" width="360"/></td></tr>
+    <tr><td align="center">効果なし</td><td><img src="https://i.imgur.com/JYYtFGz.png" width="360"/></td></tr>
 </table>
 
-### 紅石版
-需要有紅石信號才能上樓或下樓，但無論有無紅石信號都能被其他電梯前往。  
+### レッドストーン
+階段の上り下りにはレッドストーン信号が必要ですが、レッドストーン信号の有無にかかわらず、他のエレベーターでもアクセス可能です。  
 <img src="https://i.imgur.com/5mhxS2h.png" width="480"/>

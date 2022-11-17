@@ -1,16 +1,16 @@
-# 凋零粉
-骨粉的負面教材。
+# ウィザーの粉
+骨粉のネガティブな教材。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/KgGV0Bj.png" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/KgGV0Bj.png" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr><td><img src="https://i.imgur.com/1xm9bk6.png" width="48"/></td><td><img src="https://i.imgur.com/1xm9bk6.png" width="48"/></td><td><img src="https://i.imgur.com/1xm9bk6.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/1xm9bk6.png" width="48"/></td><td><img src="https://i.imgur.com/WydimGB.png" width="48"/></td><td><img src="https://i.imgur.com/1xm9bk6.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/KgGV0Bj.png" width="48"/></td><td width="70">x 8</td></tr>
@@ -20,4 +20,4 @@
 ---
 
 ## 使用
-慣用手持凋零粉`右鍵`可將該方塊半徑4格 *(總共 7x7x7 方塊)* 的植物枯萎。
+通常の手のひらウィザーの粉の`右クリック`で、ブロック半径4マス *(合計 7x7x7 ブロック)* の植物を枯らすことができます。

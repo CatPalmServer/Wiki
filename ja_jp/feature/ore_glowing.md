@@ -1,13 +1,13 @@
-# 礦物發光
+# 鉱物発光
 
 <img src="https://i.imgur.com/85qqFOd.png" width="200"/>
 
-發光顏色會依照礦物類型來決定。
+発光する色は、鉱物の種類によって決まります。
 
 <table>
     <tr>
-        <td align="center" colspan="2">礦物清單</td>
-        <td align="center">發光顏色</td>
+        <td align="center" colspan="2">鉱物一覧</td>
+        <td align="center">発光色</td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/sFVztRz.png" height="84"/></td>

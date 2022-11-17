@@ -1,23 +1,23 @@
-# 龍牙
-高級材料。  
-不會被爆炸、燃燒損毀。
+# 竜牙
+高級素材。  
+爆発性、発火性による破損がないこと。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/ZJn6ZOj.png" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/ZJn6ZOj.png" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 
 ---
 
-## 獲取
-[終界龍](https://minecraft.fandom.com/zh/wiki/終界龍)有15%機率掉落。
+## ゲット
+[エンダードラゴン](https://minecraft.fandom.com/zh/wiki/エンダードラゴン)6%の確率でドロップする。
 
 ---
 
 ## 用途
-裝備、工具、道具的原材料。  
+機器、工具、道具の原材料。
 
 <a href="fast_break_magic_wand.md"><img src="https://i.imgur.com/W49RaLU.png" width="48"/></a>
 <a href="fast_fill_magic_wand.md"><img src="https://i.imgur.com/7cOnwYJ.png" width="48"/></a>

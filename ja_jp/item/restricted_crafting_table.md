@@ -1,16 +1,16 @@
-# 工作檯限制器
-[發射器工業](../feature/dispenser_industry.md)的其中一種模式。
+# 作業台リミッター
+[ディスペンサー業界](../feature/dispenser_industry.md)のモードのひとつ。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/ojHcQsH.png" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/ojHcQsH.png" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/c98D59O.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/ojHcQsH.png" width="48"/></td><td width="70"></td></tr>
@@ -20,16 +20,16 @@
 ---
 
 ## 使用
-工作檯限制器放置後`右鍵`開啟選單，  
+作業台リミッターを配置した後、`右クリック`でメニューを表示します，  
 
 <table>
-    <tr><td align="center">標題</td><td colspan="9">工作檯限制器</td></tr>
-    <tr><td align="center">選擇要合成的物品、選單<br/>9 x 1</td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+    <tr><td align="center">タイトル</td><td colspan="9">作業台リミッター</td></tr>
+    <tr><td align="center">合成するアイテムを選択する、メニュー<br/>9 x 1</td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
 </table>
 
 <table>
-    <tr><td align="center"><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td>選擇要合成的物品</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td>合成するアイテムを選択する</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>閉じる</td></tr>
 </table>
 
-其他見[發射器工業](../feature/dispenser_industry.md)。
+[ディスペンサー業界](../feature/dispenser_industry.md)もご覧ください。

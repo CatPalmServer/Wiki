@@ -1,16 +1,16 @@
-# 粒子激發器
-放太多會導致你畫面超級卡。
+# パーティクルエキサイター
+付け過ぎると画面が超遅延になる。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/zQVaAJl.png" width="128"/></td></tr>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/zQVaAJl.png" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr><td><img src="https://i.imgur.com/dAm53pS.png" width="48"/></td><td><img src="https://i.imgur.com/W9Ce5PI.png" width="48"/></td><td><img src="https://i.imgur.com/dAm53pS.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/W9Ce5PI.png" width="48"/></td><td><img src="https://i.imgur.com/YsrBAov.png" width="48"/></td><td><img src="https://i.imgur.com/W9Ce5PI.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/zQVaAJl.png" width="48"/></td><td width="70"></td></tr>
@@ -20,7 +20,7 @@
 ---
 
 ## 使用
-放置後`右鍵`可更改顏色，  
+配置後、`右クリック`で色を変更，  
 
 <table>
     <tr>
@@ -35,7 +35,7 @@
     </tr>
     <tr>
         <td><img src="https://singlecolorimage.com/get/ff0080/40x40" height="48"/></td>
-        <td colspan="6" align="center">順時針循環</td>
+        <td colspan="6" align="center">時計回りのサイクル</td>
         <td><img src="https://singlecolorimage.com/get/00ffea/40x40" height="48"/></td>
     </tr>
     <tr>
@@ -54,4 +54,4 @@
 
 <img src="https://singlecolorimage.com/get/ff0000/40x40" height="48"/>
 
-粒子數量會取決於紅石信號強度，公式為(`紅石強度0~15`+`1`)/`16`x`200`。
+パーティクルの数はレッドストーンの信号の強さに依存し、式(`レッドストーンエナジー0~15`+`1`)/`16`x`200`で与えられます。

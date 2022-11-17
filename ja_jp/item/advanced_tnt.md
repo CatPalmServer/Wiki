@@ -1,16 +1,16 @@
 # 高級TNT
-炸出完美的方形區域。
+正方形に仕上げることができます。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 <table>
     <tr>
-        <td align="center">尺寸</td>
-        <td align="center" width="120">非絲綢之觸</td>
-        <td align="center" width="120">絲綢之觸</td>
+        <td align="center">サイズ</td>
+        <td align="center" width="120">シルクタッチなし</td>
+        <td align="center" width="120">シルクタッチ</td>
     </tr>
     <tr>
         <td align="center">X5</td>
@@ -46,12 +46,12 @@
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
-        <td align="center">尺寸</td>
-        <td align="center">非絲綢之觸</td>
-        <td align="center">絲綢之觸</td>
+        <td align="center">サイズ</td>
+        <td align="center">シルクタッチなし</td>
+        <td align="center">シルクタッチ</td>
     </tr>
     <tr>
         <td align="center">X5</td>
@@ -160,37 +160,37 @@
 ---
 
 ## 使用
-放置於地上並受到紅時信號／燃燒的箭失／爆炸時會點燃高級TNT，站在同個XYZ軸的實體將受到5.5傷害，
+地面に置いてレッドストーン回路/フレイム矢/爆発を受けると、高レベルのTNTに引火し、同じXYZ軸上に立っているエンティティは5.5ダメージを受けることになります。
 
 <table>
     <tr>
-        <td align="center">尺寸</td>
-        <td align="center">實際體積</td>
+        <td align="center">サイズ</td>
+        <td align="center">実量</td>
     </tr>
     <tr>
         <td align="center">X5</td>
-        <td align="center">5x5x5 方塊</td>
+        <td align="center">5x5x5 ブロック</td>
     </tr>
     <tr>
         <td align="center">X9</td>
-        <td align="center">9x9x9 方塊</td>
+        <td align="center">9x9x9 ブロック</td>
     </tr>
     <tr>
         <td align="center">X15</td>
-        <td align="center">15x15x15 方塊</td>
+        <td align="center">15x15x15 ブロック</td>
     </tr>
     <tr>
         <td align="center">X25</td>
-        <td align="center">25x25x25 方塊</td>
+        <td align="center">25x25x25 ブロック</td>
     </tr>
     <tr>
         <td align="center">X43</td>
-        <td align="center">43x43x43 方塊</td>
+        <td align="center">43x43x43 ブロック</td>
     </tr>
     <tr>
         <td align="center">X73</td>
-        <td align="center">73x73x73 方塊</td>
+        <td align="center">73x73x73 ブロック</td>
     </tr>
 </table>
 
-絲綢之觸的高級TNT在破壞方塊時就像使用[絲綢之觸](https://minecraft.fandom.com/zh/wiki/絲綢之觸)的工具挖掘一樣。
+シルクタッチの高級TNTは、まるで[シルクタッチ](https://minecraft.fandom.com/zh/wiki/シルクタッチ)のツールナグのようにブロックを破壊します

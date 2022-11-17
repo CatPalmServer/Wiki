@@ -1,13 +1,13 @@
-# 隱形光源
-沒有碰撞箱的光源方塊。
+# 光源通過
+コリジョンボックスのない光源ブロック。
 
-## 資料
+## データ
 <table>
-    <tr><td align="end">堆疊</td><td>64</td></tr>
-    <tr><td align="end">附魔</td><td>無</td></tr>
+    <tr><td align="end">スタック</td><td>64</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 <table>
-    <tr><td align="center">程度</td><td align="center">圖像</td></tr>
+    <tr><td align="center">レベル</td><td align="center">画像</td></tr>
     <tr><td align="center">小</td><td><img src="https://i.imgur.com/DZl5PMR.gif" height="48"/></td></tr>
     <tr><td align="center">中</td><td><img src="https://i.imgur.com/R6vaG0p.gif" height="48"/></td></tr>
     <tr><td align="center">大</td><td><img src="https://i.imgur.com/Pa0upl8.gif" height="48"/></td></tr>
@@ -15,7 +15,7 @@
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr>
         <td align="center">小</td>
@@ -52,10 +52,10 @@
 ---
 
 ## 使用
-放置即消耗1個，無法回收。
+は置くだけで消費1され、リサイクルできません。
 
 <table>
-    <tr><td align="center">程度</td><td align="center">亮度</td></tr>
+    <tr><td align="center">レベル</td><td align="center">輝度</td></tr>
     <tr><td align="center">小</td><td align="center">5</td></tr>
     <tr><td align="center">中</td><td align="center">10</td></tr>
     <tr><td align="center">大</td><td align="center">15</td></tr>

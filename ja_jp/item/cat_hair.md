@@ -1,25 +1,25 @@
-# 貓毛
-吸太多貓也能變相獲得它。
+# ネコの毛
+また、猫の吸い過ぎでもなる。
 
-## 資料
+## データ
 <table>
     <tr>
-        <td align="center">單個</td>
-        <td align="center">團狀</td>
+        <td align="center">シングル</td>
+        <td align="center">グループ</td>
     </tr>
     <tr>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/W1d7YNU.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/W1d7YNU.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
         <td>
             <table>
-                <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/Q74ewSi.png" width="128"/></td></tr>
-                <tr><td align="end">堆疊</td><td>64</td></tr>
-                <tr><td align="end">附魔</td><td>無</td></tr>
+                <tr><td align="end">画像</td><td><img src="https://i.imgur.com/Q74ewSi.png" width="128"/></td></tr>
+                <tr><td align="end">スタック</td><td>64</td></tr>
+                <tr><td align="end">エンチャント</td><td>なし</td></tr>
             </table>
         </td>
     </tr>
@@ -27,7 +27,7 @@
 
 ---
 
-## 合成
+## 組合
 <table>
     <tr><td><img src="https://i.imgur.com/W1d7YNU.png" width="48"/></td><td><img src="https://i.imgur.com/W1d7YNU.png" width="48"/></td><td><img src="https://i.imgur.com/W1d7YNU.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/W1d7YNU.png" width="48"/></td><td><img src="https://i.imgur.com/W1d7YNU.png" width="48"/></td><td><img src="https://i.imgur.com/W1d7YNU.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/Q74ewSi.png" width="48"/></td><td width="70"></td></tr>
@@ -36,10 +36,10 @@
 
 ---
 
-## 獲取
-慣用手持[貓毛刷](cat_hair_brush.md)對著貓按下`右鍵`可掉落貓毛。
+## ゲット
+いつもの手持ちの[ネコ用ブラシ](cat_hair_brush.md)で、猫の毛を`右ボタン`を押して落とします。
 
 ---
 
 ## 使用
-可合成[貓之護符](cat_amulet.md)。
+合成可能な[ネコのお守り](cat_amulet.md)。
