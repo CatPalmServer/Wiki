@@ -169,7 +169,7 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 - ### L 閱讀講座書
   [講台](https://minecraft.fandom.com/zh/wiki/講台)的閱覽
 - ### M 礦車
-  [船](https://minecraft.fandom.com/zh/wiki/船)的放置、傷害、乘坐
+  [礦車](https://minecraft.fandom.com/zh/wiki/礦車)的放置、傷害、乘坐
 - ### P 放置方塊
   [方塊](https://minecraft.fandom.com/zh/wiki/方塊)的放置
 - ### R 擁有者
