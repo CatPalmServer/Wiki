@@ -43,7 +43,7 @@
     <tr><td>按<code>右鍵</code>放置在地上</td><td><img src="https://i.imgur.com/d75pfRW.png" width="720"/></td></tr>
 </table>
 
-放置後可使用[傳送金蘋果、傳送寶石、傳送寶石方塊](transfer.md)回到該位置  
+放置後可使用[傳送金蘋果、傳送寶石、傳送寶石方塊](transfer.md)回到該位置，  
 如果名稱已被使用會返還可記錄點的旗幟，並且提示錯誤訊息。
 
 <img src="https://i.imgur.com/ReA6Rmh.png" width="720"/>
