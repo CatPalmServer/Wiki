@@ -1,5 +1,5 @@
-# 和平方塊
-你也可以看看[ピースの証](peaceful_proof.md)。
+# ピースブロック
+また、[ピースの証](peaceful_proof.md)をご覧ください。
 
 ## データ
 <table>
@@ -42,16 +42,16 @@
 ---
 
 ## 使用
-放在世界上可抑制半徑5格區塊內 *(總共9x9x9區塊)* 的怪物自然誕生，並且每抑制1次將損失1點能量，沒能量則無效果。  
-使用`右鍵`對準非永久和平方塊可消耗1等級充能100點能量，能量會改變其顯示或方塊狀態：  
+世界に配置すると、半径5マス以内のMobの自然誕生を阻害する *(合計 9x9x9 チャンク)* 、阻害するごとに1エネルギー失う、エネルギーがない場合は効果がない。  
+`右クリック`で非永久ピースブロックをターゲットにしてエネルギーを1レベル消費して100ポイントリチャージ、エネルギーはその表示またはブロックの状態を変更することができます：  
 
 <table>
-    <tr><td align="center">累計能量</td><td align="center">状態</td><td align="center">挖掘後</td></tr>
-    <tr><td align="center">0</td><td align="center"><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></td><td align="center">無損失</td></tr>
-    <tr><td align="center">1～4999</td><td align="center"><img src="https://i.imgur.com/cTC2fkv.png" height="48"/></td><td align="center">損失能量</td></tr>
-    <tr><td align="center">5000～9999</td><td align="center"><img src="https://i.imgur.com/tZPaxWI.png" height="48"/></td><td align="center">損失能量</td></tr>
-    <tr><td align="center">10000～49999</td><td align="center"><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td><td align="center">損失能量</td></tr>
-    <tr><td align="center">50000</td><td align="center"><img src="https://i.imgur.com/5NXrwba.png" height="48"/></td><td align="center">無損失</td></tr>
+    <tr><td align="center">累積エネルギー量</td><td align="center">状態</td><td align="center">掘削後</td></tr>
+    <tr><td align="center">0</td><td align="center"><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></td><td align="center">損失なし</td></tr>
+    <tr><td align="center">1～4999</td><td align="center"><img src="https://i.imgur.com/cTC2fkv.png" height="48"/></td><td align="center">損失エネルギー</td></tr>
+    <tr><td align="center">5000～9999</td><td align="center"><img src="https://i.imgur.com/tZPaxWI.png" height="48"/></td><td align="center">損失エネルギー</td></tr>
+    <tr><td align="center">10000～49999</td><td align="center"><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td><td align="center">損失エネルギー</td></tr>
+    <tr><td align="center">50000</td><td align="center"><img src="https://i.imgur.com/5NXrwba.png" height="48"/></td><td align="center">損失なし</td></tr>
 </table>
 
-當累計能量大於或等於50000時會轉變為永遠和平方塊，此時將不再消耗能量。
+蓄積されたエネルギーが50,000以上になると、エネルギーを消費しなくなる永久ピースブロックに変化します。
