@@ -177,7 +177,7 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 - ### R 所有者
   [領地ジェネレーター](land_block.md)の書き込み、削除  
   領地の権限変更  
-  領地能量の配置・撤去  
+  領地エネルギーの配置・撤去  
 - ### S Mobの生成
   [スポーンエッグ](https://minecraft.fandom.com/ja/wiki/スポーンエッグ)の使用  
   [友好Mobリード](rope.md)の使用  
