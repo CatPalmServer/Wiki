@@ -193,4 +193,4 @@
     </tr>
 </table>
 
-シルクタッチの高級TNTは、まるで[シルクタッチ](https://minecraft.fandom.com/zh/wiki/シルクタッチ)のツールナグのようにブロックを破壊します
+シルクタッチの高級TNTは、まるで[シルクタッチ](https://minecraft.fandom.com/ja/wiki/シルクタッチ)のツールナグのようにブロックを破壊します

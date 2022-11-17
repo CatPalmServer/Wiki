@@ -1,7 +1,7 @@
 # ネコの皿
 以下の特典をお楽しみください。
 
-- 飛行許可 [Y の権限のある領地](../item/land_book.md#y-飛行)内に飛行できます、 `/ob` 或いは `F3 + N` で[観察者](https://minecraft.fandom.com/zh/wiki/旁觀者模式)に切り替えます
+- 飛行許可 [Y の権限のある領地](../item/land_book.md#y-飛行)内に飛行できます、 `/ob` 或いは `F3 + N` で[観察者](https://minecraft.fandom.com/ja/wiki/スペクテイター)に切り替えます
 - [画像のアップロード](https://discord.com/channels/1040647480972415006/1040647481358295099)許可
 -最大視野距離  `15` から `31` まで上がれます
 - `/experience` で持っている経験値を投げ出す

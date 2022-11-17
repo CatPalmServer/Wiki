@@ -20,7 +20,7 @@
             <table>
                 <tr><td align="end">画像</td><td><img src="https://i.imgur.com/OAmPEYz.png" width="128"/></td></tr>
                 <tr><td align="end">スタック</td><td>1</td></tr>
-                <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/zh/wiki/修繕">修繕</a></td></tr>
+                <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
             </table>
         </td>
         <td>
@@ -73,7 +73,7 @@
 
 ## 使用
 転送する前にレコードポイントを設定する[セーブができるフラグ](record_point_banner.md)が必要。  
-転送集は、[金床](https://minecraft.fandom.com/zh/wiki/金床)で訪問するレコードポイントの名前に変更されます。  
+転送集は、[金床](https://minecraft.fandom.com/ja/wiki/金床)で訪問するレコードポイントの名前に変更されます。  
 
 <img src="https://i.imgur.com/RscWLaF.png" width="480"/>
 <table>

@@ -2,7 +2,7 @@
 
 <table>
     <tr><td align="center">種類</td><td align="center">点数</td></tr>
-    <tr><td align="center">上記<a href="https://minecraft.fandom.com/zh/wiki/コンポスター">コンポスター</a>と</td><td align="center">1</td></tr>
+    <tr><td align="center">上記<a href="https://minecraft.fandom.com/ja/wiki/コンポスター">コンポスター</a>と</td><td align="center">1</td></tr>
     <tr><td align="center">こと</td><td align="center">2</td></tr>
 </table>
 

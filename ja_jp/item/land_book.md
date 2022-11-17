@@ -50,7 +50,7 @@
     <tr><td><img src="https://i.imgur.com/x9meQTF.png" width="400"/></td><td><img src="https://i.imgur.com/h2Kovir.png" width="400"/></td></tr>
 </table>
 
-[領地ジェネレーター](land_block.md)が記入になった場合、再利用する前に取り外す必要があります。領地は[ビーコン](https://minecraft.fandom.com/zh/wiki/ビーコン)と同じです。
+[領地ジェネレーター](land_block.md)が記入になった場合、再利用する前に取り外す必要があります。領地は[ビーコン](https://minecraft.fandom.com/ja/wiki/ビーコン)と同じです。
 
 <img src="https://i.imgur.com/nW7GC4b.png" width="720"/>  
 
@@ -84,7 +84,7 @@
 無効になっている領地グループの本を手にした状態で[領地ジェネレーター](land_block.md)を`右クリック`すると、記入になっている領地をブックに戻すことができます。
 
 ### 領地名の変更
-[金床](https://minecraft.fandom.com/zh/wiki/金床)で有効になっている領地グループの本を任意の名前に変更すると、それに応じて領地グループの名前も変更されます。  
+[金床](https://minecraft.fandom.com/ja/wiki/金床)で有効になっている領地グループの本を任意の名前に変更すると、それに応じて領地グループの名前も変更されます。  
 お好きな文字を最大36文字まで入力できます。  
 キャッシュ機構により、一部の転用では新しい名前が有効になるまでに最大30秒を要します。
 
@@ -149,47 +149,47 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 
 ## 権限
 - ### A 防具立て
-  [防具立て](https://minecraft.fandom.com/zh/wiki/防具立て)の配置、破損、交換
+  [防具立て](https://minecraft.fandom.com/ja/wiki/防具立て)の配置、破損、交換
 - ### B ボート
-  [ボート](https://minecraft.fandom.com/zh/wiki/ボート)の配置、傷害、乗車
+  [ボート](https://minecraft.fandom.com/ja/wiki/ボート)の配置、傷害、乗車
 - ### D ブロックの破壊
-  [ブロック](https://minecraft.fandom.com/zh/wiki/ブロック)の破壊
+  [ブロック](https://minecraft.fandom.com/ja/wiki/ブロック)の破壊
 - ### E コミュニケーション
   [Mob](https://minecraft.fandom.com/ja/wiki/Mob)の給餌
 - ### F 額縁
-  [額縁](https://minecraft.fandom.com/zh/wiki/額縁)の配置、傷害、変化、回転
+  [額縁](https://minecraft.fandom.com/ja/wiki/額縁)の配置、傷害、変化、回転
 - ### G 絵画
-  [絵画](https://minecraft.fandom.com/zh/wiki/絵画)の装着、傷害
+  [絵画](https://minecraft.fandom.com/ja/wiki/絵画)の装着、傷害
 - ### H ダメージ
-  [エンティティ](https://minecraft.fandom.com/zh/wiki/エンティティ)の損傷  
+  [エンティティ](https://minecraft.fandom.com/ja/wiki/エンティティ)の損傷  
   ※ 僅ダメージ軽減在領地內誕生的動物
 - ### I ブロックへのアクション
-  [チェスト](https://minecraft.fandom.com/zh/wiki/チェスト)の使用  
-  [ビーコン](https://minecraft.fandom.com/zh/wiki/ビーコン)の使用  
-  [看板](https://minecraft.fandom.com/zh/wiki/看板)の変更  
-  [音符ブロック](https://minecraft.fandom.com/zh/wiki/音符ブロック)の調整
+  [チェスト](https://minecraft.fandom.com/ja/wiki/チェスト)の使用  
+  [ビーコン](https://minecraft.fandom.com/ja/wiki/ビーコン)の使用  
+  [看板](https://minecraft.fandom.com/ja/wiki/看板)の変更  
+  [音符ブロック](https://minecraft.fandom.com/ja/wiki/音符ブロック)の調整
 - ### L 書見台の閲覧
-  [書見台](https://minecraft.fandom.com/zh/wiki/書見台)の読み物
+  [書見台](https://minecraft.fandom.com/ja/wiki/書見台)の読み物
 - ### M トロッコ
-  [トロッコ](https://minecraft.fandom.com/zh/wiki/トロッコ)の配置、傷害、乗車
+  [トロッコ](https://minecraft.fandom.com/ja/wiki/トロッコ)の配置、傷害、乗車
 - ### P ブロックの置き
-  [ブロック](https://minecraft.fandom.com/zh/wiki/ブロック)の配置
+  [ブロック](https://minecraft.fandom.com/ja/wiki/ブロック)の配置
 - ### R 所有者
   [領地ジェネレーター](land_block.md)の書き込み、削除  
   領地の権限変更  
   領地能量の配置・撤去  
 - ### S Mobの生成
-  [スポーンエッグ](https://minecraft.fandom.com/zh/wiki/スポーンエッグ)の使用  
+  [スポーンエッグ](https://minecraft.fandom.com/ja/wiki/スポーンエッグ)の使用  
   [友好Mobリード](rope.md)の使用  
   [敵対Mobリード](rope.md)の使用
 - ### T 回路の起動
-  [トリップワイヤーフック](https://minecraft.fandom.com/zh/wiki/トリップワイヤーフック)のトリガー  
-  [トラップチェスト](https://minecraft.fandom.com/zh/wiki/トラップチェスト)の使用  
-  [感圧板](https://minecraft.fandom.com/zh/wiki/感圧板)のトリガー
+  [トリップワイヤーフック](https://minecraft.fandom.com/ja/wiki/トリップワイヤーフック)のトリガー  
+  [トラップチェスト](https://minecraft.fandom.com/ja/wiki/トラップチェスト)の使用  
+  [感圧板](https://minecraft.fandom.com/ja/wiki/感圧板)のトリガー
 - ### U バケツ
-  [バケツ](https://minecraft.fandom.com/zh/wiki/バケツ)の使用  
-  [溶岩入りバケツ](https://minecraft.fandom.com/zh/wiki/溶岩入りバケツ)の使用
+  [バケツ](https://minecraft.fandom.com/ja/wiki/バケツ)の使用  
+  [溶岩入りバケツ](https://minecraft.fandom.com/ja/wiki/溶岩入りバケツ)の使用
 - ### V PVP
-  [プレイヤー](https://minecraft.fandom.com/zh/wiki/プレイヤー)の損傷
+  [プレイヤー](https://minecraft.fandom.com/ja/wiki/プレイヤー)の損傷
 - ### Y 飛行
   [領地飛行可能エントラ](land_flying_device.md)は領地で使用することができます

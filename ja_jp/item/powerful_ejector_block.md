@@ -29,4 +29,4 @@
     <tr><td align="center" width="70" height="70">南西</td><td align="center" width="70" height="70">南</td><td align="center" width="70" height="70">南東</td></tr>
 </table>
 
-任意の[プレイヤー](https://minecraft.fandom.com/zh/wiki/プレイヤー)、[Mob](https://minecraft.fandom.com/zh/wiki/Mob)、[防具立て](https://minecraft.fandom.com/zh/wiki/防具立て)、[ドロップ](https://minecraft.fandom.com/zh/wiki/ドロップ)、[トロッコ](https://minecraft.fandom.com/zh/wiki/トロッコ)、[ボート](https://minecraft.fandom.com/zh/wiki/ボート)を指定した方向に20マスまで排出します。。
+任意の[プレイヤー](https://minecraft.fandom.com/ja/wiki/プレイヤー)、[Mob](https://minecraft.fandom.com/ja/wiki/Mob)、[防具立て](https://minecraft.fandom.com/ja/wiki/防具立て)、[ドロップ](https://minecraft.fandom.com/ja/wiki/ドロップ)、[トロッコ](https://minecraft.fandom.com/ja/wiki/トロッコ)、[ボート](https://minecraft.fandom.com/ja/wiki/ボート)を指定した方向に20マスまで排出します。。

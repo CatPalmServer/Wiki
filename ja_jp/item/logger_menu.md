@@ -82,10 +82,10 @@
         <td align="center">変換</td>
     </tr>
     <tr>
-        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/村民#交易">貿易</a></td>
+        <td align="center"><a href="https://minecraft.fandom.com/ja/wiki/村人#取引">取引</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/栓繩">ロープ</a></td>
+        <td align="center"><a href="https://minecraft.fandom.com/ja/wiki/リード">ロープ</a></td>
     </tr>
 </table>
 

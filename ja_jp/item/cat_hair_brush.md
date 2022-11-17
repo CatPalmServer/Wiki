@@ -5,7 +5,7 @@
 <table>
     <tr><td align="end">画像</td><td><img src="https://i.imgur.com/7vNTzNf.png" width="128"/></td></tr>
     <tr><td align="end">スタック</td><td>1</td></tr>
-    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/zh/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/zh/wiki/修繕">修繕</a></td></tr>
+    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/ja/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
 </table>
 
 ---

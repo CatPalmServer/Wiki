@@ -56,7 +56,7 @@
 ## 使用
 <table>
     <tr><td>変更前</td><td><img src="https://i.imgur.com/UzZYyBx.png" width="720"/></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/金床">金床</a>で表示されるようにタイトルを変更</td><td><img src="https://i.imgur.com/MCTMmoP.png" width="720"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ja/wiki/金床">金床</a>で表示されるようにタイトルを変更</td><td><img src="https://i.imgur.com/MCTMmoP.png" width="720"/></td></tr>
     <tr><td>地面に置く</td><td><img src="https://i.imgur.com/9zJMV0Z.png" width="720"/></td></tr>
 </table>
 

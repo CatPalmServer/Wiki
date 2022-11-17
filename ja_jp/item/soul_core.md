@@ -34,8 +34,8 @@
 
 ## 使用
 ### アイテム
-[金床](https://minecraft.fandom.com/zh/wiki/金床)に工具、武器と貼付または剥離[ソールロック](../feature/soul_link.md)，ただし、以下の素材は使用できません：
-- [三叉戟](https://minecraft.fandom.com/zh/wiki/三叉戟)
+[金床](https://minecraft.fandom.com/ja/wiki/金床)に工具、武器と貼付または剥離[ソールロック](../feature/soul_link.md)，ただし、以下の素材は使用できません：
+- [トライデント](https://minecraft.fandom.com/ja/wiki/トライデント)
 
 ### Mob
 手に持っているソールコアをMobの右ボタンに当てて貼付または剥離[ソールロック](../feature/soul_link.md)に使う。

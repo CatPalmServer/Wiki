@@ -47,7 +47,7 @@
 各キャンバスは128x128で、利用可能な色は[パレット](palette.md)で示されています。
 
 ### 描き始める
-[絵筆](pen.md)と[パレット](palette.md)は必須で、キャンバスは[額縁](https://minecraft.fandom.com/zh/wiki/額縁)に配置します。  
+[絵筆](pen.md)と[パレット](palette.md)は必須で、キャンバスは[額縁](https://minecraft.fandom.com/ja/wiki/額縁)に配置します。  
 通常の手持ちの[絵筆](pen.md)は、キャンバス上で`右クリック`することで色を塗ることができます。 
 
 <table>
@@ -78,17 +78,17 @@
 
 ### ロックする
 ロック後は再描画できませんが、一括コピーは可能です。  
-[製圖台](https://minecraft.fandom.com/zh/wiki/製圖台)に[玻璃片](https://minecraft.fandom.com/zh/wiki/玻璃片)でロック付きカンバス。
+[製図台](https://minecraft.fandom.com/ja/wiki/製図台)に[ガラス板](https://minecraft.fandom.com/ja/wiki/ガラス板)でロック付きカンバス。
 
 <img src="https://i.imgur.com/Bu6NNuF.png" width="400"/>
 
 ### クポイを使う
-[製圖台](https://minecraft.fandom.com/zh/wiki/製圖台)で空白カンバスはカンバスからコピーすることができます。。
+[製図台](https://minecraft.fandom.com/ja/wiki/製図台)で空白カンバスはカンバスからコピーすることができます。。
 
 <img src="https://i.imgur.com/hm76Etw.png" width="400"/>
 
 ### 禁止複製
 禁止カンバス[クポイ](#クポイを使う)，  
-[金床](https://minecraft.fandom.com/zh/wiki/金床)に[剪刀](https://minecraft.fandom.com/zh/wiki/剪刀)でカンバスコピーを無効にすることができます。
+[金床](https://minecraft.fandom.com/ja/wiki/金床)に[ハサミ](https://minecraft.fandom.com/ja/wiki/ハサミ)でカンバスコピーを無効にすることができます。
 
 <img src="https://i.imgur.com/pQQUJh7.png" width="400"/>

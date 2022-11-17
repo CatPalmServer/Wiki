@@ -22,7 +22,7 @@
 ## 使用
 <table>
     <tr><td>変更前</td><td><img src="https://i.imgur.com/OfuTr8T.png" width="720"/></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/金床">金床</a>で希望するニックネームに変更する</td><td><img src="https://i.imgur.com/kaBHSxn.png" width="720"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ja/wiki/金床">金床</a>で希望するニックネームに変更する</td><td><img src="https://i.imgur.com/kaBHSxn.png" width="720"/></td></tr>
     <tr><td>飲み干す</td><td><img src="https://i.imgur.com/QfU8njF.png" width="720"/><br/>改名牛奶將被消耗。</td></tr>
 </table>
 ニックネームがすでに占有されていて変更できない場合は、消費された改名のミルクが返されます。

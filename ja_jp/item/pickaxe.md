@@ -6,8 +6,8 @@
     <tr><td align="end">スタック</td><td>1</td></tr>
     <tr><td align="end">エンチャント</td><td>
         <table>
-            <tr><td>ナイトメアジェムなし</td><td><a href="https://minecraft.fandom.com/zh/wiki/効率強化">効率強化</a>、<a href="https://minecraft.fandom.com/zh/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/zh/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/zh/wiki/修繕">修繕</a></td></tr>
-            <tr><td>ナイトメアジェム</td><td><a href="https://minecraft.fandom.com/zh/wiki/効率強化">効率強化</a>、<a href="https://minecraft.fandom.com/zh/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/zh/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/消滅の呪い">消滅の呪い</a></td></tr>
+            <tr><td>ナイトメアジェムなし</td><td><a href="https://minecraft.fandom.com/ja/wiki/効率強化">効率強化</a>、<a href="https://minecraft.fandom.com/ja/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/ja/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
+            <tr><td>ナイトメアジェム</td><td><a href="https://minecraft.fandom.com/ja/wiki/効率強化">効率強化</a>、<a href="https://minecraft.fandom.com/ja/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/ja/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a></td></tr>
         </table>
     </td></tr>
 </table>

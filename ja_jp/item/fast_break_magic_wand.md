@@ -6,8 +6,8 @@
     <tr><td align="end">スタック</td><td>1</td></tr>
     <tr><td align="end">エンチャント</td><td>
         <table>
-            <tr><td>ナイトメアジェムなし</td><td><a href="https://minecraft.fandom.com/zh/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/zh/wiki/修繕">修繕</a></td></tr>
-            <tr><td>ナイトメアジェム</td><td><a href="https://minecraft.fandom.com/zh/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/シルクタッチ">シルクタッチ</a></td></tr>
+            <tr><td>ナイトメアジェムなし</td><td><a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
+            <tr><td>ナイトメアジェム</td><td><a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/シルクタッチ">シルクタッチ</a></td></tr>
         </table>
     </td></tr>
 </table>
@@ -162,7 +162,7 @@
     <tr><td>採掘速度低下</td><td><code>強制ダメージ</code>=最大値(<code>1</code>,(<code>ブロック硬度</code>/<code>ブレークダウン速度</code>)x<code>40</code>x<code>採掘速度低下レベル</code>)</td></tr>
 </table>
 
-[耐久力](https://minecraft.fandom.com/zh/wiki/耐久力)ダメージコントロール：
+[耐久力](https://minecraft.fandom.com/ja/wiki/耐久力)ダメージコントロール：
 
 <table>
     <tr><td align="center">レベル</td><td align="center">コントロール</td></tr>

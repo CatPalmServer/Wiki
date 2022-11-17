@@ -12,7 +12,7 @@
 ---
 
 ## ゲット
-[ウィザー](https://minecraft.fandom.com/zh/wiki/ウィザー)5%の確率でドロップする。
+[ウィザー](https://minecraft.fandom.com/ja/wiki/ウィザー)5%の確率でドロップする。
 
 ---
 

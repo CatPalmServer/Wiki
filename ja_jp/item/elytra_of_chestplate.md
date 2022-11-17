@@ -21,7 +21,7 @@
 ---
 
 ## 組合
-[金床](https://minecraft.fandom.com/zh/wiki/铁砧)に[エリトラ](https://minecraft.fandom.com/zh/wiki/エリトラ)+`30`レベルと組合可能、[剪刀](https://minecraft.fandom.com/zh/wiki/剪刀)+`5`レベルと分解可能：  
+[金床](https://minecraft.fandom.com/ja/wiki/金床)に[エリトラ](https://minecraft.fandom.com/ja/wiki/エリトラ)+`30`レベルと組合可能、[ハサミ](https://minecraft.fandom.com/ja/wiki/ハサミ)+`5`レベルと分解可能：  
 
 <table>
     <tr><td align="center">素材</td><td align="center" colspan="5">組合</td><td align="center" colspan="5">分解</td></tr>

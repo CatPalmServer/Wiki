@@ -6,8 +6,8 @@
     <tr><td align="end">スタック</td><td>1</td></tr>
     <tr><td align="end">エンチャント</td><td>
         <table>
-            <tr><td>ナイトメアジェムなし</td><td><a href="https://minecraft.fandom.com/zh/wiki/射撃ダメージ増加">射撃ダメージ増加</a>、<a href="https://minecraft.fandom.com/zh/wiki/パンチ">パンチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/フレイム">フレイム</a>、<a href="https://minecraft.fandom.com/zh/wiki/無限">無限</a>、<a href="https://minecraft.fandom.com/zh/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/zh/wiki/修繕">修繕</a></td></tr>
-            <tr><td>ナイトメアジェム</td><td><a href="https://minecraft.fandom.com/zh/wiki/射撃ダメージ増加">射撃ダメージ増加</a>、<a href="https://minecraft.fandom.com/zh/wiki/パンチ">パンチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/フレイム">フレイム</a>、<a href="https://minecraft.fandom.com/zh/wiki/無限">無限</a>、<a href="https://minecraft.fandom.com/zh/wiki/消滅の呪い">消滅の呪い</a></td></tr>
+            <tr><td>ナイトメアジェムなし</td><td><a href="https://minecraft.fandom.com/ja/wiki/射撃ダメージ増加">射撃ダメージ増加</a>、<a href="https://minecraft.fandom.com/ja/wiki/パンチ">パンチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/フレイム">フレイム</a>、<a href="https://minecraft.fandom.com/ja/wiki/無限">無限</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
+            <tr><td>ナイトメアジェム</td><td><a href="https://minecraft.fandom.com/ja/wiki/射撃ダメージ増加">射撃ダメージ増加</a>、<a href="https://minecraft.fandom.com/ja/wiki/パンチ">パンチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/フレイム">フレイム</a>、<a href="https://minecraft.fandom.com/ja/wiki/無限">無限</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a></td></tr>
         </table>
     </td></tr>
 </table>

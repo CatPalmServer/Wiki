@@ -31,7 +31,7 @@
 
 ## 組合
 参考[セーブジェム](record_point_gemstone.md)。  
-セーブができるフラグは[金床](https://minecraft.fandom.com/zh/wiki/金床)に置かれ、希望する転送先の名前に変更されます。  
+セーブができるフラグは[金床](https://minecraft.fandom.com/ja/wiki/金床)に置かれ、希望する転送先の名前に変更されます。  
 <img src="https://i.imgur.com/3YdOF91.png" width="480"/>
 
 ---

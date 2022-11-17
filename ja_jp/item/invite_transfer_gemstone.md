@@ -5,7 +5,7 @@
 <table>
     <tr><td align="end">画像</td><td><img src="https://i.imgur.com/4zxLVnc.png" width="128"/></td></tr>
     <tr><td align="end">スタック</td><td>1</td></tr>
-    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/zh/wiki/耐久力">耐久力</a></td></tr>
+    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/ja/wiki/耐久力">耐久力</a></td></tr>
 </table>
 
 ---
@@ -34,6 +34,6 @@
     <tr><td align="center">III</td><td align="center">5分</td></tr>
 </table>
 
-[金床](https://minecraft.fandom.com/zh/wiki/铁砧)に[重新命名](https://minecraft.fandom.com/zh/wiki/铁砧#重命名)と備註加入：  
+[金床](https://minecraft.fandom.com/ja/wiki/金床)に[名称変更](https://minecraft.fandom.com/ja/wiki/金床#名称変更)と備註加入：  
 <img src="https://i.imgur.com/AaLEzgA.png" width="720"></img>  
 <img src="https://i.imgur.com/aGnQraf.png" width="720"></img>

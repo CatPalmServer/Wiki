@@ -12,7 +12,7 @@
 ---
 
 ## ゲット
-[エンダードラゴン](https://minecraft.fandom.com/zh/wiki/エンダードラゴン)1%の確率でドロップする。
+[エンダードラゴン](https://minecraft.fandom.com/ja/wiki/エンダードラゴン)1%の確率でドロップする。
 
 ---
 

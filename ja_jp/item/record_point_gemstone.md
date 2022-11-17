@@ -21,7 +21,7 @@
 ---
 
 ## 使用
-[金床](https://minecraft.fandom.com/zh/wiki/金床)に[旗幟](https://minecraft.fandom.com/zh/wiki/旗幟)と組合[セーブができるフラグ](record_point_banner.md)，  
+[金床](https://minecraft.fandom.com/ja/wiki/金床)に[旗](https://minecraft.fandom.com/ja/wiki/旗)と組合[セーブができるフラグ](record_point_banner.md)，  
 コンポジットの名前が転送先の名前として使用されます。
 
 <table>

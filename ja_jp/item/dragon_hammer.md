@@ -5,7 +5,7 @@
 <table>
     <tr><td align="end">画像</td><td><img src="https://i.imgur.com/tvhOfLt.gif" width="128"/></td></tr>
     <tr><td align="end">スタック</td><td>1</td></tr>
-    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/zh/wiki/ダメージ増加">ダメージ増加</a></td></tr>
+    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/ja/wiki/ダメージ増加">ダメージ増加</a></td></tr>
 </table>
 
 ---

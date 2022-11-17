@@ -27,7 +27,7 @@
     <tr><td>プレス<code>生成！</code></td><td><img src="https://i.imgur.com/arayNzl.png" width="720"/></td></tr>
     <tr><td>処理完了待ち</td><td><img src="https://i.imgur.com/xAfO9Rr.png" width="720"/></td></tr>
     <tr><td>URLを検索し、後半の文字列をコピーする</td><td><img src="https://i.imgur.com/oueKGoK.png" width="720"/></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/金床">金床</a>ではコピーしたばかりの文字列に変更</td><td><img src="https://i.imgur.com/G3T9hB4.png" width="720"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ja/wiki/金床">金床</a>ではコピーしたばかりの文字列に変更</td><td><img src="https://i.imgur.com/G3T9hB4.png" width="720"/></td></tr>
     <tr><td>いつもの手に持って、人型や鎧の<code>右クリック</code>を押す</td><td><img src="https://i.imgur.com/LgRaNmZ.png" width="720"/></td></tr>
     <tr><td>疑似プレーヤーの成功</td><td><img src="https://i.imgur.com/pSmY96m.png" width="720"/></td></tr>
 </table>

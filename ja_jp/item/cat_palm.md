@@ -6,8 +6,8 @@
     <tr><td align="end">スタック</td><td>1</td></tr>
     <tr><td align="end">エンチャント</td><td>
         <table>
-            <tr><td>剣</td><td><a href="https://minecraft.fandom.com/zh/wiki/ダメージ増加">ダメージ増加</a>、<a href="https://minecraft.fandom.com/zh/wiki/アンデッド特効">アンデッド特効</a>、<a href="https://minecraft.fandom.com/zh/wiki/虫特効">虫特効</a>、<a href="https://minecraft.fandom.com/zh/wiki/火属性">火属性</a>、<a href="https://minecraft.fandom.com/zh/wiki/擊退">擊退</a>、<a href="https://minecraft.fandom.com/zh/wiki/掠奪">掠奪</a>、<a href="https://minecraft.fandom.com/zh/wiki/橫掃之刃">橫掃之刃</a>、<a href="https://minecraft.fandom.com/zh/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/zh/wiki/修繕">修繕</a></td></tr>
-            <tr><td>斧</td><td><a href="https://minecraft.fandom.com/zh/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/zh/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/効率強化">効率強化</a>、<a href="https://minecraft.fandom.com/zh/wiki/ダメージ増加">ダメージ増加</a>、<a href="https://minecraft.fandom.com/zh/wiki/アンデッド特効">アンデッド特効</a>、<a href="https://minecraft.fandom.com/zh/wiki/虫特効">虫特効</a>、<a href="https://minecraft.fandom.com/zh/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/zh/wiki/修繕">修繕</a></td></tr>
+            <tr><td>剣</td><td><a href="https://minecraft.fandom.com/ja/wiki/ダメージ増加">ダメージ増加</a>、<a href="https://minecraft.fandom.com/ja/wiki/アンデッド特効">アンデッド特効</a>、<a href="https://minecraft.fandom.com/ja/wiki/虫特効">虫特効</a>、<a href="https://minecraft.fandom.com/ja/wiki/火属性">火属性</a>、<a href="https://minecraft.fandom.com/ja/wiki/擊退">擊退</a>、<a href="https://minecraft.fandom.com/ja/wiki/掠奪">掠奪</a>、<a href="https://minecraft.fandom.com/ja/wiki/橫掃之刃">橫掃之刃</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
+            <tr><td>斧</td><td><a href="https://minecraft.fandom.com/ja/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/ja/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/効率強化">効率強化</a>、<a href="https://minecraft.fandom.com/ja/wiki/ダメージ増加">ダメージ増加</a>、<a href="https://minecraft.fandom.com/ja/wiki/アンデッド特効">アンデッド特効</a>、<a href="https://minecraft.fandom.com/ja/wiki/虫特効">虫特効</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久力">耐久力</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
         </table>
     </td></tr>
 </table>
@@ -410,7 +410,7 @@
 
 ## 情報
 ### 強化
-[金床](https://minecraft.fandom.com/zh/wiki/金床)に[竜牙](dragon_tooth.md)、[血竜牙](dragon_blood_tooth.md)、[ナイトメアジェム](nightmare_crystal.md)と組み合わせることで、クラスのレベルアップを図ることができます。
+[金床](https://minecraft.fandom.com/ja/wiki/金床)に[竜牙](dragon_tooth.md)、[血竜牙](dragon_blood_tooth.md)、[ナイトメアジェム](nightmare_crystal.md)と組み合わせることで、クラスのレベルアップを図ることができます。
 
 <table>
     <tr>

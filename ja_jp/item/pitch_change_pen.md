@@ -1,5 +1,5 @@
 # 音程調整棒
-[音符ブロック](https://minecraft.fandom.com/zh/wiki/音符ブロック)のトーンを素早く変更する。。
+[音符ブロック](https://minecraft.fandom.com/ja/wiki/音符ブロック)のトーンを素早く変更する。。
 
 ## データ
 <table>
@@ -20,7 +20,7 @@
 ---
 
 ## 使用
-いつもの手で音程調整棒を持ち、[音符ブロック](https://minecraft.fandom.com/zh/wiki/音符ブロック)に向け、`右クリック`で選択範囲を開きます：
+いつもの手で音程調整棒を持ち、[音符ブロック](https://minecraft.fandom.com/ja/wiki/音符ブロック)に向け、`右クリック`で選択範囲を開きます：
 
 <table>
     <tr><td align="center">タイトル</td><td colspan="9">音程を選択</td></tr>
