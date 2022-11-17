@@ -77,7 +77,7 @@
 <table>
     <tr><td align="center">圖片</td><td align="center">種類</td><td align="center">使用方法</td><td align="center">1回あたりの消費量</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/2QdmOdE.png" width="48"/></td><td align="center">金のリンゴ</td><td align="center">食品</td><td align="center">1個</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/ME1CeOE.png" width="48"/></td><td align="center">宝石</td><td align="center">右クリック使用</td><td align="center">3レベル<br/>※レベルが足りないと破損する</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/ME1CeOE.png" width="48"/></td><td align="center">宝石</td><td align="center"><code>右クリック</code>使用</td><td align="center">3レベル<br/>※レベルが足りないと破損する</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/xv4Ph4E.png" width="48"/></td><td align="center">宝石ブロック</td><td align="center">オーバーヘッドで立ってしゃがむ</td><td align="center">1レベル</td></tr>
 </table>
 
