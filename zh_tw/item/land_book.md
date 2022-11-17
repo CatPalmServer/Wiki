@@ -164,7 +164,7 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 - ### I 方塊互動
   [儲物箱](https://minecraft.fandom.com/zh/wiki/儲物箱)的使用  
   [烽火台](https://minecraft.fandom.com/zh/wiki/烽火台)的使用  
-  [告示牌](https://minecraft.fandom.com/zh/wiki/告示牌)的梗改  
+  [告示牌](https://minecraft.fandom.com/zh/wiki/告示牌)的更改  
   [音階盒](https://minecraft.fandom.com/zh/wiki/音階盒)的調整
 - ### L 閱讀講座書
   [講台](https://minecraft.fandom.com/zh/wiki/講台)的閱覽
