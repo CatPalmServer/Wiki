@@ -44,7 +44,7 @@
 <a href="../item/dragon_hammer.md"><img src="https://i.imgur.com/tvhOfLt.gif" width="48"/></a>
 
 ### 2.99%
-[鐵幣](../item/coin.md)x1交換x1，最大1回まで。
+[鉄貨](../item/coin.md)x1交換x1，最大1回まで。
 
 <a href="../item/peaceful_block.md"><img src="https://i.imgur.com/ChdGHZh.png" width="48"/></a>
 <a href="../decor/cat_ear.md"><img src="https://i.imgur.com/iaXK5vI.png" width="48"/></a>
@@ -148,7 +148,7 @@
 <a href="../decor/cat_hat.md"><img src="https://i.imgur.com/KzfuYRq.png" width="48"/></a>
 
 ### 0.5%
-[鐵幣](../item/coin.md)x8交換x1，最大1回まで。
+[鉄貨](../item/coin.md)x8交換x1，最大1回まで。
 
 <a href="../item/peaceful_block.md"><img src="https://i.imgur.com/5NXrwba.png" width="48"/></a>
 <a href="../item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a>
@@ -164,7 +164,7 @@
 <a href="../item/boots.md"><img src="https://i.imgur.com/eTBvKLO.png" width="48"/></a>
 
 ### 0.01%
-[銀幣](../item/coin.md)x8交換x1，最大1回まで。
+[銀貨](../item/coin.md)x8交換x1，最大1回まで。
 
 <a href="../item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
 <a href="../item/axe.md"><img src="https://i.imgur.com/Cj6g0bi.png" width="48"/></a>
