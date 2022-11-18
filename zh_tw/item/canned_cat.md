@@ -11,7 +11,7 @@
 ---
 
 ## 獲取
-只能透過購買取得，每個NT$400。  
+只能透過購買取得，每個TWD$400。  
 在[Discord群組](../feature/discord_server.md)內的[商店渠道](https://discord.com/channels/799977829805981716/951148093657718874)能看見購買方式，  
 
 <table>
