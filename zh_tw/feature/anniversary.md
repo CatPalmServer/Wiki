@@ -10,6 +10,10 @@
 
 ## 競標彩色裝飾
 使用[貨幣](../item/coin.md)喊價，出價最高者得。  
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/w2Jcc3C.gif" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/mthVuxz.gif" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/7tQnuoW.gif" width="48"/></a>
+<a href="item/cat_palm.md"><img src="https://i.imgur.com/FW1nORV.gif" width="48"/></a>
 <a href="../decor/alien_antenna.md"><img src="https://i.imgur.com/7kP0AMr.gif" width="48"/></a>
 <a href="../decor/angel_circle.md"><img src="https://i.imgur.com/ojKGaam.gif" width="48"/></a>
 <a href="../decor/cat_ear.md"><img src="https://i.imgur.com/9vi3xsa.gif" width="48"/></a>
