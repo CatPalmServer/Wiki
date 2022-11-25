@@ -41,3 +41,8 @@
         <td><a href="../feature/enhanced_wandering_trader.md">行商人取引</a>。</td>
     </tr>
 </table>
+
+---
+
+## 使用
+装着時[ファントム](https://minecraft.fandom.com/ja/wiki/ファントム)の産生をブロックする。

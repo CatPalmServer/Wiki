@@ -41,3 +41,8 @@
         <td><a href="../feature/enhanced_wandering_trader.md">流浪商人交易</a>。</td>
     </tr>
 </table>
+
+---
+
+## 使用
+配戴後能阻擋[夜魅](https://minecraft.fandom.com/zh/wiki/夜魅)生成。
