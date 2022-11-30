@@ -16,65 +16,35 @@
 ---
 
 ## 使用
-ショートカットバーに置くと、5秒ごとに1ポイントの耐久力がチャージされ、満タンになるまでに約5分かかります。 50回使用すると駆け出しセットは破棄され、それまでは使用するたびにアイテムがもらえます：  
+点を消費してアイテムと交換、デフォルトで 1000 点消費可能。
 
 <table>
-    <tr><td align="center">回数</td><td align="center" colspan="2">入手可能</td></tr>
-    <tr>
-        <td align="center" rowspan="14">1</td>
-        <td>盾</td><td>x 1</td>
-    </tr>
-    <tr><td>鉄のヘルメット</td><td>x 1</td></tr>
-    <tr><td>鉄のチェストプレート</td><td>x 1</td></tr>
-    <tr><td>鉄のレギンス</td><td>x 1</td></tr>
-    <tr><td>鉄のブーツ</td><td>x 1</td></tr>
-    <tr><td>鉄の剣</td><td>x 1</td></tr>
-    <tr><td>鉄の斧</td><td>x 1</td></tr>
-    <tr><td>鉄のツルハシ</td><td>x 1</td></tr>
-    <tr><td><a href="world_map_view.md">GPSマップ 1:1</a></td><td>x 1</td></tr>
-    <tr><td><a href="../food/beef_cheese_sandwich.md">牛肉チーズ三明治</a></td><td>x 24</td></tr>
-    <tr><td><a href="random_transfer.md">隨機転送の金ごリンゴ</a></td><td>x 24</td></tr>
-    <tr><td><a href="back.md">リスポーンの金のリンゴ</a></td><td>x 24</td></tr>
-    <tr><td><a href="invite_transfer_gemstone.md">邀請転送のジェム</a></td><td>x 2</td></tr>
-    <tr><td><a href="transfer.md">転送の金ごリンゴ</a><br/>※名称を<code>spawn</code>に変更</td><td>x 24</td></tr>
-    <tr>
-        <td align="center" rowspan="4">2</td>
-        <td><a href="../food/beef_cheese_sandwich.md">牛肉チーズ三明治</a></td><td>x 24</td>
-    </tr>
-    <tr><td><a href="back.md">リスポーンの金のリンゴ</a></td><td>x 24</td></tr>
-    <tr><td><a href="peaceful_proof.md">ピースの証</a></td><td>x 1</td></tr>
-    <tr><td>白色のシュルカーボックス</td><td>x 2</td></tr>
-    <tr>
-        <td align="center" rowspan="4">3</td>
-        <td><a href="../food/beef_cheese_sandwich.md">牛肉チーズ三明治</a></td><td>x 16</td>
-    </tr>
-    <tr><td><a href="back.md">リスポーンの金のリンゴ</a></td><td>x 24</td></tr>
-    <tr><td><a href="peaceful_proof.md">ピースの証</a></td><td>x 1</td></tr>
-    <tr><td>空色のシュルカーボックス</td><td>x 2</td></tr>
-    <tr>
-        <td align="center" rowspan="4">4</td>
-        <td><a href="../food/beef_cheese_sandwich.md">牛肉チーズ三明治</a></td><td>x 8</td>
-    </tr>
-    <tr><td><a href="back.md">リスポーンの金のリンゴ</a></td><td>x 12</td></tr>
-    <tr><td><a href="record_point_banner.md">セーブができる白いのフラグ</a><br/>※名称を<code>ID#乱数 home</code>に変更</td><td>x 1</td></tr>
-    <tr><td><a href="transfer.md">転送の金ごリンゴ</a><br/>※名称を<code>ID#乱数 home</code>に変更</td><td>x 128</td></tr>
-    <tr>
-        <td align="center" rowspan="5">5</td>
-        <td><a href="../food/beef_cheese_sandwich.md">牛肉チーズ三明治</a></td><td>x 8</td>
-    </tr>
-    <tr><td><a href="back.md">リスポーンの金のリンゴ</a></td><td>x 6</td></tr>
-    <tr><td><a href="land_block.md">領地ジェネレーター</a></td><td>x 1</td></tr>
-    <tr><td><a href="land_energy.md">領地エネルギー小</a></td><td>x 9</td></tr>
-    <tr><td><a href="land_book.md">無効になっている領地グループの本</a></td><td>x 1</td></tr>
-    <tr>
-        <td align="center" rowspan="2">6</td>
-        <td><a href="../food/beef_cheese_sandwich.md">牛肉チーズ三明治</a></td><td>x 8</td>
-    </tr>
-    <tr><td><a href="back.md">リスポーンの金のリンゴ</a></td><td>x 6</td></tr>
-    <tr>
-        <td align="center" rowspan="3">7~50</td>
-        <td><a href="../food/beef_cheese_sandwich.md">牛肉チーズ三明治</a></td><td>x 2</td>
-    </tr>
-    <tr><td><a href="coin.md">銅貨</a></td><td>x 5</td></tr>
-    <tr><td><a href="cat_amulet.md">ネコのお守り</a></td><td>x 1</td></tr>
+    <tr><td align="center">名称</td><td align="center">点数</td><td align="center">機会</td></tr>
+    <tr><td align="center"><a href="world_map_view.md">GPSマップ 1:1</a></td><td align="center">40</td><td align="center">1</td></tr>
+    <tr><td align="center">鉄のヘルメット</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></tr>
+    <tr><td align="center">鉄のチェストプレート</td></tr>
+    <tr><td align="center">鉄のレギンス</td></tr>
+    <tr><td align="center">鉄のブーツ</td></tr>
+    <tr><td align="center">盾</td></tr>
+    <tr><td align="center">鉄の剣</td></tr>
+    <tr><td align="center">鉄のシャベル</td></tr>
+    <tr><td align="center">鉄のツルハシ</td></tr>
+    <tr><td align="center">鉄の斧</td></tr>
+    <tr><td align="center">鉄のクワ</td></tr>
+    <tr><td align="center">弓</td></tr>
+    <tr><td align="center">矢</td><td align="center" rowspan="5">1</td></tr>
+    <tr><td align="center"><a href="../food/ice_cream_cone.md">アイスクリームコーン</a></td></tr>
+    <tr><td align="center"><a href="../food/ice_cream_cone.md">チョコレートアイスクリームコーン</a></td></tr>
+    <tr><td align="center"><a href="../food/ice_cream_cone.md">甜莓アイスクリームコーン</a></td></tr>
+    <tr><td align="center"><a href="../food/cheese_puff.md">チーズシュークリーム</a></td></tr>
+    <tr><td align="center"><a href="../item/random_transfer.md">隨機転送の金ごリンゴ</a></td><td align="center" rowspan="2">4</td></tr>
+    <tr><td align="center"><a href="../item/back.md">リスポーンの金のリンゴ</a></td></tr>
+    <tr><td align="center"><a href="../item/record_point_banner.md">セーブができる白いのフラグ</a></td><td align="center">40</td><td align="center">1</td></tr>
+    <tr><td align="center"><a href="../item/transfer.md">転送の金ごリンゴ</a></td><td align="center">4</td><td align="center" rowspan="3"></td></tr>
+    <tr><td align="center"><a href="../item/coin.md">銅貨</a></td><td align="center">10</td></tr>
+    <tr><td align="center"><a href="../item/cat_amulet.md">ネコのお守り</a></td><td align="center">4</td></tr>
+    <tr><td align="center"><a href="../item/peaceful_proof.md">ピースの証</a></td><td align="center">200</td><td align="center" rowspan="3">1</td></tr>
+    <tr><td align="center"><a href="../item/land_book.md">無効になっている領地グループの本</a></td><td align="center">40</td></tr>
+    <tr><td align="center"><a href="../item/land_block.md">領地ジェネレーター</a></td><td align="center">100</td></tr>
+    <tr><td align="center"><a href="../item/land_energy.md">領地エネルギー小</a></td><td align="center">50</td><td align="center"></td></tr>
 </table>

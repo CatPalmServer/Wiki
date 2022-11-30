@@ -32,7 +32,7 @@
     <tr><td align="center">鐵斧</td></tr>
     <tr><td align="center">鐵鋤</td></tr>
     <tr><td align="center">弓</td></tr>
-    <tr><td align="center">箭失</td><td align="center" rowspan="5">1</td></tr>
+    <tr><td align="center">箭矢</td><td align="center" rowspan="5">1</td></tr>
     <tr><td align="center"><a href="../food/ice_cream_cone.md">冰淇淋甜筒</a></td></tr>
     <tr><td align="center"><a href="../food/ice_cream_cone.md">巧克力冰淇淋甜筒</a></td></tr>
     <tr><td align="center"><a href="../food/ice_cream_cone.md">甜莓冰淇淋甜筒</a></td></tr>
