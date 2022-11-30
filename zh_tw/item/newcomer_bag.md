@@ -19,7 +19,7 @@
 消耗點數來兌換物品，預設有 1000 點可以花費。
 
 <table>
-    <tr><td align="center">物品</td><td align="center">點數</td><td align="center">次數</td></tr>
+    <tr><td align="center">名稱</td><td align="center">點數</td><td align="center">次數</td></tr>
     <tr><td align="center"><a href="world_map_view.md">彗星地圖 1:1</a></td><td align="center">40</td><td align="center">1</td></tr>
     <tr><td align="center">鐵製頭盔</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></tr>
     <tr><td align="center">鐵製胸甲</td></tr>
@@ -44,7 +44,7 @@
     <tr><td align="center"><a href="../item/coin.md">銅幣</a></td><td align="center">10</td></tr>
     <tr><td align="center"><a href="../item/cat_amulet.md">貓之護符</a></td><td align="center">4</td></tr>
     <tr><td align="center"><a href="../item/peaceful_proof.md">和平之證</a></td><td align="center">200</td><td align="center" rowspan="3">1</td></tr>
-    <tr><td align="center"><a href="../item/land_system_book.md">未啟用的領地群組之書</a></td><td align="center">40</td></tr>
+    <tr><td align="center"><a href="../item/land_book.md">未啟用的領地群組之書</a></td><td align="center">40</td></tr>
     <tr><td align="center"><a href="../item/land_block.md">領地產生器</a></td><td align="center">100</td></tr>
     <tr><td align="center"><a href="../item/land_energy.md">領地小能量</a></td><td align="center">50</td><td align="center"></td></tr>
 </table>
