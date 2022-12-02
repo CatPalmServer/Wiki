@@ -11,7 +11,7 @@
 ---
 
 ## ゲット
-[猫の缶詰](../feature/cat_bowl.md)食用後可得30個。
+[Discordグループ](../feature/discord_server.md)の[商店](https://discord.com/channels/1040647480972415006/1048245781515210852)。
 
 ---
 ## 効果

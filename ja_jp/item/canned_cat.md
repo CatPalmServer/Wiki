@@ -11,8 +11,7 @@
 ---
 
 ## ゲット
-各JPY$1800台湾ドルで購入のみ可能です。   
-[商店チャネル](https://discord.com/channels/1040647480972415006/1040647481186332736)での買い方は[Discordグループ](../feature/discord_server.md)で確認できます。
+[Discordグループ](../feature/discord_server.md)の[商店](https://discord.com/channels/1040647480972415006/1048245781515210852)。
 
 <table>
     <tr>
