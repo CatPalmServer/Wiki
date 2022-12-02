@@ -16,4 +16,4 @@
 ---
 
 ## 用途
-食用後可增加[貓碗](../feature/cat_bowl.md)特權30天+[超級魚餅乾](super_fish_cracker.md)30個。
+食用後可增加[貓碗](../feature/cat_bowl.md)特權30天。

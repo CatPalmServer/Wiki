@@ -16,4 +16,4 @@
 ---
 
 ## 用途
-消費後に[ネコの皿](../feature/cat_bowl.md)特典30日分と[スーパーフィッシュクッキー](super_fish_cracker.md)30枚を追加する。
+[ネコの皿](../feature/cat_bowl.md)の権限を30日分増やすために使用する。
