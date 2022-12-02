@@ -28,7 +28,7 @@
 ---
 
 ## 獲取
-[貓碗](../feature/cat_bowl.md)累計簽到60日的獎勵。
+[Discord群組](../feature/discord_server.md)的[商店](https://discord.com/channels/799977829805981716/1048223592342622289)，
 
 ---
 

@@ -11,14 +11,7 @@
 ---
 
 ## ゲット
-[Discordグループ](../feature/discord_server.md)の[商店](https://discord.com/channels/1040647480972415006/1048245781515210852)。
-
-<table>
-    <tr>
-        <td align="center">PayPal</td>
-        <td><a href="https://www.paypal.com/paypalme/xuancat0208">https://www.paypal.com/paypalme/xuancat0208</a><br/>※<code>この支払の目的は？</code> <code>猫の皿を購入を入力してください "あなたのプレイヤーネーム"</code></td>
-    </tr>
-</table>
+[Discord群組](../feature/discord_server.md)的[商店](https://discord.com/channels/799977829805981716/1048223592342622289)。
 
 ---
 
