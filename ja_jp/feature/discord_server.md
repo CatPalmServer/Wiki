@@ -14,7 +14,7 @@
 [Pixiv](https://www.pixiv.net/tags/猫耳/artworks?mode=safe)から`XUAN#0483`が選んだイラストを不定期に更新しています。
 
 ### 商店
-[猫の缶詰](../item/canned_cat.md)な買い方をする。
+[猫の缶詰](../item/canned_cat.md)、[ソールコア](../item/soul_core.md)、[スーパーフィッシュクッキー](../item/super_fish_cracker.md)な買い方をする。
 
 ## 掲示板
 プレイヤー同士のコミュニケーションや宣伝のため。

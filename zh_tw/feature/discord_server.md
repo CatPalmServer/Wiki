@@ -14,7 +14,7 @@
 由`XUAN#0483`從[Pixiv](https://www.pixiv.net/tags/猫耳/artworks?mode=safe)精挑細選的插畫圖，更新時間不固定。
 
 ### 商店
-購買[貓罐頭](../item/canned_cat.md)的方式。
+購買[貓罐頭](../item/canned_cat.md)、[靈魂核心](../item/soul_core.md)、[超級魚餅乾](../item/super_fish_cracker.md)的方式。
 
 ## 討論區
 給各玩家互相交流、打廣告用。
