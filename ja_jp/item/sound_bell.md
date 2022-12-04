@@ -27,22 +27,19 @@
 
 ---
 
+## ゲット
+[行商人取引](../feature/enhanced_wandering_trader.md)。
+
+---
+
 ## 組合
 <table>
     <tr>
         <td align="center">様式</td>
-        <td align="center">一般</td>
         <td align="center"><a href="../feature/anniversary.md">周年記念</a>期間限定</td>
     </tr>
     <tr>
         <td align="center"><a href="#紲星あかり">紲星あかり</a></td>
-        <td>
-            <table>
-                <tr><td><img src="https://i.imgur.com/For9m4S.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/For9m4S.png" width="48"/></td><td colspan="3"></td></tr>
-                <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></td><td width="70"></td></tr>
-                <tr><td><img src="https://i.imgur.com/For9m4S.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/For9m4S.png" width="48"/></td><td colspan="3"></td></tr>
-            </table>
-        </td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/For9m4S.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/For9m4S.png" width="48"/></td><td colspan="3"></td></tr>
@@ -56,13 +53,6 @@
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/oy4arVO.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/oy4arVO.png" width="48"/></td><td colspan="3"></td></tr>
-                <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></td><td width="70"></td></tr>
-                <tr><td><img src="https://i.imgur.com/oy4arVO.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/oy4arVO.png" width="48"/></td><td colspan="3"></td></tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr><td><img src="https://i.imgur.com/oy4arVO.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/oy4arVO.png" width="48"/></td><td colspan="3"></td></tr>
                 <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/GcZe1DG.png" width="48"/></td><td width="70"></td></tr>
                 <tr><td><img src="https://i.imgur.com/oy4arVO.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/oy4arVO.png" width="48"/></td><td colspan="3"></td></tr>
             </table>
@@ -70,13 +60,6 @@
     </tr>
     <tr>
         <td align="center"><a href="#琴葉-茜葵">琴葉茜</a></td>
-        <td>
-            <table>
-                <tr><td><img src="https://i.imgur.com/2zBzrvI.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/2zBzrvI.png" width="48"/></td><td colspan="3"></td></tr>
-                <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></td><td width="70"></td></tr>
-                <tr><td><img src="https://i.imgur.com/2zBzrvI.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/2zBzrvI.png" width="48"/></td><td colspan="3"></td></tr>
-            </table>
-        </td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/2zBzrvI.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/2zBzrvI.png" width="48"/></td><td colspan="3"></td></tr>
@@ -90,13 +73,6 @@
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/tdDZdWW.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/tdDZdWW.png" width="48"/></td><td colspan="3"></td></tr>
-                <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></td><td width="70"></td></tr>
-                <tr><td><img src="https://i.imgur.com/tdDZdWW.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/tdDZdWW.png" width="48"/></td><td colspan="3"></td></tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr><td><img src="https://i.imgur.com/tdDZdWW.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/tdDZdWW.png" width="48"/></td><td colspan="3"></td></tr>
                 <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/GcZe1DG.png" width="48"/></td><td width="70"></td></tr>
                 <tr><td><img src="https://i.imgur.com/tdDZdWW.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/tdDZdWW.png" width="48"/></td><td colspan="3"></td></tr>
             </table>
@@ -104,13 +80,6 @@
     </tr>
     <tr>
         <td align="center"><a href="#伊織弓鶴">伊織弓鶴</a></td>
-        <td>
-            <table>
-                <tr><td><img src="https://i.imgur.com/coNUdm3.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/coNUdm3.png" width="48"/></td><td colspan="3"></td></tr>
-                <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/65U3Pl9.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></td><td width="70"></td></tr>
-                <tr><td><img src="https://i.imgur.com/coNUdm3.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/coNUdm3.png" width="48"/></td><td colspan="3"></td></tr>
-            </table>
-        </td>
         <td>
             <table>
                 <tr><td><img src="https://i.imgur.com/coNUdm3.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/coNUdm3.png" width="48"/></td><td colspan="3"></td></tr>

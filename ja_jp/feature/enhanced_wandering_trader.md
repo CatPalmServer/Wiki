@@ -176,3 +176,5 @@
 <a href="../item/chestplate.md"><img src="https://i.imgur.com/Z51McG5.png" width="48"/></a>
 <a href="../item/leggings.md"><img src="https://i.imgur.com/tGMa21y.png" width="48"/></a>
 <a href="../item/boots.md"><img src="https://i.imgur.com/PAuaERZ.png" width="48"/></a>
+<a href="item/sound_bell.md"><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></a>
+<a href="item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.png" width="48"/></a>
