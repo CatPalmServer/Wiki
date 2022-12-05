@@ -43,7 +43,7 @@
 <a href="../item/peaceful_proof.md"><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></a>
 <a href="../item/dragon_hammer.md"><img src="https://i.imgur.com/tvhOfLt.gif" width="48"/></a>
 
-### 2.99%
+### 2.95%
 [鐵幣](../item/coin.md)x1兌換x1，最多1次。
 
 <a href="../item/peaceful_block.md"><img src="https://i.imgur.com/ChdGHZh.png" width="48"/></a>
@@ -163,7 +163,7 @@
 <a href="../item/leggings.md"><img src="https://i.imgur.com/2GF9HK6.png" width="48"/></a>
 <a href="../item/boots.md"><img src="https://i.imgur.com/eTBvKLO.png" width="48"/></a>
 
-### 0.01%
+### 0.05%
 [銀幣](../item/coin.md)x8兌換x1，最多1次。
 
 <a href="../item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
