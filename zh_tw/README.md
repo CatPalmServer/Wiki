@@ -420,6 +420,7 @@
 <a href="feature/edit_sign.md"><img src="https://i.imgur.com/YFUKe8Y.png" width="198"/></a>
 <a href="feature/invisible_item_frame.md"><img src="https://i.imgur.com/7cAn8Qg.png" width="198"/></a>
 <a href="feature/enhanced_wandering_trader.md"><img src="https://i.imgur.com/MoA9u6y.png" width="198"/></a>
+<a href="feature/enhanced_armor_stand.md"><img src="https://i.imgur.com/nmXF1Lb.png" width="198"/></a>
 <a href="feature/spawn_elder_guardian.md"><img src="https://i.imgur.com/gHJCJH3.png" width="198"/></a>
 <a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/Tvh9gqo.png" width="198"/></a>
 <br/>

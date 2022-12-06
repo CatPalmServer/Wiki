@@ -422,6 +422,7 @@
 <a href="feature/edit_sign.md"><img src="https://i.imgur.com/gjShflC.png" width="198"/></a>
 <a href="feature/invisible_item_frame.md"><img src="https://i.imgur.com/EJ6dbVn.png" width="198"/></a>
 <a href="feature/enhanced_wandering_trader.md"><img src="https://i.imgur.com/LcGhe7h.png" width="198"/></a>
+<a href="feature/enhanced_armor_stand.md"><img src="https://i.imgur.com/nmXF1Lb.png" width="198"/></a>
 <a href="feature/spawn_elder_guardian.md"><img src="https://i.imgur.com/Ox12sfh.png" width="198"/></a>
 <a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/tVnUvaK.png" width="198"/></a>
 <br/>
