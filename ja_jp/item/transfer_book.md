@@ -12,9 +12,9 @@
 
 ## 組合
 <table>
-    <tr><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td colspan="3"></td></tr>
-    <tr><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td><img src="https://i.imgur.com/AeLjor8.png" width="48"/></td><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/APrqstL.png" width="48"/></td><td width="70"></td></tr>
-    <tr><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td colspan="3"></td></tr>
+    <tr><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td colspan="3"></td></tr>
+    <tr><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td><img src="https://i.imgur.com/AeLjor8.png" width="48"/></td><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/APrqstL.png" width="48"/></td><td width="70"></td></tr>
+    <tr><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td><img src="https://i.imgur.com/OUdfDD0.png" width="48"/></td><td><img src="https://i.imgur.com/Ju4O2IU.png" width="48"/></td><td colspan="3"></td></tr>
 </table>
 
 ---
