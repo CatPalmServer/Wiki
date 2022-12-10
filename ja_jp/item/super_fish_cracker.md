@@ -14,6 +14,7 @@
 [Discordグループ](../feature/discord_server.md)の[商店](https://discord.com/channels/1040647480972415006/1048245781515210852)。
 
 ---
+
 ## 効果
 消費時のポーション効果について：  
 

@@ -267,6 +267,7 @@
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></a>
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/GcZe1DG.png" width="48"/></a>
 <a href="item/ender_dragon_queue.md"><img src="https://i.imgur.com/4tafEkT.gif" width="48"/></a>
+<a href="item/music_box.md"><img src="https://i.imgur.com/N9JBO3W.png" width="48"/></a>
 
 # 食品
 <a href="food/beef_jerky.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
