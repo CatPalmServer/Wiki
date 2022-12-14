@@ -406,7 +406,7 @@
 
 # 特徴
 <a href="feature/anniversary.md"><img src="https://i.imgur.com/uil3Cm1.png" width="198"/></a>
-<a href="feature/cat_bowl.md"><img src="https://i.imgur.com/p6hFN7l.png" width="198"/></a>
+<a href="feature/cat_bowl.md"><img src="https://i.imgur.com/BmFwse0.png" width="198"/></a>
 <a href="feature/discord_server.md"><img src="https://i.imgur.com/A3LoXdG.png" width="198"/></a>
 <a href="feature/daily_signin.md"><img src="https://i.imgur.com/kYKAfw8.png" width="198"/></a>
 <a href="feature/cat_day.md"><img src="https://i.imgur.com/5cIdSsJ.png" width="198"/></a>
