@@ -11,7 +11,6 @@
 <a href="item/land_energy.md"><img src="https://i.imgur.com/ulqCHW3.png" width="48"/></a>
 <a href="item/land_flying_device.md"><img src="https://i.imgur.com/sMykckD.png" width="48"/></a>
 <a href="item/land_flying_device.md"><img src="https://i.imgur.com/eKWcQ5V.png" width="48"/></a>
-<a href="item/rename_milk.md"><img src="https://i.imgur.com/YX4uOZG.png" width="48"/></a>
 <a href="item/simple_elevator.md"><img src="https://i.imgur.com/OLqL1Kq.png" width="48"/></a>
 <a href="item/simple_elevator.md"><img src="https://i.imgur.com/a3p64mU.png" width="48"/></a>
 <a href="item/record_point_gemstone.md"><img src="https://i.imgur.com/5IDgby3.png" width="48"/></a>
