@@ -36,16 +36,6 @@
         <td>透過<a href="../feature/anniversary.md">周年慶</a>競標取得。</td>
     </tr>
     <tr>
-        <td align="center">草莓</td>
-        <td rowspan="3">不定時開賣抽獎眷。</td>
-    </tr>
-    <tr>
-        <td align="center">布丁</td>
-    </tr>
-    <tr>
-        <td align="center">櫻桃</td>
-    </tr>
-    <tr>
         <td align="center">爆竹</td>
         <td>過年活動限定。</td>
     </tr>

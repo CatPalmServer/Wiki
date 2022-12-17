@@ -36,16 +36,6 @@
         <td><a href="../feature/anniversary.md">周年記念</a>入札で取得。</td>
     </tr>
     <tr>
-        <td align="center">いちご</td>
-        <td rowspan="3">抽選券は随時販売されます。</td>
-    </tr>
-    <tr>
-        <td align="center">プリン</td>
-    </tr>
-    <tr>
-        <td align="center">サクランボ</td>
-    </tr>
-    <tr>
         <td align="center">爆竹</td>
         <td>台湾正月イベント限定。</td>
     </tr>
