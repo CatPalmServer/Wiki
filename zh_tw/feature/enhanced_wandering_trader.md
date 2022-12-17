@@ -162,6 +162,9 @@
 <a href="../item/chestplate.md"><img src="https://i.imgur.com/A2lVkZG.png" width="48"/></a>
 <a href="../item/leggings.md"><img src="https://i.imgur.com/2GF9HK6.png" width="48"/></a>
 <a href="../item/boots.md"><img src="https://i.imgur.com/eTBvKLO.png" width="48"/></a>
+<a href="../item/decor/cat_hat.md"><img src="https://i.imgur.com/UT94IRj.png" width="48"/></a>
+<a href="../item/decor/cat_hat.md"><img src="https://i.imgur.com/OqQl5jU.png" width="48"/></a>
+<a href="../item/decor/cat_hat.md"><img src="https://i.imgur.com/OAL1rFF.png" width="48"/></a>
 
 ### 0.05%
 [銀幣](../item/coin.md)x8兌換x1，最多1次。
