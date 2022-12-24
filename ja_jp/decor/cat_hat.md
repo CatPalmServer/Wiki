@@ -30,20 +30,7 @@
 ---
 
 ## ゲット
-<table>
-    <tr>
-        <td align="center">虹</td>
-        <td><a href="../feature/anniversary.md">周年記念</a>入札で取得。</td>
-    </tr>
-    <tr>
-        <td align="center">爆竹</td>
-        <td>台湾正月イベント限定。</td>
-    </tr>
-    <tr>
-        <td align="center">こと</td>
-        <td><a href="../feature/enhanced_wandering_trader.md">行商人取引</a>。</td>
-    </tr>
-</table>
+虹[周年記念](../feature/anniversary.md)入札で取得、こと[行商人取引](../feature/enhanced_wandering_trader.md)。
 
 ---
 

@@ -31,16 +31,7 @@
 ---
 
 ## 獲取
-<table>
-    <tr>
-        <td align="center">彩</td>
-        <td>透過<a href="../feature/anniversary.md">周年慶</a>競標取得。</td>
-    </tr>
-    <tr>
-        <td align="center">其他</td>
-        <td><a href="../feature/enhanced_wandering_trader.md">流浪商人交易</a>。</td>
-    </tr>
-</table>
+彩色版透過[周年慶](../feature/anniversary.md)競標取得，其餘[流浪商人交易](../feature/enhanced_wandering_trader.md)。
 
 ---
 

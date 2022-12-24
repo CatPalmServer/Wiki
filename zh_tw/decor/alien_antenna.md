@@ -12,9 +12,4 @@
 ---
 
 ## 獲取
-<table>
-    <tr>
-        <td align="center">彩</td>
-        <td>透過<a href="../feature/anniversary.md">周年慶</a>競標取得。</td>
-    </tr>
-</table>
+透過[周年慶](../feature/anniversary.md)競標取得。

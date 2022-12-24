@@ -12,9 +12,4 @@
 ---
 
 ## ゲット
-<table>
-    <tr>
-        <td align="center">虹</td>
-        <td><a href="../feature/anniversary.md">周年記念</a>入札で取得。</td>
-    </tr>
-</table>
+[周年記念](../feature/anniversary.md)入札で取得。
