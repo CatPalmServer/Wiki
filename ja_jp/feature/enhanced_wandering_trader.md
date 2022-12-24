@@ -197,4 +197,4 @@
 
 ### 中国暦 1月1日 春節
 <a href="../decor/lucky_money.md"><img src="https://i.imgur.com/pZimoHQ.png" width="48"/></a>
-<a href="decor/cat_hat.md"><img src="https://i.imgur.com/X55VsLG.png" width="48"/></a>
+<a href="../decor/cat_hat.md"><img src="https://i.imgur.com/X55VsLG.png" width="48"/></a>
