@@ -1,7 +1,7 @@
 # 強化された行商人
 
 ## 取引
-### 90%
+### 90% (一部の映画祭で 89.5%)
 [銅貨](../item/coin.md)x1交換x8，最大4回まで。
 
 <a href="https://minecraft.fandom.com/ja/wiki/花"><img src="https://i.imgur.com/WydimGB.png" width="48"/></a>
@@ -181,3 +181,20 @@
 <a href="../item/boots.md"><img src="https://i.imgur.com/PAuaERZ.png" width="48"/></a>
 <a href="../item/sound_bell.md"><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></a>
 <a href="../item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.png" width="48"/></a>
+
+
+## 祭 0.5%
+[鉄貨](../item/coin.md)x20交換x1，最大1回まで。
+### グレゴリオ暦 1月1日 元日
+<a href="../decor/firework_star.md"><img src="https://i.imgur.com/KX7sFWm.png" width="48"/></a>
+
+### グレゴリオ暦 10月31日 ハロウィン
+<a href="../decor/witch_hat.md"><img src="https://i.imgur.com/K5wTp0D.png" width="48"/></a>
+
+### グレゴリオ暦 12月25日 クリスマス
+<a href="../decor/christmas_hat.md"><img src="https://i.imgur.com/24UebcB.png" width="48"/></a>
+<a href="../decor/christmas_tree.md"><img src="https://i.imgur.com/Xko144w.png" width="48"/></a>
+
+### 中国暦 1月1日 春節
+<a href="../decor/lucky_money.md"><img src="https://i.imgur.com/pZimoHQ.png" width="48"/></a>
+<a href="decor/cat_hat.md"><img src="https://i.imgur.com/X55VsLG.png" width="48"/></a>

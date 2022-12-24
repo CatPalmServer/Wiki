@@ -1,7 +1,7 @@
 # 增強型流浪商人
 
 ## 貿易
-### 90%
+### 90% (特定節日為 89.5%)
 [銅幣](../item/coin.md)x1兌換x8，最多4次。
 
 <a href="https://minecraft.fandom.com/zh/wiki/花"><img src="https://i.imgur.com/WydimGB.png" width="48"/></a>
@@ -181,3 +181,20 @@
 <a href="../item/boots.md"><img src="https://i.imgur.com/PAuaERZ.png" width="48"/></a>
 <a href="../item/sound_bell.md"><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></a>
 <a href="../item/nightmare_crystal.md"><img src="https://i.imgur.com/pivPa8U.png" width="48"/></a>
+
+
+## 節日 0.5%
+[鐵幣](../item/coin.md)x20兌換x1，最多1次。
+### 公歷 1月1日 元旦
+<a href="../decor/firework_star.md"><img src="https://i.imgur.com/KX7sFWm.png" width="48"/></a>
+
+### 公歷 10月31日 萬聖節
+<a href="../decor/witch_hat.md"><img src="https://i.imgur.com/K5wTp0D.png" width="48"/></a>
+
+### 公歷 12月25日 聖誕節
+<a href="../decor/christmas_hat.md"><img src="https://i.imgur.com/24UebcB.png" width="48"/></a>
+<a href="../decor/christmas_tree.md"><img src="https://i.imgur.com/Xko144w.png" width="48"/></a>
+
+### 農曆 1月1日 春節
+<a href="../decor/lucky_money.md"><img src="https://i.imgur.com/pZimoHQ.png" width="48"/></a>
+<a href="decor/cat_hat.md"><img src="https://i.imgur.com/X55VsLG.png" width="48"/></a>
