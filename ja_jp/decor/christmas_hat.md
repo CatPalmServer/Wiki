@@ -10,5 +10,5 @@
 
 ---
 
-## 獲取
+## ゲット
 [行商人取引](../feature/enhanced_wandering_trader.md)。
