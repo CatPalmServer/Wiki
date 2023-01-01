@@ -399,7 +399,7 @@
 <a href="decor/rabbit_ear.md"><img src="https://i.imgur.com/D3eGjbH.gif" width="48"/></a>
 <a href="decor/christmas_hat.md"><img src="https://i.imgur.com/24UebcB.png" width="48"/></a>
 <a href="decor/christmas_tree.md"><img src="https://i.imgur.com/Xko144w.png" width="48"/></a>
-<a href="decor/firework_star.md"><img src="https://i.imgur.com/HYEKxAl.png" width="48"/></a>
+<a href="decor/firework_star.md"><img src="https://i.imgur.com/oJQYQ05.png" width="48"/></a>
 <a href="decor/lucky_money.md"><img src="https://i.imgur.com/pZimoHQ.png" width="48"/></a>
 <a href="decor/witch_hat.md"><img src="https://i.imgur.com/K5wTp0D.png" width="48"/></a>
 

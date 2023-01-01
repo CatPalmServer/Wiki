@@ -188,7 +188,7 @@
 ## 祭 0.5%
 [鉄貨](../item/coin.md)x20交換x1，最大1回まで。
 ### グレゴリオ暦 1月1日 元日
-<a href="../decor/firework_star.md"><img src="https://i.imgur.com/HYEKxAl.png" width="48"/></a>
+<a href="../decor/firework_star.md"><img src="https://i.imgur.com/oJQYQ05.png" width="48"/></a>
 
 ### グレゴリオ暦 10月31日 ハロウィン
 <a href="../decor/witch_hat.md"><img src="https://i.imgur.com/K5wTp0D.png" width="48"/></a>

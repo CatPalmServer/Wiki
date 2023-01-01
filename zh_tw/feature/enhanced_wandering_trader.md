@@ -188,7 +188,7 @@
 ## 節日 0.5%
 [鐵幣](../item/coin.md)x20兌換x1，最多1次。
 ### 公歷 1月1日 元旦
-<a href="../decor/firework_star.md"><img src="https://i.imgur.com/HYEKxAl.png" width="48"/></a>
+<a href="../decor/firework_star.md"><img src="https://i.imgur.com/oJQYQ05.png" width="48"/></a>
 
 ### 公歷 10月31日 萬聖節
 <a href="../decor/witch_hat.md"><img src="https://i.imgur.com/K5wTp0D.png" width="48"/></a>
