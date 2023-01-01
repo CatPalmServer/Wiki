@@ -154,7 +154,8 @@
 <a href="../item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a>
 <a href="../item/pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
 <a href="../item/axe.md"><img src="https://i.imgur.com/uysb6iv.png" width="48"/></a>
-<a href="../item/bow.md"><img src="https://i.imgur.com/OG1BKLZ.png" width="48"/></a>
+<a href="../item/bow.md"><img src="https://i.imgur.com/OG1BKLZ.gif" width="48"/></a>
+<a href="../item/crossbow.md"><img src="https://i.imgur.com/1U1Va07.gif" width="48"/></a>
 <a href="../item/sword.md"><img src="https://i.imgur.com/Pr9Lvlq.png" width="48"/></a>
 <a href="../item/shovel.md"><img src="https://i.imgur.com/PWVHzv7.png" width="48"/></a>
 <a href="../item/hoe.md"><img src="https://i.imgur.com/9KdiXDi.png" width="48"/></a>
@@ -171,7 +172,8 @@
 
 <a href="../item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
 <a href="../item/axe.md"><img src="https://i.imgur.com/Cj6g0bi.png" width="48"/></a>
-<a href="../item/bow.md"><img src="https://i.imgur.com/4Nnxagh.png" width="48"/></a>
+<a href="../item/bow.md"><img src="https://i.imgur.com/4Nnxagh.gif" width="48"/></a>
+<a href="../item/crossbow.md"><img src="https://i.imgur.com/uEMNcv4.gif" width="48"/></a>
 <a href="../item/sword.md"><img src="https://i.imgur.com/yIzgPwQ.png" width="48"/></a>
 <a href="../item/shovel.md"><img src="https://i.imgur.com/8xf18Pa.png" width="48"/></a>
 <a href="../item/hoe.md"><img src="https://i.imgur.com/VeOmr49.png" width="48"/></a>
@@ -186,7 +188,7 @@
 ## 祭 0.5%
 [鉄貨](../item/coin.md)x20交換x1，最大1回まで。
 ### グレゴリオ暦 1月1日 元日
-<a href="../decor/firework_star.md"><img src="https://i.imgur.com/KX7sFWm.png" width="48"/></a>
+<a href="../decor/firework_star.md"><img src="https://i.imgur.com/HYEKxAl.png" width="48"/></a>
 
 ### グレゴリオ暦 10月31日 ハロウィン
 <a href="../decor/witch_hat.md"><img src="https://i.imgur.com/K5wTp0D.png" width="48"/></a>
