@@ -27,6 +27,7 @@
 <a href="pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
 <a href="axe.md"><img src="https://i.imgur.com/Cj6g0bi.png" width="48"/></a>
 <a href="bow.md"><img src="https://i.imgur.com/4Nnxagh.gif" width="48"/></a>
+<a href="crossbow.md"><img src="https://i.imgur.com/uEMNcv4.gif" width="48"/></a>
 <a href="sword.md"><img src="https://i.imgur.com/yIzgPwQ.png" width="48"/></a>
 <a href="shovel.md"><img src="https://i.imgur.com/8xf18Pa.png" width="48"/></a>
 <a href="hoe.md"><img src="https://i.imgur.com/VeOmr49.png" width="48"/></a>
