@@ -13,7 +13,7 @@
         <td><a href="../item/magic_nether_star.md">魔法地獄之星</a> x 1</td>
     </tr>
     <tr>
-        <td align="center"><code>1</code>+(<code>昨日語音使用時間</code>/<code>30分鐘</code>-<code>4</code>)x<code>0.5</code>%</td>
+        <td align="center"><code>1</code>+(<code>昨日語音使用時間</code>/<code>30分鐘</code>-<code>4</code>)x<code>0.05</code>%</td>
         <td>流浪商人生怪蛋 x 1</td>
     </tr>
     <tr>

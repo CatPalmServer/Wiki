@@ -13,7 +13,7 @@
         <td><a href="../item/magic_nether_star.md">魔法のネザースター</a> x 1</td>
     </tr>
     <tr>
-        <td align="center"><code>1</code>+(<code>昨日の総音声使用時間</code>/<code>30分</code>-<code>4</code>)x<code>0.5</code>%</td>
+        <td align="center"><code>1</code>+(<code>昨日の総音声使用時間</code>/<code>30分</code>-<code>4</code>)x<code>0.05</code>%</td>
         <td>行商人のスポーンエッグ x 1</td>
     </tr>
     <tr>
