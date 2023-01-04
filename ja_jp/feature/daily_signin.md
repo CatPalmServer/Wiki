@@ -5,7 +5,7 @@
     <tr><td align="center">条件</td><td align="center" colspan="2">ゲット</td></tr>
     <tr>
         <td align="center" rowspan="4">昨日のゲームオンライン時間30分以上<br/>+<br/>昨日の総音声使用時間120分以上</td>
-        <td align="center">20%</td>
+        <td align="center">10%</td>
         <td><a href="../item/dragon_hammer.md">ドラゴンハンマー</a> x 1</td>
     </tr>
     <tr>
@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td align="center" rowspan="3">昨日のゲームオンライン時間30分以上</td>
-        <td align="center">20%</td>
+        <td align="center">10%</td>
         <td><a href="../item/dragon_hammer.md">ドラゴンハンマー</a> x 1</td>
     </tr>
     <tr>

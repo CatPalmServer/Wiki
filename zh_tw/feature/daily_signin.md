@@ -5,7 +5,7 @@
     <tr><td align="center">條件</td><td align="center" colspan="2">獲得</td></tr>
     <tr>
         <td align="center" rowspan="4">昨日遊戲上線滿30分鐘<br/>+<br/>昨日語音使用時間滿120分鐘</td>
-        <td align="center">20%</td>
+        <td align="center">10%</td>
         <td><a href="../item/dragon_hammer.md">龍槌</a> x 1</td>
     </tr>
     <tr>
@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td align="center" rowspan="3">昨日遊戲上線滿30分鐘</td>
-        <td align="center">20%</td>
+        <td align="center">10%</td>
         <td><a href="../item/dragon_hammer.md">龍槌</a> x 1</td>
     </tr>
     <tr>
