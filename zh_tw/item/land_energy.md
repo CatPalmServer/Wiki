@@ -66,7 +66,7 @@
 ---
 
 ## 使用
-作為領地下四層方塊使用  
+作為領地下四層方塊使用，被挖掘時有15%機率會消失  
 
 <table>
     <tr><td align="center">能量</td><td align="center">點數</td></tr>
