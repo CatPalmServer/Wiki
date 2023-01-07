@@ -45,7 +45,7 @@
 </table>
 
 ### 通貨交換
-1時間ごとに`オンラインプレイヤー数`×`供給量`の通貨を各プールに入れ、特定の鉱物で換金できるようにし、残り5%を切ると価格が上昇し始めるようにする。  
+4時間ごとに`オンラインプレイヤー数`×`供給量`の通貨を各プールに入れ、特定の鉱物で換金できるようにし、残り5%を切ると価格が上昇し始めるようにする。  
 
 <table>
     <tr><td align="center">種類</td><td align="center">プール</td><td align="center">供給量</td><td align="center">最安値</td><td align="center">最高値</td><td align="center">最小交換量</td><td align="center">最大交換量</td></tr>

@@ -1,5 +1,3 @@
-**使用されている翻訳はDeepLで、若干不正確な場合があります。**
-
 # 道具
 <a href="item/newcomer_bag.md"><img src="https://i.imgur.com/KqzjESH.png" width="48"/></a>
 <a href="item/world_map_view.md"><img src="https://i.imgur.com/w5nzar8.png" width="48"/></a>
@@ -270,6 +268,10 @@
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/GcZe1DG.png" width="48"/></a>
 <a href="item/ender_dragon_queue.md"><img src="https://i.imgur.com/4tafEkT.gif" width="48"/></a>
 <a href="item/music_box.md"><img src="https://i.imgur.com/N9JBO3W.png" width="48"/></a>
+<a href="item/builder_model_device.md"><img src="https://i.imgur.com/hhI9h1R.png" width="48"/></a>
+<a href="item/builder_model_device.md"><img src="https://i.imgur.com/SJBTnkG.png" width="48"/></a>
+<a href="item/builder_model_device.md"><img src="https://i.imgur.com/d3Qzrtq.png" width="48"/></a>
+<a href="item/builder_model_device.md"><img src="https://i.imgur.com/PiWyIRO.png" width="48"/></a>
 
 # 食品
 <a href="food/beef_jerky.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
