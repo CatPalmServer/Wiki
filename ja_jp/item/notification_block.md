@@ -23,7 +23,7 @@
 ### 配置する
 他の人が通知器を使うと、通知器を出した人に呼び出し！  
 <table>
-    <tr><td>在<a href="https://minecraft.fandom.com/ja/wiki/金床">金床</a>改成想要的訊息</td><td><img src="https://i.imgur.com/B2lZOum.png" width="720"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ja/wiki/金床">金床</a>で希望のメッセージに変更</td><td><img src="https://i.imgur.com/B2lZOum.png" width="720"/></td></tr>
     <tr><td>配置する</td><td><img src="https://i.imgur.com/QGphye0.png" width="720"/></td></tr>
 </table>
 

@@ -69,13 +69,11 @@
     <tr><td rowspan="3" align="center">物品清單<br/>9 x 3</td><td><img src="https://i.imgur.com/A6GqgiT.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td align="center">選單<br/>9 x 1</td><td><img src="https://i.imgur.com/QtuKo31.png" width="48"/></td><td><img src="https://i.imgur.com/wuMxqVT.png" width="48"/><br/><img src="https://i.imgur.com/1Xml5UZ.png" width="48"/></td><td><img src="https://i.imgur.com/DqcVv4y.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/Rmxj4Sf.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+    <tr><td align="center">選單<br/>9 x 1</td><td><img src="https://i.imgur.com/QtuKo31.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/DqcVv4y.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/Rmxj4Sf.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
 </table>
 
 <table>
     <tr><td align="center"><img src="https://i.imgur.com/QtuKo31.png" width="48"/></td><td>上架</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/wuMxqVT.png" width="48"/></td><td>物品條件: 相似即可</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/1Xml5UZ.png" width="48"/></td><td>物品條件: 完全相同</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/DqcVv4y.png" width="48"/></td><td>要販售的物品從背包內點擊</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/Rmxj4Sf.png" width="48"/></td><td>返回</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>

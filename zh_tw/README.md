@@ -272,6 +272,7 @@
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/SJBTnkG.png" width="48"/></a>
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/d3Qzrtq.png" width="48"/></a>
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/PiWyIRO.png" width="48"/></a>
+<a href="item/barter_sell_block.md"><img src="https://i.imgur.com/24SvDLT.png" width="48"/></a>
 
 # 食物
 <a href="food/beef_jerky.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>

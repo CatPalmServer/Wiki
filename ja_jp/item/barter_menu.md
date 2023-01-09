@@ -69,13 +69,11 @@
     <tr><td rowspan="3" align="center">アイテム表<br/>9 x 3</td><td><img src="https://i.imgur.com/A6GqgiT.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td align="center">メニュー<br/>9 x 1</td><td><img src="https://i.imgur.com/QtuKo31.png" width="48"/></td><td><img src="https://i.imgur.com/wuMxqVT.png" width="48"/><br/><img src="https://i.imgur.com/1Xml5UZ.png" width="48"/></td><td><img src="https://i.imgur.com/DqcVv4y.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/Rmxj4Sf.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+    <tr><td align="center">メニュー<br/>9 x 1</td><td><img src="https://i.imgur.com/QtuKo31.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/DqcVv4y.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/Rmxj4Sf.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
 </table>
 
 <table>
     <tr><td align="center"><img src="https://i.imgur.com/QtuKo31.png" width="48"/></td><td>陳列する</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/wuMxqVT.png" width="48"/></td><td>アイテム条件: 該当あり</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/1Xml5UZ.png" width="48"/></td><td>アイテム条件: 完全一致</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/DqcVv4y.png" width="48"/></td><td>売りたいアイテムをバッグの中からクリック</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/Rmxj4Sf.png" width="48"/></td><td>戻す</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>閉じる</td></tr>
