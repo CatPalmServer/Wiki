@@ -30,7 +30,7 @@
 </table>
 
 ブロックを配置するために使用されるアイテムの名前は販売を意図している価格、`0`円以下はありえない、売り手はブロックを入れる人に依存します。  
-赤石信号が発生したとき。 面コンテナに入ったものは、[貿易書](barter_menu.md)に掲載されます。
+赤い石の信号が発生すると、アイテムの方向を向いたコンテナが[貿易書](barter_menu.md)で販売されます。
 
 <table>
     <tr><td><a href="https://minecraft.fandom.com/ja/wiki/金床">金床</a>で希望の価格に変更</td><td><img src="https://i.imgur.com/LDgXCyC.png" width="720"/></td></tr>

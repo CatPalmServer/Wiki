@@ -30,7 +30,7 @@
 </table>
 
 放置方塊時使用的物品名稱即為出售價格，不能小於`0`元，賣家取決於是誰放了這個方塊。  
-當觸發紅石信號時。會將面相容器內的物品刊登到[貿易書](barter_menu.md)內。
+當觸發紅石信號時，會將朝向方向的容器內物品刊登到[貿易書](barter_menu.md)內。
 
 <table>
     <tr><td>在<a href="https://minecraft.fandom.com/zh/wiki/鐵砧">鐵砧</a>改成想要的價格</td><td><img src="https://i.imgur.com/LDgXCyC.png" width="720"/></td></tr>
