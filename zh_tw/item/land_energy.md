@@ -18,6 +18,18 @@
 ## 合成
 <table>
     <tr>
+        <td align="center"></td>
+        <td>
+        </td>
+        <td>
+            <table>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/Q7zi1Dp.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/Leotpa1.png" width="48"/></td><td width="70"></td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
         <td align="center">小</td>
         <td>
             <table>
@@ -66,7 +78,7 @@
 ---
 
 ## 使用
-作為領地下四層方塊使用，被挖掘時有15%機率會消失  
+作為領地下四層方塊使用  
 
 <table>
     <tr><td align="center">能量</td><td align="center">點數</td></tr>

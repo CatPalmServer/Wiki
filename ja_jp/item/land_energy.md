@@ -18,6 +18,18 @@
 ## 組合
 <table>
     <tr>
+        <td align="center"></td>
+        <td>
+        </td>
+        <td>
+            <table>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/Q7zi1Dp.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/Leotpa1.png" width="48"/></td><td width="70"></td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
         <td align="center">小</td>
         <td>
             <table>
@@ -66,7 +78,7 @@
 ---
 
 ## 使用
-領地の下で4段ブロックとして使用、15%の確率で発掘されると消滅する  
+領地の下で4段ブロックとして使用  
 
 <table>
     <tr><td align="center">エネルギー</td><td align="center">点数</td></tr>
