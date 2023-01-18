@@ -172,4 +172,5 @@
     <tr><td align="center">III</td><td align="center">75%</td></tr>
 </table>
 
+飽食度少於 2 時會減少 90% 的範圍，  
 使用大於當前耐久量會有損毀保護，耐久值剩1繼續使用會直接損壞。
