@@ -12,7 +12,7 @@
 ---
 
 ## 獲取
-[終界龍](https://minecraft.fandom.com/zh/wiki/終界龍)有15%機率掉落。
+[終界龍](https://minecraft.fandom.com/zh/wiki/終界龍)有6%機率掉落。
 
 ---
 
