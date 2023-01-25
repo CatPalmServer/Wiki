@@ -221,7 +221,6 @@
 <a href="item/build_replicator_block.md"><img src="https://i.imgur.com/gs5l20b.png" width="48"/></a>
 <a href="item/build_blueprint.md"><img src="https://i.imgur.com/uSkju47.png" width="48"/></a>
 <a href="item/build_blueprint.md"><img src="https://i.imgur.com/Dy4SfMt.png" width="48"/></a>
-<a href="item/backup_restoration.md"><img src="https://i.imgur.com/O3QyLrA.png" width="48"/></a>
 <a href="item/cat_hair_brush.md"><img src="https://i.imgur.com/7vNTzNf.png" width="48"/></a>
 <a href="item/cat_hair.md"><img src="https://i.imgur.com/W1d7YNU.png" width="48"/></a>
 <a href="item/cat_hair.md"><img src="https://i.imgur.com/Q74ewSi.png" width="48"/></a>
