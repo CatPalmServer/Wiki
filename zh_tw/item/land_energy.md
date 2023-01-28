@@ -7,10 +7,10 @@
     <tr><td align="end">附魔</td><td>無</td></tr>
 </table>
 <table>
-    <tr><td align="center">程度</td><td align="center">圖像</td></tr>
-    <tr><td align="center">小</td><td><img src="https://i.imgur.com/Q7zi1Dp.png" height="48"/></td></tr>
-    <tr><td align="center">中</td><td><img src="https://i.imgur.com/gDlF2M6.png" height="48"/></td></tr>
-    <tr><td align="center">大</td><td><img src="https://i.imgur.com/ulqCHW3.png" height="48"/></td></tr>
+    <tr><td align="center">程度</td><td align="center">圖像</td><td align="center">損壞</td></tr>
+    <tr><td align="center">小</td><td><img src="https://i.imgur.com/Q7zi1Dp.png" height="48"/></td><td><img src="https://i.imgur.com/vfZYSPf.png" height="48"/></td></tr>
+    <tr><td align="center">中</td><td><img src="https://i.imgur.com/gDlF2M6.png" height="48"/></td><td><img src="https://i.imgur.com/KaHrEa3.png" height="48"/></td></tr>
+    <tr><td align="center">大</td><td><img src="https://i.imgur.com/ulqCHW3.png" height="48"/></td><td><img src="https://i.imgur.com/O2Wut9R.png" height="48"/></td></tr>
 </table>
 
 ---

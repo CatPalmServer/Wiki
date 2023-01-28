@@ -3,9 +3,14 @@
 
 ## データ
 <table>
-    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/wR67Nmg.png" width="128"/></td></tr>
     <tr><td align="end">スタック</td><td>64</td></tr>
     <tr><td align="end">エンチャント</td><td>なし</td></tr>
+</table>
+<table>
+    <tr><td align="center">タイプ</td><td align="center">画像</td></tr>
+    <tr><td align="center">非アクティブ</td><td><img src="https://i.imgur.com/wR67Nmg.png" height="48"/></td></tr>
+    <tr><td align="center">アクティブ</td><td><img src="https://i.imgur.com/8C7ll4l.gif" height="48"/></td></tr>
+    <tr><td align="center">壊れた</td><td><img src="https://i.imgur.com/fVdnF4X.png" height="48"/></td></tr>
 </table>
 
 ---

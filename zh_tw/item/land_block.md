@@ -3,9 +3,14 @@
 
 ## 資料
 <table>
-    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/wR67Nmg.png" width="128"/></td></tr>
     <tr><td align="end">堆疊</td><td>64</td></tr>
     <tr><td align="end">附魔</td><td>無</td></tr>
+</table>
+<table>
+    <tr><td align="center">類型</td><td align="center">圖像</td></tr>
+    <tr><td align="center">未激活</td><td><img src="https://i.imgur.com/wR67Nmg.png" height="48"/></td></tr>
+    <tr><td align="center">已機活</td><td><img src="https://i.imgur.com/8C7ll4l.gif" height="48"/></td></tr>
+    <tr><td align="center">已損壞</td><td><img src="https://i.imgur.com/fVdnF4X.png" height="48"/></td></tr>
 </table>
 
 ---

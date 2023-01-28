@@ -7,10 +7,10 @@
     <tr><td align="end">エンチャント</td><td>なし</td></tr>
 </table>
 <table>
-    <tr><td align="center">レベル</td><td align="center">画像</td></tr>
-    <tr><td align="center">小</td><td><img src="https://i.imgur.com/Q7zi1Dp.png" height="48"/></td></tr>
-    <tr><td align="center">中</td><td><img src="https://i.imgur.com/gDlF2M6.png" height="48"/></td></tr>
-    <tr><td align="center">大</td><td><img src="https://i.imgur.com/ulqCHW3.png" height="48"/></td></tr>
+    <tr><td align="center">レベル</td><td align="center">画像</td><td align="center">壊れた</td></tr>
+    <tr><td align="center">小</td><td><img src="https://i.imgur.com/Q7zi1Dp.png" height="48"/></td><td><img src="https://i.imgur.com/vfZYSPf.png" height="48"/></td></tr>
+    <tr><td align="center">中</td><td><img src="https://i.imgur.com/gDlF2M6.png" height="48"/></td><td><img src="https://i.imgur.com/KaHrEa3.png" height="48"/></td></tr>
+    <tr><td align="center">大</td><td><img src="https://i.imgur.com/ulqCHW3.png" height="48"/></td><td><img src="https://i.imgur.com/O2Wut9R.png" height="48"/></td></tr>
 </table>
 
 ---
