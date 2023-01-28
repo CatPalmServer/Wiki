@@ -24,6 +24,15 @@
 
 ---
 
+## 分解
+<table>
+    <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+    <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/fVdnF4X.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/oy4arVO.png" width="48"/></td><td width="70">x 2</td></tr>
+    <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+</table>
+
+---
+
 ## 使用
 作為領地頂層方塊使用  
 詳情見[領地群組之書](land_book.md)  

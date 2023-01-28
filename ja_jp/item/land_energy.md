@@ -72,6 +72,42 @@
 
 ---
 
+## 分解
+<table>
+    <tr>
+        <td align="center">小</td>
+        <td>
+            <table>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/vfZYSPf.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/UA6ZVdH.png" width="48"/></td><td width="70">x 2</td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">中</td>
+        <td>
+            <table>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/KaHrEa3.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/UA6ZVdH.png" width="48"/></td><td width="70">x 16</td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">大</td>
+        <td>
+            <table>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/O2Wut9R.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/Rl6yWlF.png" width="48"/></td><td width="70">x 2</td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+---
+
 ## 使用
 領地の下で4段ブロックとして使用、5%の確率で発掘されると消滅する
 
