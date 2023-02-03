@@ -276,6 +276,22 @@
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/d3Qzrtq.png" width="48"/></a>
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/PiWyIRO.png" width="48"/></a>
 <a href="item/barter_sell_block.md"><img src="https://i.imgur.com/24SvDLT.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/PrJ0xmZ.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/222Yk6f.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/0CL6DRi.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/rOVKHUi.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/XP6dBvp.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/evASq7N.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/JwPNjAA.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/m9vu0rd.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/xznmHtz.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/asnwwX2.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/ua1pfUu.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/CYGVbXo.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/A5EyDEI.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/GaHJUV0.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/QLSMeIs.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/lEnauBv.png" width="48"/></a>
 
 # 食物
 <a href="food/beef_jerky.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
