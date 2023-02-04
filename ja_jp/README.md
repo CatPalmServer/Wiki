@@ -1,3 +1,12 @@
+# 商店
+<a href="item/canned_cat.md"><img src="https://i.imgur.com/wxw402A.png" width="48"/></a>
+<a href="item/super_fish_cracker.md"><img src="https://i.imgur.com/FKdV3M1.gif" width="48"/></a>
+<a href="item/soul_core.md"><img src="https://i.imgur.com/n260znG.png" width="48"/></a>
+<a href="item/soul_core.md"><img src="https://i.imgur.com/5xQV9Yo.png" width="48"/></a>
+<a href="item/entity_exterior_tag.md"><img src="https://i.imgur.com/nSlDuha.png" width="48"/></a>
+<a href="item/music_box.md"><img src="https://i.imgur.com/N9JBO3W.png" width="48"/></a>
+
+
 # 道具
 <a href="item/newcomer_bag.md"><img src="https://i.imgur.com/KqzjESH.png" width="48"/></a>
 <a href="item/world_map_view.md"><img src="https://i.imgur.com/w5nzar8.png" width="48"/></a>
@@ -61,7 +70,6 @@
 <a href="item/pen.md"><img src="https://i.imgur.com/XzyZjMg.gif" width="48"/></a>
 <a href="item/pen.md"><img src="https://i.imgur.com/Fc9LRKo.gif" width="48"/></a>
 <a href="item/pen.md"><img src="https://i.imgur.com/Sn4dH5a.gif" width="48"/></a>
-<a href="item/entity_exterior_tag.md"><img src="https://i.imgur.com/nSlDuha.png" width="48"/></a>
 <a href="item/lottery_ticket.md"><img src="https://i.imgur.com/qegwzus.png" width="48"/></a>
 <a href="item/lottery_ticket.md"><img src="https://i.imgur.com/50XAfyr.png" width="48"/></a>
 <a href="item/magic_nether_star.md"><img src="https://i.imgur.com/IWZz8YM.png" width="48"/></a>
@@ -200,8 +208,6 @@
 <a href="item/advanced_tnt.md"><img src="https://i.imgur.com/lQ9ou2E.png" width="48"/></a>
 <a href="item/dragon_hammer.md"><img src="https://i.imgur.com/tvhOfLt.gif" width="48"/></a>
 <a href="item/powerful_ejector_block.md"><img src="https://i.imgur.com/yPFVjtw.png" width="48"/></a>
-<a href="item/soul_core.md"><img src="https://i.imgur.com/n260znG.png" width="48"/></a>
-<a href="item/soul_core.md"><img src="https://i.imgur.com/5xQV9Yo.png" width="48"/></a>
 <a href="item/slime_chunk_probe.md"><img src="https://i.imgur.com/Uup8aA6.png" width="48"/></a>
 <a href="item/slime_chunk_probe.md"><img src="https://i.imgur.com/wPjuFeU.gif" width="48"/></a>
 <a href="item/logger_menu.md"><img src="https://i.imgur.com/UyNV7cG.png" width="48"/></a>
@@ -245,8 +251,6 @@
 <a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/EDLvJ9H.png" width="48"/></a>
 <a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/TZh4Evw.png" width="48"/></a>
 <a href="item/elytra_of_chestplate.md"><img src="https://i.imgur.com/uRalRs5.png" width="48"/></a>
-<a href="item/canned_cat.md"><img src="https://i.imgur.com/wxw402A.png" width="48"/></a>
-<a href="item/super_fish_cracker.md"><img src="https://i.imgur.com/FKdV3M1.gif" width="48"/></a>
 <a href="item/rotten_flesh_block.md"><img src="https://i.imgur.com/z2ZCMfc.png" width="48"/></a>
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/XtnjByk.png" width="48"/></a>
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/SMGsAXQ.png" width="48"/></a>
@@ -270,7 +274,6 @@
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/V0CIsFZ.png" width="48"/></a>
 <a href="item/sound_bell.md"><img src="https://i.imgur.com/GcZe1DG.png" width="48"/></a>
 <a href="item/ender_dragon_queue.md"><img src="https://i.imgur.com/4tafEkT.gif" width="48"/></a>
-<a href="item/music_box.md"><img src="https://i.imgur.com/N9JBO3W.png" width="48"/></a>
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/hhI9h1R.png" width="48"/></a>
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/SJBTnkG.png" width="48"/></a>
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/d3Qzrtq.png" width="48"/></a>
