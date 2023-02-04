@@ -6,7 +6,6 @@
 <a href="item/entity_exterior_tag.md"><img src="https://i.imgur.com/nSlDuha.png" width="48"/></a>
 <a href="item/music_box.md"><img src="https://i.imgur.com/N9JBO3W.png" width="48"/></a>
 
-
 # 道具
 <a href="item/newcomer_bag.md"><img src="https://i.imgur.com/KqzjESH.png" width="48"/></a>
 <a href="item/world_map_view.md"><img src="https://i.imgur.com/w5nzar8.png" width="48"/></a>
