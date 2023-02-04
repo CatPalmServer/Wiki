@@ -11,7 +11,7 @@
 ---
 
 ## ゲット
-[Discordグループ](../feature/discord_server.md)の[商店](https://discord.com/channels/1040647480972415006/1050912456303706143)。
+[Discordグループ](../feature/discord_server.md)の[音楽](https://discord.com/channels/1040647480972415006/1050912456303706143)。
 
 ---
 
