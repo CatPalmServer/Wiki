@@ -10,7 +10,7 @@
 <table>
     <tr><td align="center">類型</td><td align="center">圖像</td></tr>
     <tr><td align="center">未激活</td><td><img src="https://i.imgur.com/wR67Nmg.png" height="48"/></td></tr>
-    <tr><td align="center">已機活</td><td><img src="https://i.imgur.com/8C7ll4l.gif" height="48"/></td></tr>
+    <tr><td align="center">已激活</td><td><img src="https://i.imgur.com/8C7ll4l.gif" height="48"/></td></tr>
     <tr><td align="center">已損壞</td><td><img src="https://i.imgur.com/fVdnF4X.png" height="48"/></td></tr>
 </table>
 
@@ -38,3 +38,8 @@
 作為領地頂層方塊使用  
 詳情見[領地群組之書](land_book.md)  
 <img src="https://i.imgur.com/nW7GC4b.png" width="720"/>
+
+---
+
+## 破壞
+挖掘已機活的領地能量，會使下方的[領地能量](land_energy.md)一同被挖掘。
