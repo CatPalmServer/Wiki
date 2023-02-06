@@ -518,7 +518,7 @@
     </tr>
     <tr>
         <td align="center"><a href="feature/drop_limit.md">掉落物限制</a></td>
-        <td align="center"><a href="feature/entity_limit.md">實體現製</a></td>
+        <td align="center"><a href="feature/entity_limit.md">實體限制</a></td>
         <td align="center"><a href="feature/hopper_limit.md">漏斗限制</a></td>
         <td align="center"><a href="feature/redstone_limit.md">紅石限制</a></td>
         <td></td>
