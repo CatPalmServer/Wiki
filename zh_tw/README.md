@@ -453,8 +453,6 @@
         <td align="center"><a href="feature/daily_signin.md">每日簽到</a></td>
         <td align="center"><a href="feature/cat_day.md">貓之日</a></td>
     </tr>
-</table>
-<table>
     <tr>
         <td><a href="feature/dispenser_industry.md"><img src="https://i.imgur.com/OgMWpRi.png" width="198"/></a></td>
         <td><a href="feature/entity_glowing.md"><img src="https://i.imgur.com/wG3wG8k.png" width="198"/></a></td>
@@ -469,8 +467,6 @@
         <td align="center"><a href="feature/entity_summon.md">實體召喚</a></td>
         <td align="center"><a href="feature/full_map.md">全地圖</a></td>
     </tr>
-</table>
-<table>
     <tr>
         <td><a href="feature/soul_link.md"><img src="https://i.imgur.com/MrPbkOY.png" width="198"/></a></td>
         <td><a href="feature/enhanced_dragon.md"><img src="https://i.imgur.com/87CtBW9.png" width="198"/></a></td>
@@ -485,8 +481,6 @@
         <td align="center"><a href="feature/enhanced_warden.md">增強型伏守者</a></td>
         <td align="center"><a href="feature/item_placement.md">物品放置</a></td>
     </tr>
-</table>
-<table>
     <tr>
         <td><a href="feature/edit_sign.md"><img src="https://i.imgur.com/YFUKe8Y.png" width="198"/></a></td>
         <td><a href="feature/invisible_item_frame.md"><img src="https://i.imgur.com/7cAn8Qg.png" width="198"/></a></td>
@@ -501,17 +495,20 @@
         <td align="center"><a href="feature/enhanced_armor_stand.md">增強型盔甲座</a></td>
         <td align="center"><a href="feature/spawn_elder_guardian.md">生成遠古深海守衛</a></td>
     </tr>
-</table>
-<table>
     <tr>
         <td><a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/Tvh9gqo.png" width="198"/></a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td align="center"><a href="feature/auto_backpack_sort.md">自動整理背包</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
-</table>
-<br/>
-<table>
     <tr>
         <td><a href="feature/drop_limit.md"><img src="https://i.imgur.com/V1Vvawi.png" width="198"/></a></td>
         <td><a href="feature/entity_limit.md"><img src="https://i.imgur.com/DcqI4YZ.png" width="198"/></a></td>
