@@ -438,26 +438,42 @@
 <a href="special/cobweb.md"><img src="https://i.imgur.com/fWQQ0pc.png" width="48"/></a>
 
 # 特性
-<a href="feature/anniversary.md"><img src="https://i.imgur.com/yP02AmR.png" width="198"/></a>
-<a href="feature/cat_bowl.md"><img src="https://i.imgur.com/li4ro8m.png" width="198"/></a>
-<a href="feature/discord_server.md"><img src="https://i.imgur.com/HXIUDj8.png" width="198"/></a>
-<a href="feature/daily_signin.md"><img src="https://i.imgur.com/8RUiZF4.png" width="198"/></a>
-<a href="feature/cat_day.md"><img src="https://i.imgur.com/XsaVIjI.png" width="198"/></a>
+
+<table>
+    <tr>
+        <td><a href="feature/anniversary.md"><img src="https://i.imgur.com/yP02AmR.png" width="198"/></a></td>
+        <td><a href="feature/anniversary.md"><img src="https://i.imgur.com/li4ro8m.png" width="198"/></a></td>
+        <td><a href="feature/anniversary.md"><img src="https://i.imgur.com/HXIUDj8.png" width="198"/></a></td>
+        <td><a href="feature/anniversary.md"><img src="https://i.imgur.com/8RUiZF4.png" width="198"/></a></td>
+        <td><a href="feature/anniversary.md"><img src="https://i.imgur.com/XsaVIjI.png" width="198"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="feature/anniversary.md">周年慶</a></td>
+        <td align="center"><a href="feature/anniversary.md">貓碗</a></td>
+        <td align="center"><a href="feature/anniversary.md">Discord群組</a></td>
+        <td align="center"><a href="feature/anniversary.md">每日簽到</a></td>
+        <td align="center"><a href="feature/anniversary.md">貓之日</a></td>
+    </tr>
+</table>
+
 <a href="feature/dispenser_industry.md"><img src="https://i.imgur.com/OgMWpRi.png" width="198"/></a>
 <a href="feature/entity_glowing.md"><img src="https://i.imgur.com/wG3wG8k.png" width="198"/></a>
 <a href="feature/ore_glowing.md"><img src="https://i.imgur.com/fsfRjxx.png" width="198"/></a>
 <a href="feature/entity_summon.md"><img src="https://i.imgur.com/RfUHbOB.png" width="198"/></a>
 <a href="feature/full_map.md"><img src="https://i.imgur.com/HsNxiPQ.png" width="198"/></a>
+
 <a href="feature/soul_link.md"><img src="https://i.imgur.com/MrPbkOY.png" width="198"/></a>
 <a href="feature/enhanced_dragon.md"><img src="https://i.imgur.com/87CtBW9.png" width="198"/></a>
 <a href="feature/enhanced_wither.md"><img src="https://i.imgur.com/WNJRwOv.png" width="198"/></a>
 <a href="feature/enhanced_warden.md"><img src="https://i.imgur.com/FjLg3Ms.png" width="198"/></a>
 <a href="feature/item_placement.md"><img src="https://i.imgur.com/YXTtebu.png" width="198"/></a>
+
 <a href="feature/edit_sign.md"><img src="https://i.imgur.com/YFUKe8Y.png" width="198"/></a>
 <a href="feature/invisible_item_frame.md"><img src="https://i.imgur.com/7cAn8Qg.png" width="198"/></a>
 <a href="feature/enhanced_wandering_trader.md"><img src="https://i.imgur.com/MoA9u6y.png" width="198"/></a>
 <a href="feature/enhanced_armor_stand.md"><img src="https://i.imgur.com/nmXF1Lb.png" width="198"/></a>
 <a href="feature/spawn_elder_guardian.md"><img src="https://i.imgur.com/gHJCJH3.png" width="198"/></a>
+
 <a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/Tvh9gqo.png" width="198"/></a>
 <br/>
 <a href="feature/drop_limit.md"><img src="https://i.imgur.com/V1Vvawi.png" width="198"/></a>
