@@ -510,10 +510,10 @@
         <td></td>
     </tr>
     <tr>
-        <td><a href="feature/drop_limit.md"><img src="https://i.imgur.com/V1Vvawi.png" width="198"/></a></td>
-        <td><a href="feature/entity_limit.md"><img src="https://i.imgur.com/DcqI4YZ.png" width="198"/></a></td>
-        <td><a href="feature/hopper_limit.md"><img src="https://i.imgur.com/TcDSNFW.png" width="198"/></a></td>
-        <td><a href="feature/redstone_limit.md"><img src="https://i.imgur.com/k3dEgE8.png" width="198"/></a></td>
+        <td><a href="feature/drop_limit.md"><img src="https://i.imgur.com/R7LbWWx.png" width="198"/></a></td>
+        <td><a href="feature/entity_limit.md"><img src="https://i.imgur.com/t7AY2LM.png" width="198"/></a></td>
+        <td><a href="feature/hopper_limit.md"><img src="https://i.imgur.com/hIXRv09.png" width="198"/></a></td>
+        <td><a href="feature/redstone_limit.md"><img src="https://i.imgur.com/1qGjdyO.png" width="198"/></a></td>
         <td></td>
     </tr>
     <tr>
