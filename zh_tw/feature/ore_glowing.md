@@ -1,3 +1,4 @@
+[← 回主頁](../)
 # 礦物發光
 
 <img src="https://i.imgur.com/85qqFOd.png" width="200"/>

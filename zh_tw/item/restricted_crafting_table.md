@@ -1,3 +1,4 @@
+[← 回主頁](../)
 # 工作檯限制器
 [發射器工業](../feature/dispenser_industry.md)的其中一種模式。
 

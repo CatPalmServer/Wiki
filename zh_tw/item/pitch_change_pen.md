@@ -1,3 +1,4 @@
+[← 回主頁](../)
 # 音高調節棒
 快速更改[音階盒](https://minecraft.fandom.com/zh/wiki/音階盒)的音色。
 

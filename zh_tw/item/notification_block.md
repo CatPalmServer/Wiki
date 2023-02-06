@@ -1,3 +1,4 @@
+[← 回主頁](../)
 # 通知器
 讓其他玩家可以通知你，前提是你必須在[Discord群組](../feature/discord_server.md)內。
 

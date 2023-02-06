@@ -1,3 +1,4 @@
+[← 回主頁](../)
 # 全地圖
 [https://drive.google.com/drive/folders/1aI9-JaXOk0zTIQg1kCILNMafWcnzFard](https://drive.google.com/drive/folders/1aI9-JaXOk0zTIQg1kCILNMafWcnzFard)  
 基本上等於[彗星地圖](../item/world_map_view.md)、只是整個世界都被渲染了而已。

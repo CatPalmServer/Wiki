@@ -1,3 +1,4 @@
+[← 回主頁](../)
 # Discord群組
 [中文](https://discord.gg/utTBPy6yVM)、[日本語](https://discord.gg/JfbdJQDkHA)
 

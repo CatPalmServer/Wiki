@@ -1,3 +1,4 @@
+[← 回主頁](../)
 # 生物發光
 
 <img src="https://i.imgur.com/9nNApbn.png" width="200"/>
