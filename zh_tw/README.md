@@ -497,14 +497,14 @@
     </tr>
     <tr>
         <td><a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/wkgN4s7.png" width="198"/></a></td>
-        <td></td>
+        <td><a href="feature/removal_mechanism.md"><img src="https://i.imgur.com/zbR2s2P.png" width="198"/></a></td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td align="center"><a href="feature/auto_backpack_sort.md">自動整理背包</a></td>
-        <td></td>
+        <td align="center"><a href="feature/removal_mechanism.md">清除機制</a></td>
         <td></td>
         <td></td>
         <td></td>
