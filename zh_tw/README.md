@@ -497,14 +497,14 @@
     </tr>
     <tr>
         <td><a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/wkgN4s7.png" width="198"/></a></td>
-        <td><a href="feature/removal_mechanism.md"><img src="https://i.imgur.com/zbR2s2P.png" width="198"/></a></td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td align="center"><a href="feature/auto_backpack_sort.md">自動整理背包</a></td>
-        <td align="center"><a href="feature/removal_mechanism.md">清除機制</a></td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -514,14 +514,14 @@
         <td><a href="feature/entity_limit.md"><img src="https://i.imgur.com/t7AY2LM.png" width="198"/></a></td>
         <td><a href="feature/hopper_limit.md"><img src="https://i.imgur.com/hIXRv09.png" width="198"/></a></td>
         <td><a href="feature/redstone_limit.md"><img src="https://i.imgur.com/1qGjdyO.png" width="198"/></a></td>
-        <td></td>
+        <td><a href="feature/removal_mechanism.md"><img src="https://i.imgur.com/alA6fm7.png" width="198"/></a></td>
     </tr>
     <tr>
         <td align="center"><a href="feature/drop_limit.md">掉落物限制</a></td>
         <td align="center"><a href="feature/entity_limit.md">實體限制</a></td>
         <td align="center"><a href="feature/hopper_limit.md">漏斗限制</a></td>
         <td align="center"><a href="feature/redstone_limit.md">紅石限制</a></td>
-        <td></td>
+        <td align="center"><a href="feature/removal_mechanism.md">清除機制</a></td>
     </tr>
 </table>
 
