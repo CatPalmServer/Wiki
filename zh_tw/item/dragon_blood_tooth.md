@@ -38,5 +38,5 @@
 <a href="bow.md"><img src="https://i.imgur.com/OpjZs4m.gif" width="48"/></a>
 <a href="crossbow.md"><img src="https://i.imgur.com/MtEHX9B.gif" width="48"/></a>
 <a href="sword.md"><img src="https://i.imgur.com/RV6EYFJ.png" width="48"/></a>
-<a href="shovel.md"><img src="https://i.imgur.com/U0mx2o6.png" width="48"/></a>
+<a href="shovel.md"><img src="https://i.imgur.com/XzjEE1W.png" width="48"/></a>
 <a href="hoe.md"><img src="https://i.imgur.com/v7lJRQe.png" width="48"/></a>
