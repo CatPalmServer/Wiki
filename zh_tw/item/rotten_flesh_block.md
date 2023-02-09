@@ -12,10 +12,24 @@
 ---
 
 ## 合成
+
 <table>
-    <tr><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td colspan="3"></td></tr>
-    <tr><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/z2ZCMfc.png" width="48"/></td><td width="70"></td></tr>
-    <tr><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td colspan="3"></td></tr>
+    <tr>
+        <td>
+            <table>
+                <tr><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/z2ZCMfc.png" width="48"/></td><td width="70"></td></tr>
+                <tr><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td colspan="3"></td></tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/z2ZCMfc.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/WcwpKx5.png" width="48"/></td><td width="70">x 9</td></tr>
+                <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
+            </table>
+        </td>
+    </tr>
 </table>
 
 ---
