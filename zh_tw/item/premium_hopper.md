@@ -30,7 +30,7 @@
 </table>
 
 ### 被動模式
-將上方的掉落物往下移動：
+將上方的掉落物往下移動：  
 <img src="https://i.imgur.com/GrdXkPA.png" width="720"/>
 <table>
     <tr><td align="center">指定數量</td><td align="center">行為</td></tr>
@@ -43,11 +43,12 @@
 
 
 ### 主動模式
-每次觸發紅石信號時，將上方的內容物往下移動：
+每次觸發紅石信號時，將上方的內容物往下移動：  
 <img src="https://i.imgur.com/74aYGNN.png" width="720"/>
 <table>
     <tr><td align="center">指定數量</td><td align="center">行為</td></tr>
     <tr><td align="center">有</td><td align="center">固定內容物數量</td></tr>
     <tr><td align="center">沒有</td><td align="center">最大內容物數量</td></tr>
 </table>
+
 下方容器無法放入更多物品會變為掉落物。
