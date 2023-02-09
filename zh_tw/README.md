@@ -261,6 +261,7 @@
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/d3Qzrtq.png" width="48"/></a>
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/PiWyIRO.png" width="48"/></a>
 <a href="item/barter_sell_block.md"><img src="https://i.imgur.com/24SvDLT.png" width="48"/></a>
+<a href="item/premium_hopper.md"><img src="https://i.imgur.com/N3E9xsp.png" width="48"/></a>
 
 # 玩具
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/XtnjByk.png" width="48"/></a>
