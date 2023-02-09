@@ -22,6 +22,18 @@
 ---
 
 ## 使用
+高級漏斗放置後`右鍵`開啟選單，
+
+<table>
+    <tr><td align="center">標題</td><td colspan="9">高級漏斗</td></tr>
+    <tr><td align="center">選擇要分類的物品、選單<br/>9 x 1</td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+</table>
+
+<table>
+    <tr><td align="center"><img src="https://i.imgur.com/7ajRlAF.png" width="48"/></td><td>選擇要分類的物品</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
+</table>
+
 ### 指定數量
 不指定數量的情況下，每次移動都會採取最大值數量：
 <table>
