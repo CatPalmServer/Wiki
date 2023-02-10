@@ -22,6 +22,8 @@
 ---
 
 ## 使用
+物品轉送只能從上到下，無法轉彎。  
+
 高級漏斗放置後`右鍵`開啟選單，
 
 <table>
@@ -46,11 +48,13 @@
 <img src="https://i.imgur.com/GrdXkPA.png" width="720"/>
 <table>
     <tr><td align="center">指定數量</td><td align="center">行為</td></tr>
-    <tr><td align="center">有</td><td align="center">固定掉落物數量</td></tr>
-    <tr><td align="center">沒有</td><td align="center">最大掉落物數量</td></tr>
+    <tr><td align="center">有指定</td><td align="center">每次移動固定掉落物數量</td></tr>
+    <tr><td align="center">沒有指定</td><td align="center">每次移動最大掉落物數量</td></tr>
 </table>
 
-下方容器無法放入更多物品會變為掉落物，並且每轉送1次都會觸發1次方塊更新：  
+下方容器無法放入更多物品會變為掉落物。  
+
+每轉送1次都會觸發1次方塊更新：  
 <img src="https://i.imgur.com/HqB0NR7.png" width="720"/>
 
 
@@ -59,8 +63,8 @@
 <img src="https://i.imgur.com/74aYGNN.png" width="720"/>
 <table>
     <tr><td align="center">指定數量</td><td align="center">行為</td></tr>
-    <tr><td align="center">有</td><td align="center">固定內容物數量</td></tr>
-    <tr><td align="center">沒有</td><td align="center">最大內容物數量</td></tr>
+    <tr><td align="center">有指定</td><td align="center">每次移動固定內容物數量</td></tr>
+    <tr><td align="center">沒有指定</td><td align="center">每次移動最大內容物數量</td></tr>
 </table>
 
 下方容器無法放入更多物品會變為掉落物。
