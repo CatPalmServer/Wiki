@@ -10,5 +10,10 @@
     <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/FGiKUDQ.png" width="100"/></td><td align="center">=</td><td align="center">扔出前方容器內物品</td></tr>
 </table>
 
-
-
+部分操作會將物品移動至朝向的位置，容器可以是：
+- 儲物箱
+- 陷阱儲物箱
+- 木桶
+- 界伏盒
+- 發射器
+- 投擲器
