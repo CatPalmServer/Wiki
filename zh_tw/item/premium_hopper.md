@@ -52,7 +52,7 @@
     <tr><td align="center">沒有指定</td><td align="center">每次移動最大掉落物數量</td></tr>
 </table>
 
-每轉送1次都會觸發1次方塊更新，
+每次移動成功都會觸發方塊更新，可使用偵測器監聽並觸發紅石信號，
 
 <img src="https://i.imgur.com/HqB0NR7.png" width="720"/>
 
