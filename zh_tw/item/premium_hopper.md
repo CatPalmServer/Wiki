@@ -43,6 +43,7 @@
 
 ### 被動模式
 在沒有紅石信號時，將上方的掉落物往下移動，  
+
 <img src="https://i.imgur.com/GrdXkPA.png" width="720"/>
 
 <table>
@@ -58,6 +59,7 @@
 
 ### 主動模式
 每次觸發紅石信號時，將上方的內容物往下移動，  
+
 <img src="https://i.imgur.com/74aYGNN.png" width="720"/>
 <table>
     <tr><td align="center">指定數量</td><td align="center">行為</td></tr>
