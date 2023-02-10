@@ -53,7 +53,9 @@
 </table>
 
 每轉送1次都會觸發1次方塊更新，
+
 <img src="https://i.imgur.com/HqB0NR7.png" width="720"/>
+
 下方容器無法放入更多物品會變為掉落物。  
 
 
