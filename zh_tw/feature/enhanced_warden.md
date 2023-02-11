@@ -19,4 +19,4 @@
 ---
 
 ## 限制
-此生誤半徑`24`格內無法[領地飛行](../item/land_flying_device.md)。
+此生物半徑`24`格內無法[領地飛行](../item/land_flying_device.md)。
