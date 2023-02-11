@@ -25,3 +25,8 @@
     <tr><td align="center">5%</td><td align="center" rowspan="2"><a href="../item/dragon_tooth.md"><img src="https://i.imgur.com/ZJn6ZOj.png" width="48"/></a></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td></tr>
     <tr><td align="center">1%</td><td align="center"><a href="../item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a></td></tr>
 </table>
+
+---
+
+## 限制
+[終界傳送門](https://minecraft.fandom.com/zh/wiki/終界傳送門)半徑`200`格內禁止[領地飛行](../item/land_flying_device.md)。
