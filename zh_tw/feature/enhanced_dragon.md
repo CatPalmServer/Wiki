@@ -29,4 +29,4 @@
 ---
 
 ## 限制
-[終界傳送門](https://minecraft.fandom.com/zh/wiki/終界傳送門)半徑`200`格內禁止[領地飛行](../item/land_flying_device.md)。
+[終界傳送門](https://minecraft.fandom.com/zh/wiki/終界傳送門)半徑`200`格內無法[領地飛行](../item/land_flying_device.md)。
