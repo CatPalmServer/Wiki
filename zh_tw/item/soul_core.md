@@ -35,5 +35,7 @@
 
 ## 使用
 ### 物品
-在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與工具、武器合成能附上或卸除[靈魂鎖定](../feature/soul_link.md)，但以下材質無法使用：
+靈魂鎖定核心在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與工具／武器合成能賦予`1`年[靈魂鎖定](../feature/soul_link.md)保護，但以下材質無法使用：
 - [三叉戟](https://minecraft.fandom.com/zh/wiki/三叉戟)
+
+靈魂釋放核心在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與工具／武器合成能清除[靈魂鎖定](../feature/soul_link.md)保護。
