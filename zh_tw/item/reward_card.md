@@ -17,7 +17,7 @@
 ---
 
 ## 用途
-首次使用`右鍵`開啟選單後`30`天內可累計最多`30`點，每天需要上繳`1`個指定物品來獲得`1`點，無法補簽:  
+首次使用`右鍵`開啟選單後`30`天內可累計最多`30`點，每天需要上繳`1`個指定物品來獲得`1`點、無法補簽:  
 
 <table>
     <tr><td align="center">標題</td><td colspan="9">集點卡</td></tr>
@@ -27,7 +27,9 @@
 <table>
     <tr><td align="center"><img src="https://i.imgur.com/dAm53pS.png" width="48"/></td><td><a href="#需要繳納此物品">需要繳納此物品</a></td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
-</table>  
+</table>
+
+※ 此處鐵錠為範例
 
 ### 需要繳納此物品
 可能會出現：  
