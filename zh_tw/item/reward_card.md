@@ -17,7 +17,20 @@
 ---
 
 ## 用途
-首次使用`右鍵`開啟選單後`30`天內可累計最多`30`點，每天需要上繳`1`個指定物品來獲得`1`點，可能會是：  
+首次使用`右鍵`開啟選單後`30`天內可累計最多`30`點，每天需要上繳`1`個指定物品來獲得`1`點，一但錯過即無法補簽:  
+
+<table>
+    <tr><td align="center">標題</td><td colspan="9">集點卡</td></tr>
+    <tr><td align="center">需要繳納此物品、選單<br/>9 x 1</td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/dAm53pS.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td></tr>
+</table>
+
+<table>
+    <tr><td align="center"><img src="https://i.imgur.com/dAm53pS.png" width="48"/></td><td><a href="#需要繳納此物品">需要繳納此物品</a></td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
+</table>  
+
+### 需要繳納此物品
+可能會出現：  
 
 <table>
     <tr><td align="center">標籤</td><td align="center">不包含</td></tr>
@@ -34,7 +47,7 @@
     <tr><td align="center">其他</td><td align="start"><a href="magic_nether_star.md">魔法地獄之星</a>、<a href="dragon_tooth.md">龍牙</a>、<a href="dragon_blood_tooth.md">血龍牙</a>、<a href="nightmare_crystal.md">夢魘結晶</a></td></tr>
 </table>
 
-隨著點數的累計，會拿到的獎勵也不同：
+### 累計點數可獲得
 
 <table>
     <tr><td align="center">累計</td><td align="center">獲得</td></tr>
@@ -52,5 +65,3 @@
     <tr><td align="center">總共可獲得</td></tr>
     <tr><td align="center"><a href="coin.md">鐵幣</a> x 180</td></tr>
 </table>
-
-一但錯過即無法補簽。
