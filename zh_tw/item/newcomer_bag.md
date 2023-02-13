@@ -17,7 +17,7 @@
 ---
 
 ## 使用
-消耗點數來兌換物品，預設有 1000 點可以花費。
+消耗點數來兌換物品，預設有`1000`點可以花費。
 
 <table>
     <tr><td align="center">名稱</td><td align="center">點數</td><td align="center">次數</td></tr>
