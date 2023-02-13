@@ -46,7 +46,7 @@
     <tr><td align="center">食物及飲品</td><td align="start"></td></tr>
     <tr><td align="center">原材料</td><td align="start"><a href="coin.md">貓幣</a>系列</td></tr>
     <tr><td align="center">生怪蛋</td><td align="start">生怪磚、無法被<a href="rope.md">收納</a>的生怪蛋</td></tr>
-    <tr><td align="center">其他</td><td align="start">商店物品、裝飾品、彩虹外觀物品、地獄之星系列、<a href="magic_nether_star.md">魔法地獄之星</a>系列、龍蛋系列、<br/><a href="dragon_tooth.md">龍牙</a>系列、<a href="dragon_blood_tooth.md">血龍牙</a>系列、<a href="nightmare_crystal.md">夢魘結晶</a>系列</td></tr>
+    <tr><td align="center">其他</td><td align="start">商店物品、裝飾品、彩虹外觀物品、地獄之星系列、<a href="magic_nether_star.md">魔法地獄之星</a>系列、龍蛋系列、<a href="dragon_tooth.md">龍牙</a>系列、<a href="dragon_blood_tooth.md">血龍牙</a>系列、<a href="nightmare_crystal.md">夢魘結晶</a>系列</td></tr>
 </table>
 
 ### 累計點數可獲得
