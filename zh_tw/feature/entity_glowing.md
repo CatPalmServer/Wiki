@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/9nNApbn.png" width="200"/>
 
-會依照剩於血量來改發亮變顏色。
+會依照剩於血量來改變發亮顏色。
 
 <table>
     <tr>
