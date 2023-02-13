@@ -35,7 +35,7 @@
 可能會出現：  
 
 <table>
-    <tr><td align="center">標籤</td><td align="center">不包含</td></tr>
+    <tr><td align="center" width="120">標籤</td><td align="center">不包含</td></tr>
     <tr><td align="center">建築方塊</td><td align="start">強化深板岩</td></tr>
     <tr><td align="center">染色方塊</td><td align="start"></td></tr>
     <tr><td align="center">自然方塊</td><td align="start">土徑、耕地、紫水晶芽床、芒草、大型蕨類、基岩</td></tr>
