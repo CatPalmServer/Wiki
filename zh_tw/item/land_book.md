@@ -191,7 +191,10 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 - ### V PVP
   [玩家](https://minecraft.fandom.com/zh/wiki/玩家)的損傷
 - ### Y 飛行
-  領地內可使用[領地飛行鞘翅](land_flying_device.md)
+  [領地飛行鞘翅](land_flying_device.md)的飛行  
+  [貓碗](../feature/cat_bowl.md)的切換觀察者  
+  [貓碗](../feature/cat_bowl.md)的磁鐵吸取掉落物  
+  
 
 ---
 
