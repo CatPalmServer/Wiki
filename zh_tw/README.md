@@ -1,5 +1,6 @@
 # 商店
 <a href="item/canned_cat.md"><img src="https://i.imgur.com/wxw402A.png" width="48"/></a>
+<a href="item/reward_card.md"><img src="https://i.imgur.com/b9dvhST.gif" width="48"/></a>
 <a href="item/super_fish_cracker.md"><img src="https://i.imgur.com/FKdV3M1.gif" width="48"/></a>
 <a href="item/soul_core.md"><img src="https://i.imgur.com/n260znG.png" width="48"/></a>
 <a href="item/soul_core.md"><img src="https://i.imgur.com/5xQV9Yo.png" width="48"/></a>

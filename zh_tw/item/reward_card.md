@@ -1,0 +1,56 @@
+[← 回主頁](../)
+# 集點卡
+少簽到就出事啦！
+
+## 資料
+<table>
+    <tr><td align="end">圖像</td><td><img src="https://i.imgur.com/b9dvhST.gif" width="128"/></td></tr>
+    <tr><td align="end">堆疊</td><td>1</td></tr>
+    <tr><td align="end">附魔</td><td>無</td></tr>
+</table>
+
+---
+
+## 獲取
+[Discord群組](../feature/discord_server.md)的[商店](https://discord.com/channels/799977829805981716/1048223592342622289)。
+
+---
+
+## 用途
+首次使用`右鍵`開啟選單後`30`天內可累計最多`30`點，每天需要上繳`1`個指定物品來獲得`1`點，可能會是：  
+
+<table>
+    <tr><td align="center">標籤</td><td align="center">不包含</td></tr>
+    <tr><td align="center">建築方塊</td><td align="start">強化深板岩</td></tr>
+    <tr><td align="center">染色方塊</td><td align="start"></td></tr>
+    <tr><td align="center">自然方塊</td><td align="start">土徑、耕地、紫水晶芽床、芒草、大型蕨類、基岩</td></tr>
+    <tr><td align="center">功能方塊</td><td align="start">玩家頭臚、終界傳送門框架、蛀蝕系列</td></tr>
+    <tr><td align="center">紅石方塊</td><td align="start"></td></tr>
+    <tr><td align="center">工具及實用物品</td><td align="start"></td></tr>
+    <tr><td align="center">戰鬥</td><td align="start"></td></tr>
+    <tr><td align="center">食物及飲品</td><td align="start"></td></tr>
+    <tr><td align="center">原材料</td><td align="start"></td></tr>
+    <tr><td align="center">生怪蛋</td><td align="start">無法被<a href="rope.md">收納繩</a>收納的生怪蛋</td></tr>
+    <tr><td align="center">其他</td><td align="start"><a href="magic_nether_star.md">魔法地獄之星</a>、<a href="dragon_tooth.md">龍牙</a>、<a href="dragon_blood_tooth.md">血龍牙</a>、<a href="nightmare_crystal.md">夢魘結晶</a></td></tr>
+</table>
+
+隨著點數的累計，會拿到的獎勵也不同：
+
+<table>
+    <tr><td align="center">累計</td><td align="center">獲得</td></tr>
+    <tr><td align="center">1、2、3、4、5、6</td><td align="start"><a href="coin.md">鐵幣</a> x 3</td></tr>
+    <tr><td align="center">7</td><td align="center"><a href="coin.md">鐵幣</a> x 18</td></tr>
+    <tr><td align="center">8、9、10、11、12、13</td><td align="start"><a href="coin.md">鐵幣</a> x 3</td></tr>
+    <tr><td align="center">14</td><td align="center"><a href="coin.md">鐵幣</a> x 18</td></tr>
+    <tr><td align="center">15、16、17、18、19、20</td><td align="start"><a href="coin.md">鐵幣</a> x 3</td></tr>
+    <tr><td align="center">21</td><td align="center"><a href="coin.md">鐵幣</a> x 18</td></tr>
+    <tr><td align="center">22、23、24、25、26、27</td><td align="start"><a href="coin.md">鐵幣</a> x 3</td></tr>
+    <tr><td align="center">28、29、30</td><td align="center"><a href="coin.md">鐵幣</a> x 18</td></tr>
+</table>
+
+<table>
+    <tr><td align="center">總共可獲得</td></tr>
+    <tr><td align="center"><a href="coin.md">鐵幣</a> x 180</td></tr>
+</table>
+
+一但錯過即無法補簽。

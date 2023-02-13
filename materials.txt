@@ -2015,6 +2015,7 @@ candy_cane_blue 藍色拐杖糖
 candy_cane_purple 紫色拐杖糖
 candy_cane_pink 粉色拐杖糖
 canned_cat 貓罐頭
+reward_card 集點卡
 barter_menu 貿易書
 barter_sell_block 貿易刊登器
 logger_menu 紀錄書
@@ -2309,4 +2310,5 @@ cat_palm_glove_rainbow 貓掌
 cat_palm_stick_rainbow 貓掌棒
 build_replicator_block 建築複製器
 build_blueprint_empty 空的建築藍圖
+premium_hopper 高級漏斗
 restricted_crafting_table 工作檯限制器

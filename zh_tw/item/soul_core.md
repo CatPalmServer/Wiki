@@ -37,6 +37,3 @@
 ### 物品
 在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)內與工具、武器合成能附上或卸除[靈魂鎖定](../feature/soul_link.md)，但以下材質無法使用：
 - [三叉戟](https://minecraft.fandom.com/zh/wiki/三叉戟)
-
-### 生物
-慣用手持靈魂核心對準生物`右鍵`能附上或卸除[靈魂鎖定](../feature/soul_link.md)。
