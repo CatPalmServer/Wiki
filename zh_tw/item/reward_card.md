@@ -40,7 +40,7 @@
     <tr><td align="center">染色方塊</td><td align="start"></td></tr>
     <tr><td align="center">自然方塊</td><td align="start">土徑、耕地、紫水晶芽床、芒草、大型蕨類、基岩</td></tr>
     <tr><td align="center">功能方塊</td><td align="start">玩家頭臚、終界傳送門框架、蛀蝕系列、<a href="coin.md">貓幣桶</a>系列、<a href="land_energy.md">領地能量</a>系列</td></tr>
-    <tr><td align="center">紅石方塊</td><td align="start"><a href="advanced_tnt.md">X43高級TNT</a>系列、x<a href="advanced_tnt.md">X73高級TNT</a>系列</td></tr>
+    <tr><td align="center">紅石方塊</td><td align="start"><a href="advanced_tnt.md">X43高級TNT</a>系列、<a href="advanced_tnt.md">X73高級TNT</a>系列</td></tr>
     <tr><td align="center">工具及實用物品</td><td align="start"></td></tr>
     <tr><td align="center">戰鬥</td><td align="start"></td></tr>
     <tr><td align="center">食物及飲品</td><td align="start"></td></tr>
