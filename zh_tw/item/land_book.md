@@ -192,8 +192,8 @@ I_PLAYER=ABDEFGHILMPRSTUVY
   [玩家](https://minecraft.fandom.com/zh/wiki/玩家)的損傷
 - ### Y 飛行
   [領地飛行鞘翅](land_flying_device.md)的飛行  
-  [貓碗](../feature/cat_bowl.md)的切換觀察者  
-  [貓碗](../feature/cat_bowl.md)的磁鐵吸取掉落物  
+  [貓糧](../feature/cat_bowl.md)的切換觀察者  
+  [貓糧](../feature/cat_bowl.md)的磁鐵吸取掉落物  
   
 
 ---
@@ -204,7 +204,7 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 - 方塊破壞、方塊放置、方塊更新，每次+`40`
 - 物品撿起、物品丟棄、容器拿取、容器放入，每次+`20`
 - 實體傷害，每次+`10`
-- [貓碗](../feature/cat_bowl.md)玩家存在，每秒+`4`
+- [貓糧](../feature/cat_bowl.md)玩家存在，每秒+`4`
 - 玩家存在，每秒+`1`
 
 每個區塊的活躍度上限為`200,000`，領地內活躍度每`5,000`可以保留`1`點[領地能量](land_energy.md)。  

@@ -450,7 +450,7 @@
     </tr>
     <tr>
         <td align="center"><a href="feature/anniversary.md">周年慶</a></td>
-        <td align="center"><a href="feature/cat_bowl.md">貓碗</a></td>
+        <td align="center"><a href="feature/cat_bowl.md">貓糧</a></td>
         <td align="center"><a href="feature/discord_server.md">Discord群組</a></td>
         <td align="center"><a href="feature/daily_signin.md">每日簽到</a></td>
         <td align="center"><a href="feature/cat_day.md">貓之日</a></td>

@@ -15,7 +15,7 @@
 由`XUAN#0483`從[Pixiv](https://www.pixiv.net/tags/猫耳/artworks?mode=safe)精挑細選的插畫圖，更新時間不固定。
 
 ### 商店
-購買[貓罐頭](../item/canned_cat.md)、[靈魂核心](../item/soul_core.md)、[超級魚餅乾](../item/super_fish_cracker.md)的方式。
+購買[貓糧罐](../item/canned_cat.md)、[靈魂核心](../item/soul_core.md)、[超級魚餅乾](../item/super_fish_cracker.md)的方式。
 
 ## 討論區
 給各玩家互相交流、打廣告用。
@@ -31,18 +31,18 @@
 可以查閱一些資料像是其他玩家、領地權限清單。
 
 ### 圖片！
-需要[貓碗](cat_bowl.md)特權才能上傳圖片。  
+需要[貓糧](cat_bowl.md)特權才能上傳圖片。  
 能將`png`/`jpg`圖片裁切成最大`5`x`5`上傳到伺服器內變成[彩繪畫布](../item/draw_map.md)。
 
 ### 音樂！
-需要[貓碗](cat_bowl.md)特權才能上傳音樂。  
+需要[貓糧](cat_bowl.md)特權才能上傳音樂。  
 將`mid`文件變成[音樂盒](../item/music_box.md)。
 
 ### 皮膚！
-需要[貓碗](cat_bowl.md)特權才能上傳皮膚。
+需要[貓糧](cat_bowl.md)特權才能上傳皮膚。
 
 ### 暱稱！
-需要[貓碗](cat_bowl.md)特權才能更改暱稱。
+需要[貓糧](cat_bowl.md)特權才能更改暱稱。
 
 ## 隊伍頻
 每個隊伍頻道都會附加一個文字同步渠道。

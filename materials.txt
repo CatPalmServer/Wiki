@@ -2014,7 +2014,7 @@ candy_cane_green 綠色拐杖糖
 candy_cane_blue 藍色拐杖糖
 candy_cane_purple 紫色拐杖糖
 candy_cane_pink 粉色拐杖糖
-canned_cat 貓罐頭
+canned_cat 貓糧罐
 reward_card 集點卡
 barter_menu 貿易書
 barter_sell_block 貿易刊登器

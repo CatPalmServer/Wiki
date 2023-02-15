@@ -1,6 +1,6 @@
 [← 回主頁](../)
-# 貓碗
-食用[貓罐頭](../item/canned_cat.md)後享受以下特權。
+# 貓糧
+食用[貓糧罐](../item/canned_cat.md)後享受以下特權。
 
 - 飛行許可能在有[Y權限的領地](../item/land_book.md#y-飛行)內飛行、使用`/ob`或`F3+N`切換成[旁觀者模式](https://minecraft.fandom.com/zh/wiki/旁觀者模式)
 - 上傳[圖片](https://discord.com/channels/799977829805981716/1050904585746784258)、[音樂](https://discord.com/channels/799977829805981716/1050912245758050326)、[皮膚](https://discord.com/channels/799977829805981716/1052733588765937694)、[暱稱](https://discord.com/channels/799977829805981716/1052733336138825808)許可
