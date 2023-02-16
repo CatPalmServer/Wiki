@@ -4,7 +4,7 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/靈魂砂谷">靈魂砂谷</a></td>
+        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/灵魂沙峡谷">靈魂砂谷</a></td>
         <td align="center">20%</td>
     </tr>
     <tr>
