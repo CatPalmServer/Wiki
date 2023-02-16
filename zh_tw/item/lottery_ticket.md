@@ -6,7 +6,7 @@
 <table>
     <tr>
         <td align="center">空的</td>
-        <td align="center">有內容ㄊ</td>
+        <td align="center">有內容</td>
     </tr>
     <tr>
         <td>
