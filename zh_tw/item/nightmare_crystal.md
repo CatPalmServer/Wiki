@@ -39,7 +39,7 @@
 
 ## 獲取
 
-夢魘結晶礦只能被[龍牙鎬、血龍牙鎬、夢魘結晶鎬](pickaxe.md)挖掘，在不使用[絲綢之觸](https://minecraft.fandom.com/zh/wiki/絲綢之觸)情況下會掉落1個夢魘結晶碎片。  
+夢魘結晶礦只能被[龍牙鎬、血龍牙鎬、夢魘結晶鎬](pickaxe.md)、[龍牙破壞仗、血龍牙破壞仗、夢魘結晶破壞仗](fast_break_magic_wand.md)挖掘，在不使用[絲綢之觸](https://minecraft.fandom.com/zh/wiki/絲綢之觸)情況下會掉落1個夢魘結晶碎片。  
 [終界](https://minecraft.fandom.com/zh/wiki/終界)每區塊有0.01%機率嘗試生成夢魘結晶礦在高度20~60，如果選中的座標不是[終界石](https://minecraft.fandom.com/zh/wiki/終界石)則放棄此次生成。  
 
 ---
