@@ -40,4 +40,4 @@
     <tr><td align="center">100%</td><td align="center"><img src="https://i.imgur.com/5NXrwba.png" height="48"/></td></tr>
 </table>
 
-挖掘後會喪失全部能量變回空的和平方塊，累計百分比達到`100%`時會轉變為永遠和平方塊，此時將不再消耗能量。
+挖掘後會喪失全部能量變回空的和平方塊，累計能量達到`100%`時會轉變為永遠和平方塊，此時將不再消耗能量。
