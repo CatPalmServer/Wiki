@@ -28,16 +28,16 @@
 ---
 
 ## 使用
-放在世界上可抑制半徑5格區塊內 *(總共`9x9x9`區塊)* 的怪物自然誕生，並且每抑制`1`次將損失`1`點能量，沒能量則無效果。  
-使用`右鍵`對準非永久和平方塊可消耗`1`等級充能`120`點能量，能量會改變其顯示或方塊狀態：  
+放在世界上可抑制半徑5格區塊內 *(總共9x9x9區塊)* 的怪物自然誕生，並且每抑制`1`次將損失`1`點能量，沒能量則無效果。  
+使用`右鍵`對準非永久和平方塊可消耗`1`等級充能`2000`點能量，能量會改變其顯示或方塊狀態：  
 
 <table>
-    <tr><td align="center">累計百分比</td><td align="center">狀態</td></tr>
+    <tr><td align="center">累計能量</td><td align="center">狀態</td></tr>
     <tr><td align="center">0%</td><td align="center"><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></tr>
     <tr><td align="center">1%</td><td align="center"><img src="https://i.imgur.com/cTC2fkv.png" height="48"/></td></tr>
-    <tr><td align="center">20%</td><td align="center"><img src="https://i.imgur.com/tZPaxWI.png" height="48"/></td></tr>
-    <tr><td align="center">40%</td><td align="center"><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td></tr>
+    <tr><td align="center">15%</td><td align="center"><img src="https://i.imgur.com/tZPaxWI.png" height="48"/></td></tr>
+    <tr><td align="center">45%</td><td align="center"><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td></tr>
     <tr><td align="center">100%</td><td align="center"><img src="https://i.imgur.com/5NXrwba.png" height="48"/></td></tr>
 </table>
 
-挖掘後會喪失全部能量變回空的和平方塊，累計百分比達到100%時會轉變為永遠和平方塊，此時將不再消耗能量。
+挖掘後會喪失全部能量變回空的和平方塊，累計百分比達到`100%`時會轉變為永遠和平方塊，此時將不再消耗能量。
