@@ -151,7 +151,6 @@
 ### 0.5%
 [鐵幣](../item/coin.md)x8兌換x1，最多1次。
 
-<a href="../item/peaceful_block.md"><img src="https://i.imgur.com/5NXrwba.png" width="48"/></a>
 <a href="../item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a>
 <a href="../item/pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
 <a href="../item/axe.md"><img src="https://i.imgur.com/uysb6iv.png" width="48"/></a>
