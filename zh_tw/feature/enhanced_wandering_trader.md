@@ -129,10 +129,7 @@
 <a href="../decor/deer_horn.md"><img src="https://i.imgur.com/Q8oHGI4.png" width="48"/></a>
 <a href="../decor/deer_horn.md"><img src="https://i.imgur.com/KsmZw9n.png" width="48"/></a>
 <a href="../item/magic_nether_star.md"><img src="https://i.imgur.com/IWZz8YM.png" width="48"/></a>
-<a href="../item/dragon_tooth.md"><img src="https://i.imgur.com/ZJn6ZOj.png" width="48"/></a>
 <a href="../item/land_flying_device.md"><img src="https://i.imgur.com/sMykckD.png" width="48"/></a>
-<a href="../item/rope.md"><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></a>
-<a href="../item/rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
 <a href="../item/back.md"><img src="https://i.imgur.com/R3EtEh7.png" width="48"/></a>
 <a href="../item/transfer.md"><img src="https://i.imgur.com/zWMjq19.png" width="48"/></a>
 <a href="../item/random_transfer.md"><img src="https://i.imgur.com/xv4Ph4E.png" width="48"/></a>
@@ -151,7 +148,7 @@
 ### 0.5%
 [鐵幣](../item/coin.md)x8兌換x1，最多1次。
 
-<a href="../item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a>
+<a href="../item/dragon_tooth.md"><img src="https://i.imgur.com/ZJn6ZOj.png" width="48"/></a>
 <a href="../item/pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
 <a href="../item/axe.md"><img src="https://i.imgur.com/uysb6iv.png" width="48"/></a>
 <a href="../item/bow.md"><img src="https://i.imgur.com/OG1BKLZ.gif" width="48"/></a>
@@ -163,6 +160,8 @@
 <a href="../item/chestplate.md"><img src="https://i.imgur.com/A2lVkZG.png" width="48"/></a>
 <a href="../item/leggings.md"><img src="https://i.imgur.com/2GF9HK6.png" width="48"/></a>
 <a href="../item/boots.md"><img src="https://i.imgur.com/eTBvKLO.png" width="48"/></a>
+<a href="../item/rope.md"><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></a>
+<a href="../item/rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
 <a href="../decor/cat_hat.md"><img src="https://i.imgur.com/UT94IRj.png" width="48"/></a>
 <a href="../decor/cat_hat.md"><img src="https://i.imgur.com/OqQl5jU.png" width="48"/></a>
 <a href="../decor/cat_hat.md"><img src="https://i.imgur.com/OAL1rFF.png" width="48"/></a>
@@ -170,6 +169,7 @@
 ### 0.05%
 [銀幣](../item/coin.md)x8兌換x1，最多1次。
 
+<a href="../item/dragon_blood_tooth.md"><img src="https://i.imgur.com/DWX8hfU.png" width="48"/></a>
 <a href="../item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
 <a href="../item/axe.md"><img src="https://i.imgur.com/Cj6g0bi.png" width="48"/></a>
 <a href="../item/bow.md"><img src="https://i.imgur.com/4Nnxagh.gif" width="48"/></a>
