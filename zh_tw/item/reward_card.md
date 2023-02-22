@@ -38,7 +38,7 @@
     <tr><td align="center" width="150">標籤</td><td align="center">不包含</td></tr>
     <tr><td align="center">建築方塊</td><td align="start">強化深板岩</td></tr>
     <tr><td align="center">染色方塊</td><td align="start"></td></tr>
-    <tr><td align="center">自然方塊</td><td align="start">土徑、耕地、紫水晶芽床、芒草、大型蕨類、基岩</td></tr>
+    <tr><td align="center">自然方塊</td><td align="start">土徑、耕地、紫水晶芽床、芒草、大型蕨類、青蛙卵、基岩</td></tr>
     <tr><td align="center">功能方塊</td><td align="start">玩家頭臚、終界傳送門框架、蛀蝕系列、<a href="coin.md">貓幣桶</a>系列、<a href="land_energy.md">領地能量</a>系列</td></tr>
     <tr><td align="center">紅石方塊</td><td align="start"><a href="advanced_tnt.md">X43高級TNT</a>系列、<a href="advanced_tnt.md">X73高級TNT</a>系列</td></tr>
     <tr><td align="center">工具及實用物品</td><td align="start"></td></tr>
