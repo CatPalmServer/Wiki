@@ -20,7 +20,7 @@
     <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/緩速">緩速</a></td><td align="center">00:01</td><td align="center">I</td></tr>
 </table>
 
-※ 時間會累加
+※ 時間會疊加
 
 ---
 
