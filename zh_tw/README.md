@@ -8,7 +8,9 @@
 <a href="item/music_box.md"><img src="https://i.imgur.com/N9JBO3W.png" width="48"/></a>
 
 # 實驗
-_即將正式推出且[貓糧特權](feature/cat_bowl.md)可以搶先體驗！_  
+_即將正式推出且[貓糧特權](feature/cat_bowl.md)可以搶先體驗！_
+
+<a href="item/piggy_bank.md"><img src="https://i.imgur.com/BhvKWY8.png" width="48"/></a>
 
 
 # 道具
