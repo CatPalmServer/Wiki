@@ -11,6 +11,7 @@
 _即將正式推出且[貓糧特權](feature/cat_bowl.md)可以搶先體驗！_
 
 <a href="item/piggy_bank.md"><img src="https://i.imgur.com/BhvKWY8.png" width="48"/></a>
+<a href="item/energy_laser_crystal.md"><img src="https://i.imgur.com/jYSLDGf.png" width="48"/></a>
 
 
 # 道具
