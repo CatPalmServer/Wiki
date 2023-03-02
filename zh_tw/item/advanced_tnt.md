@@ -161,7 +161,7 @@
 ---
 
 ## 使用
-放置於地上並受到紅石信號／燃燒的箭失／爆炸時會點燃高級TNT，站在同個XYZ軸的實體將受到5.5傷害，
+放置於地上並受到`紅石信號`/`燃燒的箭失`/`爆炸`/`燃燒`時會點燃高級TNT，
 
 <table>
     <tr>
@@ -192,6 +192,16 @@
         <td align="center">X73</td>
         <td align="center">73x73x73 方塊</td>
     </tr>
+</table>
+
+範圍內的玩家將受到負面狀態效果：
+
+<table>
+    <tr><td align="center">效果</td><td align="center">時間</td><td align="center">等級</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/反胃">反胃</a></td><td align="center">00:04</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/緩速">緩速</a></td><td align="center">00:04</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/挖掘疲勞">挖掘疲勞</a></td><td align="center">00:04</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/虛弱">虛弱</a></td><td align="center">00:04</td><td align="center">II</td></tr>
 </table>
 
 絲綢之觸的高級TNT在破壞方塊時就像使用[絲綢之觸](https://minecraft.fandom.com/zh/wiki/絲綢之觸)的工具挖掘一樣。
