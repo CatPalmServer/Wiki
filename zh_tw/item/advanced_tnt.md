@@ -198,10 +198,10 @@
 
 <table>
     <tr><td align="center">效果</td><td align="center">時間</td><td align="center">等級</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/反胃">反胃</a></td><td align="center">00:04</td><td align="center">I</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/緩速">緩速</a></td><td align="center">00:04</td><td align="center">I</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/挖掘疲勞">挖掘疲勞</a></td><td align="center">00:04</td><td align="center">I</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/虛弱">虛弱</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/反胃">反胃</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/緩速">緩速</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/挖掘疲勞">挖掘疲勞</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/虛弱">虛弱</a></td><td align="center">00:04</td><td align="center">III</td></tr>
 </table>
 
 絲綢之觸的高級TNT在破壞方塊時就像使用[絲綢之觸](https://minecraft.fandom.com/zh/wiki/絲綢之觸)的工具挖掘一樣。
