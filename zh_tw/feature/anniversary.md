@@ -23,16 +23,3 @@
 <a href="../decor/demon_corner.md"><img src="https://i.imgur.com/EgOXfxK.gif" width="48"/></a>
 <a href="../decor/headband_headset.md"><img src="https://i.imgur.com/VnKSxgG.gif" width="48"/></a>
 <a href="../decor/rabbit_ear.md"><img src="https://i.imgur.com/D3eGjbH.gif" width="48"/></a>
-
-## 槍戰遊戲
-周日舉辦，按照存活名次發放獎勵。
-
-<table>
-    <tr><td align="center">存活名次</td><td align="center">獎金</td></tr>
-    <tr><td align="center">0%</td><td align="end">250</td></tr>
-    <tr><td align="center">50%</td><td align="end">500</td></tr>
-    <tr><td align="center">80%</td><td align="end">1,000</td></tr>
-    <tr><td align="center">3</td><td align="end">31,250</td></tr>
-    <tr><td align="center">2</td><td align="end">62,500</td></tr>
-    <tr><td align="center">1</td><td align="end">125,000</td></tr>
-</table>
