@@ -7,13 +7,6 @@
 <a href="item/entity_exterior_tag.md"><img src="https://i.imgur.com/nSlDuha.png" width="48"/></a>
 <a href="item/music_box.md"><img src="https://i.imgur.com/N9JBO3W.png" width="48"/></a>
 
-# 實驗
-_即將正式推出且[貓糧特權](feature/cat_bowl.md)可以搶先體驗！_
-
-<a href="item/piggy_bank.md"><img src="https://i.imgur.com/BhvKWY8.png" width="48"/></a>
-<a href="item/energy_laser_crystal.md"><img src="https://i.imgur.com/jYSLDGf.png" width="48"/></a>
-
-
 # 道具
 <a href="item/newcomer_bag.md"><img src="https://i.imgur.com/KqzjESH.png" width="48"/></a>
 <a href="item/world_map_view.md"><img src="https://i.imgur.com/w5nzar8.png" width="48"/></a>
@@ -270,6 +263,7 @@ _即將正式推出且[貓糧特權](feature/cat_bowl.md)可以搶先體驗！_
 <a href="item/builder_model_device.md"><img src="https://i.imgur.com/PiWyIRO.png" width="48"/></a>
 <a href="item/barter_sell_block.md"><img src="https://i.imgur.com/24SvDLT.png" width="48"/></a>
 <a href="item/premium_hopper.md"><img src="https://i.imgur.com/N3E9xsp.png" width="48"/></a>
+<a href="item/piggy_bank.md"><img src="https://i.imgur.com/BhvKWY8.png" width="48"/></a>
 
 # 玩具
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/XtnjByk.png" width="48"/></a>
@@ -289,6 +283,7 @@ _即將正式推出且[貓糧特權](feature/cat_bowl.md)可以搶先體驗！_
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/D3ZFSlE.png" width="48"/></a>
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/Bn3nH1C.png" width="48"/></a>
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/TuqWIfn.png" width="48"/></a>
+<a href="item/energy_laser_crystal.md"><img src="https://i.imgur.com/jYSLDGf.png" width="48"/></a>
 <a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/PrJ0xmZ.png" width="48"/></a>
 <a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/222Yk6f.png" width="48"/></a>
 <a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/0CL6DRi.png" width="48"/></a>
