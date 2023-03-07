@@ -10,9 +10,7 @@
 <table>
     <tr><td align="center">能量</td><td align="center">圖像</td></tr>
     <tr><td align="center">空的</td><td><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></td></tr>
-    <tr><td align="center">少</td><td><img src="https://i.imgur.com/cTC2fkv.png" height="48"/></td></tr>
-    <tr><td align="center">中</td><td><img src="https://i.imgur.com/tZPaxWI.png" height="48"/></td></tr>
-    <tr><td align="center">多</td><td><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td></tr>
+    <tr><td align="center">充能</td><td><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td></tr>
     <tr><td align="center">永久</td><td><img src="https://i.imgur.com/5NXrwba.png" height="48"/></td></tr>
 </table>
 
@@ -34,9 +32,7 @@
 <table>
     <tr><td align="center">累計能量</td><td align="center">狀態</td></tr>
     <tr><td align="center">0%</td><td align="center"><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></tr>
-    <tr><td align="center">1%</td><td align="center"><img src="https://i.imgur.com/cTC2fkv.png" height="48"/></td></tr>
-    <tr><td align="center">15%</td><td align="center"><img src="https://i.imgur.com/tZPaxWI.png" height="48"/></td></tr>
-    <tr><td align="center">45%</td><td align="center"><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td></tr>
+    <tr><td align="center">1%</td><td align="center"><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td></tr>
     <tr><td align="center">100%</td><td align="center"><img src="https://i.imgur.com/5NXrwba.png" height="48"/></td></tr>
 </table>
 
