@@ -262,6 +262,8 @@
 <a href="item/barter_sell_block.md"><img src="https://i.imgur.com/24SvDLT.png" width="48"/></a>
 <a href="item/premium_hopper.md"><img src="https://i.imgur.com/N3E9xsp.png" width="48"/></a>
 <a href="item/piggy_bank.md"><img src="https://i.imgur.com/BhvKWY8.png" width="48"/></a>
+<a href="item/internet_controller.md"><img src="https://i.imgur.com/dhPGMzP.png" width="48"/></a>
+<a href="item/internet_controller.md"><img src="https://i.imgur.com/Ax29g76.png" width="48"/></a>
 
 # 玩具
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/XtnjByk.png" width="48"/></a>
