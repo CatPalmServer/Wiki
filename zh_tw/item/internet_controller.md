@@ -55,7 +55,8 @@
 ---
 
 ## 使用
-相同名稱的觸發會激活相同名稱的監測器、同名稱可以放置無限個，任一觸發器受到紅時信號都會激活全部監測器 (也可以使用[這個API端點](https://catpalm.gitbook.io/webapi/controller)激活)。  
+相同名稱的觸發器會激活相同名稱的監測器、同名稱可以放置無限個，  
+任一觸發器受到紅時信號都會激活全部監測器 (也可以使用[這個API端點](https://catpalm.gitbook.io/webapi/controller)激活)。  
 
 <table>
     <tr><td>更改前</td><td><img src="https://i.imgur.com/1oUzbAH.png" width="720"/></td></tr>
