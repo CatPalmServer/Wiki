@@ -56,10 +56,11 @@
 
 ## 使用
 相同名稱的觸發器會激活相同名稱的監測器、同名稱可以放置無限個，  
-任一觸發器受到紅時信號都會激活全部相同名稱的監測器 (也可以使用[這個API端點](https://catpalm.gitbook.io/webapi/controller)激活)。  
+任一觸發器被紅時信號激活，會使全部相同名稱的監測器觸發方塊更新 (也可以使用[這個API端點](https://catpalm.gitbook.io/webapi/controller)激活)。  
 
 <table>
     <tr><td>更改前</td><td><img src="https://i.imgur.com/1oUzbAH.png" width="720"/></td></tr>
     <tr><td>在<a href="https://minecraft.fandom.com/zh/wiki/鐵砧">鐵砧</a>改成祕密的名稱</td><td><img src="https://i.imgur.com/cmMcMvm.png" width="720"/><br/>※ 名稱越長越好，且不要透漏給他人。  </td></tr>
-    <tr><td>放在地上</td><td><img src="https://i.imgur.com/b7VTtQ7.png" width="720"/></td></tr>
+    <tr><td>放在地上</td><td><img src="https://i.imgur.com/la2jWiu.png" width="720"/></td></tr>
+    <tr><td>觸發紅石信號</td><td><img src="https://i.imgur.com/15HpOhT.png" width="720"/></td></tr>
 </table>
