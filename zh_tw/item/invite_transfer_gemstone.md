@@ -22,7 +22,7 @@
 
 ## 使用
 放在慣用手`右鍵`可邀請所有人前來當前位置：  
-<img src="https://i.imgur.com/YmqMhfd.png" width="720"></img><br>
+<img src="https://i.imgur.com/YmqMhfd.png" width="720"/><br>
 
 傳送後會有`1秒無敵`+`10秒虛弱II`。  
 附魔耐久可增加時效：  
@@ -36,5 +36,5 @@
 </table>
 
 在[鐵砧](https://minecraft.fandom.com/zh/wiki/铁砧)內[重新命名](https://minecraft.fandom.com/zh/wiki/铁砧#重命名)可加入備註：  
-<img src="https://i.imgur.com/AaLEzgA.png" width="720"></img>  
-<img src="https://i.imgur.com/aGnQraf.png" width="720"></img>
+<img src="https://i.imgur.com/AaLEzgA.png" width="720"/>  
+<img src="https://i.imgur.com/aGnQraf.png" width="720"/>

@@ -19,14 +19,14 @@
 <a href="../food/ice_cream_cone.md"><img src="https://i.imgur.com/vBF6NFM.png" width="48"/></a>
 <a href="../food/cheese_puff.md"><img src="https://i.imgur.com/vddFUpl.png" width="48"/></a>
 <a href="../item/back.md"><img src="https://i.imgur.com/ILnnHV1.png" width="48"/></a>
-<a href="../item/transfer.md"><img src="https://i.imgur.com/4eKYni0.png" width="48"/>
-<a href="../item/random_transfer.md"><img src="https://i.imgur.com/2QdmOdE.png" width="48"/>
-<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/OM9DgZA.png" width="48"/>
-<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/nJw5AaN.png" width="48"/>
-<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/0d8LO0r.png" width="48"/>
-<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/JpzWsch.png" width="48"/>
-<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/BfufQi6.png" width="48"/>
-<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/JeIiF9r.png" width="48"/>
+<a href="../item/transfer.md"><img src="https://i.imgur.com/4eKYni0.png" width="48"/></a>
+<a href="../item/random_transfer.md"><img src="https://i.imgur.com/2QdmOdE.png" width="48"/></a>
+<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/OM9DgZA.png" width="48"/></a>
+<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/nJw5AaN.png" width="48"/></a>
+<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/0d8LO0r.png" width="48"/></a>
+<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/JpzWsch.png" width="48"/></a>
+<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/BfufQi6.png" width="48"/></a>
+<a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/JeIiF9r.png" width="48"/></a>
 <a href="https://minecraft.fandom.com/zh/wiki/經驗瓶"><img src="https://i.imgur.com/Qwc39mw.png" width="48"/></a>
 
 ### 6.5%
