@@ -12,7 +12,7 @@
 可使用表情、貼圖、上傳檔案的渠道，因此不與遊戲同步。
 
 ### 貓耳
-由`XUAN#0483`從[Pixiv](https://www.pixiv.net/tags/猫耳/artworks?mode=safe)精挑細選的插畫圖，更新時間不固定。
+由`XUAN#0483`從[Pixiv](https://twitter.com/amsrntk3)精挑細選的插畫圖，更新時間不固定。
 
 ### 商店
 購買[貓糧罐](../item/canned_cat.md)、[靈魂核心](../item/soul_core.md)、[超級魚餅乾](../item/super_fish_cracker.md)的方式。
