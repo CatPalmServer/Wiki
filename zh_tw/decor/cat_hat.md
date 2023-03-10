@@ -11,8 +11,8 @@
 <table>
     <tr><td align="center">樣式</td><td align="center">圖像</td></tr>
     <tr><td align="center">花色</td><td><img src="https://i.imgur.com/j5qaiY1.png" height="80"/></td></tr>
-    <tr><td align="center">白</td><td><img src="https://i.imgur.com/fKTtMQr.png" height="80"/></td></tr>
-    <tr><td align="center">黑</td><td><img src="https://i.imgur.com/pyVVa7u.png" height="80"/></td></tr>
+    <tr><td align="center">白色</td><td><img src="https://i.imgur.com/fKTtMQr.png" height="80"/></td></tr>
+    <tr><td align="center">黑色</td><td><img src="https://i.imgur.com/pyVVa7u.png" height="80"/></td></tr>
     <tr><td align="center">英國短毛</td><td><img src="https://i.imgur.com/D82K9aB.png" height="80"/></td></tr>
     <tr><td align="center">果凍</td><td><img src="https://i.imgur.com/mBBcikO.png" height="80"/></td></tr>
     <tr><td align="center">波斯</td><td><img src="https://i.imgur.com/WIVQMX2.png" height="80"/></td></tr>
