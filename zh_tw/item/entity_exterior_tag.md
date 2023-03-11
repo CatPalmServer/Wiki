@@ -18,7 +18,7 @@
 
 ## 使用
 <table>
-    <tr><td>放在慣用手對準人形生物或盔甲座<code>右鍵</code></td><td><img src="https://i.imgur.com/LgRaNmZ.png" width="720"/></td></tr>
+    <tr><td>放在慣用手對準人形生物或盔甲座右鍵</td><td><img src="https://i.imgur.com/LgRaNmZ.png" width="720"/></td></tr>
     <tr><td>偽玩家成功</td><td><img src="https://i.imgur.com/pSmY96m.png" width="720"/></td></tr>
 </table>
 

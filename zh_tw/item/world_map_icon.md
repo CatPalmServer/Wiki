@@ -25,7 +25,7 @@
 
 <table>
     <tr><td>慣用手持彗星圖示</td><td><img src="https://i.imgur.com/XvYigvs.png" width="720"/></td></tr>
-    <tr><td>按<code>右鍵</code></td><td><img src="https://i.imgur.com/ml62lA9.png" width="720"/><br/>動作欄位響應"圖示加入彗星地圖"表示成功。</td></tr>
+    <tr><td>按右鍵</td><td><img src="https://i.imgur.com/ml62lA9.png" width="720"/><br/>動作欄位響應"圖示加入彗星地圖"表示成功。</td></tr>
     <tr><td>可在選單中察看</td><td><img src="https://i.imgur.com/TxBvXac.png" width="720"/></td></tr>
 </table>
 

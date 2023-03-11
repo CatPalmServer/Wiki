@@ -61,4 +61,4 @@
 
 <img src="https://i.imgur.com/6Fmk6E3.png" width="720"/>
 
-慣用手持[建築藍圖](build_blueprint.md)對準互動角`右鍵`可複製建築到藍圖內。
+慣用手持[建築藍圖](build_blueprint.md)對準互動角右鍵可複製建築到藍圖內。

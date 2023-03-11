@@ -41,7 +41,7 @@
 ### 放置
 <table>
     <tr><td>慣用手持可記錄點的旗幟</td><td><img src="https://i.imgur.com/52EUanE.png" width="720"/></td></tr>
-    <tr><td>按<code>右鍵</code>放置在地上</td><td><img src="https://i.imgur.com/d75pfRW.png" width="720"/></td></tr>
+    <tr><td>按右鍵放置在地上</td><td><img src="https://i.imgur.com/d75pfRW.png" width="720"/></td></tr>
 </table>
 
 放置後可使用[傳送金蘋果、傳送寶石、傳送寶石方塊](transfer.md)回到該位置，  
@@ -51,6 +51,6 @@
 
 ### 拆除
 <table>
-    <tr><td>可記錄點旗幟稍下方點<code>右鍵</code></td><td><img src="https://i.imgur.com/VpmFGc9.png" width="720"/></td></tr>
+    <tr><td>可記錄點旗幟稍下方點右鍵</td><td><img src="https://i.imgur.com/VpmFGc9.png" width="720"/></td></tr>
     <tr><td>拆卸成功</td><td><img src="https://i.imgur.com/bUzBSRy.png" width="720"/></td></tr>
 </table>

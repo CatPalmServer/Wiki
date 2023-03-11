@@ -21,7 +21,7 @@
 ---
 
 ## 使用
-在慣用手持並對準[音階盒](https://minecraft.fandom.com/zh/wiki/音階盒)點擊`右鍵`可打開選單：
+在慣用手持並對準[音階盒](https://minecraft.fandom.com/zh/wiki/音階盒)點擊右鍵可打開選單：
 
 <table>
     <tr><td align="center">標題</td><td colspan="9">選擇音高</td></tr>

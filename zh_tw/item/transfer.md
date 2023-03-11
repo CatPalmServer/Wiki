@@ -80,7 +80,7 @@
 <table>
     <tr><td align="center">圖片</td><td align="center">類型</td><td align="center">使用方式</td><td align="center">每次消耗</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/4eKYni0.png" width="48"/></td><td align="center">金蘋果</td><td align="center">食用</td><td align="center">1個</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></td><td align="center">寶石</td><td align="center"><code>右鍵</code>使用</td><td align="center">3等級<br/>※等級不夠會損傷</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></td><td align="center">寶石</td><td align="center">右鍵使用</td><td align="center">3等級<br/>※等級不夠會損傷</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/zWMjq19.png" width="48"/></td><td align="center">寶石方塊</td><td align="center">站在上方蹲下</td><td align="center">1等級</td></tr>
 </table>
 

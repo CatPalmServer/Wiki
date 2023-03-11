@@ -21,7 +21,7 @@
 
 <img src="https://i.imgur.com/tyDLhow.png" width="720"/>
 
-`右鍵`點擊可開啟選單進行排隊，  
+右鍵點擊可開啟選單進行排隊，  
 
 <img src="https://i.imgur.com/RuxSGTw.png" width="720"/>
 

@@ -38,7 +38,7 @@
 ---
 
 ## 使用
-需要先使用[建築複製器](build_replicator_block.md)框選範圍，慣用手持空的建築藍圖對準互動點`右鍵`可複製建築物到藍圖內並開啟選單： 
+需要先使用[建築複製器](build_replicator_block.md)框選範圍，慣用手持空的建築藍圖對準互動點右鍵可複製建築物到藍圖內並開啟選單： 
 
 <table>
     <tr><td align="center">標題</td><td colspan="9">補足材料 第 ? 頁</td></tr>
@@ -56,6 +56,6 @@
     <tr><td align="center"><img src="https://i.imgur.com/sAwvuIi.png" width="48"/></td><td>關閉</td></tr>
 </table>
 
-當補充完畢材料後可以預覽、`右鍵`放置，能旋轉`90°`／`180°`／`270°`，如果放置被阻擋會返還材料。  
+當補充完畢材料後可以預覽、右鍵放置，能旋轉`90°`／`180°`／`270°`，如果放置被阻擋會返還材料。  
 
 <img src="https://i.imgur.com/6lXc3p7.png" width="720"/>

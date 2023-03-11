@@ -49,7 +49,7 @@
 
 ### 進行繪畫
 需要[畫筆](pen.md)和[調色盤](palette.md)，並把彩繪畫布放入[物品展示框](https://minecraft.fandom.com/zh/wiki/物品展示框)，  
-慣用手持[畫筆](pen.md)對準彩繪畫布點`右鍵`可上色，畫筆尺寸：  
+慣用手持[畫筆](pen.md)對準彩繪畫布點右鍵可上色，畫筆尺寸：  
 
 <table>
     <tr><td align="center">名稱</td><td align="center">尺寸</td><td align="center">演示</td></tr>

@@ -24,7 +24,7 @@
 ## 使用
 <table>
     <tr><td>非慣用手持<a href="world_map_view.md">彗星地圖</a>＋<br>慣用手持擷取彗星地圖</td><td><img src="https://i.imgur.com/qWLveX2.png" width="720"/></td></tr>
-    <tr><td>按<code>右鍵</code><br/>將當前<a href="world_map_view.md">彗星地圖</a>畫面保存成<a href="draw_map.md">彩繪畫布</a></td><td><img src="https://i.imgur.com/6NtJ5Ac.png" width="720"/></td></tr>
+    <tr><td>按右鍵<br/>將當前<a href="world_map_view.md">彗星地圖</a>畫面保存成<a href="draw_map.md">彩繪畫布</a></td><td><img src="https://i.imgur.com/6NtJ5Ac.png" width="720"/></td></tr>
     <tr><td>擷取的畫面不會再跟隨座標變動</td><td><img src="https://i.imgur.com/Gf7aXwB.png" width="720"/></td></tr>
 </table>
 
