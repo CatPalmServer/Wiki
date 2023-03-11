@@ -1,0 +1,20 @@
+[← ホームに戻る](../)
+# 猫の餌入れ
+買う！買う！買う！買う！
+
+## データ
+<table>
+    <tr><td align="end">画像</td><td><img src="https://i.imgur.com/wxw402A.png" width="128"/></td></tr>
+    <tr><td align="end">スタック</td><td>1</td></tr>
+    <tr><td align="end">エンチャント</td><td>なし</td></tr>
+</table>
+
+---
+
+## 入手
+Discordグループ(../feature/discord_server.md)のストア(https://discord.com/channels/799977829805981716/1048223592342622289)。
+
+---
+
+## 用途
+食べると猫の餌(cat_bowl.md)の特典が30日間追加されます。
