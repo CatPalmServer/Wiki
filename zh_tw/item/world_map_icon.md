@@ -14,8 +14,8 @@
 
 ## 獲取
 <table>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/沉船#战利品">沈船</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/交易#制图师">製圖師村民</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/沉船#战利品">沈船</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/交易#制图师">製圖師村民</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></td></tr>
 </table>
 
 ---

@@ -31,7 +31,7 @@
 
 <table>
     <tr><td align="center">累計能量</td><td align="center">狀態</td></tr>
-    <tr><td align="center">0%</td><td align="center"><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></tr>
+    <tr><td align="center">0%</td><td align="center"><img src="https://i.imgur.com/ChdGHZh.png" height="48"/></td></tr>
     <tr><td align="center">1%</td><td align="center"><img src="https://i.imgur.com/zj97a5z.png" height="48"/></td></tr>
     <tr><td align="center">100%</td><td align="center"><img src="https://i.imgur.com/5NXrwba.png" height="48"/></td></tr>
 </table>

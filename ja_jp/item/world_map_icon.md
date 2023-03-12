@@ -14,8 +14,8 @@
 
 ## 入手
 <table>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/沈没船#戦利品">沈船戦利品</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/交易#地図製作者">地図製作者の村人</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/沈没船#戦利品">沈船戦利品</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/交易#地図製作者">地図製作者の村人</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></td></tr>
 </table>
 
 ---

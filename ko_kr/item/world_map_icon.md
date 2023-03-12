@@ -14,8 +14,8 @@
 
 ## 획득
 <table>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/잠수함#전리품">잠수함</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/거래#지도제작자">지도 제작자 마을 주민</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/잠수함#전리품">잠수함</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/거래#지도제작자">지도 제작자 마을 주민</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></td></tr>
 </table>
 
 ---

@@ -14,8 +14,8 @@ Cannot be crafted, only obtained from loot chests or villager trades.
 
 ## Obtain
 <table>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Shipwreck#Loot">Shipwreck</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Trading#Cartographer">Cartographer Villager</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Shipwreck#Loot">Shipwreck</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Trading#Cartographer">Cartographer Villager</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></td></tr>
 </table>
 
 ---
