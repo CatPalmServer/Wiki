@@ -455,7 +455,7 @@
     <tr>
         <td width="20%" align="center"><a href="feature/anniversary.md">Anniversary Celebration</a></td>
         <td width="20%" align="center"><a href="feature/cat_bowl.md">Cat Food</a></td>
-        <td width="20%" align="center"><a href="feature/discord_server.md">DiscordGroup</a></td>
+        <td width="20%" align="center"><a href="feature/discord_server.md">Discord Server</a></td>
         <td width="20%" align="center"><a href="feature/daily_signin.md">Daily check-in</a></td>
         <td width="20%" align="center"><a href="feature/cat_day.md">Cat Day</a></td>
     </tr>
