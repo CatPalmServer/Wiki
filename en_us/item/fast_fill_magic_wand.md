@@ -146,7 +146,7 @@ There are two modes to choose from:
     <tr><td align="center">Trusted Diagonal</td><td align="center">Press <code>Shift</code></td><td><img src="https://i.imgur.com/7FCz53L.png" width="480"/></td></tr>
 </table>
 
-Different materials have different values：  
+Different materials have different values:  
 
 <table>
     <tr><td align="center">Material</td><td align="center">Durability</td><td align="center">Size</td><td align="center">Blocks</td></tr>

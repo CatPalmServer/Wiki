@@ -77,7 +77,7 @@ Requires a [Drawn Map] (draw_map.md) and a [Palette] (palette.md) to paint.
 
 ## Use
 For details, please see [Draw Map](draw_map.md). To change the color of the brush, you need to use the [Palette](palette.md).
-Actual size：
+Actual size:
 
 <table>
     <tr><td align="center">Name</td><td align="center">Size</td><td align="center">Demo</td></tr>

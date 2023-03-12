@@ -17,11 +17,11 @@ No
 ---
 
 ## Use
-The End Crystal Beam can be seen next to the end spawn platform.，  
+The End Crystal Beam can be seen next to the end spawn platform,  
 
 <img src="https://i.imgur.com/tyDLhow.png" width="720"/>
 
-Right-click to open the menu and join the queue.，  
+Right-click to open the menu and join the queue,  
 
 <img src="https://i.imgur.com/RuxSGTw.png" width="720"/>
 

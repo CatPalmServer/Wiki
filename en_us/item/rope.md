@@ -43,7 +43,7 @@ Absolutely cannot be used on players... otherwise... you will be... attacked.
 
 ## Use
 Place it in the main hand to capture creatures in the rope. Use right-click again to release them. The captured creature will retain all data and can be used an infinite number of times.
-Requires a circle of chicken eggs to obtain Spawn Egg：
+Requires a circle of chicken eggs to obtain Spawn Egg:
 
 <table>
     <tr>

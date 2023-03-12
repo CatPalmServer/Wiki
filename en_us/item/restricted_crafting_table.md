@@ -21,7 +21,7 @@ One of the modes of the dispenser industry (see dispenser_industry.md).
 ---
 
 ## Use
-Right-click on the placed crafting table to open the menu.，  
+Right-click on the placed crafting table to open the menu,  
 
 <table>
     <tr><td align="center">Title</td><td colspan="9">Crafting Table Ingredient (recipe item)</td></tr>

@@ -140,7 +140,7 @@
     다른 재료들은 각각 다른 값이 있습니다.
 </table>
 
-<tr><td align="center">재료</td><td align="center">내구도</td><td align="center">크기</td><td align="center">블록 수</td></tr>：
+<tr><td align="center">재료</td><td align="center">내구도</td><td align="center">크기</td><td align="center">블록 수</td></tr>:
 
 <table>
     <tr><td align="center">몽상의 결정</td><td align="center">무한</td><td align="center">31x31</td><td align="center">265</td></tr>
@@ -156,7 +156,7 @@
     <tr><td align="center">창조자</td><td align="center">무한</td><td align="center">63x63</td><td align="center">2916</td></tr>
 </table>
 
-일정한 포션 효과가있을 때 특별한 처리가됩니다：  
+일정한 포션 효과가있을 때 특별한 처리가됩니다:  
 
 <table>
     <tr><td>채굴 피로 없음</td><td><code>손상</code>=최대 값(<code>1</code>,(<code>블록 경도</code>/<code>파괴 속도</code>)x(<code>1</code>-<code>0.05</code>x<code>채굴 속도 레벨</code>))</td></tr>

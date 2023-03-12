@@ -12,4 +12,4 @@ After consuming a [canned cat food](../item/canned_cat.md), you can enjoy the fo
 - Use `/backpack` to open a temporary backpack.
 - Use `/magnet` to activate the magnetic attraction of dropped items.
 - Ignore connection limits.
-- Increase land hanging activity level by +`1` per second, increased to +`4`.</code>
+- Increase land hanging activity level by +`1` per second, increased to +`4`.

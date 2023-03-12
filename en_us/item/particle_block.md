@@ -21,7 +21,7 @@ Placing too many will cause your game to lag.。
 ---
 
 ## Use
-Right-click after placing to change color.，  
+Right-click after placing to change color,  
 
 <table>
     <tr>
@@ -51,7 +51,7 @@ Right-click after placing to change color.，
     </tr>
 </table>
 
-Default Color:：  
+Default Color:  
 
 <img src="https://singlecolorimage.com/get/ff0000/40x40" height="48"/>
 

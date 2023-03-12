@@ -17,11 +17,11 @@
 ---
 
 ## 사용
-끝세계용궁전옆에서 대기열이 보입니다.，  
+끝세계용궁전옆에서 대기열이 보입니다,  
 
 <img src="https://i.imgur.com/tyDLhow.png" width="720"/>
 
-우클릭하여 대기열을 시작할 수 있습니다.，  
+우클릭하여 대기열을 시작할 수 있습니다,  
 
 <img src="https://i.imgur.com/RuxSGTw.png" width="720"/>
 

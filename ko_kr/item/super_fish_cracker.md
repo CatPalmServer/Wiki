@@ -17,7 +17,7 @@
 ---
 
 ## 효과
-섭취하면 포션 효과를 얻을 수 있습니다：  
+섭취하면 포션 효과를 얻을 수 있습니다:  
 
 <table>
     <tr><td align="center">효과</td><td align="center">시간</td><td align="center">레벨</td></tr>

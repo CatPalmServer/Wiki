@@ -194,7 +194,7 @@ When placed on the ground and ignited by `redstone signal`/`flaming arrow miss`/
     </tr>
 </table>
 
-Players within range will receive negative status effects：
+Players within range will receive negative status effects:
 
 <table>
     <tr><td align="center">Effect</td><td align="center">Duration</td><td align="center">Level</td></tr>

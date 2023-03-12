@@ -22,7 +22,7 @@ Use points to redeem items. The default starting points are `1000`.
 <table>
     <tr><td align="center">Name</td><td align="center">Points</td><td align="center">Number of uses</td></tr>
     <tr><td align="center"><a href="world_map_view.md">Comet map 1:1</a></td><td align="center">40</td><td align="center">1</td></tr>
-    <tr><td align="center">Iron helmet</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></tr>
+    <tr><td align="center">Iron helmet</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></td></tr>
     <tr><td align="center">Iron chestplate</td></tr>
     <tr><td align="center">Iron leggings</td></tr>
     <tr><td align="center">Iron boots</td></tr>

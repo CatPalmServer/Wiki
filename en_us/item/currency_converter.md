@@ -21,7 +21,7 @@ Necessary items for [copper coins, iron coins, silver coins, gold coins, and sta
 ---
 
 ## Use
-Right-click when holding a record book to open the menu：  
+Right-click when holding a record book to open the menu:  
 
 <table>
     <tr><td align="center">Title</td><td colspan="9">Currency Conversion</td></tr>

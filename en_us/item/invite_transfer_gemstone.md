@@ -21,11 +21,11 @@ Hey everyone, come over here! There's fresh fish.
 ---
 
 ## Use
-Hold in your dominant hand and right-click to invite everyone to your current position：  
+Hold in your dominant hand and right-click to invite everyone to your current position:  
 <img src="https://i.imgur.com/YmqMhfd.png" width="720"/><br>
 
 After teleportation, you will have 1 second of invincibility and 10 seconds of Weakness II.
-Enchanting with Durability increases its effectiveness：  
+Enchanting with Durability increases its effectiveness:  
 
 <table>
     <tr><td align="center">Durability Level</td><td align="center">Effective Time</td></tr>

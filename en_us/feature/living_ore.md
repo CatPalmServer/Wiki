@@ -13,7 +13,7 @@ In the Overworld and the Nether, they attempt to generate every 4 game ticks in 
     </tr>
 </table>
 
-The probability of generated ores is：  
+The probability of generated ores is:  
 
 <table>
     <tr>

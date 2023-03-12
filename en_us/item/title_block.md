@@ -61,7 +61,7 @@ Displays important text！
     <tr><td>Placed on the ground</td><td><img src="https://i.imgur.com/9zJMV0Z.png" width="720"/></td></tr>
 </table>
 
-Displays the size when stepped on：
+Displays the size when stepped on:
 <table>
 <td align="center">Small</td><td align="center">Large</td>
     <tr><td><img src="https://i.imgur.com/1FTaBO1.png" width="480"/></td><td><img src="https://i.imgur.com/NubzEhC.png" width="480"/></td></tr>

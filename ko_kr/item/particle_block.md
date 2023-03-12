@@ -21,7 +21,7 @@
 ---
 
 ## 사용
-우클릭하여 색상을 변경할 수 있습니다.，  
+우클릭하여 색상을 변경할 수 있습니다,  
 
 <table>
     <tr>
@@ -51,7 +51,7 @@
     </tr>
 </table>
 
-기본 색상은：  
+기본 색상은:  
 
 <img src="https://singlecolorimage.com/get/ff0000/40x40" height="48"/>
 

@@ -57,7 +57,7 @@ A cuboid has 8 corners. At least 4 corners are needed to let the duplicator know
     <tr><td><img src="https://i.imgur.com/eSNuasK.png" width="400"/></td><td><img src="https://i.imgur.com/JngGfRt.png" width="400"/></td></tr>
 </table>
 
-If placed correctly, looking at an interactive corner will show a white border.，  
+If placed correctly, looking at an interactive corner will show a white border,  
 
 <img src="https://i.imgur.com/6Fmk6E3.png" width="720"/>
 

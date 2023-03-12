@@ -90,7 +90,7 @@ The allowable direction of travel depends on the direction it was placed in, wit
     <tr><td align="center" width="70" height="70"></td><td align="center" width="70" height="70">South</td><td align="center" width="70" height="70"></td></tr>
 </table>
 
-Only minecarts that meet the requirements can pass through：
+Only minecarts that meet the requirements can pass through:
 - The minecart has passengers.
 - The direction of travel is allowed.
 

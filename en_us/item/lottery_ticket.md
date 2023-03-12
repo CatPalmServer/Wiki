@@ -38,7 +38,7 @@ Isn't the lottery machine great?
 ---
 
 ## Use
-Hold an empty lottery ticket in your hand to open the menu：  
+Hold an empty lottery ticket in your hand to open the menu:  
 
 <table>
     <tr><td align="center">Title</td><td colspan="9">Choose the contents</td></tr>

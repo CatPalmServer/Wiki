@@ -32,7 +32,7 @@
 ※ 여기 철 블록은 예시입니다
 
 ### 이 아이템을 지불해야 함
-가끔 발생할 수 있음：  
+가끔 발생할 수 있음:  
 
 <table>
     <tr><td align="center" width="150">라벨</td><td align="center">포함되지 않음</td></tr>

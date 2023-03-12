@@ -1,7 +1,7 @@
 [← Return to main page](../)
 # Soulbinding
 Can be applied to:
-- Helmet _(Diamond and higher)_：
+- Helmet _(Diamond and higher)_:
 - Chestplate _(Diamond and higher)_
 - Leggings _(Diamond and higher)_
 - Boots _(Diamond and higher)_

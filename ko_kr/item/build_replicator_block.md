@@ -57,7 +57,7 @@
     <tr><td><img src="https://i.imgur.com/eSNuasK.png" width="400"/></td><td><img src="https://i.imgur.com/JngGfRt.png" width="400"/></td></tr>
 </table>
 
-올바르게 배치하면 상호작용 각도를 바라보면 흰색 테두리가 표시됩니다.，  
+올바르게 배치하면 상호작용 각도를 바라보면 흰색 테두리가 표시됩니다,  
 
 <img src="https://i.imgur.com/6Fmk6E3.png" width="720"/>
 

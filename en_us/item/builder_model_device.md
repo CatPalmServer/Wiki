@@ -42,7 +42,7 @@ The best choice for obstacles drawn with slant lines。
 ---
 
 ## Use
-There are two ways in total：
+There are two ways in total:
 - Right-click outside the center area to change mode. [ Change mode. ] (# Change mode).
 - Right-click in the center area to extend the node. [ Extend node. ] (# Extend node).
 

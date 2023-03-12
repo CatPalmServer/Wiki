@@ -146,7 +146,7 @@
     <tr><td align="center">대각선 신뢰</td><td align="center"><code>Shift</code>를 누름</td><td><img src="https://i.imgur.com/7FCz53L.png" width="480"/></td></tr>
 </table>
 
-<tr><td align="center">재료</td><td align="center">내구도</td><td align="center">크기</td><td align="center">블록 수</td></tr>：  
+<tr><td align="center">재료</td><td align="center">내구도</td><td align="center">크기</td><td align="center">블록 수</td></tr>:  
 
 <table>
     <tr><td align="center">몽상의 결정</td><td align="center">무한</td><td align="center">31x31</td><td align="center">265</td></tr>

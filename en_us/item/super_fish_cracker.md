@@ -17,7 +17,7 @@ Why not Super Star instead?？
 ---
 
 ## Effect
-Grants potion effect when consumed：  
+Grants potion effect when consumed:  
 
 <table>
     <tr><td align="center">Effect</td><td align="center">Duration</td><td align="center">Level</td></tr>

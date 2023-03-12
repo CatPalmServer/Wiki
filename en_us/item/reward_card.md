@@ -32,7 +32,7 @@ After opening the menu by right-clicking for the first time, you can accumulate 
 ※ Iron ingots are used as an example here.
 
 ### Items to be submitted
-May appear：  
+May appear:  
 
 <table>
     <tr><td align="center" width="150">Tag</td><td align="center">Not included</td></tr>

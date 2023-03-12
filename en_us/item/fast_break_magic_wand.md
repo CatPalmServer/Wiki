@@ -140,7 +140,7 @@ There are two modes to choose from:
     <tr><td align="center">Diagonal Trusted</td><td align="center">Press <code>Shift</code></td><td><img src="https://i.imgur.com/DJoClKC.png" width="480"/></td></tr>
 </table>
 
-Different materials have different values：
+Different materials have different values:
 
 <table>
     <tr><td align="center">Material</td><td align="center">Durability</td><td align="center">Size</td><td align="center">Blocks</td></tr>
@@ -156,7 +156,7 @@ Different materials have different values：
     <tr><td align="center">Creator</td><td align="center">Infinite</td><td align="center">63x63</td><td align="center">2916</td></tr>
 </table>
 
-Processed specially when certain potion effects are present：  
+Processed specially when certain potion effects are present:  
 
 <table>
     <tr><td>No Digging Fatigue</td><td><code>Damage</code>=max(<code>1</code>,(<code>Block Hardness</code>/<code>Breaking Speed</code>)x(<code>1</code>-<code>0.05</code>x<code>Digging Speed Level</code>))</td></tr>

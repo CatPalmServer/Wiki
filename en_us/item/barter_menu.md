@@ -100,7 +100,7 @@ After listing, you need to enter the price. `1` Yuan=`1`[Coin](coin.md), enter `
 </table>
 
 ### Designated Material
-Sort by Price from Low to High after Designating Material：
+Sort by Price from Low to High after Designating Material:
 
 <table>
     <tr><td align="center">Title</td><td colspan="9">Barter Book-Designated Material Page ?</td></tr>

@@ -55,7 +55,7 @@ Convenient way to go up and down... Are people still using stairs?
 ---
 
 ## Use
-Place at least two elevators at the same level：
+Place at least two elevators at the same level:
 
 <img src="https://i.imgur.com/TCQMFr7.png" width="720"/>
 

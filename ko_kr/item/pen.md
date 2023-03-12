@@ -77,7 +77,7 @@
 
 ## 사용
 자세한 내용은 [그림용 캔버스](draw_map.md)와 [색상팔레트](palette.md)를 참조하세요.
-실제 크기：
+실제 크기:
 
 <table>
     <tr><td align="center">이름</td><td align="center">크기</td><td align="center">데모</td></tr>
