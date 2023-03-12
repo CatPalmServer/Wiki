@@ -12,7 +12,7 @@ Welcome new players!～
 ---
 
 ## Obtain
-New players will receive upon login.。
+New players will receive upon login.
 
 ---
 
