@@ -31,7 +31,7 @@ Items cannot turn while being transported by hopper. The container can be:
 - Dropper
 - Hopper
 
-Right-click to open menu after placing Advanced Hopper，
+Right-click to open menu after placing Advanced Hopper,
 
 <table>
     <tr><td align="center">Title</td><td colspan="9">Advanced Hopper</td></tr>
@@ -65,7 +65,7 @@ Successful movement triggers a block update and can be monitored with a detector
 
 <img src="https://i.imgur.com/HqB0NR7.png" width="720"/>
 
-The container below cannot accept any more items and will become a dropped item.。  
+The container below cannot accept any more items and will become a dropped item..  
 
 
 ### Active Mode
@@ -78,4 +78,4 @@ When a Redstone signal is triggered, move the contents above downward.
     <tr><td align="center">Not specified</td><td align="center">Move the maximum quantity of items each time</td></tr>
 </table>
 
-The container below cannot accept any more items and will become a dropped item.。
+The container below cannot accept any more items and will become a dropped item..

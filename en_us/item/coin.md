@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Currency
-Also known as Cat Coins。
+Also known as Cat Coins.
 
 ## Data
 <table>

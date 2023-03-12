@@ -21,7 +21,7 @@ Ways to purchase [canned cat food](../item/canned_cat.md), [reward cards](../ite
 For players to communicate and advertise with each other.
 
 ## Bulletin board
-Some server-related matters.。
+Some server-related matters..
 
 ## Feature set
 ### Recruitment
@@ -45,7 +45,7 @@ Requires Cat Bowl privilege to upload skins.
 Requires Cat Bowl privilege to change nicknames.
 
 ## Team chat
-Each team chat channel is accompanied by a text synchronization channel.。
+Each team chat channel is accompanied by a text synchronization channel..
 
 ### Public
 Permission cannot be adjusted, and anyone can join.

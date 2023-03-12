@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Cat Amulet
-Protection from cats。
+Protection from cats.
 
 ## Data
 <table>

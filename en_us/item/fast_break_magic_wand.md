@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Efficient Destruction Wand
-A must-have tool for builders and lazy people。
+A must-have tool for builders and lazy people.
 
 ## Data
 <table>

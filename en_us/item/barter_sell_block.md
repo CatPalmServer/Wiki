@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Barter Publisher
-A Good Partner for Quickly Listing Bulk Items。
+A Good Partner for Quickly Listing Bulk Items.
 
 ## Data
 <table>

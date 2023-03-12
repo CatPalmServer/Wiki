@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # AdvancedTNT
-Blows up a perfect square area。
+Blows up a perfect square area.
 
 ## Data
 <table>

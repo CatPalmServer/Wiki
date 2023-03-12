@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Teleportation Record Gem
-Running back and forth between two places。
+Running back and forth between two places.
 
 ## Data
 <table>

@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Elytra and Chestplate
-Two wishes fulfilled at once。
+Two wishes fulfilled at once.
 
 ## Data
 <table>

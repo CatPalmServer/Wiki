@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Antlers
-Beware the hunter。
+Beware the hunter.
 
 ## Data
 <table>

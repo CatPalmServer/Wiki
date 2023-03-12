@@ -12,4 +12,4 @@
 ---
 
 ## Obtain
-[Wandering trader trades](../feature/enhanced_wandering_trader.md)。
+[Wandering trader trades](../feature/enhanced_wandering_trader.md).

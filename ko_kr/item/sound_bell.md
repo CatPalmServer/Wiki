@@ -29,7 +29,7 @@
 ---
 
 ## 획득
-[방랑상인 거래](../feature/enhanced_wandering_trader.md)。
+[방랑상인 거래](../feature/enhanced_wandering_trader.md).
 
 ---
 
@@ -94,7 +94,7 @@
 ---
 
 ## 데이터
-다양한 작업에 대한 추가 음향。
+다양한 작업에 대한 추가 음향.
 
 ### 젖병
 [https://www.ah-soft.com/voiceroid/akari/](https://www.ah-soft.com/voiceroid/akari/)  

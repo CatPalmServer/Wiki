@@ -42,7 +42,7 @@ When holding a written book in your main hand, right-click to open a menu that l
 </table>
 
 ### List of Written Books
-Record Player Behavior，
+Record Player Behavior,
 
 <table>
     <tr>

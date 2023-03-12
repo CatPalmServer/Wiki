@@ -22,4 +22,4 @@
     <tr><td>가짜 플레이어 성공</td><td><img src="https://i.imgur.com/pSmY96m.png" width="720"/></td></tr>
 </table>
 
-사용하면 플레이어 카드가 소비됩니다.。
+사용하면 플레이어 카드가 소비됩니다..

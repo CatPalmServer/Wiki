@@ -94,5 +94,5 @@ Only minecarts that meet the requirements can pass through:
 - The minecart has passengers.
 - The direction of travel is allowed.
 
-If the requirements are not met, the minecart will turn back into an item.。  
+If the requirements are not met, the minecart will turn back into an item..  
 <img src="https://i.imgur.com/xtgag7f.png" width="480"/>

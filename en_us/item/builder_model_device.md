@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Line block
-The best choice for obstacles drawn with slant lines。
+The best choice for obstacles drawn with slant lines.
 
 ## Data
 <table>

@@ -19,7 +19,7 @@
 ---
 
 ## 드롭
-엔드 게이트웨이 위에。
+엔드 게이트웨이 위에.
 <table>
     <tr><td align="center">94%</td><td align="center" rowspan="3"><img src="https://i.imgur.com/0iqFoY6.png" width="48"/></td><td colspan="2"><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td></tr>
     <tr><td align="center">5%</td><td align="center" rowspan="2"><a href="../item/dragon_tooth.md"><img src="https://i.imgur.com/ZJn6ZOj.png" width="48"/></a></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td></tr>

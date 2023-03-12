@@ -54,7 +54,7 @@
     </tr>
 </table>
 
-If placed below specific minerals, it will additionally strengthen summoned creatures，
+If placed below specific minerals, it will additionally strengthen summoned creatures,
 
 <table>
     <tr>

@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Quick Charge Crossbow
-A must-have tool for builders and lazy people。
+A must-have tool for builders and lazy people.
 
 ## Data
 <table>

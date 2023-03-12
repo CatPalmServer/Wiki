@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Magic hell star
-High-grade Material。  
+High-grade Material.  
 Not vulnerable to explosion, burning or damage.
 
 ## Data

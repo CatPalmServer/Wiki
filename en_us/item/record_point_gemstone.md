@@ -23,7 +23,7 @@ An essential material for home travel and (crafting).
 
 ## Use
 Can be crafted in an anvil with a banner (see banner) to create a banner that records points (see record_point_banner.md).
-The name given when crafted will be used as the point's name.。
+The name given when crafted will be used as the point's name..
 
 <table>
     <tr><td><img src="https://i.imgur.com/Xq6yCL5.png" width="480"/></td><td><img src="https://i.imgur.com/YE5JOw8.png" width="480"/></td></tr>

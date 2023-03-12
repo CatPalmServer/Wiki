@@ -29,7 +29,7 @@ Whoosh
 ---
 
 ## Obtain
-[Wandering trader trades](../feature/enhanced_wandering_trader.md)。
+[Wandering trader trades](../feature/enhanced_wandering_trader.md).
 
 ---
 
@@ -94,7 +94,7 @@ Whoosh
 ---
 
 ## Data
-Extra sound effects are played when performing various actions.。
+Extra sound effects are played when performing various actions..
 
 ### Ender Dragon Slayer
 [https://www.ah-soft.com/voiceroid/akari/](https://www.ah-soft.com/voiceroid/akari/)  

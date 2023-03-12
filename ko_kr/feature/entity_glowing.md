@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/9nNApbn.png" width="200"/>
 
-남은 체력에 따라 발광 색이 변경됩니다。
+남은 체력에 따라 발광 색이 변경됩니다.
 
 <table>
     <tr>

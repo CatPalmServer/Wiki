@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Antenna
-Beep。
+Beep.
 
 ## Data
 <table>

@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Starlight Water
-Unfriend Water。
+Unfriend Water.
 
 ## Data
 <table>

@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Devil Horns
-Cute devilish horns。
+Cute devilish horns.
 
 ## Data
 <table>

@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Invisible light source
-A light source block without a hitbox。
+A light source block without a hitbox.
 
 ## Data
 <table>

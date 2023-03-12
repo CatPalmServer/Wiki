@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Wither Dust
-The negative counterpart of Bone Meal。
+The negative counterpart of Bone Meal.
 
 ## Data
 <table>

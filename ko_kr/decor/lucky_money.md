@@ -12,4 +12,4 @@
 ---
 
 ## 획득
-[방랑상인 거래](../feature/enhanced_wandering_trader.md)。
+[방랑상인 거래](../feature/enhanced_wandering_trader.md).

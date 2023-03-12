@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Bunny Ears
-Yummy Bunny。
+Yummy Bunny.
 
 ## Data
 <table>

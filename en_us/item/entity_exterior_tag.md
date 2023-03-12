@@ -22,4 +22,4 @@ Turns a mob or an armor stand into a player, just like a real player!
     <tr><td>Fake player success!</td><td><img src="https://i.imgur.com/pSmY96m.png" width="720"/></td></tr>
 </table>
 
-Using the player head will consume it.。
+Using the player head will consume it..

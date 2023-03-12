@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/85qqFOd.png" width="200"/>
 
-발광 색은 광물 종류에 따라 결정됩니다.。
+발광 색은 광물 종류에 따라 결정됩니다..
 
 <table>
     <tr>

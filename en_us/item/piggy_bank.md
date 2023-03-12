@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Coin bank
-Every little bit counts。
+Every little bit counts.
 
 ## Data
 <table>

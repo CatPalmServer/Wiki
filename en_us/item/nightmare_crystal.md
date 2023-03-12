@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Dream Weaver
-Highest Grade Material。  
+Highest Grade Material.  
 Not vulnerable to explosion, burning or damage.
 
 ## Data

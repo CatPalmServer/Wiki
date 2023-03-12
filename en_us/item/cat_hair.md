@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Cat Hair
-You can also get it by cuddling with too many cats.。
+You can also get it by cuddling with too many cats..
 
 ## Data
 <table>

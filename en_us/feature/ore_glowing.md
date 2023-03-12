@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/85qqFOd.png" width="200"/>
 
-The color of the glow depends on the type of mineral.。
+The color of the glow depends on the type of mineral..
 
 <table>
     <tr>
