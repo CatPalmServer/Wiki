@@ -46,7 +46,7 @@ Right-click to open menu after placing Advanced Hopper，
 ### Specify quantity
 When quantity is not specified, the maximum quantity will be moved each time.
 <table>
-    <tr><td>Change the quantity to the desired amount with an <a href="https://minecraft.fandom.com/zh/wiki/Anvil">Anvil</a></td><td><img src="https://i.imgur.com/XczBIwu.png" width="720"/></td></tr>
+    <tr><td>Change the quantity to the desired amount with an <a href="https://minecraft.fandom.com/wiki/Anvil">Anvil</a></td><td><img src="https://i.imgur.com/XczBIwu.png" width="720"/></td></tr>
     <tr><td>Place</td><td><img src="https://i.imgur.com/AJJzsmO.png" width="720"/></td></tr>
 </table>
 

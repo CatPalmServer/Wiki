@@ -13,7 +13,7 @@
 ---
 
 ## 入手
-[凋零怪](https://minecraft.fandom.com/zh/wiki/凋零怪)は5％の確率でドロップします。
+[凋零怪](https://minecraft.fandom.com/ja/wiki/凋零怪)は5％の確率でドロップします。
 
 ---
 

@@ -48,7 +48,7 @@
 각 색칠 캔버스의 해상도는 128x128이며 [색 보관함](palette.md)에서 사용할 수 있는 색상을 사용할 수 있습니다.
 
 ### 그림 그리기
-[펜](pen.md)과 [색 보관함](palette.md)이 필요하며, 색칠 캔버스를 [아이템 프레임](https://minecraft.fandom.com/zh/wiki/아이템_프레임)에 넣어야 합니다.
+[펜](pen.md)과 [색 보관함](palette.md)이 필요하며, 색칠 캔버스를 [아이템 프레임](https://minecraft.fandom.com/ko/wiki/아이템_프레임)에 넣어야 합니다.
 기본으로 손에 든 [펜](pen.md)을 색칠 캔버스에 맞추어 오른쪽 클릭하여 색상을 채울 수 있습니다. 펜의 크기: 
 
 <table>
@@ -62,7 +62,7 @@
 
 <img src="https://i.imgur.com/2lYxLbW.png" width="400"/>
 
-[아이템 프레임](https://minecraft.fandom.com/zh/wiki/아이템_프레임)을 회전시켜도 그림을 그릴 수 있습니다.。  
+[아이템 프레임](https://minecraft.fandom.com/ko/wiki/아이템_프레임)을 회전시켜도 그림을 그릴 수 있습니다.。  
 
 <table>
     <tr><td><img src="https://i.imgur.com/KfEiw0R.png" width="400"/></td><td><img src="https://i.imgur.com/ctU1P58.png" width="400"/></td></tr>
@@ -79,17 +79,17 @@
 
 ### 잠금
 잠금 후에는 그림을 그릴 수 없지만 대량으로 복사할 수 있습니다.
-[제작대](https://minecraft.fandom.com/zh/wiki/제작대)와 [유리판](https://minecraft.fandom.com/zh/wiki/유리판)에서 색칠된 그림 블록을 잠금할 수 있습니다.
+[제작대](https://minecraft.fandom.com/ko/wiki/제작대)와 [유리판](https://minecraft.fandom.com/ko/wiki/유리판)에서 색칠된 그림 블록을 잠금할 수 있습니다.
 
 <img src="https://i.imgur.com/Bu6NNuF.png" width="400"/>
 
 ### 복사
-[제작대](https://minecraft.fandom.com/zh/wiki/제작대)와 빈 색칠된 그림 블록에서 색칠된 그림 블록을 복사할 수 있습니다.
+[제작대](https://minecraft.fandom.com/ko/wiki/제작대)와 빈 색칠된 그림 블록에서 색칠된 그림 블록을 복사할 수 있습니다.
 
 <img src="https://i.imgur.com/hm76Etw.png" width="400"/>
 
 ### 복사금지
 색칠된 그림 블록을 [복사할 수 없습니다](#복사),
-[모루](https://minecraft.fandom.com/zh/wiki/모루)와 [가위](https://minecraft.fandom.com/zh/wiki/가위)에서 색칠된 그림 블록을 복사할 수 없도록 금지할 수 있습니다.
+[모루](https://minecraft.fandom.com/ko/wiki/모루)와 [가위](https://minecraft.fandom.com/ko/wiki/가위)에서 색칠된 그림 블록을 복사할 수 없도록 금지할 수 있습니다.
 
 <img src="https://i.imgur.com/pQQUJh7.png" width="400"/>

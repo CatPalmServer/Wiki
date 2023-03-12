@@ -198,10 +198,10 @@
 
 <table>
     <tr><td align="center">効果</td><td align="center">時間</td><td align="center">レベル</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/%E3%83%8F%E3%83%83%E3%83%88">吐き気</a></td><td align="center">00:04</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC">鈍化</a></td><td align="center">00:04</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/%E6%8E%A1%E9%87%98%E7%96%B2%E5%8B%9E">採掘疲労</a></td><td align="center">00:04</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/%E3%82%8F%E3%82%89%E3%81%84">弱化</a></td><td align="center">00:04</td><td align="center">III</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/ハート">吐き気</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/スローフォール">鈍化</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/採掘疲労">採掘疲労</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/やられたらやり返す">弱化</a></td><td align="center">00:04</td><td align="center">III</td></tr>
 </table>
 
 シルクタッチのTNTは、ブロックを破壊する際、シルクタッチを持ったツールで採掘するのと同じように振る舞います。

@@ -7,8 +7,8 @@
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>악몽의 결정이 아닌 것</td><td><a href="https://minecraft.fandom.com/zh/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/zh/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/zh/wiki/실명_촉">실명 촉</a>、<a href="https://minecraft.fandom.com/zh/wiki/소멸_저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/zh/wiki/내구성">내구성</a>、<a href="https://minecraft.fandom.com/zh/wiki/수리">수리</a></td></tr>
-            <tr><td>악몽의 결정</td><td><a href="https://minecraft.fandom.com/zh/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/zh/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/zh/wiki/실명_촉">실명 촉</a>、<a href="https://minecraft.fandom.com/zh/wiki/소멸_저주">소멸 저주</a></td></tr>
+            <tr><td>악몽의 결정이 아닌 것</td><td><a href="https://minecraft.fandom.com/ko/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/ko/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/ko/wiki/실명_촉">실명 촉</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구성">내구성</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>악몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/ko/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/ko/wiki/실명_촉">실명 촉</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸 저주</a></td></tr>
         </table>
     </td></tr>
 </table>

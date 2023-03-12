@@ -4,7 +4,7 @@ In the Overworld and the Nether, they attempt to generate every 4 game ticks in 
 
 <table>
     <tr>
-        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/Soul_Sand_Valley">Soul Sand Valley</a></td>
+        <td align="center"><a href="https://minecraft.fandom.com/wiki/Soul_Sand_Valley">Soul Sand Valley</a></td>
         <td align="center">20%</td>
     </tr>
     <tr>

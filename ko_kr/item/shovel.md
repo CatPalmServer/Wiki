@@ -7,8 +7,8 @@
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>비몽사몽 결정</td><td><a href="https://minecraft.fandom.com/zh/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/zh/wiki/실크터치">실크터치</a>、<a href="https://minecraft.fandom.com/zh/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/zh/wiki/소멸의저주">소멸의 저주</a>、<a href="https://minecraft.fandom.com/zh/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/zh/wiki/수리">수리</a></td></tr>
-            <tr><td>몽상 결정</td><td><a href="https://minecraft.fandom.com/zh/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/zh/wiki/실크터치">실크터치</a>、<a href="https://minecraft.fandom.com/zh/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/zh/wiki/소멸의저주">소멸의 저주</a></td></tr>
+            <tr><td>비몽사몽 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/ko/wiki/실크터치">실크터치</a>、<a href="https://minecraft.fandom.com/ko/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸의 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>몽상 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/ko/wiki/실크터치">실크터치</a>、<a href="https://minecraft.fandom.com/ko/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸의 저주</a></td></tr>
         </table>
     </td></tr>
 </table>

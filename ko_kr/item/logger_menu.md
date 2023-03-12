@@ -83,10 +83,10 @@
         <td align="center">변경</td>
     </tr>
     <tr>
-        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/村民#交易">거래</a></td>
+        <td align="center"><a href="https://minecraft.fandom.com/ko/wiki/주민#거래">거래</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/绳栓">줄 달기</a></td>
+        <td align="center"><a href="https://minecraft.fandom.com/ko/wiki/리드">줄 달기</a></td>
     </tr>
 </table>
 

@@ -6,7 +6,7 @@ Come here, cute kitty~ Hehehe~
 <table>
     <tr><td align="end">Image</td><td><img src="https://i.imgur.com/7vNTzNf.png" width="128"/></td></tr>
     <tr><td align="end">Stack</td><td>1</td></tr>
-    <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/zh/wiki/耐久">Durability</a>, <a href="https://minecraft.fandom.com/zh/wiki/修補">Mending</a></td></tr>
+    <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/wiki/Mending">Durability</a>, <a href="https://minecraft.fandom.com/wiki/Anvil">Mending</a></td></tr>
 </table>
 
 ---

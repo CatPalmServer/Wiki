@@ -35,7 +35,7 @@ Discordグループ(../feature/discord_server.md)のストア(https://discord.co
 
 ## 使用方法
 ### アイテム
-鉄床（https://minecraft.fandom.com/zh/wiki/鐵砧）内の[魂の結びつきコアは、ツール/武器と組み合わせることで`1`年間の[魂の結びつき]（../feature/soul_link.md）保護を与えます。ただし、以下の材料は使用できません：
-- [三叉戟]（https://minecraft.fandom.com/zh/wiki/三叉戟）
+鉄床（https://minecraft.fandom.com/ja/wiki/鉄床#名称付け
+- [三叉戟]（https://minecraft.fandom.com/ja/wiki/トライデント
 
-鉄床（https://minecraft.fandom.com/zh/wiki/鐵砧）内の魂解放コアは、ツール/武器と組み合わせることで[魂の結びつき]（../feature/soul_link.md）保護を解除することができます。
+鉄床（https://minecraft.fandom.com/ja/wiki/鉄床#名称付け

@@ -6,7 +6,7 @@ Hey everyone, come over here! There's fresh fish.
 <table>
     <tr><td align="end">Image</td><td><img src="https://i.imgur.com/4zxLVnc.png" width="128"/></td></tr>
     <tr><td align="end">Stack</td><td>1</td></tr>
-    <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/zh/wiki/Durability">Durability</a></td></tr>
+    <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/wiki/Durability">Durability</a></td></tr>
 </table>
 
 ---
@@ -35,6 +35,6 @@ Enchanting with Durability increases its effectiveness.：
     <tr><td align="center">III</td><td align="center">5minutes</td></tr>
 </table>
 
-Renaming with an [Anvil](https://minecraft.fandom.com/zh/wiki/Anvil) adds a note:
+Renaming with an [Anvil](https://minecraft.fandom.com/wiki/Anvil) adds a note:
 <img src="https://i.imgur.com/AaLEzgA.png" width="720"/>  
 <img src="https://i.imgur.com/aGnQraf.png" width="720"/>

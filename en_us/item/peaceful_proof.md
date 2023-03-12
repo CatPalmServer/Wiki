@@ -6,7 +6,7 @@ You can also check out the [Peaceful Block] (peaceful_block.md).
 <table>
     <tr><td align="end">Image</td><td><img src="https://i.imgur.com/j5qpTgm.png" width="128"/></td></tr>
     <tr><td align="end">Stack</td><td>1</td></tr>
-    <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/zh/wiki/Mending">Mending</a></td></tr>
+    <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/wiki/Mending">Mending</a></td></tr>
 </table>
 
 ---

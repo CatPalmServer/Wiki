@@ -48,8 +48,8 @@
     <tr><td>前回の死亡地点</td><td><img src="https://i.imgur.com/KutZ4EF.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td>領地の中心</td><td><img src="https://i.imgur.com/eHl9Jv0.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td><a href="https://minecraft.fandom.com/ja/wiki/緑林府邸">緑林府邸</a></td><td><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td colspan="3"></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/ja/wiki/%E6%B5%B7%E5%BA%95%E7%A5%9E%E5%A0%82">海底神殿</a></td><td><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td colspan="3"></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/ja/wiki/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88">埋蔵された宝</a></td><td><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ja/wiki/海底神殿">海底神殿</a></td><td><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ja/wiki/チェスト">埋蔵された宝</a></td><td><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td rowspan="16">記録ポイント</td><td><img src="https://i.imgur.com/am90YJk.png" width="32"/></td><td><img src="https://i.imgur.com/fzle1wS.png" width="32"/></td><td><img src="https://i.imgur.com/TiF8FjY.png" width="32"/></td><td><img src="https://i.imgur.com/j3vzW8E.png" width="32"/></td></tr>
     <tr><td><img src="https://i.imgur.com/5Y1w0tr.png" width="32"/></td><td><img src="https://i.imgur.com/LBL6ozy.png" width="32"/></td><td><img src="https://i.imgur.com/yfJvb4v.png" width="32"/></td><td><img src="https://i.imgur.com/P8ehHAI.png" width="32"/></td></tr>
     <tr><td><img src="https://i.imgur.com/Juq8YRP.png" width="32"/></td><td><img src="https://i.imgur.com/zmvi2Fl.png" width="32"/></td><td><img src="https://i.imgur.com/elPVGhz.png" width="32"/></td><td><img src="https://i.imgur.com/1L2c9qf.png" width="32"/></td></tr>

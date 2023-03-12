@@ -5,7 +5,7 @@
 ### 90% (特定の祭日 89.5%)
 [銅貨](../item/coin.md)x1で交換でき、最大4回まで。
 
-<a href="https://minecraft.fandom.com/zh/wiki/花"><img src="https://i.imgur.com/WydimGB.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/ja/wiki/花"><img src="https://i.imgur.com/WydimGB.png" width="48"/></a>
 <a href="../food/beef_jerky.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
 <a href="../food/mouldy_bread.md"><img src="https://i.imgur.com/peF2d4K.png" width="48"/></a>
 <a href="../food/cheese.md"><img src="https://i.imgur.com/olzWTz3.png" width="48"/></a>
@@ -27,7 +27,7 @@
 <a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/JpzWsch.png" width="48"/></a>
 <a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/BfufQi6.png" width="48"/></a>
 <a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/JeIiF9r.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/エクスペリエンスポーション"><img src="https://i.imgur.com/Qwc39mw.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/ja/wiki/エクスペリエンスポーション"><img src="https://i.imgur.com/Qwc39mw.png" width="48"/></a>
 
 ### 6.5%
 [銅貨](../item/coin.md)x12で交換でき、最大1回まで。
@@ -35,12 +35,12 @@
 <a href="../item/back.md"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></a>
 <a href="../item/transfer.md"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></a>
 <a href="../item/random_transfer.md"><img src="https://i.imgur.com/ME1CeOE.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/ネザースター"><img src="https://i.imgur.com/LGa7OYa.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/ドラゴンの息"><img src="https://i.imgur.com/hhnlgTn.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/馬の鎧"><img src="https://i.imgur.com/bZRnEBU.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/馬の鎧"><img src="https://i.imgur.com/KhHJqF4.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/馬の鎧"><img src="https://i.imgur.com/WGA0nFt.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/馬の鎧"><img src="https://i.imgur.com/51rbY1B.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/ja/wiki/ネザースター"><img src="https://i.imgur.com/LGa7OYa.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/ja/wiki/ドラゴンのブレス"><img src="https://i.imgur.com/hhnlgTn.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/ja/wiki/馬の鎧"><img src="https://i.imgur.com/bZRnEBU.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/ja/wiki/馬の鎧"><img src="https://i.imgur.com/KhHJqF4.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/ja/wiki/馬の鎧"><img src="https://i.imgur.com/WGA0nFt.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/ja/wiki/馬の鎧"><img src="https://i.imgur.com/51rbY1B.png" width="48"/></a>
 <a href="../item/peaceful_proof.md"><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></a>
 <a href="../item/dragon_hammer.md"><img src="https://i.imgur.com/tvhOfLt.gif" width="48"/></a>
 

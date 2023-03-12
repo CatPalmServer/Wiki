@@ -48,7 +48,7 @@ Hold a blank canvas in the main hand to activate it.：
 Each canvas has a resolution of 128x128, and available colors can be found in the [palette](palette.md).
 
 ### Painting
-Requires a [paintbrush](pen.md) and a [palette](palette.md), and place the canvas in an [item frame](https://minecraft.fandom.com/zh/wiki/物品展示框).
+Requires a [paintbrush](pen.md) and a [palette](palette.md), and place the canvas in an [item frame](https://minecraft.fandom.com/wiki/Item_Frame).
 Hold the [paintbrush](pen.md) in the main hand and right-click on the canvas to color. Brush size:
 
 <table>
@@ -79,17 +79,17 @@ Item Frame Rotates and Still Can Be Painted。
 
 ### Lock
 Can no longer be painted after locking, but can still be batch copied. 
-Colored canvas can be locked at [cartography table](https://minecraft.fandom.com/zh/wiki/製圖台) and [glass pane](https://minecraft.fandom.com/zh/wiki/玻璃片).
+Colored canvas can be locked at [cartography table](https://minecraft.fandom.com/wiki/Cartography_Table) and [glass pane](https://minecraft.fandom.com/wiki/Glass_Pane).
 
 <img src="https://i.imgur.com/Bu6NNuF.png" width="400"/>
 
 ### Copy
-Colored canvas can be copied at [cartography table](https://minecraft.fandom.com/zh/wiki/製圖台) and blank colored canvas.
+Colored canvas can be copied at [cartography table](https://minecraft.fandom.com/wiki/Cartography_Table) and blank colored canvas.
 
 <img src="https://i.imgur.com/hm76Etw.png" width="400"/>
 
 ### Prohibit copying
 Prohibit copying of colored canvas. (#Copy),
-Colored canvas can be prohibited from copying at [anvil](https://minecraft.fandom.com/zh/wiki/鐵砧) and [shears](https://minecraft.fandom.com/zh/wiki/剪刀).
+Colored canvas can be prohibited from copying at [anvil](https://minecraft.fandom.com/wiki/Anvil) and [shears](https://minecraft.fandom.com/wiki/Shears).
 
 <img src="https://i.imgur.com/pQQUJh7.png" width="400"/>

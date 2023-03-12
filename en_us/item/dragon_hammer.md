@@ -6,7 +6,7 @@ High damage, watch me go! Sizzling!
 <table>
     <tr><td align="end">Image</td><td><img src="https://i.imgur.com/tvhOfLt.gif" width="128"/></td></tr>
     <tr><td align="end">Stack</td><td>1</td></tr>
-    <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/zh/wiki/Sharpness">Sharpness</a></td></tr>
+    <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/wiki/Sharpness">Sharpness</a></td></tr>
 </table>
 
 ---

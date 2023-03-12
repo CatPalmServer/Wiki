@@ -198,10 +198,10 @@ Players within range will receive negative status effects：
 
 <table>
     <tr><td align="center">Effect</td><td align="center">Duration</td><td align="center">Level</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/反胃">Nausea</a></td><td align="center">00:04</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/緩速">Slowness</a></td><td align="center">00:04</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/挖掘疲勞">Mining Fatigue</a></td><td align="center">00:04</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/虛弱">Weakness</a></td><td align="center">00:04</td><td align="center">III</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Nausea">Nausea</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Slowness">Slowness</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Mining_Fatigue">Mining Fatigue</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Weakness">Weakness</a></td><td align="center">00:04</td><td align="center">III</td></tr>
 </table>
 
-The Advanced TNT of Silk Touch acts like using a tool with [Silk Touch](https://minecraft.fandom.com/zh/wiki/絲綢之觸).
+The Advanced TNT of Silk Touch acts like using a tool with [Silk Touch](https://minecraft.fandom.com/wiki/Silk_Touch).

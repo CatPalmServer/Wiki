@@ -51,7 +51,7 @@ Hold an active land claim book in your dominant hand and right-click on a [Land 
     <tr><td><img src="https://i.imgur.com/x9meQTF.png" width="400"/></td><td><img src="https://i.imgur.com/h2Kovir.png" width="400"/></td></tr>
 </table>
 
-If the territory generator (land_block.md) has already been written, it must be dismantled before it can be reused. The placement of the territory is the same as that of the beacon (https://minecraft.fandom.com/zh/wiki/烽火台):
+If the territory generator (land_block.md) has already been written, it must be dismantled before it can be reused. The placement of the territory is the same as that of the beacon (https://minecraft.fandom.com/wiki/Campfire):
 
 <img src="https://i.imgur.com/nW7GC4b.png" width="720"/>  
 
@@ -84,7 +84,7 @@ If you accidentally lose the activated territory group book, there is still a wa
 Hold the unused territory group book in your dominant hand and right-click on the territory generator (land_block.md) to restore the written territory group to the book.
 
 ### Rename.
-Change the name of the activated territory group book on the anvil (https://minecraft.fandom.com/zh/wiki/鐵砧) to the desired name, and the name of the territory group will change accordingly.
+Change the name of the activated territory group book on the anvil (https://minecraft.fandom.com/wiki/Anvil) to the desired name, and the name of the territory group will change accordingly.
 Up to 36 arbitrary characters can be entered.
 Due to the caching mechanism, some redirects may take up to 30 seconds for the new name to take effect.
 
@@ -182,14 +182,14 @@ and will disappear after the update.
   [Friendly Mob Leash](rope.md) usage
   [Hostile Mob Leash](rope.md) usage
 - ### T Trigger mechanism
-  [Tripwire Hook] (https://minecraft.fandom.com/zh/wiki/絆線鉤) triggered
-  [Trapped Chest] (https://minecraft.fandom.com/zh/wiki/陷阱儲物箱) used
-  [Pressure Plate] (https://minecraft.fandom.com/zh/wiki/壓力板) triggered
+  [Tripwire Hook] (https://minecraft.fandom.com/wiki/Fishing_Rod) triggered
+  [Trapped Chest] (https://minecraft.fandom.com/wiki/Trapped_Chest) used
+  [Pressure Plate] (https://minecraft.fandom.com/wiki/Pressure_Plate) triggered
 - ### U Bucket
-  [Bucket] (https://minecraft.fandom.com/zh/wiki/水桶) used
-  [Lava Bucket] (https://minecraft.fandom.com/zh/wiki/熔岩桶) used
+  [Bucket] (https://minecraft.fandom.com/wiki/Water_Bucket) used
+  [Lava Bucket] (https://minecraft.fandom.com/wiki/Lava_Bucket) used
 - ### V PVP
-  [Player] (https://minecraft.fandom.com/zh/wiki/玩家) damaged
+  [Player] (https://minecraft.fandom.com/wiki/Player) damaged
 - ### Y Fly
   [Land Flying Device] (land_flying_device.md) flying
   [Cat Bowl] (../feature/cat_bowl.md) observer switch

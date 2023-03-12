@@ -7,8 +7,8 @@
     <tr><td align="end">スタック</td><td>1</td></tr>
     <tr><td align="end">エンチャント</td><td>
         <table>
-            <tr><td>悪夢の結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/zh/wiki/絲綢之觸">シルクタッチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/效率">効率</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修繕</a></td></tr>
-            <tr><td>夢魘結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/zh/wiki/絲綢之觸">シルクタッチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/效率">効率</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失の呪い</a></td></tr>
+            <tr><td>悪夢の結晶</td><td><a href="https://minecraft.fandom.com/ja/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/ja/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/効率">効率</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅詛咒">消失の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
+            <tr><td>夢魘結晶</td><td><a href="https://minecraft.fandom.com/ja/wiki/幸運">幸運</a>、<a href="https://minecraft.fandom.com/ja/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/効率">効率</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅詛咒">消失の呪い</a></td></tr>
         </table>
     </td></tr>
 </table>

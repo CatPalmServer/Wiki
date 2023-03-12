@@ -13,7 +13,7 @@ Not vulnerable to explosion, burning or damage.
 ---
 
 ## Obtain
-[Ender Dragon](https://minecraft.fandom.com/zh/wiki/終界龍) has a 1% chance to drop.
+[Ender Dragon](https://minecraft.fandom.com/wiki/Ender_Dragon) has a 1% chance to drop.
 
 ---
 

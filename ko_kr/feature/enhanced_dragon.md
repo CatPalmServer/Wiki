@@ -29,4 +29,4 @@
 ---
 
 ## 제한
-[엔드 게이트웨이](https://minecraft.fandom.com/zh/wiki/終界傳送門) 반경`200`블록 이내에서는 [랜드 비행장치](../item/land_flying_device.md) 사용이 제한됩니다.
+[엔드 게이트웨이](https://minecraft.fandom.com/ko/wiki/엔드_게이트) 반경`200`블록 이내에서는 [랜드 비행장치](../item/land_flying_device.md) 사용이 제한됩니다.

@@ -5,7 +5,7 @@ The combination of flight and wings, it's amazing.
 ## Data
 <table>
     <tr><td align="end">Stack</td><td>1</td></tr>
-    <tr><td align="end">Enchantments</td><td><a href="https://minecraft.fandom.com/zh/wiki/Binding_Curse">Binding Curse</a>, <a href="https://minecraft.fandom.com/zh/wiki/Vanishing_Curse">Vanishing Curse</a>, <a href="https://minecraft.fandom.com/zh/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/zh/wiki/Mending">Mending</a></td></tr>
+    <tr><td align="end">Enchantments</td><td><a href="https://minecraft.fandom.com/wiki/Binding_Curse">Binding Curse</a>, <a href="https://minecraft.fandom.com/wiki/Curse_of_Vanishing">Vanishing Curse</a>, <a href="https://minecraft.fandom.com/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/wiki/Mending">Mending</a></td></tr>
 </table>
 <table>
     <tr><td align="center">Durability</td><td align="center">Image</td></tr>

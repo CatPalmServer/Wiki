@@ -22,7 +22,7 @@ Two wishes fulfilled at once。
 ---
 
 ## Crafting
-Can be combined in [anvil](https://minecraft.fandom.com/zh/wiki/铁砧) with [elytra](https://minecraft.fandom.com/zh/wiki/鞘翅)+`30` levels of experience, and can be disassembled with [shears](https://minecraft.fandom.com/zh/wiki/剪刀)+`5` levels of experience:
+Can be combined in [anvil](https://minecraft.fandom.com/wiki/Anvil) with [elytra](https://minecraft.fandom.com/wiki/Elytra)+`30` levels of experience, and can be disassembled with [shears](https://minecraft.fandom.com/wiki/Shears)+`5` levels of experience:
 
 <table>
     <tr><td align="center">Material</td><td align="center" colspan="5">Combining</td><td align="center" colspan="5">Disassembling</td></tr>

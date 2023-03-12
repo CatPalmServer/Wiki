@@ -36,4 +36,4 @@
 ---
 
 ## 사용
-착용 후 [나이트메어](https://minecraft.fandom.com/zh/wiki/夜魅) 생성을 막을 수 있습니다.
+착용 후 [나이트메어](https://minecraft.fandom.com/ko/wiki/나이트메어) 생성을 막을 수 있습니다.

@@ -7,8 +7,8 @@
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>비 몽타나의 결정</td><td><a href="https://minecraft.fandom.com/zh/wiki/강력">강력</a>、<a href="https://minecraft.fandom.com/zh/wiki/충격">충격</a>、<a href="https://minecraft.fandom.com/zh/wiki/화염">화염</a>、<a href="https://minecraft.fandom.com/zh/wiki/무한">무한</a>、<a href="https://minecraft.fandom.com/zh/wiki/소멸의_저주">소멸의 저주</a>、<a href="https://minecraft.fandom.com/zh/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/zh/wiki/수리">수리</a></td></tr>
-            <tr><td>악몽 결정</td><td><a href="https://minecraft.fandom.com/zh/wiki/강력">강력</a>、<a href="https://minecraft.fandom.com/zh/wiki/충격">충격</a>、<a href="https://minecraft.fandom.com/zh/wiki/화염">화염</a>、<a href="https://minecraft.fandom.com/zh/wiki/무한">무한</a>、<a href="https://minecraft.fandom.com/zh/wiki/소멸저주">소멸저주</a></td></tr>
+            <tr><td>비 몽타나의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/강력">강력</a>、<a href="https://minecraft.fandom.com/ko/wiki/충격">충격</a>、<a href="https://minecraft.fandom.com/ko/wiki/화염">화염</a>、<a href="https://minecraft.fandom.com/ko/wiki/무한">무한</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸의 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>악몽 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/강력">강력</a>、<a href="https://minecraft.fandom.com/ko/wiki/충격">충격</a>、<a href="https://minecraft.fandom.com/ko/wiki/화염">화염</a>、<a href="https://minecraft.fandom.com/ko/wiki/무한">무한</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸저주</a></td></tr>
         </table>
     </td></tr>
 </table>

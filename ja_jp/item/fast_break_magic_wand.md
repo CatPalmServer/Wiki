@@ -7,8 +7,8 @@
     <tr><td align="end">スタック</td><td>1</td></tr>
     <tr><td align="end">エンチャント</td><td>
         <table>
-            <tr><td>ノーム結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修繕">修繕</a></td></tr>
-            <tr><td>夢魘結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消失の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/シルクタッチ">シルクタッチ</a></td></tr>
+            <tr><td>ノーム結晶</td><td><a href="https://minecraft.fandom.com/ja/wiki/消滅詛咒">消失の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/シルクタッチ">シルクタッチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
+            <tr><td>夢魘結晶</td><td><a href="https://minecraft.fandom.com/ja/wiki/消滅詛咒">消失の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/シルクタッチ">シルクタッチ</a></td></tr>
         </table>
     </td></tr>
 </table>
@@ -163,7 +163,7 @@
     <tr><td>採掘疲れあり</td><td><code>強制ダメージ</code>=最大値(<code>1</code>,(<code>ブロックの硬さ</code>/<code>採掘速度</code>)x<code>40</code>x<code>採掘疲れレベル</code>)</td></tr>
 </table>
 
-[耐久](https://minecraft.fandom.com/zh/wiki/耐久)損壊抑制：
+[耐久](https://minecraft.fandom.com/ja/wiki/耐久)損壊抑制：
 
 <table>
     <tr><td align="center">レベル</td><td align="center">抑制</td></tr>

@@ -21,4 +21,4 @@ Protection from cats。
 ---
 
 ## Use
-Putting it in your backpack can prevent the generation of [nightmare creatures](https://minecraft.fandom.com/zh/wiki/夜魅). One Cat Amulet is consumed for each prevention.
+Putting it in your backpack can prevent the generation of [nightmare creatures](https://minecraft.fandom.com/wiki/Phantom). One Cat Amulet is consumed for each prevention.

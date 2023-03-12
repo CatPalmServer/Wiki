@@ -13,11 +13,11 @@
 
 <table>
     <tr><td align="center">効果</td><td align="center">時間</td><td align="center">レベル</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/Wither">ウィザー</a></td><td align="center">00:03</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/虚弱">虚弱</a></td><td align="center">00:01</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/疲労">疲労</a></td><td align="center">00:01</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/空腹">空腹</a></td><td align="center">00:01</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/鈍化">鈍化</a></td><td align="center">00:01</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/ウィザー">ウィザー</a></td><td align="center">00:03</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/弱体化">虚弱</a></td><td align="center">00:01</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/疲労">疲労</a></td><td align="center">00:01</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/空腹">空腹</a></td><td align="center">00:01</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ja/wiki/鈍化">鈍化</a></td><td align="center">00:01</td><td align="center">I</td></tr>
 </table>
 
 ※ 時間は重ねて適用されます。

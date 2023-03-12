@@ -411,7 +411,7 @@
 
 ## データ
 ### 強化
-<a href="https://minecraft.fandom.com/zh/wiki/铁砧">鉄砧</a>で<b>竜の牙</b>、<b>龍の血の牙</b>、<b>悪夢の結晶</b>と合成し、確率的に強化レベルを上げることができます:
+<a href="https://minecraft.fandom.com/ja/wiki/鉄砧">鉄砧</a>で<b>竜の牙</b>、<b>龍の血の牙</b>、<b>悪夢の結晶</b>と合成し、確率的に強化レベルを上げることができます:
 
 <table>
     <tr>

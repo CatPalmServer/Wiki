@@ -39,8 +39,8 @@ Not vulnerable to explosion, burning or damage.
 
 ## Obtain
 
-Nightmare Crystal Ore can only be mined with [Dragon Tooth Hoe, Blood Dragon Tooth Hoe, Nightmare Crystal Hoe ](pickaxe.md), [Dragon Tooth Destruction Tool, Blood Dragon Tooth Destruction Tool, Nightmare Crystal Destruction Tool ](fast_break_magic_wand.md), and will drop 1 Nightmare Crystal Fragment without using [Silk Touch ](https://minecraft.fandom.com/zh/wiki/絲綢之觸).
-In the [End](https://minecraft.fandom.com/zh/wiki/終界), there is a 0.01% chance per block to attempt to generate a Nightmare Crystal Ore at heights 20-60. If the selected coordinates are not [End Stone](https://minecraft.fandom.com/zh/wiki/終界石), the generation attempt is abandoned.
+Nightmare Crystal Ore can only be mined with [Dragon Tooth Hoe, Blood Dragon Tooth Hoe, Nightmare Crystal Hoe ](pickaxe.md), [Dragon Tooth Destruction Tool, Blood Dragon Tooth Destruction Tool, Nightmare Crystal Destruction Tool ](fast_break_magic_wand.md), and will drop 1 Nightmare Crystal Fragment without using [Silk Touch ](https://minecraft.fandom.com/wiki/Silk_Touch).
+In the [End](https://minecraft.fandom.com/wiki/The_End), there is a 0.01% chance per block to attempt to generate a Nightmare Crystal Ore at heights 20-60. If the selected coordinates are not [End Stone](https://minecraft.fandom.com/wiki/End_Stone), the generation attempt is abandoned.
 
 ---
 

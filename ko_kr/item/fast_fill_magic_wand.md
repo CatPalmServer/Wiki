@@ -7,8 +7,8 @@
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>악몽 결정 아님</td><td><a href="https://minecraft.fandom.com/zh/wiki/소멸 저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/zh/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/zh/wiki/수리">수리</a></td></tr>
-            <tr><td>악몽 결정</td><td><a href="https://minecraft.fandom.com/zh/wiki/소멸 저주">소멸 저주</a></td></tr>
+            <tr><td>악몽 결정 아님</td><td><a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>악몽 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a></td></tr>
         </table>
     </td></tr>
 </table>
@@ -162,7 +162,7 @@
     <tr><td align="center">창조자</td><td align="center">무한</td><td align="center">63x63</td><td align="center">2916</td></tr>
 </table>
 
-[내구도](https://minecraft.fandom.com/zh/wiki/내구도) 손상 억제:
+[내구도](https://minecraft.fandom.com/ko/wiki/내구도) 손상 억제:
 
 <table>
     <tr><td align="center">레벨</td><td align="center">억제</td></tr>

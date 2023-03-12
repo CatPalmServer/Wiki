@@ -21,7 +21,7 @@ You can respawn in the game, but not in real life.
             <table>
                 <tr><td align="end">Image</td><td><img src="https://i.imgur.com/1KwfKwH.png" width="128"/></td></tr>
                 <tr><td align="end">Stack</td><td>1</td></tr>
-                <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/zh/wiki/Mending">Mending</a></td></tr>
+                <tr><td align="end">Enchantment</td><td><a href="https://minecraft.fandom.com/wiki/Mending">Mending</a></td></tr>
             </table>
         </td>
         <td>

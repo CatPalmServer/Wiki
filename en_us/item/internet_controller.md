@@ -60,7 +60,7 @@ When any trigger is activated by a redstone signal, all monitors with the same n
 
 <table>
     <tr><td>Before change</td><td><img src="https://i.imgur.com/1oUzbAH.png" width="720"/></td></tr>
-    <tr><td>Rename in an <a href="https://minecraft.fandom.com/zh/wiki/Anvil">Anvil</a> to a secret name</td><td><img src="https://i.imgur.com/cmMcMvm.png" width="720"/><br/>※ The longer the name, the better, and do not reveal it to others. </td></tr>
+    <tr><td>Rename in an <a href="https://minecraft.fandom.com/wiki/Anvil">Anvil</a> to a secret name</td><td><img src="https://i.imgur.com/cmMcMvm.png" width="720"/><br/>※ The longer the name, the better, and do not reveal it to others. </td></tr>
     <tr><td>Placed on the ground</td><td><img src="https://i.imgur.com/la2jWiu.png" width="720"/></td></tr>
     <tr><td>Activated by a redstone signal</td><td><img src="https://i.imgur.com/15HpOhT.png" width="720"/></td></tr>
 </table>

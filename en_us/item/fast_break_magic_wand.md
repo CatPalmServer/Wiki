@@ -7,8 +7,8 @@ A must-have tool for builders and lazy people。
     <tr><td align="end">Stack</td><td>1</td></tr>
     <tr><td align="end">Enchantments</td><td>
         <table>
-            <tr><td>Non-nightmare crystal</td><td><a href="https://minecraft.fandom.com/zh/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/zh/wiki/Silk_Touch">Silk Touch</a>, <a href="https://minecraft.fandom.com/zh/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/zh/wiki/Mending">Mending</a></td></tr>
-            <tr><td>Nightmare crystal</td><td><a href="https://minecraft.fandom.com/zh/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/zh/wiki/Silk_Touch">Silk Touch</a></td></tr>
+            <tr><td>Non-nightmare crystal</td><td><a href="https://minecraft.fandom.com/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/wiki/Silk_Touch">Silk Touch</a>, <a href="https://minecraft.fandom.com/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/wiki/Mending">Mending</a></td></tr>
+            <tr><td>Nightmare crystal</td><td><a href="https://minecraft.fandom.com/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/wiki/Silk_Touch">Silk Touch</a></td></tr>
         </table>
     </td></tr>
 </table>

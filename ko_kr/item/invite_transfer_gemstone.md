@@ -6,7 +6,7 @@
 <table>
     <tr><td align="end">이미지</td><td><img src="https://i.imgur.com/4zxLVnc.png" width="128"/></td></tr>
     <tr><td align="end">스택</td><td>1</td></tr>
-    <tr><td align="end">마법</td><td><a href="https://minecraft.fandom.com/zh/wiki/내구도">내구도</a></td></tr>
+    <tr><td align="end">마법</td><td><a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a></td></tr>
 </table>
 
 ---
@@ -35,6 +35,6 @@
     <tr><td align="center">III</td><td align="center">5분</td></tr>
 </table>
 
-[모루](https://minecraft.fandom.com/zh/wiki/铁砧)에서 재명명](https://minecraft.fandom.com/zh/wiki/铁砧#重命名)하면 참고 사항을 추가할 수 있습니다:
+[모루](https://minecraft.fandom.com/ko/wiki/모루)에서 재명명](https://minecraft.fandom.com/ko/wiki/모루#이름_바꾸기)하면 참고 사항을 추가할 수 있습니다:
 <img src="https://i.imgur.com/AaLEzgA.png" width="720"/>  
 <img src="https://i.imgur.com/aGnQraf.png" width="720"/>

@@ -32,7 +32,7 @@ Install several and just remember their names~
 
 ## Crafting
 See [Record Point Gemstone](record_point_gemstone.md).
-Rename the recordable flags to the name of the teleportation point you want on the [Anvil](https://minecraft.fandom.com/zh/wiki/鐵砧).
+Rename the recordable flags to the name of the teleportation point you want on the [Anvil](https://minecraft.fandom.com/wiki/Anvil).
 <img src="https://i.imgur.com/3YdOF91.png" width="480"/>
 
 ---

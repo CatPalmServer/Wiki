@@ -13,11 +13,11 @@
 
 <table>
     <tr><td align="center">효과</td><td align="center">시간</td><td align="center">레벨</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/%EA%B3%BC%EC%A0%9C%EB%A7%8C_%ED%98%B8%EC%8A%A4%ED%85%9C">위더</a></td><td align="center">00:03</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/%EB%AF%B8%EB%8B%A4%EB%A7%81">미다매기</a></td><td align="center">00:01</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/疲劳">지침증</a></td><td align="center">00:01</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/饥饿">굶주림</a></td><td align="center">00:01</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/缓慢">느림</a></td><td align="center">00:01</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/제작_테이블">위더</a></td><td align="center">00:03</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/미다링">미다매기</a></td><td align="center">00:01</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/피로">지침증</a></td><td align="center">00:01</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/굶주림">굶주림</a></td><td align="center">00:01</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/느림">느림</a></td><td align="center">00:01</td><td align="center">I</td></tr>
 </table>
 
 ※ 시간이 누적됩니다

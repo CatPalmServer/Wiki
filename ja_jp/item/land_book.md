@@ -51,7 +51,7 @@
     <tr><td><img src="https://i.imgur.com/x9meQTF.png" width="400"/></td><td><img src="https://i.imgur.com/h2Kovir.png" width="400"/></td></tr>
 </table>
 
-もし領地発生装置（land_block.md）がすでに書き込まれている場合は、再使用する前に取り除く必要があります。領地の配置方法は、烽火台（https://minecraft.fandom.com/zh/wiki/烽火台）と同じです：
+もし領地発生装置（land_block.md）がすでに書き込まれている場合は、再使用する前に取り除く必要があります。領地の配置方法は、烽火台（https://minecraft.fandom.com/ja/wiki/ビーコン
 
 <img src="https://i.imgur.com/nW7GC4b.png" width="720"/>  
 
@@ -84,7 +84,7 @@
 アクティブでない領地グループの書を持って、領地ブロック (land_block.md) を右クリックすると、書に書かれている領地グループを復元できます。
 
 ### 名前を変更する
-アクティブな領地グループの書を鉄砧 (https://minecraft.fandom.com/zh/wiki/鐵砧) でクリックして、名前を変更することができます。領地グループの名前も変更されます。
+アクティブな領地グループの書を鉄砧 (https://minecraft.fandom.com/ja/wiki/金床) でクリックして、名前を変更することができます。領地グループの名前も変更されます。
 最大36文字まで入力できます。
 一部の変更は、キャッシュの仕組みにより、30秒以上かかる場合があります。
 
@@ -138,58 +138,58 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 ```yaml
 (ALL)=A
 ```
-[防具立て](https://minecraft.fandom.com/zh/wiki/盔甲座)の設置、ダメージ、装備
+[防具立て](https://minecraft.fandom.com/ja/wiki/防具立て)の設置、ダメージ、装備
 ```yaml
 #(ALL)=A
 ```
-[ボート](https://minecraft.fandom.com/zh/wiki/船)の設置、ダメージ、乗る
+[ボート](https://minecraft.fandom.com/ja/wiki/ボート)の設置、ダメージ、乗る
 
 ---
 
 ## 権限
 - ### A アーマースタンド
-  [ブロック](https://minecraft.fandom.com/zh/wiki/方塊)の破壊
+  [ブロック](https://minecraft.fandom.com/ja/wiki/ブロック)の破壊
 - ### B ボート
-  [エンティティ](https://minecraft.fandom.com/zh/wiki/動物)の餌付け
+  [エンティティ](https://minecraft.fandom.com/ja/wiki/動物)の餌付け
 - ### D ブロック破壊
-  [アイテムフレーム](https://minecraft.fandom.com/zh/wiki/物品展示框)の設置、ダメージ、アイテムの変更、回転
+  [アイテムフレーム](https://minecraft.fandom.com/ja/wiki/アイテムフレーム)の設置、ダメージ、アイテムの変更、回転
 - ### E エンティティのインタラクション
-  [絵画](https://minecraft.fandom.com/zh/wiki/畫)の設置、ダメージ
+  [絵画](https://minecraft.fandom.com/ja/wiki/絵画)の設置、ダメージ
 - ### F アイテムフレーム
-  [エンティティ](https://minecraft.fandom.com/zh/wiki/實體)のダメージ
+  [エンティティ](https://minecraft.fandom.com/ja/wiki/エンティティ)のダメージ
 - ### G 絵画
   領地内で誕生した動物だけを保護する
 - ### H エンティティへのダメージ
   ?
   ※ ?
 - ### I ブロックのインタラクション
-  [チェスト](https://minecraft.fandom.com/zh/wiki/儲物箱)の使用
-  [ 烽火台 ] (https://minecraft.fandom.com/zh/wiki/烽火台) の使用
-  [ 看板 ] (https://minecraft.fandom.com/zh/wiki/看板) の変更
-  [ ノートブロック ] (https://minecraft.fandom.com/zh/wiki/ノートブロック) の調整
+  [チェスト](https://minecraft.fandom.com/ja/wiki/チェスト)の使用
+  [ 烽火台 ] (https://minecraft.fandom.com/ja/wiki/ビーコン) の使用
+  [ 看板 ] (https://minecraft.fandom.com/ja/wiki/看板) の変更
+  [ ノートブロック ] (https://minecraft.fandom.com/ja/wiki/ノートブロック) の調整
 - ### L 講義ノートの読み込み
-  [ 講壇 ] (https://minecraft.fandom.com/zh/wiki/講壇) の閲覧
+  [ 講壇 ] (https://minecraft.fandom.com/ja/wiki/講義台) の閲覧
 - ### M マインカート
-  [ マインカート ] (https://minecraft.fandom.com/zh/wiki/マインカート) の設置、ダメージ、乗車
+  [ マインカート ] (https://minecraft.fandom.com/ja/wiki/マインカート) の設置、ダメージ、乗車
 - ### P ブロックの設置
-  [ ブロック ] (https://minecraft.fandom.com/zh/wiki/ブロック) の設置
+  [ ブロック ] (https://minecraft.fandom.com/ja/wiki/ブロック) の設置
 - ### R オーナー
   [ 領地生成機 ] (land_block.md) の書き込み、解除
   領地権限の変更
   領地エネルギーの設置、解除
 - ### S 生成されたエンティティ
-  [ スポーンエッグ ] (https://minecraft.fandom.com/zh/wiki/スポーンエッグ) の使用
+  [ スポーンエッグ ] (https://minecraft.fandom.com/ja/wiki/スポーンエッグ) の使用
   [ 友好的な生物の収納ロープ ] (rope.md) の使用
   [ 敵対的な生物の収納ロープ ] (rope.md) の使用
 - ### T トリガー
-  [ フックショット ] (https://minecraft.fandom.com/zh/wiki/フックショット) の発動
-  [ トラップチェスト ] (https://minecraft.fandom.com/zh/wiki/トラップチェスト) の使用
-  [ プレッシャープレート ] (https://minecraft.fandom.com/zh/wiki/プレッシャープレート) の発動
+  [ フックショット ] (https://minecraft.fandom.com/ja/wiki/フックショット) の発動
+  [ トラップチェスト ] (https://minecraft.fandom.com/ja/wiki/トラップチェスト) の使用
+  [ プレッシャープレート ] (https://minecraft.fandom.com/ja/wiki/プレッシャープレート) の発動
 - ### U バケツ
-  [ 水バケツ ] (https://minecraft.fandom.com/zh/wiki/水バケツ) の使用
-  [ 溶岩バケツ ] (https://minecraft.fandom.com/zh/wiki/溶岩バケツ) の使用
+  [ 水バケツ ] (https://minecraft.fandom.com/ja/wiki/水バケツ) の使用
+  [ 溶岩バケツ ] (https://minecraft.fandom.com/ja/wiki/溶岩バケツ) の使用
 - ### V PVP
-  [ プレイヤー ] (https://minecraft.fandom.com/zh/wiki/プレイヤー) のダメージ
+  [ プレイヤー ] (https://minecraft.fandom.com/ja/wiki/プレイヤー) のダメージ
 - ### Y 飛行
   [ 領地フライングデバイス ] (land_flying_device.md) の飛行
   [猫饲料](../feature/cat_bowl.md)の切り替え観察者

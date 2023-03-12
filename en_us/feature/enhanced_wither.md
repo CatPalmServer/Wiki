@@ -13,11 +13,11 @@ Destroys all destructible blocks around itself, and the explosion of the wither 
 
 <table>
     <tr><td align="center">Effect</td><td align="center">Duration</td><td align="center">Level</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/Wither">Wither</a></td><td align="center">00:03</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/Weakness">Weakness</a></td><td align="center">00:01</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/Mining_Fatigue">Mining Fatigue</a></td><td align="center">00:01</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/Hunger">Hunger</a></td><td align="center">00:01</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/Slowness">Slowness</a></td><td align="center">00:01</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Wither">Wither</a></td><td align="center">00:03</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Weakness">Weakness</a></td><td align="center">00:01</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Mining_Fatigue">Mining Fatigue</a></td><td align="center">00:01</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Hunger">Hunger</a></td><td align="center">00:01</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Slowness">Slowness</a></td><td align="center">00:01</td><td align="center">I</td></tr>
 </table>
 
 ※ The durations stack.

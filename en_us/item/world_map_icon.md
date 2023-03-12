@@ -14,8 +14,8 @@ Cannot be crafted, only obtained from loot chests or villager trades.
 
 ## Obtain
 <table>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/Shipwreck#Loot">Shipwreck</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/Trading#Cartographer">Cartographer Villager</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Shipwreck#Loot">Shipwreck</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/wiki/Trading#Cartographer">Cartographer Villager</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></tr>
 </table>
 
 ---
@@ -34,8 +34,8 @@ Single-use consumable item.
 ## Icon
 <table>
     <tr><td align="center">Name</td><td align="center">On Map</td><td align="center">In Menu</td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/Mansion">Woodland Mansion</a></td><td align="center"><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/PTHsDwR.png" width="32"/></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/Ocean#monument">Ocean Monument</a></td><td align="center"><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/koytFxF.png" width="32"/></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/Buried#treasure">Buried Treasure</a></td><td align="center"><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/VSqR9TK.png" width="32"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/wiki/Mansion">Woodland Mansion</a></td><td align="center"><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/PTHsDwR.png" width="32"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/wiki/Ocean#monument">Ocean Monument</a></td><td align="center"><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/koytFxF.png" width="32"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/wiki/Buried#treasure">Buried Treasure</a></td><td align="center"><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/VSqR9TK.png" width="32"/></td></tr>
 </table>
   

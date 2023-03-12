@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Tuning stick
-Quickly change the tone of the [Note Block](https://minecraft.fandom.com/zh/wiki/音階盒).
+Quickly change the tone of the [Note Block](https://minecraft.fandom.com/wiki/Note_Block).
 
 ## Data
 <table>
@@ -21,7 +21,7 @@ Quickly change the tone of the [Note Block](https://minecraft.fandom.com/zh/wiki
 ---
 
 ## Use
-Hold it in your main hand and right-click on the [Note Block](https://minecraft.fandom.com/zh/wiki/音階盒) to open the menu:
+Hold it in your main hand and right-click on the [Note Block](https://minecraft.fandom.com/wiki/Note_Block) to open the menu:
 
 <table>
     ?

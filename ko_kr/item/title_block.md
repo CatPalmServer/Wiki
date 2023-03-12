@@ -57,7 +57,7 @@
 ## 사용
 <table>
     <tr><td>변경 전</td><td><img src="https://i.imgur.com/UzZYyBx.png" width="720"/></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/Anvil">모루</a>에서 표시할 제목을 변경합니다.</td><td><img src="https://i.imgur.com/MCTMmoP.png" width="720"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ko/wiki/모루">모루</a>에서 표시할 제목을 변경합니다.</td><td><img src="https://i.imgur.com/MCTMmoP.png" width="720"/></td></tr>
     <tr><td>지면에 놓기</td><td><img src="https://i.imgur.com/9zJMV0Z.png" width="720"/></td></tr>
 </table>
 

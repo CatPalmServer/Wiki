@@ -13,7 +13,7 @@ Not vulnerable to explosion, burning or damage.
 ---
 
 ## Obtain
-[With a 5% chance of dropping from Wither skeletons](https://minecraft.fandom.com/zh/wiki/Wither_skeleton)
+[With a 5% chance of dropping from Wither skeletons](https://minecraft.fandom.com/wiki/Wither_Skeleton)
 
 ---
 

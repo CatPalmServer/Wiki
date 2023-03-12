@@ -7,8 +7,8 @@
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>악몽의 결정을 제외한 모든 아이템</td><td><a href="https://minecraft.fandom.com/zh/wiki/빠른_최면">빠른 최면</a>、<a href="https://minecraft.fandom.com/zh/wiki/분열_화살">분열 화살</a>、<a href="https://minecraft.fandom.com/zh/wiki/관통">관통</a>、<a href="https://minecraft.fandom.com/zh/wiki/소멸의_저주">소멸의 저주</a>、<a href="https://minecraft.fandom.com/zh/wiki/내구성">내구성</a>、<a href="https://minecraft.fandom.com/zh/wiki/수리">수리</a></td></tr>
-            <tr><td>악몽의 결정</td><td><a href="https://minecraft.fandom.com/zh/wiki/빠른_최면">빠른 최면</a>、<a href="https://minecraft.fandom.com/zh/wiki/분열_화살">분열 화살</a>、<a href="https://minecraft.fandom.com/zh/wiki/관통">관통</a>、<a href="https://minecraft.fandom.com/zh/wiki/소멸의_저주">소멸의 저주</a></td></tr>
+            <tr><td>악몽의 결정을 제외한 모든 아이템</td><td><a href="https://minecraft.fandom.com/ko/wiki/빠른_최면">빠른 최면</a>、<a href="https://minecraft.fandom.com/ko/wiki/분열_화살">분열 화살</a>、<a href="https://minecraft.fandom.com/ko/wiki/관통">관통</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸의 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구성">내구성</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>악몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/빠른_최면">빠른 최면</a>、<a href="https://minecraft.fandom.com/ko/wiki/분열_화살">분열 화살</a>、<a href="https://minecraft.fandom.com/ko/wiki/관통">관통</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸의 저주</a></td></tr>
         </table>
     </td></tr>
 </table>

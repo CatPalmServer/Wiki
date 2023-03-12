@@ -7,8 +7,8 @@ Stronger than Netherite！
     <tr><td align="end">Stack</td><td>1</td></tr>
     <tr><td align="end">Enchantments</td><td>
         <table>
-            <tr><td>Non-nightmare crystal</td><td><a href="https://minecraft.fandom.com/zh/wiki/Power">Power</a>, <a href="https://minecraft.fandom.com/zh/wiki/Punch">Punch</a>, <a href="https://minecraft.fandom.com/zh/wiki/Flame">Flame</a>, <a href="https://minecraft.fandom.com/zh/wiki/Infinity">Infinity</a>, <a href="https://minecraft.fandom.com/zh/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/zh/wiki/Mending">Mending</a></td></tr>
-            <tr><td>Nightmare crystal</td><td><a href="https://minecraft.fandom.com/zh/wiki/Power">Power</a>, <a href="https://minecraft.fandom.com/zh/wiki/Punch">Punch</a>, <a href="https://minecraft.fandom.com/zh/wiki/Flame">Flame</a>, <a href="https://minecraft.fandom.com/zh/wiki/Infinity">Infinity</a>, <a href="https://minecraft.fandom.com/zh/wiki/Curse_of_Vanishing">Curse of Vanishing</a></td></tr>
+            <tr><td>Non-nightmare crystal</td><td><a href="https://minecraft.fandom.com/wiki/Power">Power</a>, <a href="https://minecraft.fandom.com/wiki/Punch">Punch</a>, <a href="https://minecraft.fandom.com/wiki/Flame">Flame</a>, <a href="https://minecraft.fandom.com/wiki/Infinity">Infinity</a>, <a href="https://minecraft.fandom.com/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/wiki/Mending">Mending</a></td></tr>
+            <tr><td>Nightmare crystal</td><td><a href="https://minecraft.fandom.com/wiki/Power">Power</a>, <a href="https://minecraft.fandom.com/wiki/Punch">Punch</a>, <a href="https://minecraft.fandom.com/wiki/Flame">Flame</a>, <a href="https://minecraft.fandom.com/wiki/Infinity">Infinity</a>, <a href="https://minecraft.fandom.com/wiki/Curse_of_Vanishing">Curse of Vanishing</a></td></tr>
         </table>
     </td></tr>
 </table>

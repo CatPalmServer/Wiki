@@ -21,7 +21,7 @@
             <table>
                 <tr><td align="end">画像</td><td><img src="https://i.imgur.com/OAmPEYz.png" width="128"/></td></tr>
                 <tr><td align="end">スタック</td><td>1</td></tr>
-                <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/zh/wiki/修補">修繕</a></td></tr>
+                <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
             </table>
         </td>
         <td>
@@ -74,7 +74,7 @@
 
 ## 使用方法
 テレポートするには[記録地点の旗](record_point_banner.md)を設置してから、そこに移動する必要があります。
-テレポートシリーズでは、[アンビル](https://minecraft.fandom.com/zh/wiki/鐵砧)で移動先の記録地点の名前を変更する必要があります。
+テレポートシリーズでは、[アンビル](https://minecraft.fandom.com/ja/wiki/金床)で移動先の記録地点の名前を変更する必要があります。
 
 <img src="https://i.imgur.com/RscWLaF.png" width="480"/>
 <table>

@@ -7,8 +7,8 @@
     <tr><td align="end">スタック</td><td>1</td></tr>
     <tr><td align="end">エンチャント</td><td>
         <table>
-            <tr><td>夢魘結晶以外</td><td><a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消滅の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修復">修復</a></td></tr>
-            <tr><td>夢魘結晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消滅の呪い</a></td></tr>
+            <tr><td>夢魘結晶以外</td><td><a href="https://minecraft.fandom.com/ja/wiki/消滅詛咒">消滅の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/ja/wiki/修復">修復</a></td></tr>
+            <tr><td>夢魘結晶</td><td><a href="https://minecraft.fandom.com/ja/wiki/消滅詛咒">消滅の呪い</a></td></tr>
         </table>
     </td></tr>
 </table>
@@ -162,7 +162,7 @@
     <tr><td align="center">創造者</td><td align="center">無限</td><td align="center">63x63</td><td align="center">2916</td></tr>
 </table>
 
-[耐久](https://minecraft.fandom.com/zh/wiki/耐久)損壊抑制：  
+[耐久](https://minecraft.fandom.com/ja/wiki/耐久)損壊抑制：  
 
 <table>
     <tr><td align="center">レベル</td><td align="center">抑制</td></tr>

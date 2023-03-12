@@ -46,7 +46,7 @@
 ### 数量の指定
 数量を指定しない場合、移動時に常に最大数のアイテムが取得されます。
 <table>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/鐵砧">鉄床</a>で所望の数に変更する</td><td><img src="https://i.imgur.com/XczBIwu.png" width="720"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ja/wiki/金床">鉄床</a>で所望の数に変更する</td><td><img src="https://i.imgur.com/XczBIwu.png" width="720"/></td></tr>
     <tr><td>放置</td><td><img src="https://i.imgur.com/AJJzsmO.png" width="720"/></td></tr>
 </table>
 

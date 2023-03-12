@@ -38,4 +38,4 @@
 ---
 
 ## 사용
-인벤토리에 넣고 슬라임 청크(https://minecraft.fandom.com/zh/wiki/슬라임#슬라임_청크)에서 작동합니다.
+인벤토리에 넣고 슬라임 청크(https://minecraft.fandom.com/ko/wiki/슬라임#슬라임_덩어리)에서 작동합니다.

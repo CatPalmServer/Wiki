@@ -7,8 +7,8 @@ There are 2 series, each with 17 colors to choose from!
     <tr><td align="end">Stack</td><td>1</td></tr>
     <tr><td align="end">Enchantments</td><td>
         <table>
-            <tr><td>Sword</td><td><a href="https://minecraft.fandom.com/zh/wiki/Sharpness">Sharpness</a>, <a href="https://minecraft.fandom.com/zh/wiki/Smite">Smite</a>, <a href="https://minecraft.fandom.com/zh/wiki/Bane_of_Arthropods">Bane of Arthropods</a>, <a href="https://minecraft.fandom.com/zh/wiki/Fire_Aspect">Fire Aspect</a>, <a href="https://minecraft.fandom.com/zh/wiki/Knockback">Knockback</a>, <a href="https://minecraft.fandom.com/zh/wiki/Looting">Looting</a>, <a href="https://minecraft.fandom.com/zh/wiki/Sweeping_Edge">Sweeping Edge</a>, <a href="https://minecraft.fandom.com/zh/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/zh/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/zh/wiki/Mending">Mending</a></td></tr>
-            <tr><td>Axe</td><td><a href="https://minecraft.fandom.com/zh/wiki/Luck_of_the_Sea">Luck of the Sea</a>, <a href="https://minecraft.fandom.com/zh/wiki/Silk_Touch">Silk Touch</a>, <a href="https://minecraft.fandom.com/zh/wiki/Efficiency">Efficiency</a>, <a href="https://minecraft.fandom.com/zh/wiki/Sharpness">Sharpness</a>, <a href="https://minecraft.fandom.com/zh/wiki/Smite">Smite</a>, <a href="https://minecraft.fandom.com/zh/wiki/Bane_of_Arthropods">Bane of Arthropods</a>, <a href="https://minecraft.fandom.com/zh/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/zh/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/zh/wiki/Mending">Mending</a></td></tr>
+            <tr><td>Sword</td><td><a href="https://minecraft.fandom.com/wiki/Sharpness">Sharpness</a>, <a href="https://minecraft.fandom.com/wiki/Smite">Smite</a>, <a href="https://minecraft.fandom.com/wiki/Bane_of_Arthropods">Bane of Arthropods</a>, <a href="https://minecraft.fandom.com/wiki/Fire_Aspect">Fire Aspect</a>, <a href="https://minecraft.fandom.com/wiki/Knockback">Knockback</a>, <a href="https://minecraft.fandom.com/wiki/Looting">Looting</a>, <a href="https://minecraft.fandom.com/wiki/Sweeping_Edge">Sweeping Edge</a>, <a href="https://minecraft.fandom.com/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/wiki/Mending">Mending</a></td></tr>
+            <tr><td>Axe</td><td><a href="https://minecraft.fandom.com/wiki/Luck_of_the_Sea">Luck of the Sea</a>, <a href="https://minecraft.fandom.com/wiki/Silk_Touch">Silk Touch</a>, <a href="https://minecraft.fandom.com/wiki/Efficiency">Efficiency</a>, <a href="https://minecraft.fandom.com/wiki/Sharpness">Sharpness</a>, <a href="https://minecraft.fandom.com/wiki/Smite">Smite</a>, <a href="https://minecraft.fandom.com/wiki/Bane_of_Arthropods">Bane of Arthropods</a>, <a href="https://minecraft.fandom.com/wiki/Curse_of_Vanishing">Curse of Vanishing</a>, <a href="https://minecraft.fandom.com/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/wiki/Mending">Mending</a></td></tr>
         </table>
     </td></tr>
 </table>
@@ -411,7 +411,7 @@ The difference between the Cat's Day and non-Cat's Day versions of the Axe is th
 
 ## Data
 ### Enchant
-Combine [Dragon's Tooth](dragon_tooth.md), [Dragon's Blood Tooth](dragon_blood_tooth.md), and [Nightmare Crystal](nightmare_crystal.md) in an [Anvil](https://minecraft.fandom.com/zh/wiki/鐵砧) to enhance the item's level with a chance of success:
+Combine [Dragon's Tooth](dragon_tooth.md), [Dragon's Blood Tooth](dragon_blood_tooth.md), and [Nightmare Crystal](nightmare_crystal.md) in an [Anvil](https://minecraft.fandom.com/wiki/Anvil) to enhance the item's level with a chance of success:
 
 <table>
     <tr>
@@ -516,7 +516,7 @@ To achieve a 100% chance of success, 10 levels of experience are required; for a
 </table>
 
 ### Critical Hit
-Chance to deal double damage to non-[Boss mobs](https://minecraft.fandom.com/zh/wiki/Category:Boss生物):
+Chance to deal double damage to non-[Boss mobs](https://minecraft.fandom.com/wiki/Category:Bosses):
 
 <table>
     <tr>

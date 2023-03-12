@@ -37,4 +37,4 @@ Rainbow variant obtained through <a href="../feature/anniversary.md">anniversary
 ---
 
 ## Use
-Wearing this will prevent <a href="https://minecraft.fandom.com/zh/wiki/夜魅">Nightmare</a> spawns.
+Wearing this will prevent <a href="https://minecraft.fandom.com/wiki/Phantom">Nightmare</a> spawns.

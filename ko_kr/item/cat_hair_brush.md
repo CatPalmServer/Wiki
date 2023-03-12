@@ -6,7 +6,7 @@
 <table>
     <tr><td align="end">이미지</td><td><img src="https://i.imgur.com/7vNTzNf.png" width="128"/></td></tr>
     <tr><td align="end">스택</td><td>1</td></tr>
-    <tr><td align="end">인챈트</td><td><a href="https://minecraft.fandom.com/zh/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/zh/wiki/수리">수리</a></td></tr>
+    <tr><td align="end">인챈트</td><td><a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
 </table>
 
 ---

@@ -5,7 +5,7 @@
 ### 90% (During specific holidays 89.5%)
 Exchange 1 Copper Coin for 8, up to 4 times.
 
-<a href="https://minecraft.fandom.com/zh/wiki/Flowers"><img src="https://i.imgur.com/WydimGB.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/wiki/Flowers"><img src="https://i.imgur.com/WydimGB.png" width="48"/></a>
 <a href="../food/beef_jerky.md"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
 <a href="../food/mouldy_bread.md"><img src="https://i.imgur.com/peF2d4K.png" width="48"/></a>
 <a href="../food/cheese.md"><img src="https://i.imgur.com/olzWTz3.png" width="48"/></a>
@@ -27,7 +27,7 @@ Exchange 1 Copper Coin for 8, up to 4 times.
 <a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/JpzWsch.png" width="48"/></a>
 <a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/BfufQi6.png" width="48"/></a>
 <a href="../item/advanced_tnt.md"><img src="https://i.imgur.com/JeIiF9r.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/Experience Bottle"><img src="https://i.imgur.com/Qwc39mw.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/wiki/Experience_Bottle"><img src="https://i.imgur.com/Qwc39mw.png" width="48"/></a>
 
 ### 6.5%
 Exchange 12 Copper Coins for 1, up to 1 time.
@@ -35,12 +35,12 @@ Exchange 12 Copper Coins for 1, up to 1 time.
 <a href="../item/back.md"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></a>
 <a href="../item/transfer.md"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></a>
 <a href="../item/random_transfer.md"><img src="https://i.imgur.com/ME1CeOE.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/Heart of the Sea"><img src="https://i.imgur.com/LGa7OYa.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/Nether Star"><img src="https://i.imgur.com/hhnlgTn.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/Horse Armor"><img src="https://i.imgur.com/bZRnEBU.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/Horse Armor"><img src="https://i.imgur.com/KhHJqF4.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/Horse Armor"><img src="https://i.imgur.com/WGA0nFt.png" width="48"/></a>
-<a href="https://minecraft.fandom.com/zh/wiki/Horse Armor"><img src="https://i.imgur.com/51rbY1B.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/wiki/Heart_of_the_Sea"><img src="https://i.imgur.com/LGa7OYa.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/wiki/Nether_Star"><img src="https://i.imgur.com/hhnlgTn.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/wiki/Horse_Armor"><img src="https://i.imgur.com/bZRnEBU.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/wiki/Horse_Armor"><img src="https://i.imgur.com/KhHJqF4.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/wiki/Horse_Armor"><img src="https://i.imgur.com/WGA0nFt.png" width="48"/></a>
+<a href="https://minecraft.fandom.com/wiki/Horse_Armor"><img src="https://i.imgur.com/51rbY1B.png" width="48"/></a>
 <a href="../item/peaceful_proof.md"><img src="https://i.imgur.com/j5qpTgm.png" width="48"/></a>
 <a href="../item/dragon_hammer.md"><img src="https://i.imgur.com/tvhOfLt.gif" width="48"/></a>
 

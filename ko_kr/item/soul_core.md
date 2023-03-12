@@ -35,7 +35,7 @@
 
 ## 사용
 ### 아이템
-영혼 연결 코어는 [모루](https://minecraft.fandom.com/zh/wiki/鐵砧) 내부에 있으며 도구/무기와 합성하여 `1`년간의 [영혼 연결](../feature/soul_link.md) 보호를 부여할 수 있지만, 다음 재료로는 사용할 수 없습니다.
-- [삼지창](https://minecraft.fandom.com/zh/wiki/三叉戟)
+영혼 연결 코어는 [모루](https://minecraft.fandom.com/ko/wiki/모루) 내부에 있으며 도구/무기와 합성하여 `1`년간의 [영혼 연결](../feature/soul_link.md) 보호를 부여할 수 있지만, 다음 재료로는 사용할 수 없습니다.
+- [삼지창](https://minecraft.fandom.com/ko/wiki/삼지창)
 
-영혼 해방 코어는 [모루](https://minecraft.fandom.com/zh/wiki/鐵砧) 내부에 있으며 도구/무기와 합성하여 [영혼 연결](../feature/soul_link.md) 보호를 제거할 수 있습니다.
+영혼 해방 코어는 [모루](https://minecraft.fandom.com/ko/wiki/모루) 내부에 있으며 도구/무기와 합성하여 [영혼 연결](../feature/soul_link.md) 보호를 제거할 수 있습니다.

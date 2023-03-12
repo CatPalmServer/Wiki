@@ -57,7 +57,7 @@ Displays important text！
 ## Use
 <table>
     <tr><td>Before change</td><td><img src="https://i.imgur.com/UzZYyBx.png" width="720"/></td></tr>
-    <tr><td>Change the title to be displayed on an <a href="https://minecraft.fandom.com/zh/wiki/Anvil">anvil</a></td><td><img src="https://i.imgur.com/MCTMmoP.png" width="720"/></td></tr>
+    <tr><td>Change the title to be displayed on an <a href="https://minecraft.fandom.com/wiki/Anvil">anvil</a></td><td><img src="https://i.imgur.com/MCTMmoP.png" width="720"/></td></tr>
     <tr><td>Placed on the ground</td><td><img src="https://i.imgur.com/9zJMV0Z.png" width="720"/></td></tr>
 </table>
 

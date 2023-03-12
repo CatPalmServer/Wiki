@@ -13,7 +13,7 @@
 ---
 
 ## 획득
-[엔드 드래곤](https://minecraft.fandom.com/zh/wiki/終界龍)에서 1% 확률로 획득할 수 있습니다.
+[엔드 드래곤](https://minecraft.fandom.com/ko/wiki/엔드_드래곤)에서 1% 확률로 획득할 수 있습니다.
 
 ---
 

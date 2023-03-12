@@ -22,7 +22,7 @@
 ---
 
 ## 使用方法
-鉄床](https://minecraft.fandom.com/zh/wiki/鉄床)の中で旗](https://minecraft.fandom.com/zh/wiki/旗)と一緒に点を記録できる旗](record_point_banner.md)を作成できます。
+鉄床](https://minecraft.fandom.com/ja/wiki/鉄床)の中で旗](https://minecraft.fandom.com/ja/wiki/旗)と一緒に点を記録できる旗](record_point_banner.md)を作成できます。
 合成された名前がポイント名になります。
 
 <table>

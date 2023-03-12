@@ -24,7 +24,7 @@
 ### 설치
 다른 사람이 알림기를 사용할 때는 알림기를 놓은 사람이 알림을 받게 됩니다!  
 <table>
-    <tr><td>원하는 메시지로<a href="https://minecraft.fandom.com/zh/wiki/모루">모루</a>를 조작합니다</td><td><img src="https://i.imgur.com/B2lZOum.png" width="720"/></td></tr>
+    <tr><td>원하는 메시지로<a href="https://minecraft.fandom.com/ko/wiki/모루">모루</a>를 조작합니다</td><td><img src="https://i.imgur.com/B2lZOum.png" width="720"/></td></tr>
     <tr><td>설치</td><td><img src="https://i.imgur.com/QGphye0.png" width="720"/></td></tr>
 </table>
 

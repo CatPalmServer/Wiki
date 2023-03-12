@@ -13,7 +13,7 @@
 ---
 
 ## 획득
-[위더 해골](https://minecraft.fandom.com/zh/wiki/凋零怪)은 5% 확률로 드롭합니다.
+[위더 해골](https://minecraft.fandom.com/ko/wiki/위더_스켈레톤)은 5% 확률로 드롭합니다.
 
 ---
 

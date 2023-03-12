@@ -7,8 +7,8 @@
     <tr><td align="end">スタック</td><td>1</td></tr>
     <tr><td align="end">エンチャント</td><td>
         <table>
-            <tr><td>夢魘結晶以外</td><td><a href="https://minecraft.fandom.com/zh/wiki/強力">パワー</a>、<a href="https://minecraft.fandom.com/zh/wiki/衝擊">パンチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/火焰">火</a>、<a href="https://minecraft.fandom.com/zh/wiki/無限">無限</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消滅の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修繕</a></td></tr>
-            <tr><td>悪夢の結晶</td><td><a href="https://minecraft.fandom.com/ja/wiki/強力">強力</a>、<a href="https://minecraft.fandom.com/ja/wiki/衝撃">衝撃</a>、<a href="https://minecraft.fandom.com/ja/wiki/火炎">火炎</a>、<a href="https://minecraft.fandom.com/ja/wiki/無限">無限</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a></td></tr>
+            <tr><td>夢魘結晶以外</td><td><a href="https://minecraft.fandom.com/ja/wiki/シャープネス">パワー</a>、<a href="https://minecraft.fandom.com/ja/wiki/衝撃">パンチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/炎上">火</a>、<a href="https://minecraft.fandom.com/ja/wiki/無限">無限</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅詛咒">消滅の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修繕</a></td></tr>
+            <tr><td>悪夢の結晶</td><td><a href="https://minecraft.fandom.com/ja/wiki/シャープネス">強力</a>、<a href="https://minecraft.fandom.com/ja/wiki/衝撃">衝撃</a>、<a href="https://minecraft.fandom.com/ja/wiki/火炎">火炎</a>、<a href="https://minecraft.fandom.com/ja/wiki/無限">無限</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a></td></tr>
         </table>
     </td></tr>
 </table>

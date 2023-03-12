@@ -1,10 +1,10 @@
 [← ホームに戻る](../)
 # 生きた鉱石
-[主世界](https://minecraft.fandom.com/zh/wiki/主世界)、[ネザー](https://minecraft.fandom.com/zh/wiki/地獄)は、明るさが`8未満で、下が固体ブロックであり、プレイヤーが距離8〜48ブロックの範囲内にいる場合に生成されます。異なるバイオームの確率が異なります： 
+[主世界](https://minecraft.fandom.com/ja/wiki/オーバーワールド)、[ネザー](https://minecraft.fandom.com/ja/wiki/ネザー)は、明るさが`8未満で、下が固体ブロックであり、プレイヤーが距離8〜48ブロックの範囲内にいる場合に生成されます。異なるバイオームの確率が異なります： 
 
 <table>
     <tr>
-        <td align="center"><a href="https://minecraft.fandom.com/zh/wiki/灵魂沙峡谷">ソウルサンドバレー</a></td>
+        <td align="center"><a href="https://minecraft.fandom.com/ja/wiki/ソウルサンドバレー">ソウルサンドバレー</a></td>
         <td align="center">20%</td>
     </tr>
     <tr>

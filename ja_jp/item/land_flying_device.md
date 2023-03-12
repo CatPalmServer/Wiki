@@ -5,7 +5,7 @@
 ## データ
 <table>
     <tr><td align="end">スタック</td><td>1</td></tr>
-    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/zh/wiki/バインドの呪い">バインドの呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/zh/wiki/修復">修復</a></td></tr>
+    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/ja/wiki/バインドの呪い">バインドの呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅の呪い">消滅の呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久">耐久</a>、<a href="https://minecraft.fandom.com/ja/wiki/修復">修復</a></td></tr>
 </table>
 <table>
     <tr><td align="center">耐久値</td><td align="center">画像</td></tr>

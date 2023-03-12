@@ -7,7 +7,7 @@ Stronger than Netherite！
     <tr><td align="end">Stack</td><td>1</td></tr>
     <tr><td align="end">Enchantments</td><td>
         <table>
-            <tr><td>Non-Nightmare Crystal</td><td><a href="https://minecraft.fandom.com/zh/wiki/Fortune">Fortune</a>, <a href="https://minecraft.fandom.com/zh/wiki/Silk_Touch">Silk Touch</a>, <a href="https://minecraft.fandom.com/zh/wiki/Efficiency">Efficiency</a>, <a href="https://minecraft.fandom.com/zh/wiki/Vanishing_Curse">Vanishing Curse</a>, <a href="https://minecraft.fandom.com/zh/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/zh/wiki/Mending">Mending</a></td></tr>
+            <tr><td>Non-Nightmare Crystal</td><td><a href="https://minecraft.fandom.com/wiki/Fortune">Fortune</a>, <a href="https://minecraft.fandom.com/wiki/Silk_Touch">Silk Touch</a>, <a href="https://minecraft.fandom.com/wiki/Efficiency">Efficiency</a>, <a href="https://minecraft.fandom.com/wiki/Curse_of_Vanishing">Vanishing Curse</a>, <a href="https://minecraft.fandom.com/wiki/Durability">Durability</a>, <a href="https://minecraft.fandom.com/wiki/Mending">Mending</a></td></tr>
             <tr><td>Dream Weaver</td><td><a href="https://minecraft.fandom.com/wiki/Luck">Luck</a>, <a href="https://minecraft.fandom.com/wiki/Silk_Touch">Silk Touch</a>, <a href="https://minecraft.fandom.com/wiki/Efficiency">Efficiency</a>, <a href="https://minecraft.fandom.com/wiki/Vanishing_Curse">Vanishing Curse</a></td></tr>
         </table>
     </td></tr>

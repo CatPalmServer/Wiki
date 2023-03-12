@@ -6,7 +6,7 @@
 <table>
     <tr><td align="end">이미지</td><td><img src="https://i.imgur.com/jYSLDGf.png" width="128"/></td></tr>
     <tr><td align="end">스택</td><td>1</td></tr>
-    <tr><td align="end">인첸트</td><td><a href="https://minecraft.fandom.com/zh/wiki/수선">수선</a></td></tr>
+    <tr><td align="end">인첸트</td><td><a href="https://minecraft.fandom.com/ko/wiki/수선">수선</a></td></tr>
 </table>
 
 ---

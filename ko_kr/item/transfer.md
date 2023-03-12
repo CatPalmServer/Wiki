@@ -21,7 +21,7 @@
             <table>
                 <tr><td align="end">이미지</td><td><img src="https://i.imgur.com/OAmPEYz.png" width="128"/></td></tr>
                 <tr><td align="end">스택</td><td>1</td></tr>
-                <tr><td align="end">인첸트</td><td><a href="https://minecraft.fandom.com/zh/wiki/수선">수선</a></td></tr>
+                <tr><td align="end">인첸트</td><td><a href="https://minecraft.fandom.com/ko/wiki/수선">수선</a></td></tr>
             </table>
         </td>
         <td>
@@ -74,7 +74,7 @@
 
 ## 사용
 [기록점 깃발](record_point_banner.md)을 설정해야만 전송할 수 있습니다.
-전송 시리즈에서[모루](https://minecraft.fandom.com/zh/wiki/Anvil)에서 전송할 기록점의 이름으로 변경합니다.
+전송 시리즈에서[모루](https://minecraft.fandom.com/ko/wiki/모루)에서 전송할 기록점의 이름으로 변경합니다.
 
 <img src="https://i.imgur.com/RscWLaF.png" width="480"/>
 <table>

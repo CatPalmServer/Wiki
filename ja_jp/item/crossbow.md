@@ -7,8 +7,8 @@
     <tr><td align="end">スタック</td><td>1</td></tr>
     <tr><td align="end">エンチャント</td><td>
         <table>
-            <tr><td>悪夢晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/快速上弦">クイックチャージ</a>、<a href="https://minecraft.fandom.com/zh/wiki/分裂箭矢">スプリットショット</a>、<a href="https://minecraft.fandom.com/zh/wiki/貫穿">パンチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消滅呪い</a>、<a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久力</a>、<a href="https://minecraft.fandom.com/zh/wiki/修補">修復</a></td></tr>
-            <tr><td>夢魘晶</td><td><a href="https://minecraft.fandom.com/zh/wiki/快速上弦">クイックチャージ</a>、<a href="https://minecraft.fandom.com/zh/wiki/分裂箭矢">スプリットショット</a>、<a href="https://minecraft.fandom.com/zh/wiki/貫穿">パンチ</a>、<a href="https://minecraft.fandom.com/zh/wiki/消失詛咒">消滅呪い</a></td></tr>
+            <tr><td>悪夢晶</td><td><a href="https://minecraft.fandom.com/ja/wiki/素早い装填">クイックチャージ</a>、<a href="https://minecraft.fandom.com/ja/wiki/分裂">スプリットショット</a>、<a href="https://minecraft.fandom.com/ja/wiki/貫通">パンチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅詛咒">消滅呪い</a>、<a href="https://minecraft.fandom.com/ja/wiki/耐久">耐久力</a>、<a href="https://minecraft.fandom.com/ja/wiki/修繕">修復</a></td></tr>
+            <tr><td>夢魘晶</td><td><a href="https://minecraft.fandom.com/ja/wiki/素早い装填">クイックチャージ</a>、<a href="https://minecraft.fandom.com/ja/wiki/分裂">スプリットショット</a>、<a href="https://minecraft.fandom.com/ja/wiki/貫通">パンチ</a>、<a href="https://minecraft.fandom.com/ja/wiki/消滅詛咒">消滅呪い</a></td></tr>
         </table>
     </td></tr>
 </table>

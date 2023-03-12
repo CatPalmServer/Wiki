@@ -47,9 +47,9 @@
     <tr><td>다른 플레이어</td><td><img src="https://i.imgur.com/DynLEHZ.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td>최근 사망 지점</td><td><img src="https://i.imgur.com/KutZ4EF.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td>영토 중심</td><td><img src="https://i.imgur.com/eHl9Jv0.png" width="32"/></td><td colspan="3"></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/綠林府邸">초록림 부텨</a></td><td><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td colspan="3"></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/해저 신전">해저 신전</a></td><td><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td colspan="3"></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/숨겨진 보물">숨겨진 보물</a></td><td><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ko/wiki/정글_사원">초록림 부텨</a></td><td><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ko/wiki/해저_신전">해저 신전</a></td><td><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ko/wiki/숨겨진_보물">숨겨진 보물</a></td><td><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td rowspan="16">기록 지점</td><td><img src="https://i.imgur.com/am90YJk.png" width="32"/></td><td><img src="https://i.imgur.com/fzle1wS.png" width="32"/></td><td><img src="https://i.imgur.com/TiF8FjY.png" width="32"/></td><td><img src="https://i.imgur.com/j3vzW8E.png" width="32"/></td></tr>
     <tr><td><img src="https://i.imgur.com/5Y1w0tr.png" width="32"/></td><td><img src="https://i.imgur.com/LBL6ozy.png" width="32"/></td><td><img src="https://i.imgur.com/yfJvb4v.png" width="32"/></td><td><img src="https://i.imgur.com/P8ehHAI.png" width="32"/></td></tr>
     <tr><td><img src="https://i.imgur.com/Juq8YRP.png" width="32"/></td><td><img src="https://i.imgur.com/zmvi2Fl.png" width="32"/></td><td><img src="https://i.imgur.com/elPVGhz.png" width="32"/></td><td><img src="https://i.imgur.com/1L2c9qf.png" width="32"/></td></tr>

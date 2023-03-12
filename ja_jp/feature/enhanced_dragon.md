@@ -29,4 +29,4 @@
 ---
 
 ## 制限
-[エンドポータル](https://minecraft.fandom.com/zh/wiki/終界傳送門)半径`200`ブロック内で領地飛行](../item/land_flying_device.md)不可。
+[エンドポータル](https://minecraft.fandom.com/ja/wiki/ジ・エンド・ポータル)半径`200`ブロック内で領地飛行](../item/land_flying_device.md)不可。

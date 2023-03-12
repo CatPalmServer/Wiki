@@ -198,10 +198,10 @@
 
 <table>
     <tr><td align="center">효과</td><td align="center">시간</td><td align="center">레벨</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/反胃">메스꺼움</a></td><td align="center">00:04</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/緩速">느림</a></td><td align="center">00:04</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/挖掘疲勞">채굴 피로</a></td><td align="center">00:04</td><td align="center">II</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/虛弱">취약함</a></td><td align="center">00:04</td><td align="center">III</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/구토">메스꺼움</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/슬로우">느림</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/탐구_피로">채굴 피로</a></td><td align="center">00:04</td><td align="center">II</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/약함">취약함</a></td><td align="center">00:04</td><td align="center">III</td></tr>
 </table>
 
 실크 터치 TNT는 블록을 파괴할 때 실크 터치 도구로 채굴하는 것과 같이 작동합니다.

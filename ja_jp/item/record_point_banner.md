@@ -32,7 +32,7 @@
 
 ## クラフト
 詳しくは[record_point_gemstone.md]をご覧ください。
-記録ポイントの旗は、[金床](https://minecraft.fandom.com/zh/wiki/金床)で任意のテレポートポイントの名前に変更できます。
+記録ポイントの旗は、[金床](https://minecraft.fandom.com/ja/wiki/金床)で任意のテレポートポイントの名前に変更できます。
 <img src="https://i.imgur.com/3YdOF91.png" width="480"/>
 
 ---

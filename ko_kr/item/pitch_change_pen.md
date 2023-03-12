@@ -1,6 +1,6 @@
 [← 홈으로](../)
 # 음고 조절 막대기
-빠르게 <a href="https://minecraft.fandom.com/zh/wiki/음계상자">음계 상자</a>의 음색을 변경합니다.
+빠르게 <a href="https://minecraft.fandom.com/ko/wiki/음계_상자">음계 상자</a>의 음색을 변경합니다.
 
 ## 데이터
 <table>

@@ -47,9 +47,9 @@ Want to save your screen as a fixed image? Try [world_map_capture.md!
     <tr><td>Other players</td><td><img src="https://i.imgur.com/DynLEHZ.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td>Last death</td><td><img src="https://i.imgur.com/KutZ4EF.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td>Territory center</td><td><img src="https://i.imgur.com/eHl9Jv0.png" width="32"/></td><td colspan="3"></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/綠林府邸">Green Forest Mansion</a></td><td><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td colspan="3"></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/海底神殿">Ocean Monument</a></td><td><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td colspan="3"></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/埋藏的寶藏">Buried Treasure</a></td><td><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/wiki/Woodland_Mansion">Green Forest Mansion</a></td><td><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/wiki/Ocean_Monument">Ocean Monument</a></td><td><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td colspan="3"></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/wiki/Buried_Treasure">Buried Treasure</a></td><td><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td colspan="3"></td></tr>
     <tr><td rowspan="16">Waypoint</td><td><img src="https://i.imgur.com/am90YJk.png" width="32"/></td><td><img src="https://i.imgur.com/fzle1wS.png" width="32"/></td><td><img src="https://i.imgur.com/TiF8FjY.png" width="32"/></td><td><img src="https://i.imgur.com/j3vzW8E.png" width="32"/></td></tr>
     <tr><td><img src="https://i.imgur.com/5Y1w0tr.png" width="32"/></td><td><img src="https://i.imgur.com/LBL6ozy.png" width="32"/></td><td><img src="https://i.imgur.com/yfJvb4v.png" width="32"/></td><td><img src="https://i.imgur.com/P8ehHAI.png" width="32"/></td></tr>
     <tr><td><img src="https://i.imgur.com/Juq8YRP.png" width="32"/></td><td><img src="https://i.imgur.com/zmvi2Fl.png" width="32"/></td><td><img src="https://i.imgur.com/elPVGhz.png" width="32"/></td><td><img src="https://i.imgur.com/1L2c9qf.png" width="32"/></td></tr>

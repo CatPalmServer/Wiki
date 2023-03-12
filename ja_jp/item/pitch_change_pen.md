@@ -1,6 +1,6 @@
 [← ホームに戻る](../)
 # ピッチ調整棒
-音階箱(https://minecraft.fandom.com/zh/wiki/音階盒)の音色を素早く変更します。
+音階箱(https://minecraft.fandom.com/ja/wiki/ノートブロック)の音色を素早く変更します。
 
 ## データ
 <table>
@@ -21,7 +21,7 @@
 ---
 
 ## 使用方法
-お気に入りの手で音階箱(https://minecraft.fandom.com/zh/wiki/音階盒)を手に持ち、右クリックでメニューを開くことができます。
+お気に入りの手で音階箱(https://minecraft.fandom.com/ja/wiki/ノートブロック)を手に持ち、右クリックでメニューを開くことができます。
 
 <table>
     <tr><td align="center">タイトル</td><td colspan="9">音高の選択</td></tr>

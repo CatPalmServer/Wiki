@@ -6,7 +6,7 @@
 <table>
     <tr><td align="end">이미지</td><td><img src="https://i.imgur.com/tvhOfLt.gif" width="128"/></td></tr>
     <tr><td align="end">스택</td><td>1</td></tr>
-    <tr><td align="end">마법 부여</td><td><a href="https://minecraft.fandom.com/zh/wiki/불빛">불빛</a></td></tr>
+    <tr><td align="end">마법 부여</td><td><a href="https://minecraft.fandom.com/ko/wiki/불빛">불빛</a></td></tr>
 </table>
 
 ---

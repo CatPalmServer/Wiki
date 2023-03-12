@@ -14,8 +14,8 @@
 
 ## 획득
 <table>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/잠수함#전리품">잠수함</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/交易#制图师">지도 제작자 마을 주민</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/잠수함#전리품">잠수함</a></td><td><img src="https://i.imgur.com/gT5E0oq.png" width="720"/></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/ko/wiki/거래#지도제작자">지도 제작자 마을 주민</a></td><td><img src="https://i.imgur.com/gB2iRLK.png" width="720"/></tr>
 </table>
 
 ---
@@ -34,8 +34,8 @@
 ## 아이콘
 <table>
     <tr><td align="center">이름</td><td align="center">지도 내</td><td align="center">메뉴 내</td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/綠林府邸">숲 초원 저택</a></td><td align="center"><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/PTHsDwR.png" width="32"/></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/海底神殿">해저신전</a></td><td align="center"><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/koytFxF.png" width="32"/></td></tr>
-    <tr><td><a href="https://minecraft.fandom.com/zh/wiki/埋藏的寶藏">숨겨진 보물</a></td><td align="center"><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/VSqR9TK.png" width="32"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ko/wiki/정글_사원">숲 초원 저택</a></td><td align="center"><img src="https://i.imgur.com/964MY5y.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/PTHsDwR.png" width="32"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ko/wiki/해저_신전">해저신전</a></td><td align="center"><img src="https://i.imgur.com/iNAiVZn.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/koytFxF.png" width="32"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ko/wiki/숨겨진_보물">숨겨진 보물</a></td><td align="center"><img src="https://i.imgur.com/YcR6UpP.png" width="32"/></td><td align="center"><img src="https://i.imgur.com/VSqR9TK.png" width="32"/></td></tr>
 </table>
   

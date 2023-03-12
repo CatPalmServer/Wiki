@@ -7,8 +7,8 @@
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>비몽사몽의 결정</td><td><a href="https://minecraft.fandom.com/zh/wiki/소멸저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/zh/wiki/실버터치">실버터치</a>、<a href="https://minecraft.fandom.com/zh/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/zh/wiki/수리">수리</a></td></tr>
-            <tr><td>몽상의 결정</td><td><a href="https://minecraft.fandom.com/zh/wiki/소멸저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/zh/wiki/실버터치">실버터치</a></td></tr>
+            <tr><td>비몽사몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/실버터치">실버터치</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>몽상의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/실버터치">실버터치</a></td></tr>
         </table>
     </td></tr>
 </table>
@@ -163,7 +163,7 @@
     <tr><td>채굴 피로 있음</td><td><code>강제 손상</code>=최대 값(<code>1</code>,(<code>블록 경도</code>/<code>파괴 속도</code>)x<code>40</code>x<code>채굴 피로 레벨</code>)</td></tr>
 </table>
 
-[내구도](https://minecraft.fandom.com/zh/wiki/내구도)손상 억제:
+[내구도](https://minecraft.fandom.com/ko/wiki/내구도)손상 억제:
 
 <table>
     <tr><td align="center">레벨</td><td align="center">억제</td></tr>

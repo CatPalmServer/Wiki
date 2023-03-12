@@ -22,7 +22,7 @@
 ---
 
 ## 사용
-[모루](https://minecraft.fandom.com/zh/wiki/鐵砧)에서 [깃발](https://minecraft.fandom.com/zh/wiki/旗幟)과 함께 기록할 수 있는 지점의 깃발[(record_point_banner.md)을 만들 수 있습니다.
+[모루](https://minecraft.fandom.com/ko/wiki/모루)에서 [깃발](https://minecraft.fandom.com/ko/wiki/깃발)과 함께 기록할 수 있는 지점의 깃발[(record_point_banner.md)을 만들 수 있습니다.
 합성한 이름이 이동 지점의 이름이 됩니다.。
 
 <table>

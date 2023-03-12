@@ -6,7 +6,7 @@
 <table>
     <tr><td align="end">画像</td><td><img src="https://i.imgur.com/4zxLVnc.png" width="128"/></td></tr>
     <tr><td align="end">スタック</td><td>1</td></tr>
-    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/zh/wiki/耐久">耐久</a></td></tr>
+    <tr><td align="end">エンチャント</td><td><a href="https://minecraft.fandom.com/ja/wiki/耐久">耐久</a></td></tr>
 </table>
 
 ---
@@ -35,6 +35,6 @@
     <tr><td align="center">III</td><td align="center">5分</td></tr>
 </table>
 
-<a href="https://minecraft.fandom.com/zh/wiki/铁砧">鉄造り台</a>で<a href="https://minecraft.fandom.com/zh/wiki/铁砧#重命名">名称の変更</a>を行うことで、以下の備考を追加できます：
+<a href="https://minecraft.fandom.com/ja/wiki/鉄砧">鉄造り台</a>で<a href="https://minecraft.fandom.com/ja/wiki/金床#名前の付け替え">名称の変更</a>を行うことで、以下の備考を追加できます：
 <img src="https://i.imgur.com/AaLEzgA.png" width="720"/>  
 <img src="https://i.imgur.com/aGnQraf.png" width="720"/>

@@ -24,7 +24,7 @@ Allows other players to notify you, provided you are in the [Discord group](../f
 ### Place
 When someone else uses the notifier, the person who placed it will receive the notification!
 <table>
-    <tr><td>Change to the desired message on an <a href="https://minecraft.fandom.com/zh/wiki/鐵砧">anvil</a></td><td><img src="https://i.imgur.com/B2lZOum.png" width="720"/></td></tr>
+    <tr><td>Change to the desired message on an <a href="https://minecraft.fandom.com/wiki/Anvil">anvil</a></td><td><img src="https://i.imgur.com/B2lZOum.png" width="720"/></td></tr>
     <tr><td>Place</td><td><img src="https://i.imgur.com/QGphye0.png" width="720"/></td></tr>
 </table>
 

@@ -32,7 +32,7 @@
 
 ## 제작
 보석 기록[(record_point_gemstone.md)을 참고하세요.
-기록할 수 있는 지점의 깃발은 [모루](https://minecraft.fandom.com/zh/wiki/鐵砧)에서 원하는 이동 지점 이름으로 이름을 바꿀 수 있습니다.
+기록할 수 있는 지점의 깃발은 [모루](https://minecraft.fandom.com/ko/wiki/모루)에서 원하는 이동 지점 이름으로 이름을 바꿀 수 있습니다.
 <img src="https://i.imgur.com/3YdOF91.png" width="480"/>
 
 ---

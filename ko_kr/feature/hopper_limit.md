@@ -3,7 +3,7 @@
 
 <table>
     <tr><td align="center">유형</td><td align="center">포인트</td></tr>
-    <tr><td align="center">위에<a href="https://minecraft.fandom.com/zh/wiki/컴포스터">컴포스터</a>가 있음</td><td align="center">1</td></tr>
+    <tr><td align="center">위에<a href="https://minecraft.fandom.com/ko/wiki/컴포스터">컴포스터</a>가 있음</td><td align="center">1</td></tr>
     <tr><td align="center">기타</td><td align="center">2</td></tr>
 </table>
 

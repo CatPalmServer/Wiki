@@ -3,7 +3,7 @@
 
 <table>
     <tr><td align="center">Type</td><td align="center">Points</td></tr>
-    <tr><td align="center">Above <a href="https://minecraft.fandom.com/zh/wiki/Composter">Composter</a></td><td align="center">1</td></tr>
+    <tr><td align="center">Above <a href="https://minecraft.fandom.com/wiki/Composter">Composter</a></td><td align="center">1</td></tr>
     <tr><td align="center">Other</td><td align="center">2</td></tr>
 </table>
 

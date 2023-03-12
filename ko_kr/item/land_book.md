@@ -51,7 +51,7 @@
     <tr><td><img src="https://i.imgur.com/x9meQTF.png" width="400"/></td><td><img src="https://i.imgur.com/h2Kovir.png" width="400"/></td></tr>
 </table>
 
-만약 [영토 생성기](land_block.md)가 이미 작성되었다면, 재사용하기 전에 제거해야 합니다. 영토 배치 방법은 [신호 탑](https://minecraft.fandom.com/zh/wiki/신호_탑)과 동일합니다.
+만약 [영토 생성기](land_block.md)가 이미 작성되었다면, 재사용하기 전에 제거해야 합니다. 영토 배치 방법은 [신호 탑](https://minecraft.fandom.com/ko/wiki/신호_탑)과 동일합니다.
 
 <img src="https://i.imgur.com/nW7GC4b.png" width="720"/>  
 
@@ -148,48 +148,48 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 
 ## 권한
 - ### A 갑옷 거치대
-  [ 갑옷 거치대 ] (https://minecraft.fandom.com/zh/wiki/盔甲座)의 배치, 손상, 의복 교체
+  [ 갑옷 거치대 ] (https://minecraft.fandom.com/ko/wiki/갑옷_거치대)의 배치, 손상, 의복 교체
 - ### B 배
-  [ 보트 ] (https://minecraft.fandom.com/zh/wiki/船)의 배치, 손상, 승선
+  [ 보트 ] (https://minecraft.fandom.com/ko/wiki/보트)의 배치, 손상, 승선
 - ### D 블록 파괴
-  [ 블록 ] (https://minecraft.fandom.com/zh/wiki/方塊)의 파괴
+  [ 블록 ] (https://minecraft.fandom.com/ko/wiki/블록)의 파괴
 - ### E 엔티티 상호 작용
-  [ 엔티티 ] (https://minecraft.fandom.com/zh/wiki/動物)의 사료 주기
+  [ 엔티티 ] (https://minecraft.fandom.com/ko/wiki/동물)의 사료 주기
 - ### F 아이템 액자
-  [ 아이템 표시 장 ] (https://minecraft.fandom.com/zh/wiki/物品展示框)의 배치, 손상, 아이템 교체, 회전
+  [ 아이템 표시 장 ] (https://minecraft.fandom.com/ko/wiki/아이템_액자)의 배치, 손상, 아이템 교체, 회전
 - ### G 그림 액자
-  [ 그림 ] (https://minecraft.fandom.com/zh/wiki/畫)의 배치, 손상
+  [ 그림 ] (https://minecraft.fandom.com/ko/wiki/그림)의 배치, 손상
 - ### H 엔티티 공격
-  [ 엔티티 ] (https://minecraft.fandom.com/zh/wiki/實體)의 손상
+  [ 엔티티 ] (https://minecraft.fandom.com/ko/wiki/엔티티)의 손상
   ※ 영토 내에서 태어난 동물 만 보호합니다.
 - ### I 블록 상호 작용
-  [ 창고 ] (https://minecraft.fandom.com/zh/wiki/儲物箱)의 사용
-  [ 봉화대 ] (https://minecraft.fandom.com/zh/wiki/烽火台)의 사용
-  [ 공지판 ] (https://minecraft.fandom.com/zh/wiki/告示牌)의 수정
-  [ 음악 상자 ] (https://minecraft.fandom.com/zh/wiki/音階盒)의 조정
+  [ 창고 ] (https://minecraft.fandom.com/ko/wiki/창고)의 사용
+  [ 봉화대 ] (https://minecraft.fandom.com/ko/wiki/신호의_불)의 사용
+  [ 공지판 ] (https://minecraft.fandom.com/ko/wiki/갱신_표지판)의 수정
+  [ 음악 상자 ] (https://minecraft.fandom.com/ko/wiki/노래방_상자)의 조정
 - ### L 강의책 읽기
-  [ 강의 대 ] (https://minecraft.fandom.com/zh/wiki/講台)의 열람
+  [ 강의 대 ] (https://minecraft.fandom.com/ko/wiki/강의_대)의 열람
 - ### M 광산 수레
-  [광차](https://minecraft.fandom.com/zh/wiki/광차)의 설치, 피해, 탑승
+  [광차](https://minecraft.fandom.com/ko/wiki/광차)의 설치, 피해, 탑승
 - ### P 블록 설치
-  [블록](https://minecraft.fandom.com/zh/wiki/블록)의 설치
+  [블록](https://minecraft.fandom.com/ko/wiki/블록)의 설치
 - ### R 소유자
   [영지 생성기](land_block.md)의 기록, 철거
   영지 권한 변경
   영지 에너지의 설치, 철거
 - ### S 엔티티 생성
-  [스폰 에그](https://minecraft.fandom.com/zh/wiki/스폰_에그)의 사용
+  [스폰 에그](https://minecraft.fandom.com/ko/wiki/스폰_알)의 사용
   [우호적인 동물 수집 줄](rope.md)의 사용
   [악의적인 동물 수집 줄](rope.md)의 사용
 - ### T 트리거 작동
-  [그물갈고리](https://minecraft.fandom.com/zh/wiki/그물갈고리)의 작동
-  [함정 상자](https://minecraft.fandom.com/zh/wiki/함정_상자)의 사용
-  [압력판](https://minecraft.fandom.com/zh/wiki/압력판)의 작동
+  [그물갈고리](https://minecraft.fandom.com/ko/wiki/그물_갈고리)의 작동
+  [함정 상자](https://minecraft.fandom.com/ko/wiki/함정_상자)의 사용
+  [압력판](https://minecraft.fandom.com/ko/wiki/압력판)의 작동
 - ### U 물 양동이
-  [양동이](https://minecraft.fandom.com/zh/wiki/양동이)의 사용
-  [용암 양동이](https://minecraft.fandom.com/zh/wiki/용암_양동이)의 사용
+  [양동이](https://minecraft.fandom.com/ko/wiki/양동이)의 사용
+  [용암 양동이](https://minecraft.fandom.com/ko/wiki/용암_양동이)의 사용
 - ### V PVP
-  [플레이어](https://minecraft.fandom.com/zh/wiki/플레이어)의 손상
+  [플레이어](https://minecraft.fandom.com/ko/wiki/플레이어)의 손상
 - ### Y 비행
   [영지 비행 장치](land_flying_device.md)의 비행
   [고양이 사료](../feature/cat_bowl.md)의 관전자 변경

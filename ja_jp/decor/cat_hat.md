@@ -36,4 +36,4 @@
 ---
 
 ## 使用方法
-装着すると[ナイトメア](https://minecraft.fandom.com/zh/wiki/夜魅)の生成を防止できる。
+装着すると[ナイトメア](https://minecraft.fandom.com/ja/wiki/夜魅)の生成を防止できる。

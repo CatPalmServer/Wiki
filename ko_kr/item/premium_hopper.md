@@ -46,7 +46,7 @@
 ### 지정된 수량
 수량을 지정하지 않으면 이동할 때마다 최대 수량이 선택됩니다.
 <table>
-    <tr><td><a href="https://minecraft.fandom.com/ko/wiki/모루">모루</a>에서 원하는 수량으로 변경</td><td><img src="https://i.imgur.com/XczBIwu.png" width="720"/></td></tr>
+    <tr><td><a href="https://minecraft.fandom.com/ko/wiki/채굴용_도끼">모루</a>에서 원하는 수량으로 변경</td><td><img src="https://i.imgur.com/XczBIwu.png" width="720"/></td></tr>
     <tr><td>설치</td><td><img src="https://i.imgur.com/AJJzsmO.png" width="720"/></td></tr>
 </table>
 

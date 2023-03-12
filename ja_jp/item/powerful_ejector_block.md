@@ -30,4 +30,4 @@
     <tr><td align="center" width="70" height="70">南西</td><td align="center" width="70" height="70">南</td><td align="center" width="70" height="70">南東</td></tr>
 </table>
 
-任意の[プレイヤー](https://minecraft.fandom.com/zh/wiki/玩家)、[生物](https://minecraft.fandom.com/zh/wiki/生物)、[防具スタンド](https://minecraft.fandom.com/zh/wiki/盔甲座)、[ドロップアイテム](https://minecraft.fandom.com/zh/wiki/掉落物)、[マインカート](https://minecraft.fandom.com/zh/wiki/礦車)、[ボート](https://minecraft.fandom.com/zh/wiki/船)を指定された方向に20マス離すことができる装置です。
+任意の[プレイヤー](https://minecraft.fandom.com/ja/wiki/プレイヤー)、[生物](https://minecraft.fandom.com/ja/wiki/生物)、[防具スタンド](https://minecraft.fandom.com/ja/wiki/防具立て)、[ドロップアイテム](https://minecraft.fandom.com/ja/wiki/ドロップアイテム)、[マインカート](https://minecraft.fandom.com/ja/wiki/マインカート)、[ボート](https://minecraft.fandom.com/ja/wiki/ボート)を指定された方向に20マス離すことができる装置です。
