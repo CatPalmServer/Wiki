@@ -38,7 +38,7 @@ Can draw pixel art, but... everyone just uploads images.
 ---
 
 ## Use
-Hold a blank canvas in the main hand to activate it.：
+Hold a blank canvas in the main hand to activate it：
 
 <table>
     <tr><td align="center">Disabled</td><td align="center">Enabled</td></tr>

@@ -156,7 +156,7 @@ Different materials have different values：
     <tr><td align="center">Creator</td><td align="center">Infinite</td><td align="center">63x63</td><td align="center">2916</td></tr>
 </table>
 
-Processed specially when certain potion effects are present.：  
+Processed specially when certain potion effects are present：  
 
 <table>
     <tr><td>No Digging Fatigue</td><td><code>Damage</code>=max(<code>1</code>,(<code>Block Hardness</code>/<code>Breaking Speed</code>)x(<code>1</code>-<code>0.05</code>x<code>Digging Speed Level</code>))</td></tr>

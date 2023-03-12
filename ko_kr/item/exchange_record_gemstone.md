@@ -45,14 +45,14 @@
     <tr><td><img src="https://i.imgur.com/av4OPF8.png" width="400"/></td><td><img src="https://i.imgur.com/4lduUoD.png" width="400"/></td></tr>
 </table>
 
-활성화된 교환 기록 보석을 사용하면 다음과 같은 작업이 수행됩니다.：
+활성화된 교환 기록 보석을 사용하면 다음과 같은 작업이 수행됩니다：
 - 보석 내에 기록된 위치를 가져옵니다.
 - 현재 위치를 보석에 저장
 - 최근에 가져온 위치로 순간이동
 - 경험치 1 소모
 
 순간이동 후 `1초의 무적`과 `10초의 약화 II` 상태가 됩니다.
-교환 기록 보석에 저장된 위치를 지우려면 우유와 함께 제작해야 합니다.：  
+교환 기록 보석에 저장된 위치를 지우려면 우유와 함께 제작해야 합니다：  
 <table>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/B0iK4sj.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/7OTyHPW.png" width="48"/></td><td width="70"></td></tr>

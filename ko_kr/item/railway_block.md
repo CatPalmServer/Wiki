@@ -90,7 +90,7 @@
     <tr><td align="center" width="70" height="70"></td><td align="center" width="70" height="70">남쪽</td><td align="center" width="70" height="70"></td></tr>
 </table>
 
-조건이 충족되어야만 차량이 통과할 수 있습니다.：
+조건이 충족되어야만 차량이 통과할 수 있습니다：
 - 차량에 승객이 있습니다.
 - 허용된 방향
 

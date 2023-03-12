@@ -21,7 +21,7 @@ Can store [teleportation golden apples, teleportation gems](transfer.md).
 ---
 
 ## Use
-When holding the Book of Teleportation in your dominant hand, right-click to open the menu.：  
+When holding the Book of Teleportation in your dominant hand, right-click to open the menu：  
 
 <table>
     <tr><td align="center">Title</td><td colspan="9">Book of Teleportation</td></tr>

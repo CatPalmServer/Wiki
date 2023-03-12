@@ -61,7 +61,7 @@
     <tr><td>지면에 놓기</td><td><img src="https://i.imgur.com/9zJMV0Z.png" width="720"/></td></tr>
 </table>
 
-밟으면 크기가 표시됩니다.：
+밟으면 크기가 표시됩니다：
 <table>
 <td align="center">작은</td><td align="center">큰</td>
     <tr><td><img src="https://i.imgur.com/1FTaBO1.png" width="480"/></td><td><img src="https://i.imgur.com/NubzEhC.png" width="480"/></td></tr>

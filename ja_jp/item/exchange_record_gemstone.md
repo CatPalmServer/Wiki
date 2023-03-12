@@ -52,7 +52,7 @@
 - 1レベル消費
 
 テレポート後、`1秒間無敵`+`10秒間虚弱II`になります。
-交換記録宝石に保存された位置をクリアするには、牛乳と一緒に合成する必要があります。：  
+交換記録宝石に保存された位置をクリアするには、牛乳と一緒に合成する必要があります：  
 <table>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td colspan="3"></td></tr>
     <tr><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td><img src="https://i.imgur.com/B0iK4sj.png" width="48"/></td><td><img src="https://i.imgur.com/wl43BjZ.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/7OTyHPW.png" width="48"/></td><td width="70"></td></tr>

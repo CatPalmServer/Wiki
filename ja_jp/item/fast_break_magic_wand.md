@@ -140,7 +140,7 @@
     <tr><td align="center">対角線信頼する</td><td align="center"><code>Shift</code>を押す</td><td><img src="https://i.imgur.com/DJoClKC.png" width="480"/></td></tr>
 </table>
 
-異なる素材には異なる値があります。：
+異なる素材には異なる値があります：
 
 <table>
     <tr><td align="center">素材</td><td align="center">耐久</td><td align="center">サイズ</td><td align="center">ブロック数</td></tr>

@@ -194,7 +194,7 @@
     </tr>
 </table>
 
-범위 내 플레이어에게 부정적인 상태 효과가 적용됩니다.：
+범위 내 플레이어에게 부정적인 상태 효과가 적용됩니다：
 
 <table>
     <tr><td align="center">효과</td><td align="center">시간</td><td align="center">레벨</td></tr>

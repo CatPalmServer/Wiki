@@ -72,7 +72,7 @@
 </table>
 
 실제 면적은 `총 블록 면적`=제곱(`블록 반경`+`1`+`블록 반경`)입니다.
-다른 사람이 이미 차지한 지역을 덮어쓰지 않습니다.：  
+다른 사람이 이미 차지한 지역을 덮어쓰지 않습니다：  
 
 <table>
     <tr><td><img src="https://i.imgur.com/THNRtuf.png" width="400"/></td><td><img src="https://i.imgur.com/C4waK6f.png" width="400"/></td></tr>
@@ -121,7 +121,7 @@
 당신의 플레이어 닉네임=ABDEFGHILMPRSTUVY
 ```
 
-모든 플레이어가 비행할 수 있도록합니다.：  
+모든 플레이어가 비행할 수 있도록합니다：  
 ```yaml
 (ALL)=Y
 당신의 플레이어 닉네임=ABDEFGHILMPRSTUVY

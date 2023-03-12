@@ -59,7 +59,7 @@ Want to save your screen as a fixed image? Try [world_map_capture.md!
 ---
 
 ## Use
-Right-click with an active map in hand to open the menu.：  
+Right-click with an active map in hand to open the menu：  
 
 <table>
     <tr><td align="center">Title</td><td colspan="9">Map</td></tr>

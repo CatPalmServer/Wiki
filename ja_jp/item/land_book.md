@@ -72,7 +72,7 @@
 </table>
 
 実際の面積は、`総ブロック面積`=平方(`ブロック半径`+`1`+`ブロック半径`)です。
-自分よりも早く領地を占めたプレイヤーの領地を上書きすることはできません。：  
+自分よりも早く領地を占めたプレイヤーの領地を上書きすることはできません：  
 
 <table>
     <tr><td><img src="https://i.imgur.com/THNRtuf.png" width="400"/></td><td><img src="https://i.imgur.com/C4waK6f.png" width="400"/></td></tr>
