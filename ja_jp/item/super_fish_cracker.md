@@ -12,7 +12,7 @@
 ---
 
 ## 入手
-Discordグループ(../feature/discord_server.md)のストア(https://discord.com/channels/799977829805981716/1048223592342622289)。
+[Discordグループ](../feature/discord_server.md)の[店舗](https://discord.com/channels/1040647480972415006/1048245781515210852)。
 
 ---
 
