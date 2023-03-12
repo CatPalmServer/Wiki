@@ -22,7 +22,7 @@
 <table>
     <tr><td align="center">이름</td><td align="center">포인트</td><td align="center">횟수</td></tr>
     <tr><td align="center"><a href="world_map_view.md">혜성 맵 1:1</a></td><td align="center">40</td><td align="center">1</td></tr>
-    <tr><td align="center">철 투구</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></tr>
+    <tr><td align="center">철 투구</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></td></tr>
     <tr><td align="center">철 갑옷</td></tr>
     <tr><td align="center">철 다리보호구</td></tr>
     <tr><td align="center">철 부츠</td></tr>

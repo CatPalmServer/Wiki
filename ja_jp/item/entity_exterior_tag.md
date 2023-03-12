@@ -22,4 +22,4 @@
     <tr><td>偽プレイヤーに成功しました</td><td><img src="https://i.imgur.com/pSmY96m.png" width="720"/></td></tr>
 </table>
 
-使用するとプレイヤーカードが消費されます。。
+使用するとプレイヤーカードが消費されます。

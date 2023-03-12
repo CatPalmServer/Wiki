@@ -94,7 +94,7 @@
 ---
 
 ## データ
-多くのことをすると、追加の音が発生します。。
+多くのことをすると、追加の音が発生します。
 
 ### 繋星灯
 [https://www.ah-soft.com/voiceroid/akari/](https://www.ah-soft.com/voiceroid/akari/)  

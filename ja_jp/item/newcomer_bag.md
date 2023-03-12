@@ -12,7 +12,7 @@
 ---
 
 ## 入手
-新しいプレイヤーがログインすると、贈り物が届きます。。
+新しいプレイヤーがログインすると、贈り物が届きます。
 
 ---
 
@@ -22,7 +22,7 @@
 <table>
     <tr><td align="center">アイテム名</td><td align="center">ポイント</td><td align="center">回数</td></tr>
     <tr><td align="center"><a href="world_map_view.md">彗星マップ 1:1</a></td><td align="center">40</td><td align="center">1</td></tr>
-    <tr><td align="center">鉄製ヘルメット</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></tr>
+    <tr><td align="center">鉄製ヘルメット</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></td></tr>
     <tr><td align="center">鉄製チェストプレート</td></tr>
     <tr><td align="center">鉄製レギンス</td></tr>
     <tr><td align="center">鉄製ブーツ</td></tr>

@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/85qqFOd.png" width="200"/>
 
-発光の色は、鉱物の種類によって決定されます。。
+発光の色は、鉱物の種類によって決定されます。
 
 <table>
     <tr>

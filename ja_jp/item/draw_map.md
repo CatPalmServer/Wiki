@@ -62,7 +62,7 @@
 
 <img src="https://i.imgur.com/2lYxLbW.png" width="400"/>
 
-アイテムフレームを回転させても絵を描くことができます。。  
+アイテムフレームを回転させても絵を描くことができます。  
 
 <table>
     <tr><td><img src="https://i.imgur.com/KfEiw0R.png" width="400"/></td><td><img src="https://i.imgur.com/ctU1P58.png" width="400"/></td></tr>

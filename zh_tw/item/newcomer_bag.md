@@ -22,7 +22,7 @@
 <table>
     <tr><td align="center">名稱</td><td align="center">點數</td><td align="center">次數</td></tr>
     <tr><td align="center"><a href="world_map_view.md">彗星地圖 1:1</a></td><td align="center">40</td><td align="center">1</td></tr>
-    <tr><td align="center">鐵製頭盔</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></tr>
+    <tr><td align="center">鐵製頭盔</td><td align="center" rowspan="11">20</td><td align="center" rowspan="18"></td></tr>
     <tr><td align="center">鐵製胸甲</td></tr>
     <tr><td align="center">鐵製護腿</td></tr>
     <tr><td align="center">鐵製靴子</td></tr>

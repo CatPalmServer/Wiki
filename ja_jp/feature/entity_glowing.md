@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/9nNApbn.png" width="200"/>
 
-体力に応じて発光色が変化します。。
+体力に応じて発光色が変化します。
 
 <table>
     <tr>
