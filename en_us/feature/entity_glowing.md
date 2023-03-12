@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/9nNApbn.png" width="200"/>
 
-The color of the glow changes according to the remaining health..
+The color of the glow changes according to the remaining health.
 
 <table>
     <tr>

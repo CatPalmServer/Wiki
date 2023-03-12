@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Particle Generator
-Placing too many will cause your game to lag..
+Placing too many will cause your game to lag.
 
 ## Data
 <table>

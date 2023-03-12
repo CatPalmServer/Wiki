@@ -1,6 +1,7 @@
 [← Return to main page](../)
 # Recordable flags.
-An essential item for home travel..  
+An essential item for home travel.
+ 
 Install several and just remember their names~
 
 ## Data

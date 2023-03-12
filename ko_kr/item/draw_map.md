@@ -62,7 +62,8 @@
 
 <img src="https://i.imgur.com/2lYxLbW.png" width="400"/>
 
-[아이템 프레임](https://minecraft.fandom.com/ko/wiki/아이템_프레임)을 회전시켜도 그림을 그릴 수 있습니다..  
+[아이템 프레임](https://minecraft.fandom.com/ko/wiki/아이템_프레임)을 회전시켜도 그림을 그릴 수 있습니다.
+ 
 
 <table>
     <tr><td><img src="https://i.imgur.com/KfEiw0R.png" width="400"/></td><td><img src="https://i.imgur.com/ctU1P58.png" width="400"/></td></tr>
