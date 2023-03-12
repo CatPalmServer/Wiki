@@ -1,5 +1,5 @@
 [← 홈으로](../)
-# 기억 점이 설정 가능한 깃발
+# 기록할 수 있는 지점의 깃발
 가정용 여행 필수품.  
 여러 개 꽂아두세요. 이름만 기억하면 돼요~
 
@@ -31,7 +31,7 @@
 ---
 
 ## 제작
-보석 기록[(record_point_gemstone.md)을 참고하세요.
+[보석 기록](record_point_gemstone.md)을 참고하세요.
 기록할 수 있는 지점의 깃발은 [모루](https://minecraft.fandom.com/ko/wiki/모루)에서 원하는 이동 지점 이름으로 이름을 바꿀 수 있습니다.
 <img src="https://i.imgur.com/3YdOF91.png" width="480"/>
 
