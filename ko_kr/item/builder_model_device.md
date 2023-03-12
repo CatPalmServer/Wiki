@@ -67,5 +67,5 @@
 최대 4 개의 노드를 확장 할 수 있으며, 각 노드는 오른쪽 클릭으로 다시 편집하거나 ` F 키 `로 제거 할 수 있습니다.
 노드를 서로 연결하는 경로가 있습니다. 블록을 경로에 맞추고 마우스 오른쪽 버튼을 누르면 빠르게 블록을 놓을 수 있습니다.
 <table>
-    <tr><td><img src="https://i.imgur.com/tHV19LF.png" width="400"/><td><img src="https://i.imgur.com/IT7G4E9.png" width="400"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/tHV19LF.png" width="400"/></td><td><img src="https://i.imgur.com/IT7G4E9.png" width="400"/></td></tr>
 </table>

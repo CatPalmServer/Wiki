@@ -67,5 +67,5 @@
 最多可以延伸出4個節點，每個節點都能使用右鍵再度編輯或者`F鍵`移除。  
 會有路徑將節點連在一起，手持方塊對準路徑右鍵能快速放出方塊：
 <table>
-    <tr><td><img src="https://i.imgur.com/tHV19LF.png" width="400"/><td><img src="https://i.imgur.com/IT7G4E9.png" width="400"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/tHV19LF.png" width="400"/></td><td><img src="https://i.imgur.com/IT7G4E9.png" width="400"/></td></tr>
 </table>

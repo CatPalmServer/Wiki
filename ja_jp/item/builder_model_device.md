@@ -67,5 +67,5 @@
 最大4つのノードを拡張でき、各ノードは右クリックで再編集または`Fキー`で削除できます。
 ノードはパスで接続されます。手持ちのブロックをパスに対して右クリックすると、ブロックを素早く配置できます：
 <table>
-    <tr><td><img src="https://i.imgur.com/tHV19LF.png" width="400"/><td><img src="https://i.imgur.com/IT7G4E9.png" width="400"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/tHV19LF.png" width="400"/></td><td><img src="https://i.imgur.com/IT7G4E9.png" width="400"/></td></tr>
 </table>

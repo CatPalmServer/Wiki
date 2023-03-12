@@ -67,5 +67,5 @@ There are four modes in total, the default is the leftmost one, and you can swit
 You can extend up to 4 nodes, and you can right-click to edit again or use `F key ` to remove each node.
 There will be a path connecting the nodes. Right-clicking with the block in hand on the path can quickly place the block.
 <table>
-    <tr><td><img src="https://i.imgur.com/tHV19LF.png" width="400"/><td><img src="https://i.imgur.com/IT7G4E9.png" width="400"/></td></tr>
+    <tr><td><img src="https://i.imgur.com/tHV19LF.png" width="400"/></td><td><img src="https://i.imgur.com/IT7G4E9.png" width="400"/></td></tr>
 </table>
