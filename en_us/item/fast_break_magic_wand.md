@@ -160,7 +160,7 @@ Processed specially when certain potion effects are present：
 
 <table>
     <tr><td>No Digging Fatigue</td><td><code>Damage</code>=max(<code>1</code>,(<code>Block Hardness</code>/<code>Breaking Speed</code>)x(<code>1</code>-<code>0.05</code>x<code>Digging Speed Level</code>))</td></tr>
-    <tr><td>Digging Fatigue</td><td><code>Forced Damage</code>=max(<code>1</code>,(<code>Block Hardness</code>/<code>Breaking Speed</code>)x<code>40</code>x<Digging Fatigue Level</code>)</td></tr>
+    <tr><td>Digging Fatigue</td><td><code>Forced Damage</code>=max(<code>1</code>,(<code>Block Hardness</code>/<code>Breaking Speed</code>)x<code>40</code>x<code>Digging Fatigue Level</code>)</td></tr>
 </table>
 
 [Durability](https://minecraft.fandom.com/wiki/Durability) Damage Reduction:
