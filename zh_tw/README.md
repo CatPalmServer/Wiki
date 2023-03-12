@@ -1,3 +1,5 @@
+繁體中文 | [日本語](../ja_jp) | [한국어](../ko_kr) | [English](../en_us)
+
 # 商店
 <a href="item/canned_cat.md"><img src="https://i.imgur.com/wxw402A.png" width="48"/></a>
 <a href="item/reward_card.md"><img src="https://i.imgur.com/b9dvhST.gif" width="48"/></a>
