@@ -2,7 +2,7 @@
 # 고양이 사료
 [고양이 사료 캔](../item/canned_cat.md)를 섭취하면 다음과 같은 특권을 누릴 수 있습니다.
 
-- 유저는 [Y 권한이있는 영토에서만 비행을 할 수 있으며, `/ob` 또는 `F3+N`을 사용하여 관전자 모드로 전환 할 수 있습니다. [(../item/land_book.md#y-비행)](https://minecraft.fandom.com/ko/wiki/관전자_모드)
+- 비행은 [Y 권한이 있는 지역](../item/land_book.md#y-비행)에서 비행할 수 있으며 `/ob` 또는 `F3+N`을 사용하여 [관전 모드](https://minecraft.fandom.com/ko/wiki/관전자_모드)로 전환할 수 있습니다.
 - 이미지 [업로드](https://discord.com/channels/1083635321067024485/1083635321574531147), [음악](https://discord.com/channels/1083635321067024485/1083635321574531148), [스킨](https://discord.com/channels/1083635321067024485/1083635321574531149), [별명](https://discord.com/channels/1083635321067024485/1083635321574531150)을 허용합니다.
 - 최대 시야 거리를 `10`에서 `18`로 증가합니다.
 - 유저는 `/experience`를 사용하여 경험치를 던질 수 있습니다.
