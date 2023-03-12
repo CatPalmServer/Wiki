@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Slime Block
-Bouncy, bouncy!～
+Bouncy, bouncy!~
 
 ## Data
 <table>

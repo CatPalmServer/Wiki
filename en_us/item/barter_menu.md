@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Trading Book
-Trade with everyone!～
+Trade with everyone!~
 
 ## Data
 <table>

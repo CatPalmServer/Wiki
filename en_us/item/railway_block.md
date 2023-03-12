@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Rail Block
-Expands the functionality of rails～
+Expands the functionality of rails~
 
 ## Data
 <table>

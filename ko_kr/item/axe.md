@@ -1,14 +1,14 @@
 [← 홈으로](../)
 # 도끼
-죽음의 손보다 더 강합니다.！
+죽음의 손보다 더 강합니다.!
 
 ## 데이터
 <table>
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>비몽사몽 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/ko/wiki/실크터치">실크터치</a>、<a href="https://minecraft.fandom.com/ko/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/ko/wiki/날카로움">날카로움</a>、<a href="https://minecraft.fandom.com/ko/wiki/언데드_킬러">언데드 킬러</a>、<a href="https://minecraft.fandom.com/ko/wiki/절지_동물_킬러">절지 동물 킬러</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
-            <tr><td>몽상의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/행운">행운</a>、<a href="https://minecraft.fandom.com/ko/wiki/실크터치">실크터치</a>、<a href="https://minecraft.fandom.com/ko/wiki/효율성">효율성</a>、<a href="https://minecraft.fandom.com/ko/wiki/날카로움">날카로움</a>、<a href="https://minecraft.fandom.com/ko/wiki/언데드_킬러">언데드 킬러</a>、<a href="https://minecraft.fandom.com/ko/wiki/절지_동물_킬러">절지 동물 킬러</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a></td></tr>
+            <tr><td>비몽사몽 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/행운">행운</a>/<a href="https://minecraft.fandom.com/ko/wiki/실크터치">실크터치</a>/<a href="https://minecraft.fandom.com/ko/wiki/효율성">효율성</a>/<a href="https://minecraft.fandom.com/ko/wiki/날카로움">날카로움</a>/<a href="https://minecraft.fandom.com/ko/wiki/언데드_킬러">언데드 킬러</a>/<a href="https://minecraft.fandom.com/ko/wiki/절지_동물_킬러">절지 동물 킬러</a>/<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>/<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>몽상의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/행운">행운</a>/<a href="https://minecraft.fandom.com/ko/wiki/실크터치">실크터치</a>/<a href="https://minecraft.fandom.com/ko/wiki/효율성">효율성</a>/<a href="https://minecraft.fandom.com/ko/wiki/날카로움">날카로움</a>/<a href="https://minecraft.fandom.com/ko/wiki/언데드_킬러">언데드 킬러</a>/<a href="https://minecraft.fandom.com/ko/wiki/절지_동물_킬러">절지 동물 킬러</a>/<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a></td></tr>
         </table>
     </td></tr>
 </table>

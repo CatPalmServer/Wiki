@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Title Block
-Displays important text！
+Displays important text!
 
 ## Data
 <table>

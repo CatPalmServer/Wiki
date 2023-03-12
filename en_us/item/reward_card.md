@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Loyalty card
-You'll regret it if you don't sign in often enough.！
+You'll regret it if you don't sign in often enough.!
 
 ## Data
 <table>
@@ -53,14 +53,14 @@ May appear:
 
 <table>
     <tr><td align="center">Accumulated</td><td align="center">Obtained</td></tr>
-    <tr><td align="center">1、2、3、4、5、6</td><td align="start"><a href="coin.md">Iron Coins</a> x 3</td></tr>
+    <tr><td align="center">1/2/3/4/5/6</td><td align="start"><a href="coin.md">Iron Coins</a> x 3</td></tr>
     <tr><td align="center">7</td><td align="center"><a href="coin.md">Iron Coins</a> x 18</td></tr>
-    <tr><td align="center">8、9、10、11、12、13</td><td align="start"><a href="coin.md">Iron Coins</a> x 3</td></tr>
+    <tr><td align="center">8/9/10/11/12/13</td><td align="start"><a href="coin.md">Iron Coins</a> x 3</td></tr>
     <tr><td align="center">14</td><td align="center"><a href="coin.md">Iron Coins</a> x 18</td></tr>
-    <tr><td align="center">15、16、17、18、19、20</td><td align="start"><a href="coin.md">Iron Coins</a> x 3</td></tr>
+    <tr><td align="center">15/16/17/18/19/20</td><td align="start"><a href="coin.md">Iron Coins</a> x 3</td></tr>
     <tr><td align="center">21</td><td align="center"><a href="coin.md">Iron Coins</a> x 18</td></tr>
-    <tr><td align="center">22、23、24、25、26、27</td><td align="start"><a href="coin.md">Iron Coins</a> x 3</td></tr>
-    <tr><td align="center">28、29、30</td><td align="center"><a href="coin.md">Iron Coins</a> x 18</td></tr>
+    <tr><td align="center">22/23/24/25/26/27</td><td align="start"><a href="coin.md">Iron Coins</a> x 3</td></tr>
+    <tr><td align="center">28/29/30</td><td align="center"><a href="coin.md">Iron Coins</a> x 18</td></tr>
 </table>
 
 <table>

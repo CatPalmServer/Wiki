@@ -1,14 +1,14 @@
 [← 홈으로](../)
 # 검
-죽음의 손보다 더 강합니다.！
+죽음의 손보다 더 강합니다.!
 
 ## 데이터
 <table>
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>비몽사몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/칼날">칼날</a>、<a href="https://minecraft.fandom.com/ko/wiki/언데드_킬러">언데드 킬러</a>、<a href="https://minecraft.fandom.com/ko/wiki/절지의_킬러">절지의 킬러</a>、<a href="https://minecraft.fandom.com/ko/wiki/화염">화염</a>、<a href="https://minecraft.fandom.com/ko/wiki/넉백">넉백</a>、<a href="https://minecraft.fandom.com/ko/wiki/약탈">약탈</a>、<a href="https://minecraft.fandom.com/ko/wiki/범위_공격">범위 공격</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸">소멸</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
-            <tr><td>몽상가의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/칼날">칼날</a>、<a href="https://minecraft.fandom.com/ko/wiki/언데드_킬러">언데드 킬러</a>、<a href="https://minecraft.fandom.com/ko/wiki/절지의_킬러">절지의 킬러</a>、<a href="https://minecraft.fandom.com/ko/wiki/화염">화염</a>、<a href="https://minecraft.fandom.com/ko/wiki/넉백">넉백</a>、<a href="https://minecraft.fandom.com/ko/wiki/약탈">약탈</a>、<a href="https://minecraft.fandom.com/ko/wiki/범위_공격">범위 공격</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸">소멸</a></td></tr>
+            <tr><td>비몽사몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/칼날">칼날</a>/<a href="https://minecraft.fandom.com/ko/wiki/언데드_킬러">언데드 킬러</a>/<a href="https://minecraft.fandom.com/ko/wiki/절지의_킬러">절지의 킬러</a>/<a href="https://minecraft.fandom.com/ko/wiki/화염">화염</a>/<a href="https://minecraft.fandom.com/ko/wiki/넉백">넉백</a>/<a href="https://minecraft.fandom.com/ko/wiki/약탈">약탈</a>/<a href="https://minecraft.fandom.com/ko/wiki/범위_공격">범위 공격</a>/<a href="https://minecraft.fandom.com/ko/wiki/소멸">소멸</a>/<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>/<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>몽상가의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/칼날">칼날</a>/<a href="https://minecraft.fandom.com/ko/wiki/언데드_킬러">언데드 킬러</a>/<a href="https://minecraft.fandom.com/ko/wiki/절지의_킬러">절지의 킬러</a>/<a href="https://minecraft.fandom.com/ko/wiki/화염">화염</a>/<a href="https://minecraft.fandom.com/ko/wiki/넉백">넉백</a>/<a href="https://minecraft.fandom.com/ko/wiki/약탈">약탈</a>/<a href="https://minecraft.fandom.com/ko/wiki/범위_공격">범위 공격</a>/<a href="https://minecraft.fandom.com/ko/wiki/소멸">소멸</a></td></tr>
         </table>
     </td></tr>
 </table>

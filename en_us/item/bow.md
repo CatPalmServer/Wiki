@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Bow
-Stronger than Netherite！
+Stronger than Netherite!
 
 ## Data
 <table>

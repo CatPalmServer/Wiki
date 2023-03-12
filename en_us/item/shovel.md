@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Shovel
-Stronger than Netherite！
+Stronger than Netherite!
 
 ## Data
 <table>

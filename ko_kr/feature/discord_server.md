@@ -1,6 +1,6 @@
 [← 홈으로](../)
 # Discord그룹
-[번체 중국어](https://discord.gg/utTBPy6yVM)、[일본어](https://discord.gg/JfbdJQDkHA)、[한국어](https://discord.gg/f6p96sBrdS)、[영어](https://discord.gg/gg5SHp2vFv)
+[번체 중국어](https://discord.gg/utTBPy6yVM)/[일본어](https://discord.gg/JfbdJQDkHA)/[한국어](https://discord.gg/f6p96sBrdS)/[영어](https://discord.gg/gg5SHp2vFv)
 
 ### 상태
 매 3분마다 서버 상태를 업데이트합니다. 인원 통계, CPU, RAM, 저장 공간, 분류, 온라인 플레이어 목록이 포함됩니다.
@@ -30,18 +30,18 @@
 ### 명령어
 다른 플레이어, 영지 권한 목록과 같은 일부 데이터를 검색할 수 있습니다.
 
-### 이미지！
+### 이미지!
 [고양이 사료](cat_bowl.md) 특권이 필요합니다. 
 `png`/`jpg` 이미지를 최대 `5`x`5`로 자를 수 있으며, 이를 서버에 업로드하여 [그림 캔버스](../item/draw_map.md)로 만들 수 있습니다.
 
-### 음악！
+### 음악!
 [고양이 사료](cat_bowl.md) 특권이 필요합니다. 
 mid 파일을 음악 상자로 바꿉니다 (../item/music_box.md).
 
-### 스킨！
+### 스킨!
 고양이 사료 특권이 필요합니다. 스킨을 업로드할 수 있습니다 (cat_bowl.md).
 
-### 별명！
+### 별명!
 고양이 사료 특권이 필요합니다. 닉네임을 변경할 수 있습니다 (cat_bowl.md).
 
 ## 팀 채널

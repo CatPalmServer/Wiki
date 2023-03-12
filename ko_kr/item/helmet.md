@@ -1,14 +1,14 @@
 [← 홈으로](../)
 # 투구
-죽음의 손보다 더 강합니다.！
+죽음의 손보다 더 강합니다.!
 
 ## 데이터
 <table>
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>비룡 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/화염_보호">화염 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/투사체_보호">투사체 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/폭발_보호">폭발 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/보호">보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/수중_호흡">수중 호흡</a>、<a href="https://minecraft.fandom.com/ko/wiki/적응성">적응성</a>、<a href="https://minecraft.fandom.com/ko/wiki/가시">가시</a>、<a href="https://minecraft.fandom.com/ko/wiki/결속의_저주">결속의 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸의 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
-            <tr><td>악몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/화염_보호">화염 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/발사체_보호">발사체 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/폭발_보호">폭발 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/보호">보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/수중_호흡">수중 호흡</a>、<a href="https://minecraft.fandom.com/ko/wiki/친수성">친수성</a>、<a href="https://minecraft.fandom.com/ko/wiki/가시">가시</a>、<a href="https://minecraft.fandom.com/ko/wiki/속박의_저주">속박 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸 저주</a></td></tr>
+            <tr><td>비룡 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/화염_보호">화염 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/투사체_보호">투사체 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/폭발_보호">폭발 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/보호">보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/수중_호흡">수중 호흡</a>/<a href="https://minecraft.fandom.com/ko/wiki/적응성">적응성</a>/<a href="https://minecraft.fandom.com/ko/wiki/가시">가시</a>/<a href="https://minecraft.fandom.com/ko/wiki/결속의_저주">결속의 저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸의 저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>/<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>악몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/화염_보호">화염 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/발사체_보호">발사체 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/폭발_보호">폭발 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/보호">보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/수중_호흡">수중 호흡</a>/<a href="https://minecraft.fandom.com/ko/wiki/친수성">친수성</a>/<a href="https://minecraft.fandom.com/ko/wiki/가시">가시</a>/<a href="https://minecraft.fandom.com/ko/wiki/속박의_저주">속박 저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/소멸의_저주">소멸 저주</a></td></tr>
         </table>
     </td></tr>
 </table>

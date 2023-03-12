@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Beginner package
-Welcome new players!～
+Welcome new players!~
 
 ## Data
 <table>

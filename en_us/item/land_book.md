@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Land Claim Groups
-Protect your belongings and prevent theft. Plus, creepers can't blow it up~ it's amazing~
+Protect your belongings and prevent theft. Plus, creepers can't blow it up/ it's amazing~
 Can bind an infinite number of [Land Claim Generators](land_block.md)!
 Monsters are not protected, only animals born within the land claim are.
 

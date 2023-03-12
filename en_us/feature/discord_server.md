@@ -30,18 +30,18 @@ Ability to invite other players to teleport to their location, provided both pla
 ### Command
 Ability to access information such as other players and territory permission lists.
 
-### Image！
+### Image!
 Requires Cat Bowl privilege to upload images.
 Ability to crop PNG or JPG images to a maximum of 5x5 and upload them to the server as a Painted Map item.
 
-### Music！
+### Music!
 Requires Cat Bowl privilege to upload music.
 Ability to turn MID files into a Music Box item.
 
-### Skin！
+### Skin!
 Requires Cat Bowl privilege to upload skins.
 
-### Nickname！
+### Nickname!
 Requires Cat Bowl privilege to change nicknames.
 
 ## Team chat

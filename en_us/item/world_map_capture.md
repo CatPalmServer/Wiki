@@ -1,7 +1,7 @@
 [← Return to main page](../)
 # Capture Comet Map
 [Comet Maps](world_map_view.md) move constantly... how do I save a still image?
-Here it is!！  
+Here it is!!  
 
 ## Data
 <table>

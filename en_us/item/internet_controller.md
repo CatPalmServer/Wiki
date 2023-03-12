@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Networked Devices
-Remote Control！
+Remote Control!
 
 ## Data
 <table>

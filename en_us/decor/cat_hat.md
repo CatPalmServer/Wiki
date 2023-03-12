@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Cat Hat
-Cute kitty on your head.～
+Cute kitty on your head.~
 
 ## Data
 <table>

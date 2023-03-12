@@ -7,8 +7,8 @@
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>비몽사몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/실버터치">실버터치</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
-            <tr><td>몽상의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/실버터치">실버터치</a></td></tr>
+            <tr><td>비몽사몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/실버터치">실버터치</a>/<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>/<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>몽상의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/실버터치">실버터치</a></td></tr>
         </table>
     </td></tr>
 </table>

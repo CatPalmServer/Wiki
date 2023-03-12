@@ -5,7 +5,7 @@
 ## 데이터
 <table>
     <tr><td align="end">스택</td><td>1</td></tr>
-    <tr><td align="end">마법</td><td><a href="https://minecraft.fandom.com/ko/wiki/속박의_저주">속박저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+    <tr><td align="end">마법</td><td><a href="https://minecraft.fandom.com/ko/wiki/속박의_저주">속박저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>/<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
 </table>
 <table>
     <tr><td align="center">내구도</td><td align="center">그림</td></tr>

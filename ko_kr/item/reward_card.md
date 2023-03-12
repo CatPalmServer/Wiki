@@ -1,6 +1,6 @@
 [← 홈으로](../)
 # 컬렉션 카드
-서명하지 않으면 문제가 생길 수 있습니다.！
+서명하지 않으면 문제가 생길 수 있습니다.!
 
 ## 데이터
 <table>
@@ -53,14 +53,14 @@
 
 <table>
     <tr><td align="center">누적</td><td align="center">얻은 것</td></tr>
-    <tr><td align="center">1、2、3、4、5、6</td><td align="start"><a href="coin.md">철화폐</a> x 3</td></tr>
+    <tr><td align="center">1/2/3/4/5/6</td><td align="start"><a href="coin.md">철화폐</a> x 3</td></tr>
     <tr><td align="center">7</td><td align="center"><a href="coin.md">철화폐</a> x 18</td></tr>
-    <tr><td align="center">8、9、10、11、12、13</td><td align="start"><a href="coin.md">철화폐</a> x 3</td></tr>
+    <tr><td align="center">8/9/10/11/12/13</td><td align="start"><a href="coin.md">철화폐</a> x 3</td></tr>
     <tr><td align="center">14</td><td align="center"><a href="coin.md">철화폐</a> x 18</td></tr>
-    <tr><td align="center">15、16、17、18、19、20</td><td align="start"><a href="coin.md">철화폐</a> x 3</td></tr>
+    <tr><td align="center">15/16/17/18/19/20</td><td align="start"><a href="coin.md">철화폐</a> x 3</td></tr>
     <tr><td align="center">21</td><td align="center"><a href="coin.md">철화폐</a> x 18</td></tr>
-    <tr><td align="center">22、23、24、25、26、27</td><td align="start"><a href="coin.md">철화폐</a> x 3</td></tr>
-    <tr><td align="center">28、29、30</td><td align="center"><a href="coin.md">철화폐</a> x 18</td></tr>
+    <tr><td align="center">22/23/24/25/26/27</td><td align="start"><a href="coin.md">철화폐</a> x 3</td></tr>
+    <tr><td align="center">28/29/30</td><td align="center"><a href="coin.md">철화폐</a> x 18</td></tr>
 </table>
 
 <table>

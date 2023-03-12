@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Boots
-Stronger than Netherite！
+Stronger than Netherite!
 
 ## Data
 <table>

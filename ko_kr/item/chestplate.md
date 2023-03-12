@@ -1,14 +1,14 @@
 [← 홈으로](../)
 # 갑옷
-죽음의 손보다 더 강합니다.！
+죽음의 손보다 더 강합니다.!
 
 ## 데이터
 <table>
     <tr><td align="end">스택</td><td>1</td></tr>
     <tr><td align="end">마법 부여</td><td>
         <table>
-            <tr><td>비몽사몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/화염_보호">화염 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/발사체_보호">발사체 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/폭발_보호">폭발 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/보호">보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/가시">가시</a>、<a href="https://minecraft.fandom.com/ko/wiki/끌어매김_저주">끌어매김 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>、<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
-            <tr><td>몽상가의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/화염_보호">화염 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/발사체_보호">발사체 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/폭발_보호">폭발 보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/보호">보호</a>、<a href="https://minecraft.fandom.com/ko/wiki/가시">가시</a>、<a href="https://minecraft.fandom.com/ko/wiki/끌어매김_저주">끌어매김 저주</a>、<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a></td></tr>
+            <tr><td>비몽사몽의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/화염_보호">화염 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/발사체_보호">발사체 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/폭발_보호">폭발 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/보호">보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/가시">가시</a>/<a href="https://minecraft.fandom.com/ko/wiki/끌어매김_저주">끌어매김 저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/내구도">내구도</a>/<a href="https://minecraft.fandom.com/ko/wiki/수리">수리</a></td></tr>
+            <tr><td>몽상가의 결정</td><td><a href="https://minecraft.fandom.com/ko/wiki/화염_보호">화염 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/발사체_보호">발사체 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/폭발_보호">폭발 보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/보호">보호</a>/<a href="https://minecraft.fandom.com/ko/wiki/가시">가시</a>/<a href="https://minecraft.fandom.com/ko/wiki/끌어매김_저주">끌어매김 저주</a>/<a href="https://minecraft.fandom.com/ko/wiki/소멸_저주">소멸 저주</a></td></tr>
         </table>
     </td></tr>
 </table>
