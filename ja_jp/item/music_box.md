@@ -12,7 +12,7 @@
 ---
 
 ## 入手
-[Discordグループ](../feature/discord_server.md)の[音楽](https://discord.com/channels/799977829805981716/1050912245758050326)。
+[Discordグループ](../feature/discord_server.md)。
 
 ---
 

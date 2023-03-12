@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Notifier
-Allows other players to notify you, provided you are in the [Discord group](../feature/discord_server.md).
+Allows other players to notify you, provided you are in the [Discord server](../feature/discord_server.md).
 
 ## Data
 <table>
@@ -33,7 +33,7 @@ Other players can use the notifier regardless of territory permissions, with a 6
 
 <img src="https://i.imgur.com/vQPNsSz.png" width="480"/>  
 
-Then you will receive a whisper notification in-game or on [Discord](../feature/discord_server.md):
+Then you will receive a whisper notification in-game or on [Discord server](../feature/discord_server.md):
 
 <table>
     <tr><td align="center">Game</td><td align="center">Group</td></tr>

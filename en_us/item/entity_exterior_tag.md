@@ -12,7 +12,7 @@ Turns a mob or an armor stand into a player, just like a real player!
 ---
 
 ## Obtain
-Skin used in the [Discord group](../feature/discord_server.md).
+[Discord server](../feature/discord_server.md).
 
 ---
 

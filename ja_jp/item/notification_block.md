@@ -33,7 +33,7 @@
 
 <img src="https://i.imgur.com/vQPNsSz.png" width="480"/>  
 
-ゲーム内または[Discord](../feature/discord_server.md)のメッセージで通知を受け取ります：
+ゲーム内または[Discordグループ](../feature/discord_server.md)のメッセージで通知を受け取ります：
 
 <table>
     <tr><td align="center">ゲーム</td><td align="center">グループ</td></tr>

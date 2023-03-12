@@ -12,7 +12,7 @@ Buy! Buy! Buy! Buy!
 ---
 
 ## Obtain
-[Shop](https://discord.com/channels/799977829805981716/1048223592342622289) in the [Discord group](../feature/discord_server.md).
+[Discord server](../feature/discord_server.md).
 
 ---
 

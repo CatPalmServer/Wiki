@@ -12,7 +12,7 @@
 ---
 
 ## 획득
-[Discord 그룹](../feature/discord_server.md)의[스킨](https://discord.com/channels/799977829805981716/1052733588765937694)입니다.
+[Discord 그룹](../feature/discord_server.md).
 
 ---
 

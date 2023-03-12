@@ -12,7 +12,7 @@
 ---
 
 ## 獲取
-[Discord群組](../feature/discord_server.md)的[音樂](https://discord.com/channels/799977829805981716/1050912245758050326)。
+[Discord群組](../feature/discord_server.md)。
 
 ---
 

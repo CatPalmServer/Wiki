@@ -12,7 +12,7 @@
 ---
 
 ## 획득
-[Discord 그룹](../feature/discord_server.md)의 [음악](https://discord.com/channels/799977829805981716/1050912245758050326)입니다.
+[Discord 그룹](../feature/discord_server.md).
 
 ---
 

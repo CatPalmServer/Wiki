@@ -12,7 +12,7 @@
 ---
 
 ## 獲取
-[Discord群組](../feature/discord_server.md)的[商店](https://discord.com/channels/799977829805981716/1048223592342622289)。
+[Discord群組](../feature/discord_server.md)。
 
 ---
 

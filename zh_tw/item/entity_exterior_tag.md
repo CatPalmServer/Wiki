@@ -12,7 +12,7 @@
 ---
 
 ## 獲取
-[Discord群組](../feature/discord_server.md)的[皮膚](https://discord.com/channels/799977829805981716/1052733588765937694)。
+[Discord群組](../feature/discord_server.md)。
 
 ---
 

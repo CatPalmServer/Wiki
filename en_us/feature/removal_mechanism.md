@@ -2,7 +2,7 @@
 # Clearing Mechanism
 To save server resources, unused data is periodically cleared.
 
-### [Discord Group](discord_server.md)
+### [Discord Server](discord_server.md)
 Data that has not been authenticated or has not been online for over `3 months` (`90 days`).
 
 ### [Painting Canvas](../item/draw_map.md)

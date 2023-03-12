@@ -12,7 +12,7 @@
 ---
 
 ## 入手
-[Discordグループ](../feature/discord_server.md)の[スキン](https://discord.com/channels/799977829805981716/1052733588765937694)。
+[Discordグループ](../feature/discord_server.md)。
 
 ---
 

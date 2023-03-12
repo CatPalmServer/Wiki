@@ -12,7 +12,7 @@ This song! It's my favorite!
 ---
 
 ## Obtain
-[Music](https://discord.com/channels/799977829805981716/1050912245758050326) from the[Discord server](../feature/discord_server.md).
+[Discord server](../feature/discord_server.md).
 
 ---
 

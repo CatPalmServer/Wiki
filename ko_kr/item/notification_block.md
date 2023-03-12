@@ -33,7 +33,7 @@
 
 <img src="https://i.imgur.com/vQPNsSz.png" width="480"/>  
 
-그러면 게임 내부 및 [Discord](../feature/discord_server.md)에서 비밀 메시지 알림이 표시됩니다:  
+그러면 게임 내부 및 [Discord 그룹](../feature/discord_server.md)에서 비밀 메시지 알림이 표시됩니다:  
 
 <table>
     <tr><td align="center">게임</td><td align="center">그룹</td></tr>

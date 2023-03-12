@@ -29,7 +29,7 @@
 ---
 
 ## 획득
-<a href="https://discord.com/channels/799977829805981716/1048223592342622289">Discord 그룹</a>의 상점.
+[Discord 그룹](../feature/discord_server.md).
 
 ---
 

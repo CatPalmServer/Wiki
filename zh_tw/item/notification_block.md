@@ -33,7 +33,7 @@
 
 <img src="https://i.imgur.com/vQPNsSz.png" width="480"/>  
 
-然後你會在遊戲內、[Discord](../feature/discord_server.md)密語收穫一則密語通知：  
+然後你會在遊戲內、[Discord群組](../feature/discord_server.md)密語收穫一則密語通知：  
 
 <table>
     <tr><td align="center">遊戲</td><td align="center">群組</td></tr>
