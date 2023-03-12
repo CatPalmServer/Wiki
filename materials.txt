@@ -1,2314 +1,2379 @@
-stone 石頭
-granite 花崗岩
-polished_granite 拋光花崗岩
-diorite 閃長岩
-polished_diorite 拋光閃長岩
-andesite 安山岩
-polished_andesite 拋光安山岩
-grass_block 草地
-dirt 泥土
-coarse_dirt 粗泥
-podzol 灰壤
-cobblestone 鵝卵石
-oak_planks 橡木材
-spruce_planks 杉木材
-birch_planks 樺木材
-jungle_planks 叢林木材
-acacia_planks 相思木材
-dark_oak_planks 黑橡木材
-mangrove_planks 紅樹林木材
-oak_sapling 橡木樹苗
-spruce_sapling 杉木樹苗
-birch_sapling 樺木樹苗
-jungle_sapling 叢林木樹苗
-acacia_sapling 相思木樹苗
-dark_oak_sapling 黑橡木樹苗
-mangrove_propagule 紅樹林木胎生苗
-bedrock 基岩
-sand 沙
-red_sand 紅沙
-gravel 礫石
-gold_ore 金礦
-deepslate_gold_ore 深板岩金礦
-iron_ore 鐵礦
-deepslate_iron_ore 深板岩鐵礦
-coal_ore 煤礦
-deepslate_coal_ore 深板岩煤礦
-nether_gold_ore 地獄金礦
-oak_log 橡木原木
-spruce_log 杉木原木
-birch_log 樺木原木
-jungle_log 叢林木原木
-acacia_log 相思木原木
-dark_oak_log 黑橡木原木
-mangrove_log 紅樹林木原木
-mangrove_roots 紅樹林木根
-muddy_mangrove_roots 淤泥紅樹林木根
-stripped_spruce_log 剝皮杉木原木
-stripped_birch_log 剝皮樺木原木
-stripped_jungle_log 剝皮叢林木原木
-stripped_acacia_log 剝皮相思木原木
-stripped_dark_oak_log 剝皮黑橡木原木
-stripped_oak_log 剝皮橡木原木
-stripped_mangrove_log 剝皮紅樹林木原木
-oak_wood 橡木塊
-spruce_wood 杉木塊
-birch_wood 樺木塊
-jungle_wood 叢林木塊
-acacia_wood 相思木塊
-dark_oak_wood 黑橡木塊
-mangrove_wood 紅樹林木塊
-stripped_oak_wood 剝皮橡木塊
-stripped_spruce_wood 剝皮杉木塊
-stripped_birch_wood 剝皮樺木塊
-stripped_jungle_wood 剝皮叢林木塊
-stripped_acacia_wood 剝皮相思木塊
-stripped_dark_oak_wood 剝皮黑橡木塊
-stripped_mangrove_wood 剝皮紅樹林木塊
-oak_leaves 橡木樹葉
-spruce_leaves 杉木樹葉
-birch_leaves 樺木樹葉
-jungle_leaves 叢林木樹葉
-acacia_leaves 相思木樹葉
-dark_oak_leaves 黑橡木樹葉
-mangrove_leaves 紅樹林木樹葉
-azalea_leaves 杜鵑葉
-flowering_azalea_leaves 開花的杜鵑葉
-sponge 海綿
-wet_sponge 濕海綿
-glass 玻璃
-lapis_ore 青金石礦
-deepslate_lapis_ore 深板岩青金石礦
-lapis_block 青金石方塊
-dispenser 發射器
-sandstone 砂岩
-chiseled_sandstone 浮雕砂岩
-cut_sandstone 切製砂岩
-note_block 音階盒
-white_bed 白色床
-orange_bed 橙色床
-magenta_bed 洋紅色床
-light_blue_bed 淺藍色床
-yellow_bed 黃色床
-lime_bed 淺綠色床
-pink_bed 粉紅色床
-gray_bed 灰色床
-light_gray_bed 淺灰色床
-cyan_bed 青色床
-purple_bed 紫色床
-blue_bed 藍色床
-brown_bed 棕色床
-green_bed 綠色床
-red_bed 紅色床
-black_bed 黑色床
-powered_rail 動力鐵軌
-detector_rail 感測鐵軌
-sticky_piston 黏性活塞
-cobweb 蜘蛛網
-grass 草
-fern 蕨
-dead_bush 枯灌木
-seagrass 海草
-piston 活塞
-white_wool 白色羊毛
-orange_wool 橙色羊毛
-magenta_wool 洋紅色羊毛
-light_blue_wool 淺藍色羊毛
-yellow_wool 黃色羊毛
-lime_wool 淺綠色羊毛
-pink_wool 粉紅色羊毛
-gray_wool 灰色羊毛
-light_gray_wool 淺灰色羊毛
-cyan_wool 青色羊毛
-purple_wool 紫色羊毛
-blue_wool 藍色羊毛
-brown_wool 棕色羊毛
-green_wool 綠色羊毛
-red_wool 紅色羊毛
-black_wool 黑色羊毛
-dandelion 蒲公英
-poppy 罌粟
-blue_orchid 藍色蝴蝶蘭
-allium 紫紅球花
-azure_bluet 雛草
-red_tulip 紅色鬱金香
-orange_tulip 橙色鬱金香
-white_tulip 白色鬱金香
-pink_tulip 粉紅色鬱金香
-oxeye_daisy 雛菊
-cornflower 矢車菊
-wither_rose 凋零玫瑰
-lily_of_the_valley 鈴蘭
-brown_mushroom 棕色蘑菇
-red_mushroom 紅色蘑菇
-gold_block 黃金方塊
-iron_block 鐵方塊
-bricks 紅磚
+stone Stone
+granite Granite
+polished_granite Polished Granite
+diorite Diorite
+polished_diorite Polished Diorite
+andesite Andesite
+polished_andesite Polished Andesite
+grass_block Grass Block
+dirt Dirt
+coarse_dirt Coarse Dirt
+podzol Podzol
+cobblestone Cobblestone
+oak_planks Oak Planks
+spruce_planks Spruce Planks
+birch_planks Birch Planks
+jungle_planks Jungle Planks
+acacia_planks Acacia Planks
+dark_oak_planks Dark Oak Planks
+mangrove_planks Mangrove Planks
+bamboo_planks Bamboo Planks
+bamboo_mosaic Bamboo Mosaic
+oak_sapling Oak Sapling
+spruce_sapling Spruce Sapling
+birch_sapling Birch Sapling
+jungle_sapling Jungle Sapling
+acacia_sapling Acacia Sapling
+dark_oak_sapling Dark Oak Sapling
+mangrove_propagule Mangrove Propagule
+bedrock Bedrock
+sand Sand
+red_sand Red Sand
+gravel Gravel
+gold_ore Gold Ore
+deepslate_gold_ore Deepslate Gold Ore
+iron_ore Iron Ore
+deepslate_iron_ore Deepslate Iron Ore
+coal_ore Coal Ore
+deepslate_coal_ore Deepslate Coal Ore
+nether_gold_ore Nether Gold Ore
+oak_log Oak Log
+spruce_log Spruce Log
+birch_log Birch Log
+jungle_log Jungle Log
+acacia_log Acacia Log
+dark_oak_log Dark Oak Log
+mangrove_log Mangrove Log
+mangrove_roots Mangrove Roots
+muddy_mangrove_roots Muddy Mangrove Roots
+bamboo_block Block of Bamboo
+stripped_spruce_log Stripped Spruce Log
+stripped_birch_log Stripped Birch Log
+stripped_jungle_log Stripped Jungle Log
+stripped_acacia_log Stripped Acacia Log
+stripped_dark_oak_log Stripped Dark Oak Log
+stripped_oak_log Stripped Oak Log
+stripped_mangrove_log Stripped Mangrove Log
+stripped_bamboo_block Block of Stripped Bamboo
+oak_wood Oak Wood
+spruce_wood Spruce Wood
+birch_wood Birch Wood
+jungle_wood Jungle Wood
+acacia_wood Acacia Wood
+dark_oak_wood Dark Oak Wood
+mangrove_wood Mangrove Wood
+stripped_oak_wood Stripped Oak Wood
+stripped_spruce_wood Stripped Spruce Wood
+stripped_birch_wood Stripped Birch Wood
+stripped_jungle_wood Stripped Jungle Wood
+stripped_acacia_wood Stripped Acacia Wood
+stripped_dark_oak_wood Stripped Dark Oak Wood
+stripped_mangrove_wood Stripped Mangrove Wood
+oak_leaves Oak Leaves
+spruce_leaves Spruce Leaves
+birch_leaves Birch Leaves
+jungle_leaves Jungle Leaves
+acacia_leaves Acacia Leaves
+dark_oak_leaves Dark Oak Leaves
+mangrove_leaves Mangrove Leaves
+azalea_leaves Azalea Leaves
+flowering_azalea_leaves Flowering Azalea Leaves
+sponge Sponge
+wet_sponge Wet Sponge
+glass Glass
+lapis_ore Lapis Lazuli Ore
+deepslate_lapis_ore Deepslate Lapis Lazuli Ore
+lapis_block Block of Lapis Lazuli
+dispenser Dispenser
+sandstone Sandstone
+chiseled_sandstone Chiseled Sandstone
+cut_sandstone Cut Sandstone
+note_block Note Block
+white_bed White Bed
+orange_bed Orange Bed
+magenta_bed Magenta Bed
+light_blue_bed Light Blue Bed
+yellow_bed Yellow Bed
+lime_bed Lime Bed
+pink_bed Pink Bed
+gray_bed Gray Bed
+light_gray_bed Light Gray Bed
+cyan_bed Cyan Bed
+purple_bed Purple Bed
+blue_bed Blue Bed
+brown_bed Brown Bed
+green_bed Green Bed
+red_bed Red Bed
+black_bed Black Bed
+powered_rail Powered Rail
+detector_rail Detector Rail
+sticky_piston Sticky Piston
+cobweb Cobweb
+grass Grass
+fern Fern
+dead_bush Dead Bush
+seagrass Seagrass
+piston Piston
+white_wool White Wool
+orange_wool Orange Wool
+magenta_wool Magenta Wool
+light_blue_wool Light Blue Wool
+yellow_wool Yellow Wool
+lime_wool Lime Wool
+pink_wool Pink Wool
+gray_wool Gray Wool
+light_gray_wool Light Gray Wool
+cyan_wool Cyan Wool
+purple_wool Purple Wool
+blue_wool Blue Wool
+brown_wool Brown Wool
+green_wool Green Wool
+red_wool Red Wool
+black_wool Black Wool
+dandelion Dandelion
+poppy Poppy
+blue_orchid Blue Orchid
+allium Allium
+azure_bluet Azure Bluet
+red_tulip Red Tulip
+orange_tulip Orange Tulip
+white_tulip White Tulip
+pink_tulip Pink Tulip
+oxeye_daisy Oxeye Daisy
+cornflower Cornflower
+wither_rose Wither Rose
+lily_of_the_valley Lily of the Valley
+brown_mushroom Brown Mushroom
+red_mushroom Red Mushroom
+gold_block Block of Gold
+iron_block Block of Iron
+bricks Bricks
 tnt TNT
-bookshelf 書櫃
-mossy_cobblestone 青苔鵝卵石
-obsidian 黑曜石
-torch 火把
-spawner 生怪磚
-oak_stairs 橡木階梯
-chest 儲物箱
-diamond_ore 鑽石礦
-deepslate_diamond_ore 深板岩鑽石礦
-diamond_block 鑽石方塊
-crafting_table 工作台
-wheat 小麥
-farmland 耕地
-furnace 熔爐
-oak_sign 橡木告示牌
-spruce_sign 杉木告示牌
-birch_sign 樺木告示牌
-acacia_sign 相思木告示牌
-jungle_sign 叢林木告示牌
-dark_oak_sign 黑橡木告示牌
-mangrove_sign 紅樹林木告示牌
-oak_door 橡木門
-ladder 梯子
-rail 鐵軌
-cobblestone_stairs 鵝卵石階梯
-lever 控制桿
-stone_pressure_plate 石製壓力板
-iron_door 鐵門
-oak_pressure_plate 橡木壓力板
-spruce_pressure_plate 杉木壓力板
-birch_pressure_plate 樺木壓力板
-jungle_pressure_plate 叢林木壓力板
-acacia_pressure_plate 相思木壓力板
-dark_oak_pressure_plate 黑橡木壓力板
-mangrove_pressure_plate 紅樹林木壓力板
-redstone_ore 紅石礦
-deepslate_redstone_ore 深板岩紅石礦
-redstone_torch 紅石火把
-stone_button 石製按鈕
-snow 雪
-ice 冰
-snow_block 雪塊
-cactus 仙人掌
-clay 黏土
-sugar_cane 甘蔗
-jukebox 唱片機
-oak_fence 橡木柵欄
-pumpkin 南瓜
-netherrack 地獄石
-soul_sand 靈魂砂
-soul_soil 靈魂土
-basalt 玄武岩
-polished_basalt 拋光玄武岩
-soul_torch 靈魂火把
-glowstone 螢光石
-carved_pumpkin 雕刻過的南瓜
-jack_o_lantern 南瓜燈
-cake 蛋糕
-repeater 紅石中繼器
-white_stained_glass 白色玻璃
-orange_stained_glass 橙色玻璃
-magenta_stained_glass 洋紅色玻璃
-light_blue_stained_glass 淺藍色玻璃
-yellow_stained_glass 黃色玻璃
-lime_stained_glass 淺綠色玻璃
-pink_stained_glass 粉紅色玻璃
-gray_stained_glass 灰色玻璃
-light_gray_stained_glass 淺灰色玻璃
-cyan_stained_glass 青色玻璃
-purple_stained_glass 紫色玻璃
-blue_stained_glass 藍色玻璃
-brown_stained_glass 棕色玻璃
-green_stained_glass 綠色玻璃
-red_stained_glass 紅色玻璃
-black_stained_glass 黑色玻璃
-oak_trapdoor 橡木地板門
-spruce_trapdoor 杉木地板門
-birch_trapdoor 樺木地板門
-jungle_trapdoor 叢林木地板門
-acacia_trapdoor 相思木地板門
-dark_oak_trapdoor 黑橡木地板門
-mangrove_trapdoor 紅樹林木地板門
-stone_bricks 石磚
-mossy_stone_bricks 青苔石磚
-cracked_stone_bricks 裂紋石磚
-chiseled_stone_bricks 浮雕石磚
-packed_mud 泥坯
-mud_bricks 泥磚
-infested_stone 蛀蝕的石頭
-infested_cobblestone 蛀蝕的鵝卵石
-infested_stone_bricks 蛀蝕的石磚
-infested_mossy_stone_bricks 蛀蝕的青苔石磚
-infested_cracked_stone_bricks 蛀蝕的裂紋石磚
-infested_chiseled_stone_bricks 蛀蝕的浮雕石磚
-iron_bars 鐵柵欄
-chain 鎖鏈
-glass_pane 玻璃片
-melon 西瓜
-vine 藤蔓
-glow_lichen 發光地衣
-oak_fence_gate 橡木柵欄門
-brick_stairs 紅磚階梯
-stone_brick_stairs 石磚階梯
-mud_brick_stairs 泥磚階梯
-mycelium 菌絲土
-lily_pad 荷葉
-nether_bricks 地獄磚
-nether_brick_fence 地獄磚柵欄
-nether_brick_stairs 地獄磚階梯
-nether_wart 地獄疙瘩
-enchanting_table 附魔台
-brewing_stand 釀造台
-cauldron 鍋釜
-end_portal_frame 終界傳送門框架
-end_stone 終界石
-dragon_egg 龍蛋
-redstone_lamp 紅石燈
-sandstone_stairs 砂岩階梯
-emerald_ore 綠寶石礦
-deepslate_emerald_ore 深板岩綠寶石礦
-ender_chest 終界箱
-tripwire_hook 絆線鉤
-emerald_block 綠寶石方塊
-spruce_stairs 杉木階梯
-birch_stairs 樺木階梯
-jungle_stairs 叢林木階梯
-beacon 烽火台
-cobblestone_wall 鵝卵石牆
-mossy_cobblestone_wall 青苔鵝卵石牆
-flower_pot 花盆
-oak_button 橡木按鈕
-spruce_button 杉木按鈕
-birch_button 樺木按鈕
-jungle_button 叢林木按鈕
-acacia_button 相思木按鈕
-dark_oak_button 黑橡木按鈕
-mangrove_button 紅樹林木按鈕
-skeleton_skull 骷髏頭顱
-wither_skeleton_skull 凋零骷髏頭顱
-zombie_head 殭屍頭顱
-player_head 玩家頭顱
-creeper_head 苦力怕頭顱
-dragon_head 龍首
-anvil 鐵砧
-chipped_anvil 微損的鐵砧
-damaged_anvil 耗損的鐵砧
-trapped_chest 陷阱儲物箱
-light_weighted_pressure_plate 輕質測重壓力板
-heavy_weighted_pressure_plate 重質測重壓力板
-comparator 紅石比較器
-daylight_detector 日光感測器
-redstone_block 紅石方塊
-nether_quartz_ore 地獄石英礦
-hopper 漏斗
-quartz_block 石英方塊
-chiseled_quartz_block 浮雕石英方塊
-quartz_pillar 石英柱
-quartz_stairs 石英階梯
-activator_rail 觸發鐵軌
-dropper 投擲器
-white_terracotta 白色陶土
-orange_terracotta 橙色陶土
-magenta_terracotta 洋紅色陶土
-light_blue_terracotta 淺藍色陶土
-yellow_terracotta 黃色陶土
-lime_terracotta 淺綠色陶土
-pink_terracotta 粉紅色陶土
-gray_terracotta 灰色陶土
-light_gray_terracotta 淺灰色陶土
-cyan_terracotta 青色陶土
-purple_terracotta 紫色陶土
-blue_terracotta 藍色陶土
-brown_terracotta 棕色陶土
-green_terracotta 綠色陶土
-red_terracotta 紅色陶土
-black_terracotta 黑色陶土
-white_stained_glass_pane 白色玻璃片
-orange_stained_glass_pane 橙色玻璃片
-magenta_stained_glass_pane 洋紅色玻璃片
-light_blue_stained_glass_pane 淺藍色玻璃片
-yellow_stained_glass_pane 黃色玻璃片
-lime_stained_glass_pane 淺綠色玻璃片
-pink_stained_glass_pane 粉紅色玻璃片
-gray_stained_glass_pane 灰色玻璃片
-light_gray_stained_glass_pane 淺灰色玻璃片
-cyan_stained_glass_pane 青色玻璃片
-purple_stained_glass_pane 紫色玻璃片
-blue_stained_glass_pane 藍色玻璃片
-brown_stained_glass_pane 棕色玻璃片
-green_stained_glass_pane 綠色玻璃片
-red_stained_glass_pane 紅色玻璃片
-black_stained_glass_pane 黑色玻璃片
-acacia_stairs 相思木階梯
-dark_oak_stairs 黑橡木階梯
-mangrove_stairs 紅樹林木階梯
-slime_block 史萊姆方塊
-barrier 屏障
-iron_trapdoor 鐵製地板門
-prismarine 海磷石
-prismarine_bricks 海磷石磚
-dark_prismarine 暗海磷石
-prismarine_stairs 海磷石階梯
-prismarine_brick_stairs 海磷石磚階梯
-dark_prismarine_stairs 暗海磷石階梯
-prismarine_slab 海磷石半磚
-prismarine_brick_slab 海磷石磚半磚
-dark_prismarine_slab 暗海磷石半磚
-sea_lantern 海燈籠
-hay_block 乾草捆
-white_carpet 白色地毯
-orange_carpet 橙色地毯
-magenta_carpet 洋紅色地毯
-light_blue_carpet 淺藍色地毯
-yellow_carpet 黃色地毯
-lime_carpet 淺綠色地毯
-pink_carpet 粉紅色地毯
-gray_carpet 灰色地毯
-light_gray_carpet 淺灰色地毯
-cyan_carpet 青色地毯
-purple_carpet 紫色地毯
-blue_carpet 藍色地毯
-brown_carpet 棕色地毯
-green_carpet 綠色地毯
-red_carpet 紅色地毯
-black_carpet 黑色地毯
-terracotta 陶土
-coal_block 煤炭方塊
-packed_ice 冰磚
-sunflower 向日葵
-lilac 紫丁香
-rose_bush 玫瑰叢
-peony 牡丹花
-tall_grass 芒草
-large_fern 大型蕨類
-white_banner 白色旗幟
-orange_banner 橙色旗幟
-magenta_banner 洋紅色旗幟
-light_blue_banner 淺藍色旗幟
-yellow_banner 黃色旗幟
-lime_banner 淺綠色旗幟
-pink_banner 粉紅色旗幟
-gray_banner 灰色旗幟
-light_gray_banner 淺灰色旗幟
-cyan_banner 青色旗幟
-purple_banner 紫色旗幟
-blue_banner 藍色旗幟
-brown_banner 棕色旗幟
-green_banner 綠色旗幟
-red_banner 紅色旗幟
-black_banner 黑色旗幟
-red_sandstone 紅砂岩
-chiseled_red_sandstone 浮雕紅砂岩
-cut_red_sandstone 切製紅砂岩
-red_sandstone_stairs 紅砂岩階梯
-oak_slab 橡木半磚
-spruce_slab 杉木半磚
-birch_slab 樺木半磚
-jungle_slab 叢林木半磚
-acacia_slab 相思木半磚
-dark_oak_slab 黑橡木半磚
-mangrove_slab 紅樹林木半磚
-stone_slab 石半磚
-smooth_stone_slab 平滑石半磚
-sandstone_slab 砂岩半磚
-cut_sandstone_slab 切製砂岩半磚
-petrified_oak_slab 石化橡木半磚
-cobblestone_slab 鵝卵石半磚
-brick_slab 紅磚半磚
-stone_brick_slab 石磚半磚
-mud_brick_slab 泥磚半磚
-nether_brick_slab 地獄磚半磚
-quartz_slab 石英半磚
-red_sandstone_slab 紅砂岩半磚
-cut_red_sandstone_slab 切製紅砂岩半磚
-purpur_slab 紫珀半磚
-smooth_stone 平滑石頭
-smooth_sandstone 平滑砂岩
-smooth_quartz 平滑石英方塊
-smooth_red_sandstone 平滑紅砂岩
-spruce_fence_gate 杉木柵欄門
-birch_fence_gate 樺木柵欄門
-jungle_fence_gate 叢林木柵欄門
-acacia_fence_gate 相思木柵欄門
-dark_oak_fence_gate 黑橡木柵欄門
-mangrove_fence_gate 紅樹林木柵欄門
-spruce_fence 杉木柵欄
-birch_fence 樺木柵欄
-jungle_fence 叢林木柵欄
-acacia_fence 相思木柵欄
-dark_oak_fence 黑橡木柵欄
-mangrove_fence 紅樹林木柵欄
-spruce_door 杉木門
-birch_door 樺木門
-jungle_door 叢林木門
-acacia_door 相思木門
-dark_oak_door 黑橡木門
-mangrove_door 紅樹林木門
-end_rod 終界燭
-chorus_plant 歌萊枝
-chorus_flower 歌萊花
-purpur_block 紫珀方塊
-purpur_pillar 紫珀柱
-purpur_stairs 紫珀階梯
-end_stone_bricks 終界石磚
-dirt_path 土徑
-magma_block 岩漿塊
-nether_wart_block 地獄疙瘩塊
-red_nether_bricks 紅地獄磚
-bone_block 骨塊
-observer 偵測器
-shulker_box 界伏盒
-white_shulker_box 白色界伏盒
-orange_shulker_box 橙色界伏盒
-magenta_shulker_box 洋紅色界伏盒
-light_blue_shulker_box 淺藍色界伏盒
-yellow_shulker_box 黃色界伏盒
-lime_shulker_box 淺綠色界伏盒
-pink_shulker_box 粉紅色界伏盒
-gray_shulker_box 灰色界伏盒
-light_gray_shulker_box 淺灰色界伏盒
-cyan_shulker_box 青色界伏盒
-purple_shulker_box 紫色界伏盒
-blue_shulker_box 藍色界伏盒
-brown_shulker_box 棕色界伏盒
-green_shulker_box 綠色界伏盒
-red_shulker_box 紅色界伏盒
-black_shulker_box 黑色界伏盒
-white_glazed_terracotta 白色釉陶
-orange_glazed_terracotta 橙色釉陶
-magenta_glazed_terracotta 洋紅色釉陶
-light_blue_glazed_terracotta 淺藍色釉陶
-yellow_glazed_terracotta 黃色釉陶
-lime_glazed_terracotta 淺綠色釉陶
-pink_glazed_terracotta 粉紅色釉陶
-gray_glazed_terracotta 灰色釉陶
-light_gray_glazed_terracotta 淺灰色釉陶
-cyan_glazed_terracotta 青色釉陶
-purple_glazed_terracotta 紫色釉陶
-blue_glazed_terracotta 藍色釉陶
-brown_glazed_terracotta 棕色釉陶
-green_glazed_terracotta 綠色釉陶
-red_glazed_terracotta 紅色釉陶
-black_glazed_terracotta 黑色釉陶
-white_concrete 白色混凝土
-orange_concrete 橙色混凝土
-magenta_concrete 洋紅色混凝土
-light_blue_concrete 淺藍色混凝土
-yellow_concrete 黃色混凝土
-lime_concrete 淺綠色混凝土
-pink_concrete 粉紅色混凝土
-gray_concrete 灰色混凝土
-light_gray_concrete 淺灰色混凝土
-cyan_concrete 青色混凝土
-purple_concrete 紫色混凝土
-blue_concrete 藍色混凝土
-brown_concrete 棕色混凝土
-green_concrete 綠色混凝土
-red_concrete 紅色混凝土
-black_concrete 黑色混凝土
-white_concrete_powder 白色混凝土粉末
-orange_concrete_powder 橙色混凝土粉末
-magenta_concrete_powder 洋紅色混凝土粉末
-light_blue_concrete_powder 淺藍色混凝土粉末
-yellow_concrete_powder 黃色混凝土粉末
-lime_concrete_powder 淺綠色混凝土粉末
-pink_concrete_powder 粉紅色混凝土粉末
-gray_concrete_powder 灰色混凝土粉末
-light_gray_concrete_powder 淺灰色混凝土粉末
-cyan_concrete_powder 青色混凝土粉末
-purple_concrete_powder 紫色混凝土粉末
-blue_concrete_powder 藍色混凝土粉末
-brown_concrete_powder 棕色混凝土粉末
-green_concrete_powder 綠色混凝土粉末
-red_concrete_powder 紅色混凝土粉末
-black_concrete_powder 黑色混凝土粉末
-kelp 海帶
-dried_kelp_block 海帶乾塊
-turtle_egg 海龜蛋
-dead_tube_coral_block 死亡的管珊瑚方塊
-dead_brain_coral_block 死亡的腦珊瑚方塊
-dead_bubble_coral_block 死亡的氣泡珊瑚方塊
-dead_fire_coral_block 死亡的火珊瑚方塊
-dead_horn_coral_block 死亡的角珊瑚方塊
-tube_coral_block 管珊瑚方塊
-brain_coral_block 腦珊瑚方塊
-bubble_coral_block 氣泡珊瑚方塊
-fire_coral_block 火珊瑚方塊
-horn_coral_block 角珊瑚方塊
-dead_tube_coral 死亡的管珊瑚
-dead_brain_coral 死亡的腦珊瑚
-dead_bubble_coral 死亡的氣泡珊瑚
-dead_fire_coral 死亡的火珊瑚
-dead_horn_coral 死亡的角珊瑚
-tube_coral 管珊瑚
-brain_coral 腦珊瑚
-bubble_coral 氣泡珊瑚
-fire_coral 火珊瑚
-horn_coral 角珊瑚
-dead_tube_coral_fan 死亡的扇狀管珊瑚
-dead_brain_coral_fan 死亡的扇狀腦珊瑚
-dead_bubble_coral_fan 死亡的扇狀氣泡珊瑚
-dead_fire_coral_fan 死亡的扇狀火珊瑚
-dead_horn_coral_fan 死亡的扇狀角珊瑚
-tube_coral_fan 扇狀管珊瑚
-brain_coral_fan 扇狀腦珊瑚
-bubble_coral_fan 扇狀氣泡珊瑚
-fire_coral_fan 扇狀火珊瑚
-horn_coral_fan 扇狀角珊瑚
-sea_pickle 海鞘
-blue_ice 藍冰
-conduit 海靈核心
-bamboo 竹子
-polished_granite_stairs 拋光花崗岩階梯
-smooth_red_sandstone_stairs 平滑紅砂岩階梯
-mossy_stone_brick_stairs 青苔石磚階梯
-polished_diorite_stairs 拋光閃長岩階梯
-mossy_cobblestone_stairs 青苔鵝卵石階梯
-end_stone_brick_stairs 終界石磚階梯
-stone_stairs 石頭階梯
-smooth_sandstone_stairs 平滑砂岩階梯
-smooth_quartz_stairs 平滑石英階梯
-granite_stairs 花崗岩階梯
-andesite_stairs 安山岩階梯
-red_nether_brick_stairs 紅地獄磚階梯
-polished_andesite_stairs 拋光安山岩階梯
-diorite_stairs 閃長岩階梯
-polished_granite_slab 拋光花崗岩半磚
-smooth_red_sandstone_slab 平滑紅砂岩半磚
-mossy_stone_brick_slab 青苔石磚半磚
-polished_diorite_slab 拋光閃長岩半磚
-mossy_cobblestone_slab 青苔鵝卵石半磚
-end_stone_brick_slab 終界石磚半磚
-smooth_sandstone_slab 平滑砂岩半磚
-smooth_quartz_slab 平滑石英半磚
-granite_slab 花崗岩半磚
-andesite_slab 安山岩半磚
-red_nether_brick_slab 紅地獄磚半磚
-polished_andesite_slab 拋光安山岩半磚
-diorite_slab 閃長岩半磚
-brick_wall 紅磚牆
-prismarine_wall 海磷石牆
-red_sandstone_wall 紅砂岩牆
-mossy_stone_brick_wall 青苔石磚牆
-granite_wall 花崗岩牆
-stone_brick_wall 石磚牆
-mud_brick_wall 泥磚牆
-nether_brick_wall 地獄磚牆
-andesite_wall 安山岩牆
-red_nether_brick_wall 紅地獄磚牆
-sandstone_wall 砂岩牆
-end_stone_brick_wall 終界石磚牆
-diorite_wall 閃長岩牆
-scaffolding 鷹架
-loom 紡織機
-barrel 木桶
-smoker 煙燻爐
-blast_furnace 高爐
-cartography_table 製圖台
-fletching_table 製箭台
-grindstone 砂輪
-lectern 講台
-smithing_table 鍛造台
-stonecutter 切石機
-bell 鐘
-lantern 燈籠
-soul_lantern 靈魂燈籠
-campfire 營火
-soul_campfire 靈魂營火
-warped_stem 扭曲蕈柄
-stripped_warped_stem 剝皮扭曲蕈柄
-warped_hyphae 扭曲菌絲體
-stripped_warped_hyphae 剝皮扭曲菌絲體
-warped_nylium 扭曲菌絲石
-warped_fungus 扭曲蕈菇
-warped_wart_block 扭曲疙瘩塊
-warped_roots 扭曲蕈根
-nether_sprouts 地獄芽
-crimson_stem 緋紅蕈柄
-stripped_crimson_stem 剝皮緋紅蕈柄
-crimson_hyphae 緋紅菌絲體
-stripped_crimson_hyphae 剝皮緋紅菌絲體
-crimson_nylium 緋紅菌絲石
-crimson_fungus 緋紅蕈菇
-shroomlight 蕈光體
-weeping_vines 垂泣藤
-twisting_vines 扭曲藤
-crimson_roots 緋紅蕈根
-crimson_planks 緋紅蕈木材
-warped_planks 扭曲蕈木材
-crimson_slab 緋紅蕈木半磚
-warped_slab 扭曲蕈木半磚
-crimson_pressure_plate 緋紅蕈木壓力板
-warped_pressure_plate 扭曲蕈木壓力板
-crimson_fence 緋紅蕈木柵欄
-warped_fence 扭曲蕈木柵欄
-crimson_trapdoor 緋紅蕈木地板門
-warped_trapdoor 扭曲蕈木地板門
-crimson_fence_gate 緋紅蕈木柵欄門
-warped_fence_gate 扭曲蕈木柵欄門
-crimson_stairs 緋紅蕈木階梯
-warped_stairs 扭曲蕈木階梯
-crimson_button 緋紅蕈木按鈕
-warped_button 扭曲蕈木按鈕
-crimson_door 緋紅蕈木門
-warped_door 扭曲蕈木門
-crimson_sign 緋紅蕈木告示牌
-warped_sign 扭曲蕈木告示牌
-composter 堆肥箱
-target 標靶
-bee_nest 蜂窩
-beehive 蜂箱
-honey_block 蜂蜜塊
-honeycomb_block 蜂巢塊
-netherite_block 獄髓方塊
-ancient_debris 遠古遺骸
-crying_obsidian 哭泣的黑曜石
-respawn_anchor 重生錨
-lodestone 磁石
-blackstone 黑石
-blackstone_stairs 黑石階梯
-blackstone_wall 黑石牆
-blackstone_slab 黑石半磚
-polished_blackstone 拋光黑石
-polished_blackstone_bricks 拋光黑石磚
-cracked_polished_blackstone_bricks 裂紋拋光黑石磚
-chiseled_polished_blackstone 浮雕拋光黑石
-polished_blackstone_brick_slab 拋光黑石磚半磚
-polished_blackstone_brick_stairs 拋光黑石磚階梯
-polished_blackstone_brick_wall 拋光黑石磚牆
-gilded_blackstone 鑲金黑石
-polished_blackstone_stairs 拋光黑石階梯
-polished_blackstone_slab 拋光黑石半磚
-polished_blackstone_pressure_plate 拋光黑石壓力板
-polished_blackstone_button 拋光黑石按鈕
-polished_blackstone_wall 拋光黑石牆
-chiseled_nether_bricks 浮雕地獄磚
-cracked_nether_bricks 裂紋地獄磚
-quartz_bricks 石英磚
-candle 蠟燭
-white_candle 白色蠟燭
-orange_candle 橙色蠟燭
-magenta_candle 洋紅色蠟燭
-light_blue_candle 淺藍色蠟燭
-yellow_candle 黃色蠟燭
-lime_candle 淺綠色蠟燭
-pink_candle 粉紅色蠟燭
-gray_candle 灰色蠟燭
-light_gray_candle 淺灰色蠟燭
-cyan_candle 青色蠟燭
-purple_candle 紫色蠟燭
-blue_candle 藍色蠟燭
-brown_candle 棕色蠟燭
-green_candle 綠色蠟燭
-red_candle 紅色蠟燭
-black_candle 黑色蠟燭
-amethyst_block 紫水晶方塊
-budding_amethyst 紫水晶芽床
-amethyst_cluster 紫水晶晶簇
-large_amethyst_bud 大型紫水晶芽
-medium_amethyst_bud 中型紫水晶芽
-small_amethyst_bud 小型紫水晶芽
-tuff 凝灰岩
-calcite 方解石
-tinted_glass 遮光玻璃
-sculk_sensor 伏聆振測器
-sculk 伏聆
-sculk_vein 伏聆脈絡
-sculk_catalyst 伏聆觸媒
-sculk_shrieker 伏聆嘯口
-oxidized_copper 氧化的銅方塊
-weathered_copper 風化的銅方塊
-exposed_copper 斑駁的銅方塊
-copper_block 銅方塊
-copper_ore 銅礦
-deepslate_copper_ore 深板岩銅礦
-oxidized_cut_copper 氧化的切製銅方塊
-weathered_cut_copper 風化的切製銅方塊
-exposed_cut_copper 斑駁的切製銅方塊
-cut_copper 切製銅方塊
-oxidized_cut_copper_stairs 氧化的切製銅階梯
-weathered_cut_copper_stairs 風化的切製銅階梯
-exposed_cut_copper_stairs 斑駁的切製銅階梯
-cut_copper_stairs 切製銅階梯
-oxidized_cut_copper_slab 氧化的切製銅半磚
-weathered_cut_copper_slab 風化的切製銅半磚
-exposed_cut_copper_slab 斑駁的切製銅半磚
-cut_copper_slab 切製銅半磚
-waxed_copper_block 上蠟的銅方塊
-waxed_weathered_copper 上蠟的風化銅方塊
-waxed_exposed_copper 上蠟的斑駁銅方塊
-waxed_oxidized_copper 上蠟的氧化銅方塊
-waxed_oxidized_cut_copper 上蠟的氧化切製銅方塊
-waxed_weathered_cut_copper 上蠟的風化切製銅方塊
-waxed_exposed_cut_copper 上蠟的斑駁切製銅方塊
-waxed_cut_copper 上蠟的切製銅方塊
-waxed_oxidized_cut_copper_stairs 上蠟的氧化切製銅階梯
-waxed_weathered_cut_copper_stairs 上蠟的風化切製銅階梯
-waxed_exposed_cut_copper_stairs 上蠟的斑駁切製銅階梯
-waxed_cut_copper_stairs 上蠟的切製銅階梯
-waxed_oxidized_cut_copper_slab 上蠟的氧化切製銅半磚
-waxed_weathered_cut_copper_slab 上蠟的風化切製銅半磚
-waxed_exposed_cut_copper_slab 上蠟的斑駁切製銅半磚
-waxed_cut_copper_slab 上蠟的切製銅半磚
-lightning_rod 避雷針
-pointed_dripstone 鐘乳石
-dripstone_block 鐘乳石方塊
-spore_blossom 孢子花
-azalea 杜鵑叢
-flowering_azalea 開花的杜鵑叢
-moss_carpet 覆地苔蘚
-moss_block 苔蘚方塊
-big_dripleaf 大懸葉草
-small_dripleaf 小懸葉草
-hanging_roots 懸根
-rooted_dirt 扎根土
-mud 泥巴
-deepslate 深板岩
-cobbled_deepslate 深板岩碎石
-cobbled_deepslate_stairs 碎深板岩階梯
-cobbled_deepslate_slab 碎深板岩半磚
-cobbled_deepslate_wall 碎深板岩牆
-polished_deepslate 拋光深板岩
-polished_deepslate_stairs 拋光深板岩階梯
-polished_deepslate_slab 拋光深板岩半磚
-polished_deepslate_wall 拋光深板岩牆
-deepslate_tiles 深板岩磚瓦
-deepslate_tile_stairs 深板岩磚瓦階梯
-deepslate_tile_slab 深板岩磚瓦半磚
-deepslate_tile_wall 深板岩磚瓦牆
-deepslate_bricks 深板岩磚
-deepslate_brick_stairs 深板岩磚階梯
-deepslate_brick_slab 深板岩磚半磚
-deepslate_brick_wall 深板岩磚牆
-chiseled_deepslate 浮雕深板岩
-cracked_deepslate_bricks 裂紋深板岩磚
-cracked_deepslate_tiles 裂紋深板岩磚瓦
-infested_deepslate 蛀蝕的深板岩
-smooth_basalt 平滑玄武岩
-raw_iron_block 鐵原礦方塊
-raw_copper_block 銅原礦方塊
-raw_gold_block 金原礦方塊
-ochre_froglight 赭黃蛙光體
-verdant_froglight 蒼翠蛙光體
-pearlescent_froglight 珠紫蛙光體
-frogspawn 青蛙卵
-reinforced_deepslate 強化深板岩
-stone 石頭
-granite 花崗岩
-polished_granite 拋光花崗岩
-diorite 閃長岩
-polished_diorite 拋光閃長岩
-andesite 安山岩
-polished_andesite 拋光安山岩
-deepslate 深板岩
-cobbled_deepslate 深板岩碎石
-polished_deepslate 拋光深板岩
-calcite 方解石
-tuff 凝灰岩
-dripstone_block 鐘乳石方塊
-grass_block 草地
-dirt 泥土
-coarse_dirt 粗泥
-podzol 灰壤
-rooted_dirt 扎根土
-mud 泥巴
-crimson_nylium 緋紅菌絲石
-warped_nylium 扭曲菌絲石
-cobblestone 鵝卵石
-oak_planks 橡木材
-spruce_planks 杉木材
-birch_planks 樺木材
-jungle_planks 叢林木材
-acacia_planks 相思木材
-dark_oak_planks 黑橡木材
-mangrove_planks 紅樹林木材
-crimson_planks 緋紅蕈木材
-warped_planks 扭曲蕈木材
-oak_sapling 橡木樹苗
-spruce_sapling 杉木樹苗
-birch_sapling 樺木樹苗
-jungle_sapling 叢林木樹苗
-acacia_sapling 相思木樹苗
-dark_oak_sapling 黑橡木樹苗
-mangrove_propagule 紅樹林木胎生苗
-bedrock 基岩
-sand 沙
-red_sand 紅沙
-gravel 礫石
-coal_ore 煤礦
-deepslate_coal_ore 深板岩煤礦
-iron_ore 鐵礦
-deepslate_iron_ore 深板岩鐵礦
-copper_ore 銅礦
-deepslate_copper_ore 深板岩銅礦
-gold_ore 金礦
-deepslate_gold_ore 深板岩金礦
-redstone_ore 紅石礦
-deepslate_redstone_ore 深板岩紅石礦
-emerald_ore 綠寶石礦
-deepslate_emerald_ore 深板岩綠寶石礦
-lapis_ore 青金石礦
-deepslate_lapis_ore 深板岩青金石礦
-diamond_ore 鑽石礦
-deepslate_diamond_ore 深板岩鑽石礦
-nether_gold_ore 地獄金礦
-nether_quartz_ore 地獄石英礦
-ancient_debris 遠古遺骸
-coal_block 煤炭方塊
-raw_iron_block 鐵原礦方塊
-raw_copper_block 銅原礦方塊
-raw_gold_block 金原礦方塊
-amethyst_block 紫水晶方塊
-budding_amethyst 紫水晶芽床
-iron_block 鐵方塊
-copper_block 銅方塊
-gold_block 黃金方塊
-diamond_block 鑽石方塊
-netherite_block 獄髓方塊
-exposed_copper 斑駁的銅方塊
-weathered_copper 風化的銅方塊
-oxidized_copper 氧化的銅方塊
-cut_copper 切製銅方塊
-exposed_cut_copper 斑駁的切製銅方塊
-weathered_cut_copper 風化的切製銅方塊
-oxidized_cut_copper 氧化的切製銅方塊
-cut_copper_stairs 切製銅階梯
-exposed_cut_copper_stairs 斑駁的切製銅階梯
-weathered_cut_copper_stairs 風化的切製銅階梯
-oxidized_cut_copper_stairs 氧化的切製銅階梯
-cut_copper_slab 切製銅半磚
-exposed_cut_copper_slab 斑駁的切製銅半磚
-weathered_cut_copper_slab 風化的切製銅半磚
-oxidized_cut_copper_slab 氧化的切製銅半磚
-waxed_copper_block 上蠟的銅方塊
-waxed_exposed_copper 上蠟的斑駁銅方塊
-waxed_weathered_copper 上蠟的風化銅方塊
-waxed_oxidized_copper 上蠟的氧化銅方塊
-waxed_cut_copper 上蠟的切製銅方塊
-waxed_exposed_cut_copper 上蠟的斑駁切製銅方塊
-waxed_weathered_cut_copper 上蠟的風化切製銅方塊
-waxed_oxidized_cut_copper 上蠟的氧化切製銅方塊
-waxed_cut_copper_stairs 上蠟的切製銅階梯
-waxed_exposed_cut_copper_stairs 上蠟的斑駁切製銅階梯
-waxed_weathered_cut_copper_stairs 上蠟的風化切製銅階梯
-waxed_oxidized_cut_copper_stairs 上蠟的氧化切製銅階梯
-waxed_cut_copper_slab 上蠟的切製銅半磚
-waxed_exposed_cut_copper_slab 上蠟的斑駁切製銅半磚
-waxed_weathered_cut_copper_slab 上蠟的風化切製銅半磚
-waxed_oxidized_cut_copper_slab 上蠟的氧化切製銅半磚
-oak_log 橡木原木
-spruce_log 杉木原木
-birch_log 樺木原木
-jungle_log 叢林木原木
-acacia_log 相思木原木
-dark_oak_log 黑橡木原木
-mangrove_log 紅樹林木原木
-mangrove_roots 紅樹林木根
-muddy_mangrove_roots 淤泥紅樹林木根
-crimson_stem 緋紅蕈柄
-warped_stem 扭曲蕈柄
-stripped_oak_log 剝皮橡木原木
-stripped_spruce_log 剝皮杉木原木
-stripped_birch_log 剝皮樺木原木
-stripped_jungle_log 剝皮叢林木原木
-stripped_acacia_log 剝皮相思木原木
-stripped_dark_oak_log 剝皮黑橡木原木
-stripped_mangrove_log 剝皮紅樹林木原木
-stripped_crimson_stem 剝皮緋紅蕈柄
-stripped_warped_stem 剝皮扭曲蕈柄
-stripped_oak_wood 剝皮橡木塊
-stripped_spruce_wood 剝皮杉木塊
-stripped_birch_wood 剝皮樺木塊
-stripped_jungle_wood 剝皮叢林木塊
-stripped_acacia_wood 剝皮相思木塊
-stripped_dark_oak_wood 剝皮黑橡木塊
-stripped_mangrove_wood 剝皮紅樹林木塊
-stripped_crimson_hyphae 剝皮緋紅菌絲體
-stripped_warped_hyphae 剝皮扭曲菌絲體
-oak_wood 橡木塊
-spruce_wood 杉木塊
-birch_wood 樺木塊
-jungle_wood 叢林木塊
-acacia_wood 相思木塊
-dark_oak_wood 黑橡木塊
-mangrove_wood 紅樹林木塊
-crimson_hyphae 緋紅菌絲體
-warped_hyphae 扭曲菌絲體
-oak_leaves 橡木樹葉
-spruce_leaves 杉木樹葉
-birch_leaves 樺木樹葉
-jungle_leaves 叢林木樹葉
-acacia_leaves 相思木樹葉
-dark_oak_leaves 黑橡木樹葉
-mangrove_leaves 紅樹林木樹葉
-azalea_leaves 杜鵑葉
-flowering_azalea_leaves 開花的杜鵑葉
-sponge 海綿
-wet_sponge 濕海綿
-glass 玻璃
-tinted_glass 遮光玻璃
-lapis_block 青金石方塊
-sandstone 砂岩
-chiseled_sandstone 浮雕砂岩
-cut_sandstone 切製砂岩
-cobweb 蜘蛛網
-grass 草
-fern 蕨
-azalea 杜鵑叢
-flowering_azalea 開花的杜鵑叢
-dead_bush 枯灌木
-seagrass 海草
-sea_pickle 海鞘
-white_wool 白色羊毛
-orange_wool 橙色羊毛
-magenta_wool 洋紅色羊毛
-light_blue_wool 淺藍色羊毛
-yellow_wool 黃色羊毛
-lime_wool 淺綠色羊毛
-pink_wool 粉紅色羊毛
-gray_wool 灰色羊毛
-light_gray_wool 淺灰色羊毛
-cyan_wool 青色羊毛
-purple_wool 紫色羊毛
-blue_wool 藍色羊毛
-brown_wool 棕色羊毛
-green_wool 綠色羊毛
-red_wool 紅色羊毛
-black_wool 黑色羊毛
-dandelion 蒲公英
-poppy 罌粟
-blue_orchid 藍色蝴蝶蘭
-allium 紫紅球花
-azure_bluet 雛草
-red_tulip 紅色鬱金香
-orange_tulip 橙色鬱金香
-white_tulip 白色鬱金香
-pink_tulip 粉紅色鬱金香
-oxeye_daisy 雛菊
-cornflower 矢車菊
-lily_of_the_valley 鈴蘭
-wither_rose 凋零玫瑰
-spore_blossom 孢子花
-brown_mushroom 棕色蘑菇
-red_mushroom 紅色蘑菇
-crimson_fungus 緋紅蕈菇
-warped_fungus 扭曲蕈菇
-crimson_roots 緋紅蕈根
-warped_roots 扭曲蕈根
-nether_sprouts 地獄芽
-weeping_vines 垂泣藤
-twisting_vines 扭曲藤
-sugar_cane 甘蔗
-kelp 海帶
-moss_carpet 覆地苔蘚
-moss_block 苔蘚方塊
-hanging_roots 懸根
-big_dripleaf 大懸葉草
-small_dripleaf 小懸葉草
-bamboo 竹子
-oak_slab 橡木半磚
-spruce_slab 杉木半磚
-birch_slab 樺木半磚
-jungle_slab 叢林木半磚
-acacia_slab 相思木半磚
-dark_oak_slab 黑橡木半磚
-mangrove_slab 紅樹林木半磚
-crimson_slab 緋紅蕈木半磚
-warped_slab 扭曲蕈木半磚
-stone_slab 石半磚
-smooth_stone_slab 平滑石半磚
-sandstone_slab 砂岩半磚
-cut_sandstone_slab 切製砂岩半磚
-petrified_oak_slab 石化橡木半磚
-cobblestone_slab 鵝卵石半磚
-brick_slab 紅磚半磚
-stone_brick_slab 石磚半磚
-mud_brick_slab 泥磚半磚
-nether_brick_slab 地獄磚半磚
-quartz_slab 石英半磚
-red_sandstone_slab 紅砂岩半磚
-cut_red_sandstone_slab 切製紅砂岩半磚
-purpur_slab 紫珀半磚
-prismarine_slab 海磷石半磚
-prismarine_brick_slab 海磷石磚半磚
-dark_prismarine_slab 暗海磷石半磚
-smooth_quartz 平滑石英方塊
-smooth_red_sandstone 平滑紅砂岩
-smooth_sandstone 平滑砂岩
-smooth_stone 平滑石頭
-bricks 紅磚
-bookshelf 書櫃
-mossy_cobblestone 青苔鵝卵石
-obsidian 黑曜石
-torch 火把
-end_rod 終界燭
-chorus_plant 歌萊枝
-chorus_flower 歌萊花
-purpur_block 紫珀方塊
-purpur_pillar 紫珀柱
-purpur_stairs 紫珀階梯
-spawner 生怪磚
-chest 儲物箱
-crafting_table 工作台
-farmland 耕地
-furnace 熔爐
-ladder 梯子
-cobblestone_stairs 鵝卵石階梯
-snow 雪
-ice 冰
-snow_block 雪塊
-cactus 仙人掌
-clay 黏土
-jukebox 唱片機
-oak_fence 橡木柵欄
-spruce_fence 杉木柵欄
-birch_fence 樺木柵欄
-jungle_fence 叢林木柵欄
-acacia_fence 相思木柵欄
-dark_oak_fence 黑橡木柵欄
-mangrove_fence 紅樹林木柵欄
-crimson_fence 緋紅蕈木柵欄
-warped_fence 扭曲蕈木柵欄
-pumpkin 南瓜
-carved_pumpkin 雕刻過的南瓜
-jack_o_lantern 南瓜燈
-netherrack 地獄石
-soul_sand 靈魂砂
-soul_soil 靈魂土
-basalt 玄武岩
-polished_basalt 拋光玄武岩
-smooth_basalt 平滑玄武岩
-soul_torch 靈魂火把
-glowstone 螢光石
-infested_stone 蛀蝕的石頭
-infested_cobblestone 蛀蝕的鵝卵石
-infested_stone_bricks 蛀蝕的石磚
-infested_mossy_stone_bricks 蛀蝕的青苔石磚
-infested_cracked_stone_bricks 蛀蝕的裂紋石磚
-infested_chiseled_stone_bricks 蛀蝕的浮雕石磚
-infested_deepslate 蛀蝕的深板岩
-stone_bricks 石磚
-mossy_stone_bricks 青苔石磚
-cracked_stone_bricks 裂紋石磚
-chiseled_stone_bricks 浮雕石磚
-packed_mud 泥坯
-mud_bricks 泥磚
-deepslate_bricks 深板岩磚
-cracked_deepslate_bricks 裂紋深板岩磚
-deepslate_tiles 深板岩磚瓦
-cracked_deepslate_tiles 裂紋深板岩磚瓦
-chiseled_deepslate 浮雕深板岩
-reinforced_deepslate 強化深板岩
-iron_bars 鐵柵欄
-chain 鎖鏈
-glass_pane 玻璃片
-melon 西瓜
-vine 藤蔓
-glow_lichen 發光地衣
-brick_stairs 紅磚階梯
-stone_brick_stairs 石磚階梯
-mud_brick_stairs 泥磚階梯
-mycelium 菌絲土
-lily_pad 荷葉
-nether_bricks 地獄磚
-cracked_nether_bricks 裂紋地獄磚
-chiseled_nether_bricks 浮雕地獄磚
-nether_brick_fence 地獄磚柵欄
-nether_brick_stairs 地獄磚階梯
-sculk 伏聆
-sculk_vein 伏聆脈絡
-sculk_catalyst 伏聆觸媒
-sculk_shrieker 伏聆嘯口
-enchanting_table 附魔台
-end_portal_frame 終界傳送門框架
-end_stone 終界石
-end_stone_bricks 終界石磚
-dragon_egg 龍蛋
-sandstone_stairs 砂岩階梯
-ender_chest 終界箱
-emerald_block 綠寶石方塊
-oak_stairs 橡木階梯
-spruce_stairs 杉木階梯
-birch_stairs 樺木階梯
-jungle_stairs 叢林木階梯
-acacia_stairs 相思木階梯
-dark_oak_stairs 黑橡木階梯
-mangrove_stairs 紅樹林木階梯
-crimson_stairs 緋紅蕈木階梯
-warped_stairs 扭曲蕈木階梯
-beacon 烽火台
-cobblestone_wall 鵝卵石牆
-mossy_cobblestone_wall 青苔鵝卵石牆
-brick_wall 紅磚牆
-prismarine_wall 海磷石牆
-red_sandstone_wall 紅砂岩牆
-mossy_stone_brick_wall 青苔石磚牆
-granite_wall 花崗岩牆
-stone_brick_wall 石磚牆
-mud_brick_wall 泥磚牆
-nether_brick_wall 地獄磚牆
-andesite_wall 安山岩牆
-red_nether_brick_wall 紅地獄磚牆
-sandstone_wall 砂岩牆
-end_stone_brick_wall 終界石磚牆
-diorite_wall 閃長岩牆
-blackstone_wall 黑石牆
-polished_blackstone_wall 拋光黑石牆
-polished_blackstone_brick_wall 拋光黑石磚牆
-cobbled_deepslate_wall 碎深板岩牆
-polished_deepslate_wall 拋光深板岩牆
-deepslate_brick_wall 深板岩磚牆
-deepslate_tile_wall 深板岩磚瓦牆
-anvil 鐵砧
-chipped_anvil 微損的鐵砧
-damaged_anvil 耗損的鐵砧
-chiseled_quartz_block 浮雕石英方塊
-quartz_block 石英方塊
-quartz_bricks 石英磚
-quartz_pillar 石英柱
-quartz_stairs 石英階梯
-white_terracotta 白色陶土
-orange_terracotta 橙色陶土
-magenta_terracotta 洋紅色陶土
-light_blue_terracotta 淺藍色陶土
-yellow_terracotta 黃色陶土
-lime_terracotta 淺綠色陶土
-pink_terracotta 粉紅色陶土
-gray_terracotta 灰色陶土
-light_gray_terracotta 淺灰色陶土
-cyan_terracotta 青色陶土
-purple_terracotta 紫色陶土
-blue_terracotta 藍色陶土
-brown_terracotta 棕色陶土
-green_terracotta 綠色陶土
-red_terracotta 紅色陶土
-black_terracotta 黑色陶土
-barrier 屏障
-hay_block 乾草捆
-white_carpet 白色地毯
-orange_carpet 橙色地毯
-magenta_carpet 洋紅色地毯
-light_blue_carpet 淺藍色地毯
-yellow_carpet 黃色地毯
-lime_carpet 淺綠色地毯
-pink_carpet 粉紅色地毯
-gray_carpet 灰色地毯
-light_gray_carpet 淺灰色地毯
-cyan_carpet 青色地毯
-purple_carpet 紫色地毯
-blue_carpet 藍色地毯
-brown_carpet 棕色地毯
-green_carpet 綠色地毯
-red_carpet 紅色地毯
-black_carpet 黑色地毯
-terracotta 陶土
-packed_ice 冰磚
-dirt_path 土徑
-sunflower 向日葵
-lilac 紫丁香
-rose_bush 玫瑰叢
-peony 牡丹花
-tall_grass 芒草
-large_fern 大型蕨類
-white_stained_glass 白色玻璃
-orange_stained_glass 橙色玻璃
-magenta_stained_glass 洋紅色玻璃
-light_blue_stained_glass 淺藍色玻璃
-yellow_stained_glass 黃色玻璃
-lime_stained_glass 淺綠色玻璃
-pink_stained_glass 粉紅色玻璃
-gray_stained_glass 灰色玻璃
-light_gray_stained_glass 淺灰色玻璃
-cyan_stained_glass 青色玻璃
-purple_stained_glass 紫色玻璃
-blue_stained_glass 藍色玻璃
-brown_stained_glass 棕色玻璃
-green_stained_glass 綠色玻璃
-red_stained_glass 紅色玻璃
-black_stained_glass 黑色玻璃
-white_stained_glass_pane 白色玻璃片
-orange_stained_glass_pane 橙色玻璃片
-magenta_stained_glass_pane 洋紅色玻璃片
-light_blue_stained_glass_pane 淺藍色玻璃片
-yellow_stained_glass_pane 黃色玻璃片
-lime_stained_glass_pane 淺綠色玻璃片
-pink_stained_glass_pane 粉紅色玻璃片
-gray_stained_glass_pane 灰色玻璃片
-light_gray_stained_glass_pane 淺灰色玻璃片
-cyan_stained_glass_pane 青色玻璃片
-purple_stained_glass_pane 紫色玻璃片
-blue_stained_glass_pane 藍色玻璃片
-brown_stained_glass_pane 棕色玻璃片
-green_stained_glass_pane 綠色玻璃片
-red_stained_glass_pane 紅色玻璃片
-black_stained_glass_pane 黑色玻璃片
-prismarine 海磷石
-prismarine_bricks 海磷石磚
-dark_prismarine 暗海磷石
-prismarine_stairs 海磷石階梯
-prismarine_brick_stairs 海磷石磚階梯
-dark_prismarine_stairs 暗海磷石階梯
-sea_lantern 海燈籠
-red_sandstone 紅砂岩
-chiseled_red_sandstone 浮雕紅砂岩
-cut_red_sandstone 切製紅砂岩
-red_sandstone_stairs 紅砂岩階梯
-magma_block 岩漿塊
-nether_wart_block 地獄疙瘩塊
-warped_wart_block 扭曲疙瘩塊
-red_nether_bricks 紅地獄磚
-bone_block 骨塊
-shulker_box 界伏盒
-white_shulker_box 白色界伏盒
-orange_shulker_box 橙色界伏盒
-magenta_shulker_box 洋紅色界伏盒
-light_blue_shulker_box 淺藍色界伏盒
-yellow_shulker_box 黃色界伏盒
-lime_shulker_box 淺綠色界伏盒
-pink_shulker_box 粉紅色界伏盒
-gray_shulker_box 灰色界伏盒
-light_gray_shulker_box 淺灰色界伏盒
-cyan_shulker_box 青色界伏盒
-purple_shulker_box 紫色界伏盒
-blue_shulker_box 藍色界伏盒
-brown_shulker_box 棕色界伏盒
-green_shulker_box 綠色界伏盒
-red_shulker_box 紅色界伏盒
-black_shulker_box 黑色界伏盒
-white_glazed_terracotta 白色釉陶
-orange_glazed_terracotta 橙色釉陶
-magenta_glazed_terracotta 洋紅色釉陶
-light_blue_glazed_terracotta 淺藍色釉陶
-yellow_glazed_terracotta 黃色釉陶
-lime_glazed_terracotta 淺綠色釉陶
-pink_glazed_terracotta 粉紅色釉陶
-gray_glazed_terracotta 灰色釉陶
-light_gray_glazed_terracotta 淺灰色釉陶
-cyan_glazed_terracotta 青色釉陶
-purple_glazed_terracotta 紫色釉陶
-blue_glazed_terracotta 藍色釉陶
-brown_glazed_terracotta 棕色釉陶
-green_glazed_terracotta 綠色釉陶
-red_glazed_terracotta 紅色釉陶
-black_glazed_terracotta 黑色釉陶
-white_concrete 白色混凝土
-orange_concrete 橙色混凝土
-magenta_concrete 洋紅色混凝土
-light_blue_concrete 淺藍色混凝土
-yellow_concrete 黃色混凝土
-lime_concrete 淺綠色混凝土
-pink_concrete 粉紅色混凝土
-gray_concrete 灰色混凝土
-light_gray_concrete 淺灰色混凝土
-cyan_concrete 青色混凝土
-purple_concrete 紫色混凝土
-blue_concrete 藍色混凝土
-brown_concrete 棕色混凝土
-green_concrete 綠色混凝土
-red_concrete 紅色混凝土
-black_concrete 黑色混凝土
-white_concrete_powder 白色混凝土粉末
-orange_concrete_powder 橙色混凝土粉末
-magenta_concrete_powder 洋紅色混凝土粉末
-light_blue_concrete_powder 淺藍色混凝土粉末
-yellow_concrete_powder 黃色混凝土粉末
-lime_concrete_powder 淺綠色混凝土粉末
-pink_concrete_powder 粉紅色混凝土粉末
-gray_concrete_powder 灰色混凝土粉末
-light_gray_concrete_powder 淺灰色混凝土粉末
-cyan_concrete_powder 青色混凝土粉末
-purple_concrete_powder 紫色混凝土粉末
-blue_concrete_powder 藍色混凝土粉末
-brown_concrete_powder 棕色混凝土粉末
-green_concrete_powder 綠色混凝土粉末
-red_concrete_powder 紅色混凝土粉末
-black_concrete_powder 黑色混凝土粉末
-turtle_egg 海龜蛋
-dead_tube_coral_block 死亡的管珊瑚方塊
-dead_brain_coral_block 死亡的腦珊瑚方塊
-dead_bubble_coral_block 死亡的氣泡珊瑚方塊
-dead_fire_coral_block 死亡的火珊瑚方塊
-dead_horn_coral_block 死亡的角珊瑚方塊
-tube_coral_block 管珊瑚方塊
-brain_coral_block 腦珊瑚方塊
-bubble_coral_block 氣泡珊瑚方塊
-fire_coral_block 火珊瑚方塊
-horn_coral_block 角珊瑚方塊
-tube_coral 管珊瑚
-brain_coral 腦珊瑚
-bubble_coral 氣泡珊瑚
-fire_coral 火珊瑚
-horn_coral 角珊瑚
-dead_brain_coral 死亡的腦珊瑚
-dead_bubble_coral 死亡的氣泡珊瑚
-dead_fire_coral 死亡的火珊瑚
-dead_horn_coral 死亡的角珊瑚
-dead_tube_coral 死亡的管珊瑚
-tube_coral_fan 扇狀管珊瑚
-brain_coral_fan 扇狀腦珊瑚
-bubble_coral_fan 扇狀氣泡珊瑚
-fire_coral_fan 扇狀火珊瑚
-horn_coral_fan 扇狀角珊瑚
-dead_tube_coral_fan 死亡的扇狀管珊瑚
-dead_brain_coral_fan 死亡的扇狀腦珊瑚
-dead_bubble_coral_fan 死亡的扇狀氣泡珊瑚
-dead_fire_coral_fan 死亡的扇狀火珊瑚
-dead_horn_coral_fan 死亡的扇狀角珊瑚
-blue_ice 藍冰
-conduit 海靈核心
-polished_granite_stairs 拋光花崗岩階梯
-smooth_red_sandstone_stairs 平滑紅砂岩階梯
-mossy_stone_brick_stairs 青苔石磚階梯
-polished_diorite_stairs 拋光閃長岩階梯
-mossy_cobblestone_stairs 青苔鵝卵石階梯
-end_stone_brick_stairs 終界石磚階梯
-stone_stairs 石頭階梯
-smooth_sandstone_stairs 平滑砂岩階梯
-smooth_quartz_stairs 平滑石英階梯
-granite_stairs 花崗岩階梯
-andesite_stairs 安山岩階梯
-red_nether_brick_stairs 紅地獄磚階梯
-polished_andesite_stairs 拋光安山岩階梯
-diorite_stairs 閃長岩階梯
-cobbled_deepslate_stairs 碎深板岩階梯
-polished_deepslate_stairs 拋光深板岩階梯
-deepslate_brick_stairs 深板岩磚階梯
-deepslate_tile_stairs 深板岩磚瓦階梯
-polished_granite_slab 拋光花崗岩半磚
-smooth_red_sandstone_slab 平滑紅砂岩半磚
-mossy_stone_brick_slab 青苔石磚半磚
-polished_diorite_slab 拋光閃長岩半磚
-mossy_cobblestone_slab 青苔鵝卵石半磚
-end_stone_brick_slab 終界石磚半磚
-smooth_sandstone_slab 平滑砂岩半磚
-smooth_quartz_slab 平滑石英半磚
-granite_slab 花崗岩半磚
-andesite_slab 安山岩半磚
-red_nether_brick_slab 紅地獄磚半磚
-polished_andesite_slab 拋光安山岩半磚
-diorite_slab 閃長岩半磚
-cobbled_deepslate_slab 碎深板岩半磚
-polished_deepslate_slab 拋光深板岩半磚
-deepslate_brick_slab 深板岩磚半磚
-deepslate_tile_slab 深板岩磚瓦半磚
-scaffolding 鷹架
-redstone 紅石粉
-redstone_torch 紅石火把
-redstone_block 紅石方塊
-repeater 紅石中繼器
-comparator 紅石比較器
-piston 活塞
-sticky_piston 黏性活塞
-slime_block 史萊姆方塊
-honey_block 蜂蜜塊
-observer 偵測器
-hopper 漏斗
-dispenser 發射器
-dropper 投擲器
-lectern 講台
-target 標靶
-lever 控制桿
-lightning_rod 避雷針
-daylight_detector 日光感測器
-sculk_sensor 伏聆振測器
-tripwire_hook 絆線鉤
-trapped_chest 陷阱儲物箱
+bookshelf Bookshelf
+chiseled_bookshelf Chiseled Bookshelf
+mossy_cobblestone Mossy Cobblestone
+obsidian Obsidian
+torch Torch
+spawner Monster Spawner
+oak_stairs Oak Stairs
+chest Chest
+diamond_ore Diamond Ore
+deepslate_diamond_ore Deepslate Diamond Ore
+diamond_block Block of Diamond
+crafting_table Crafting Table
+wheat Wheat Crops
+farmland Farmland
+furnace Furnace
+oak_sign Oak Sign
+spruce_sign Spruce Sign
+birch_sign Birch Sign
+acacia_sign Acacia Sign
+jungle_sign Jungle Sign
+dark_oak_sign Dark Oak Sign
+mangrove_sign Mangrove Sign
+bamboo_sign Bamboo Sign
+oak_door Oak Door
+ladder Ladder
+rail Rail
+cobblestone_stairs Cobblestone Stairs
+oak_hanging_sign Oak Hanging Sign
+spruce_hanging_sign Spruce Hanging Sign
+birch_hanging_sign Birch Hanging Sign
+acacia_hanging_sign Acacia Hanging Sign
+jungle_hanging_sign Jungle Hanging Sign
+dark_oak_hanging_sign Dark Oak Hanging Sign
+crimson_hanging_sign Crimson Hanging Sign
+warped_hanging_sign Warped Hanging Sign
+mangrove_hanging_sign Mangrove Hanging Sign
+bamboo_hanging_sign Bamboo Hanging Sign
+lever Lever
+stone_pressure_plate Stone Pressure Plate
+iron_door Iron Door
+oak_pressure_plate Oak Pressure Plate
+spruce_pressure_plate Spruce Pressure Plate
+birch_pressure_plate Birch Pressure Plate
+jungle_pressure_plate Jungle Pressure Plate
+acacia_pressure_plate Acacia Pressure Plate
+dark_oak_pressure_plate Dark Oak Pressure Plate
+mangrove_pressure_plate Mangrove Pressure Plate
+bamboo_pressure_plate Bamboo Pressure Plate
+redstone_ore Redstone Ore
+deepslate_redstone_ore Deepslate Redstone Ore
+redstone_torch Redstone Torch
+stone_button Stone Button
+snow Snow
+ice Ice
+snow_block Snow Block
+cactus Cactus
+clay Clay
+sugar_cane Sugar Cane
+jukebox Jukebox
+oak_fence Oak Fence
+pumpkin Pumpkin
+netherrack Netherrack
+soul_sand Soul Sand
+soul_soil Soul Soil
+basalt Basalt
+polished_basalt Polished Basalt
+soul_torch Soul Torch
+glowstone Glowstone
+carved_pumpkin Carved Pumpkin
+jack_o_lantern Jack o'Lantern
+cake Cake
+repeater Redstone Repeater
+white_stained_glass White Stained Glass
+orange_stained_glass Orange Stained Glass
+magenta_stained_glass Magenta Stained Glass
+light_blue_stained_glass Light Blue Stained Glass
+yellow_stained_glass Yellow Stained Glass
+lime_stained_glass Lime Stained Glass
+pink_stained_glass Pink Stained Glass
+gray_stained_glass Gray Stained Glass
+light_gray_stained_glass Light Gray Stained Glass
+cyan_stained_glass Cyan Stained Glass
+purple_stained_glass Purple Stained Glass
+blue_stained_glass Blue Stained Glass
+brown_stained_glass Brown Stained Glass
+green_stained_glass Green Stained Glass
+red_stained_glass Red Stained Glass
+black_stained_glass Black Stained Glass
+oak_trapdoor Oak Trapdoor
+spruce_trapdoor Spruce Trapdoor
+birch_trapdoor Birch Trapdoor
+jungle_trapdoor Jungle Trapdoor
+acacia_trapdoor Acacia Trapdoor
+dark_oak_trapdoor Dark Oak Trapdoor
+mangrove_trapdoor Mangrove Trapdoor
+bamboo_trapdoor Bamboo Trapdoor
+stone_bricks Stone Bricks
+mossy_stone_bricks Mossy Stone Bricks
+cracked_stone_bricks Cracked Stone Bricks
+chiseled_stone_bricks Chiseled Stone Bricks
+packed_mud Packed Mud
+mud_bricks Mud Bricks
+infested_stone Infested Stone
+infested_cobblestone Infested Cobblestone
+infested_stone_bricks Infested Stone Bricks
+infested_mossy_stone_bricks Infested Mossy Stone Bricks
+infested_cracked_stone_bricks Infested Cracked Stone Bricks
+infested_chiseled_stone_bricks Infested Chiseled Stone Bricks
+iron_bars Iron Bars
+chain Chain
+glass_pane Glass Pane
+melon Melon
+vine Vines
+glow_lichen Glow Lichen
+oak_fence_gate Oak Fence Gate
+brick_stairs Brick Stairs
+stone_brick_stairs Stone Brick Stairs
+mud_brick_stairs Mud Brick Stairs
+mycelium Mycelium
+lily_pad Lily Pad
+nether_bricks Nether Bricks
+nether_brick_fence Nether Brick Fence
+nether_brick_stairs Nether Brick Stairs
+nether_wart Nether Wart
+enchanting_table Enchanting Table
+brewing_stand Brewing Stand
+cauldron Cauldron
+end_portal_frame End Portal Frame
+end_stone End Stone
+dragon_egg Dragon Egg
+redstone_lamp Redstone Lamp
+sandstone_stairs Sandstone Stairs
+emerald_ore Emerald Ore
+deepslate_emerald_ore Deepslate Emerald Ore
+ender_chest Ender Chest
+tripwire_hook Tripwire Hook
+emerald_block Block of Emerald
+spruce_stairs Spruce Stairs
+birch_stairs Birch Stairs
+jungle_stairs Jungle Stairs
+beacon Beacon
+cobblestone_wall Cobblestone Wall
+mossy_cobblestone_wall Mossy Cobblestone Wall
+flower_pot Flower Pot
+oak_button Oak Button
+spruce_button Spruce Button
+birch_button Birch Button
+jungle_button Jungle Button
+acacia_button Acacia Button
+dark_oak_button Dark Oak Button
+mangrove_button Mangrove Button
+bamboo_button Bamboo Button
+skeleton_skull Skeleton Skull
+wither_skeleton_skull Wither Skeleton Skull
+zombie_head Zombie Head
+player_head Player Head
+creeper_head Creeper Head
+dragon_head Dragon Head
+piglin_head Piglin Head
+anvil Anvil
+chipped_anvil Chipped Anvil
+damaged_anvil Damaged Anvil
+trapped_chest Trapped Chest
+light_weighted_pressure_plate Light Weighted Pressure Plate
+heavy_weighted_pressure_plate Heavy Weighted Pressure Plate
+comparator Redstone Comparator
+daylight_detector Daylight Detector
+redstone_block Block of Redstone
+nether_quartz_ore Nether Quartz Ore
+hopper Hopper
+quartz_block Block of Quartz
+chiseled_quartz_block Chiseled Quartz Block
+quartz_pillar Quartz Pillar
+quartz_stairs Quartz Stairs
+activator_rail Activator Rail
+dropper Dropper
+white_terracotta White Terracotta
+orange_terracotta Orange Terracotta
+magenta_terracotta Magenta Terracotta
+light_blue_terracotta Light Blue Terracotta
+yellow_terracotta Yellow Terracotta
+lime_terracotta Lime Terracotta
+pink_terracotta Pink Terracotta
+gray_terracotta Gray Terracotta
+light_gray_terracotta Light Gray Terracotta
+cyan_terracotta Cyan Terracotta
+purple_terracotta Purple Terracotta
+blue_terracotta Blue Terracotta
+brown_terracotta Brown Terracotta
+green_terracotta Green Terracotta
+red_terracotta Red Terracotta
+black_terracotta Black Terracotta
+white_stained_glass_pane White Stained Glass Pane
+orange_stained_glass_pane Orange Stained Glass Pane
+magenta_stained_glass_pane Magenta Stained Glass Pane
+light_blue_stained_glass_pane Light Blue Stained Glass Pane
+yellow_stained_glass_pane Yellow Stained Glass Pane
+lime_stained_glass_pane Lime Stained Glass Pane
+pink_stained_glass_pane Pink Stained Glass Pane
+gray_stained_glass_pane Gray Stained Glass Pane
+light_gray_stained_glass_pane Light Gray Stained Glass Pane
+cyan_stained_glass_pane Cyan Stained Glass Pane
+purple_stained_glass_pane Purple Stained Glass Pane
+blue_stained_glass_pane Blue Stained Glass Pane
+brown_stained_glass_pane Brown Stained Glass Pane
+green_stained_glass_pane Green Stained Glass Pane
+red_stained_glass_pane Red Stained Glass Pane
+black_stained_glass_pane Black Stained Glass Pane
+acacia_stairs Acacia Stairs
+dark_oak_stairs Dark Oak Stairs
+mangrove_stairs Mangrove Stairs
+bamboo_stairs Bamboo Stairs
+bamboo_mosaic_stairs Bamboo Mosaic Stairs
+slime_block Slime Block
+barrier Barrier
+iron_trapdoor Iron Trapdoor
+prismarine Prismarine
+prismarine_bricks Prismarine Bricks
+dark_prismarine Dark Prismarine
+prismarine_stairs Prismarine Stairs
+prismarine_brick_stairs Prismarine Brick Stairs
+dark_prismarine_stairs Dark Prismarine Stairs
+prismarine_slab Prismarine Slab
+prismarine_brick_slab Prismarine Brick Slab
+dark_prismarine_slab Dark Prismarine Slab
+sea_lantern Sea Lantern
+hay_block Hay Bale
+white_carpet White Carpet
+orange_carpet Orange Carpet
+magenta_carpet Magenta Carpet
+light_blue_carpet Light Blue Carpet
+yellow_carpet Yellow Carpet
+lime_carpet Lime Carpet
+pink_carpet Pink Carpet
+gray_carpet Gray Carpet
+light_gray_carpet Light Gray Carpet
+cyan_carpet Cyan Carpet
+purple_carpet Purple Carpet
+blue_carpet Blue Carpet
+brown_carpet Brown Carpet
+green_carpet Green Carpet
+red_carpet Red Carpet
+black_carpet Black Carpet
+terracotta Terracotta
+coal_block Block of Coal
+packed_ice Packed Ice
+sunflower Sunflower
+lilac Lilac
+rose_bush Rose Bush
+peony Peony
+tall_grass Tall Grass
+large_fern Large Fern
+white_banner White Banner
+orange_banner Orange Banner
+magenta_banner Magenta Banner
+light_blue_banner Light Blue Banner
+yellow_banner Yellow Banner
+lime_banner Lime Banner
+pink_banner Pink Banner
+gray_banner Gray Banner
+light_gray_banner Light Gray Banner
+cyan_banner Cyan Banner
+purple_banner Purple Banner
+blue_banner Blue Banner
+brown_banner Brown Banner
+green_banner Green Banner
+red_banner Red Banner
+black_banner Black Banner
+red_sandstone Red Sandstone
+chiseled_red_sandstone Chiseled Red Sandstone
+cut_red_sandstone Cut Red Sandstone
+red_sandstone_stairs Red Sandstone Stairs
+oak_slab Oak Slab
+spruce_slab Spruce Slab
+birch_slab Birch Slab
+jungle_slab Jungle Slab
+acacia_slab Acacia Slab
+dark_oak_slab Dark Oak Slab
+mangrove_slab Mangrove Slab
+bamboo_slab Bamboo Slab
+bamboo_mosaic_slab Bamboo Mosaic Slab
+stone_slab Stone Slab
+smooth_stone_slab Smooth Stone Slab
+sandstone_slab Sandstone Slab
+cut_sandstone_slab Cut Sandstone Slab
+petrified_oak_slab Petrified Oak Slab
+cobblestone_slab Cobblestone Slab
+brick_slab Brick Slab
+stone_brick_slab Stone Brick Slab
+mud_brick_slab Mud Brick Slab
+nether_brick_slab Nether Brick Slab
+quartz_slab Quartz Slab
+red_sandstone_slab Red Sandstone Slab
+cut_red_sandstone_slab Cut Red Sandstone Slab
+purpur_slab Purpur Slab
+smooth_stone Smooth Stone
+smooth_sandstone Smooth Sandstone
+smooth_quartz Smooth Quartz Block
+smooth_red_sandstone Smooth Red Sandstone
+spruce_fence_gate Spruce Fence Gate
+birch_fence_gate Birch Fence Gate
+jungle_fence_gate Jungle Fence Gate
+acacia_fence_gate Acacia Fence Gate
+dark_oak_fence_gate Dark Oak Fence Gate
+mangrove_fence_gate Mangrove Fence Gate
+bamboo_fence_gate Bamboo Fence Gate
+spruce_fence Spruce Fence
+birch_fence Birch Fence
+jungle_fence Jungle Fence
+acacia_fence Acacia Fence
+dark_oak_fence Dark Oak Fence
+mangrove_fence Mangrove Fence
+bamboo_fence Bamboo Fence
+spruce_door Spruce Door
+birch_door Birch Door
+jungle_door Jungle Door
+acacia_door Acacia Door
+dark_oak_door Dark Oak Door
+mangrove_door Mangrove Door
+bamboo_door Bamboo Door
+end_rod End Rod
+chorus_plant Chorus Plant
+chorus_flower Chorus Flower
+purpur_block Purpur Block
+purpur_pillar Purpur Pillar
+purpur_stairs Purpur Stairs
+end_stone_bricks End Stone Bricks
+dirt_path Dirt Path
+magma_block Magma Block
+nether_wart_block Nether Wart Block
+red_nether_bricks Red Nether Bricks
+bone_block Bone Block
+observer Observer
+shulker_box Shulker Box
+white_shulker_box White Shulker Box
+orange_shulker_box Orange Shulker Box
+magenta_shulker_box Magenta Shulker Box
+light_blue_shulker_box Light Blue Shulker Box
+yellow_shulker_box Yellow Shulker Box
+lime_shulker_box Lime Shulker Box
+pink_shulker_box Pink Shulker Box
+gray_shulker_box Gray Shulker Box
+light_gray_shulker_box Light Gray Shulker Box
+cyan_shulker_box Cyan Shulker Box
+purple_shulker_box Purple Shulker Box
+blue_shulker_box Blue Shulker Box
+brown_shulker_box Brown Shulker Box
+green_shulker_box Green Shulker Box
+red_shulker_box Red Shulker Box
+black_shulker_box Black Shulker Box
+white_glazed_terracotta White Glazed Terracotta
+orange_glazed_terracotta Orange Glazed Terracotta
+magenta_glazed_terracotta Magenta Glazed Terracotta
+light_blue_glazed_terracotta Light Blue Glazed Terracotta
+yellow_glazed_terracotta Yellow Glazed Terracotta
+lime_glazed_terracotta Lime Glazed Terracotta
+pink_glazed_terracotta Pink Glazed Terracotta
+gray_glazed_terracotta Gray Glazed Terracotta
+light_gray_glazed_terracotta Light Gray Glazed Terracotta
+cyan_glazed_terracotta Cyan Glazed Terracotta
+purple_glazed_terracotta Purple Glazed Terracotta
+blue_glazed_terracotta Blue Glazed Terracotta
+brown_glazed_terracotta Brown Glazed Terracotta
+green_glazed_terracotta Green Glazed Terracotta
+red_glazed_terracotta Red Glazed Terracotta
+black_glazed_terracotta Black Glazed Terracotta
+white_concrete White Concrete
+orange_concrete Orange Concrete
+magenta_concrete Magenta Concrete
+light_blue_concrete Light Blue Concrete
+yellow_concrete Yellow Concrete
+lime_concrete Lime Concrete
+pink_concrete Pink Concrete
+gray_concrete Gray Concrete
+light_gray_concrete Light Gray Concrete
+cyan_concrete Cyan Concrete
+purple_concrete Purple Concrete
+blue_concrete Blue Concrete
+brown_concrete Brown Concrete
+green_concrete Green Concrete
+red_concrete Red Concrete
+black_concrete Black Concrete
+white_concrete_powder White Concrete Powder
+orange_concrete_powder Orange Concrete Powder
+magenta_concrete_powder Magenta Concrete Powder
+light_blue_concrete_powder Light Blue Concrete Powder
+yellow_concrete_powder Yellow Concrete Powder
+lime_concrete_powder Lime Concrete Powder
+pink_concrete_powder Pink Concrete Powder
+gray_concrete_powder Gray Concrete Powder
+light_gray_concrete_powder Light Gray Concrete Powder
+cyan_concrete_powder Cyan Concrete Powder
+purple_concrete_powder Purple Concrete Powder
+blue_concrete_powder Blue Concrete Powder
+brown_concrete_powder Brown Concrete Powder
+green_concrete_powder Green Concrete Powder
+red_concrete_powder Red Concrete Powder
+black_concrete_powder Black Concrete Powder
+kelp Kelp
+dried_kelp_block Dried Kelp Block
+turtle_egg Turtle Egg
+dead_tube_coral_block Dead Tube Coral Block
+dead_brain_coral_block Dead Brain Coral Block
+dead_bubble_coral_block Dead Bubble Coral Block
+dead_fire_coral_block Dead Fire Coral Block
+dead_horn_coral_block Dead Horn Coral Block
+tube_coral_block Tube Coral Block
+brain_coral_block Brain Coral Block
+bubble_coral_block Bubble Coral Block
+fire_coral_block Fire Coral Block
+horn_coral_block Horn Coral Block
+dead_tube_coral Dead Tube Coral
+dead_brain_coral Dead Brain Coral
+dead_bubble_coral Dead Bubble Coral
+dead_fire_coral Dead Fire Coral
+dead_horn_coral Dead Horn Coral
+tube_coral Tube Coral
+brain_coral Brain Coral
+bubble_coral Bubble Coral
+fire_coral Fire Coral
+horn_coral Horn Coral
+dead_tube_coral_fan Dead Tube Coral Fan
+dead_brain_coral_fan Dead Brain Coral Fan
+dead_bubble_coral_fan Dead Bubble Coral Fan
+dead_fire_coral_fan Dead Fire Coral Fan
+dead_horn_coral_fan Dead Horn Coral Fan
+tube_coral_fan Tube Coral Fan
+brain_coral_fan Brain Coral Fan
+bubble_coral_fan Bubble Coral Fan
+fire_coral_fan Fire Coral Fan
+horn_coral_fan Horn Coral Fan
+sea_pickle Sea Pickle
+blue_ice Blue Ice
+conduit Conduit
+bamboo Bamboo
+polished_granite_stairs Polished Granite Stairs
+smooth_red_sandstone_stairs Smooth Red Sandstone Stairs
+mossy_stone_brick_stairs Mossy Stone Brick Stairs
+polished_diorite_stairs Polished Diorite Stairs
+mossy_cobblestone_stairs Mossy Cobblestone Stairs
+end_stone_brick_stairs End Stone Brick Stairs
+stone_stairs Stone Stairs
+smooth_sandstone_stairs Smooth Sandstone Stairs
+smooth_quartz_stairs Smooth Quartz Stairs
+granite_stairs Granite Stairs
+andesite_stairs Andesite Stairs
+red_nether_brick_stairs Red Nether Brick Stairs
+polished_andesite_stairs Polished Andesite Stairs
+diorite_stairs Diorite Stairs
+polished_granite_slab Polished Granite Slab
+smooth_red_sandstone_slab Smooth Red Sandstone Slab
+mossy_stone_brick_slab Mossy Stone Brick Slab
+polished_diorite_slab Polished Diorite Slab
+mossy_cobblestone_slab Mossy Cobblestone Slab
+end_stone_brick_slab End Stone Brick Slab
+smooth_sandstone_slab Smooth Sandstone Slab
+smooth_quartz_slab Smooth Quartz Slab
+granite_slab Granite Slab
+andesite_slab Andesite Slab
+red_nether_brick_slab Red Nether Brick Slab
+polished_andesite_slab Polished Andesite Slab
+diorite_slab Diorite Slab
+brick_wall Brick Wall
+prismarine_wall Prismarine Wall
+red_sandstone_wall Red Sandstone Wall
+mossy_stone_brick_wall Mossy Stone Brick Wall
+granite_wall Granite Wall
+stone_brick_wall Stone Brick Wall
+mud_brick_wall Mud Brick Wall
+nether_brick_wall Nether Brick Wall
+andesite_wall Andesite Wall
+red_nether_brick_wall Red Nether Brick Wall
+sandstone_wall Sandstone Wall
+end_stone_brick_wall End Stone Brick Wall
+diorite_wall Diorite Wall
+scaffolding Scaffolding
+loom Loom
+barrel Barrel
+smoker Smoker
+blast_furnace Blast Furnace
+cartography_table Cartography Table
+fletching_table Fletching Table
+grindstone Grindstone
+lectern Lectern
+smithing_table Smithing Table
+stonecutter Stonecutter
+bell Bell
+lantern Lantern
+soul_lantern Soul Lantern
+campfire Campfire
+soul_campfire Soul Campfire
+warped_stem Warped Stem
+stripped_warped_stem Stripped Warped Stem
+warped_hyphae Warped Hyphae
+stripped_warped_hyphae Stripped Warped Hyphae
+warped_nylium Warped Nylium
+warped_fungus Warped Fungus
+warped_wart_block Warped Wart Block
+warped_roots Warped Roots
+nether_sprouts Nether Sprouts
+crimson_stem Crimson Stem
+stripped_crimson_stem Stripped Crimson Stem
+crimson_hyphae Crimson Hyphae
+stripped_crimson_hyphae Stripped Crimson Hyphae
+crimson_nylium Crimson Nylium
+crimson_fungus Crimson Fungus
+shroomlight Shroomlight
+weeping_vines Weeping Vines
+twisting_vines Twisting Vines
+crimson_roots Crimson Roots
+crimson_planks Crimson Planks
+warped_planks Warped Planks
+crimson_slab Crimson Slab
+warped_slab Warped Slab
+crimson_pressure_plate Crimson Pressure Plate
+warped_pressure_plate Warped Pressure Plate
+crimson_fence Crimson Fence
+warped_fence Warped Fence
+crimson_trapdoor Crimson Trapdoor
+warped_trapdoor Warped Trapdoor
+crimson_fence_gate Crimson Fence Gate
+warped_fence_gate Warped Fence Gate
+crimson_stairs Crimson Stairs
+warped_stairs Warped Stairs
+crimson_button Crimson Button
+warped_button Warped Button
+crimson_door Crimson Door
+warped_door Warped Door
+crimson_sign Crimson Sign
+warped_sign Warped Sign
+composter Composter
+target Target
+bee_nest Bee Nest
+beehive Beehive
+honey_block Honey Block
+honeycomb_block Honeycomb Block
+netherite_block Block of Netherite
+ancient_debris Ancient Debris
+crying_obsidian Crying Obsidian
+respawn_anchor Respawn Anchor
+lodestone Lodestone
+blackstone Blackstone
+blackstone_stairs Blackstone Stairs
+blackstone_wall Blackstone Wall
+blackstone_slab Blackstone Slab
+polished_blackstone Polished Blackstone
+polished_blackstone_bricks Polished Blackstone Bricks
+cracked_polished_blackstone_bricks Cracked Polished Blackstone Bricks
+chiseled_polished_blackstone Chiseled Polished Blackstone
+polished_blackstone_brick_slab Polished Blackstone Brick Slab
+polished_blackstone_brick_stairs Polished Blackstone Brick Stairs
+polished_blackstone_brick_wall Polished Blackstone Brick Wall
+gilded_blackstone Gilded Blackstone
+polished_blackstone_stairs Polished Blackstone Stairs
+polished_blackstone_slab Polished Blackstone Slab
+polished_blackstone_pressure_plate Polished Blackstone Pressure Plate
+polished_blackstone_button Polished Blackstone Button
+polished_blackstone_wall Polished Blackstone Wall
+chiseled_nether_bricks Chiseled Nether Bricks
+cracked_nether_bricks Cracked Nether Bricks
+quartz_bricks Quartz Bricks
+candle Candle
+white_candle White Candle
+orange_candle Orange Candle
+magenta_candle Magenta Candle
+light_blue_candle Light Blue Candle
+yellow_candle Yellow Candle
+lime_candle Lime Candle
+pink_candle Pink Candle
+gray_candle Gray Candle
+light_gray_candle Light Gray Candle
+cyan_candle Cyan Candle
+purple_candle Purple Candle
+blue_candle Blue Candle
+brown_candle Brown Candle
+green_candle Green Candle
+red_candle Red Candle
+black_candle Black Candle
+amethyst_block Block of Amethyst
+budding_amethyst Budding Amethyst
+amethyst_cluster Amethyst Cluster
+large_amethyst_bud Large Amethyst Bud
+medium_amethyst_bud Medium Amethyst Bud
+small_amethyst_bud Small Amethyst Bud
+tuff Tuff
+calcite Calcite
+tinted_glass Tinted Glass
+sculk_sensor Sculk Sensor
+sculk Sculk
+sculk_vein Sculk Vein
+sculk_catalyst Sculk Catalyst
+sculk_shrieker Sculk Shrieker
+oxidized_copper Oxidized Copper
+weathered_copper Weathered Copper
+exposed_copper Exposed Copper
+copper_block Block of Copper
+copper_ore Copper Ore
+deepslate_copper_ore Deepslate Copper Ore
+oxidized_cut_copper Oxidized Cut Copper
+weathered_cut_copper Weathered Cut Copper
+exposed_cut_copper Exposed Cut Copper
+cut_copper Cut Copper
+oxidized_cut_copper_stairs Oxidized Cut Copper Stairs
+weathered_cut_copper_stairs Weathered Cut Copper Stairs
+exposed_cut_copper_stairs Exposed Cut Copper Stairs
+cut_copper_stairs Cut Copper Stairs
+oxidized_cut_copper_slab Oxidized Cut Copper Slab
+weathered_cut_copper_slab Weathered Cut Copper Slab
+exposed_cut_copper_slab Exposed Cut Copper Slab
+cut_copper_slab Cut Copper Slab
+waxed_copper_block Waxed Block of Copper
+waxed_weathered_copper Waxed Weathered Copper
+waxed_exposed_copper Waxed Exposed Copper
+waxed_oxidized_copper Waxed Oxidized Copper
+waxed_oxidized_cut_copper Waxed Oxidized Cut Copper
+waxed_weathered_cut_copper Waxed Weathered Cut Copper
+waxed_exposed_cut_copper Waxed Exposed Cut Copper
+waxed_cut_copper Waxed Cut Copper
+waxed_oxidized_cut_copper_stairs Waxed Oxidized Cut Copper Stairs
+waxed_weathered_cut_copper_stairs Waxed Weathered Cut Copper Stairs
+waxed_exposed_cut_copper_stairs Waxed Exposed Cut Copper Stairs
+waxed_cut_copper_stairs Waxed Cut Copper Stairs
+waxed_oxidized_cut_copper_slab Waxed Oxidized Cut Copper Slab
+waxed_weathered_cut_copper_slab Waxed Weathered Cut Copper Slab
+waxed_exposed_cut_copper_slab Waxed Exposed Cut Copper Slab
+waxed_cut_copper_slab Waxed Cut Copper Slab
+lightning_rod Lightning Rod
+pointed_dripstone Pointed Dripstone
+dripstone_block Dripstone Block
+spore_blossom Spore Blossom
+azalea Azalea
+flowering_azalea Flowering Azalea
+moss_carpet Moss Carpet
+moss_block Moss Block
+big_dripleaf Big Dripleaf
+small_dripleaf Small Dripleaf
+hanging_roots Hanging Roots
+rooted_dirt Rooted Dirt
+mud Mud
+deepslate Deepslate
+cobbled_deepslate Cobbled Deepslate
+cobbled_deepslate_stairs Cobbled Deepslate Stairs
+cobbled_deepslate_slab Cobbled Deepslate Slab
+cobbled_deepslate_wall Cobbled Deepslate Wall
+polished_deepslate Polished Deepslate
+polished_deepslate_stairs Polished Deepslate Stairs
+polished_deepslate_slab Polished Deepslate Slab
+polished_deepslate_wall Polished Deepslate Wall
+deepslate_tiles Deepslate Tiles
+deepslate_tile_stairs Deepslate Tile Stairs
+deepslate_tile_slab Deepslate Tile Slab
+deepslate_tile_wall Deepslate Tile Wall
+deepslate_bricks Deepslate Bricks
+deepslate_brick_stairs Deepslate Brick Stairs
+deepslate_brick_slab Deepslate Brick Slab
+deepslate_brick_wall Deepslate Brick Wall
+chiseled_deepslate Chiseled Deepslate
+cracked_deepslate_bricks Cracked Deepslate Bricks
+cracked_deepslate_tiles Cracked Deepslate Tiles
+infested_deepslate Infested Deepslate
+smooth_basalt Smooth Basalt
+raw_iron_block Block of Raw Iron
+raw_copper_block Block of Raw Copper
+raw_gold_block Block of Raw Gold
+ochre_froglight Ochre Froglight
+verdant_froglight Verdant Froglight
+pearlescent_froglight Pearlescent Froglight
+frogspawn Frogspawn
+reinforced_deepslate Reinforced Deepslate
+stone Stone
+granite Granite
+polished_granite Polished Granite
+diorite Diorite
+polished_diorite Polished Diorite
+andesite Andesite
+polished_andesite Polished Andesite
+deepslate Deepslate
+cobbled_deepslate Cobbled Deepslate
+polished_deepslate Polished Deepslate
+calcite Calcite
+tuff Tuff
+dripstone_block Dripstone Block
+grass_block Grass Block
+dirt Dirt
+coarse_dirt Coarse Dirt
+podzol Podzol
+rooted_dirt Rooted Dirt
+mud Mud
+crimson_nylium Crimson Nylium
+warped_nylium Warped Nylium
+cobblestone Cobblestone
+oak_planks Oak Planks
+spruce_planks Spruce Planks
+birch_planks Birch Planks
+jungle_planks Jungle Planks
+acacia_planks Acacia Planks
+dark_oak_planks Dark Oak Planks
+mangrove_planks Mangrove Planks
+bamboo_planks Bamboo Planks
+crimson_planks Crimson Planks
+warped_planks Warped Planks
+bamboo_mosaic Bamboo Mosaic
+oak_sapling Oak Sapling
+spruce_sapling Spruce Sapling
+birch_sapling Birch Sapling
+jungle_sapling Jungle Sapling
+acacia_sapling Acacia Sapling
+dark_oak_sapling Dark Oak Sapling
+mangrove_propagule Mangrove Propagule
+bedrock Bedrock
+sand Sand
+red_sand Red Sand
+gravel Gravel
+coal_ore Coal Ore
+deepslate_coal_ore Deepslate Coal Ore
+iron_ore Iron Ore
+deepslate_iron_ore Deepslate Iron Ore
+copper_ore Copper Ore
+deepslate_copper_ore Deepslate Copper Ore
+gold_ore Gold Ore
+deepslate_gold_ore Deepslate Gold Ore
+redstone_ore Redstone Ore
+deepslate_redstone_ore Deepslate Redstone Ore
+emerald_ore Emerald Ore
+deepslate_emerald_ore Deepslate Emerald Ore
+lapis_ore Lapis Lazuli Ore
+deepslate_lapis_ore Deepslate Lapis Lazuli Ore
+diamond_ore Diamond Ore
+deepslate_diamond_ore Deepslate Diamond Ore
+nether_gold_ore Nether Gold Ore
+nether_quartz_ore Nether Quartz Ore
+ancient_debris Ancient Debris
+coal_block Block of Coal
+raw_iron_block Block of Raw Iron
+raw_copper_block Block of Raw Copper
+raw_gold_block Block of Raw Gold
+amethyst_block Block of Amethyst
+budding_amethyst Budding Amethyst
+iron_block Block of Iron
+copper_block Block of Copper
+gold_block Block of Gold
+diamond_block Block of Diamond
+netherite_block Block of Netherite
+exposed_copper Exposed Copper
+weathered_copper Weathered Copper
+oxidized_copper Oxidized Copper
+cut_copper Cut Copper
+exposed_cut_copper Exposed Cut Copper
+weathered_cut_copper Weathered Cut Copper
+oxidized_cut_copper Oxidized Cut Copper
+cut_copper_stairs Cut Copper Stairs
+exposed_cut_copper_stairs Exposed Cut Copper Stairs
+weathered_cut_copper_stairs Weathered Cut Copper Stairs
+oxidized_cut_copper_stairs Oxidized Cut Copper Stairs
+cut_copper_slab Cut Copper Slab
+exposed_cut_copper_slab Exposed Cut Copper Slab
+weathered_cut_copper_slab Weathered Cut Copper Slab
+oxidized_cut_copper_slab Oxidized Cut Copper Slab
+waxed_copper_block Waxed Block of Copper
+waxed_exposed_copper Waxed Exposed Copper
+waxed_weathered_copper Waxed Weathered Copper
+waxed_oxidized_copper Waxed Oxidized Copper
+waxed_cut_copper Waxed Cut Copper
+waxed_exposed_cut_copper Waxed Exposed Cut Copper
+waxed_weathered_cut_copper Waxed Weathered Cut Copper
+waxed_oxidized_cut_copper Waxed Oxidized Cut Copper
+waxed_cut_copper_stairs Waxed Cut Copper Stairs
+waxed_exposed_cut_copper_stairs Waxed Exposed Cut Copper Stairs
+waxed_weathered_cut_copper_stairs Waxed Weathered Cut Copper Stairs
+waxed_oxidized_cut_copper_stairs Waxed Oxidized Cut Copper Stairs
+waxed_cut_copper_slab Waxed Cut Copper Slab
+waxed_exposed_cut_copper_slab Waxed Exposed Cut Copper Slab
+waxed_weathered_cut_copper_slab Waxed Weathered Cut Copper Slab
+waxed_oxidized_cut_copper_slab Waxed Oxidized Cut Copper Slab
+oak_log Oak Log
+spruce_log Spruce Log
+birch_log Birch Log
+jungle_log Jungle Log
+acacia_log Acacia Log
+dark_oak_log Dark Oak Log
+mangrove_log Mangrove Log
+mangrove_roots Mangrove Roots
+muddy_mangrove_roots Muddy Mangrove Roots
+crimson_stem Crimson Stem
+warped_stem Warped Stem
+bamboo_block Block of Bamboo
+stripped_oak_log Stripped Oak Log
+stripped_spruce_log Stripped Spruce Log
+stripped_birch_log Stripped Birch Log
+stripped_jungle_log Stripped Jungle Log
+stripped_acacia_log Stripped Acacia Log
+stripped_dark_oak_log Stripped Dark Oak Log
+stripped_mangrove_log Stripped Mangrove Log
+stripped_crimson_stem Stripped Crimson Stem
+stripped_warped_stem Stripped Warped Stem
+stripped_oak_wood Stripped Oak Wood
+stripped_spruce_wood Stripped Spruce Wood
+stripped_birch_wood Stripped Birch Wood
+stripped_jungle_wood Stripped Jungle Wood
+stripped_acacia_wood Stripped Acacia Wood
+stripped_dark_oak_wood Stripped Dark Oak Wood
+stripped_mangrove_wood Stripped Mangrove Wood
+stripped_crimson_hyphae Stripped Crimson Hyphae
+stripped_warped_hyphae Stripped Warped Hyphae
+stripped_bamboo_block Block of Stripped Bamboo
+oak_wood Oak Wood
+spruce_wood Spruce Wood
+birch_wood Birch Wood
+jungle_wood Jungle Wood
+acacia_wood Acacia Wood
+dark_oak_wood Dark Oak Wood
+mangrove_wood Mangrove Wood
+crimson_hyphae Crimson Hyphae
+warped_hyphae Warped Hyphae
+oak_leaves Oak Leaves
+spruce_leaves Spruce Leaves
+birch_leaves Birch Leaves
+jungle_leaves Jungle Leaves
+acacia_leaves Acacia Leaves
+dark_oak_leaves Dark Oak Leaves
+mangrove_leaves Mangrove Leaves
+azalea_leaves Azalea Leaves
+flowering_azalea_leaves Flowering Azalea Leaves
+sponge Sponge
+wet_sponge Wet Sponge
+glass Glass
+tinted_glass Tinted Glass
+lapis_block Block of Lapis Lazuli
+sandstone Sandstone
+chiseled_sandstone Chiseled Sandstone
+cut_sandstone Cut Sandstone
+cobweb Cobweb
+grass Grass
+fern Fern
+azalea Azalea
+flowering_azalea Flowering Azalea
+dead_bush Dead Bush
+seagrass Seagrass
+sea_pickle Sea Pickle
+white_wool White Wool
+orange_wool Orange Wool
+magenta_wool Magenta Wool
+light_blue_wool Light Blue Wool
+yellow_wool Yellow Wool
+lime_wool Lime Wool
+pink_wool Pink Wool
+gray_wool Gray Wool
+light_gray_wool Light Gray Wool
+cyan_wool Cyan Wool
+purple_wool Purple Wool
+blue_wool Blue Wool
+brown_wool Brown Wool
+green_wool Green Wool
+red_wool Red Wool
+black_wool Black Wool
+dandelion Dandelion
+poppy Poppy
+blue_orchid Blue Orchid
+allium Allium
+azure_bluet Azure Bluet
+red_tulip Red Tulip
+orange_tulip Orange Tulip
+white_tulip White Tulip
+pink_tulip Pink Tulip
+oxeye_daisy Oxeye Daisy
+cornflower Cornflower
+lily_of_the_valley Lily of the Valley
+wither_rose Wither Rose
+spore_blossom Spore Blossom
+brown_mushroom Brown Mushroom
+red_mushroom Red Mushroom
+crimson_fungus Crimson Fungus
+warped_fungus Warped Fungus
+crimson_roots Crimson Roots
+warped_roots Warped Roots
+nether_sprouts Nether Sprouts
+weeping_vines Weeping Vines
+twisting_vines Twisting Vines
+sugar_cane Sugar Cane
+kelp Kelp
+moss_carpet Moss Carpet
+moss_block Moss Block
+hanging_roots Hanging Roots
+big_dripleaf Big Dripleaf
+small_dripleaf Small Dripleaf
+bamboo Bamboo
+oak_slab Oak Slab
+spruce_slab Spruce Slab
+birch_slab Birch Slab
+jungle_slab Jungle Slab
+acacia_slab Acacia Slab
+dark_oak_slab Dark Oak Slab
+mangrove_slab Mangrove Slab
+bamboo_slab Bamboo Slab
+bamboo_mosaic_slab Bamboo Mosaic Slab
+crimson_slab Crimson Slab
+warped_slab Warped Slab
+stone_slab Stone Slab
+smooth_stone_slab Smooth Stone Slab
+sandstone_slab Sandstone Slab
+cut_sandstone_slab Cut Sandstone Slab
+petrified_oak_slab Petrified Oak Slab
+cobblestone_slab Cobblestone Slab
+brick_slab Brick Slab
+stone_brick_slab Stone Brick Slab
+mud_brick_slab Mud Brick Slab
+nether_brick_slab Nether Brick Slab
+quartz_slab Quartz Slab
+red_sandstone_slab Red Sandstone Slab
+cut_red_sandstone_slab Cut Red Sandstone Slab
+purpur_slab Purpur Slab
+prismarine_slab Prismarine Slab
+prismarine_brick_slab Prismarine Brick Slab
+dark_prismarine_slab Dark Prismarine Slab
+smooth_quartz Smooth Quartz Block
+smooth_red_sandstone Smooth Red Sandstone
+smooth_sandstone Smooth Sandstone
+smooth_stone Smooth Stone
+bricks Bricks
+bookshelf Bookshelf
+chiseled_bookshelf Chiseled Bookshelf
+mossy_cobblestone Mossy Cobblestone
+obsidian Obsidian
+torch Torch
+end_rod End Rod
+chorus_plant Chorus Plant
+chorus_flower Chorus Flower
+purpur_block Purpur Block
+purpur_pillar Purpur Pillar
+purpur_stairs Purpur Stairs
+spawner Monster Spawner
+chest Chest
+crafting_table Crafting Table
+farmland Farmland
+furnace Furnace
+ladder Ladder
+cobblestone_stairs Cobblestone Stairs
+snow Snow
+ice Ice
+snow_block Snow Block
+cactus Cactus
+clay Clay
+jukebox Jukebox
+oak_fence Oak Fence
+spruce_fence Spruce Fence
+birch_fence Birch Fence
+jungle_fence Jungle Fence
+acacia_fence Acacia Fence
+dark_oak_fence Dark Oak Fence
+mangrove_fence Mangrove Fence
+bamboo_fence Bamboo Fence
+crimson_fence Crimson Fence
+warped_fence Warped Fence
+pumpkin Pumpkin
+carved_pumpkin Carved Pumpkin
+jack_o_lantern Jack o'Lantern
+netherrack Netherrack
+soul_sand Soul Sand
+soul_soil Soul Soil
+basalt Basalt
+polished_basalt Polished Basalt
+smooth_basalt Smooth Basalt
+soul_torch Soul Torch
+glowstone Glowstone
+infested_stone Infested Stone
+infested_cobblestone Infested Cobblestone
+infested_stone_bricks Infested Stone Bricks
+infested_mossy_stone_bricks Infested Mossy Stone Bricks
+infested_cracked_stone_bricks Infested Cracked Stone Bricks
+infested_chiseled_stone_bricks Infested Chiseled Stone Bricks
+infested_deepslate Infested Deepslate
+stone_bricks Stone Bricks
+mossy_stone_bricks Mossy Stone Bricks
+cracked_stone_bricks Cracked Stone Bricks
+chiseled_stone_bricks Chiseled Stone Bricks
+packed_mud Packed Mud
+mud_bricks Mud Bricks
+deepslate_bricks Deepslate Bricks
+cracked_deepslate_bricks Cracked Deepslate Bricks
+deepslate_tiles Deepslate Tiles
+cracked_deepslate_tiles Cracked Deepslate Tiles
+chiseled_deepslate Chiseled Deepslate
+reinforced_deepslate Reinforced Deepslate
+iron_bars Iron Bars
+chain Chain
+glass_pane Glass Pane
+melon Melon
+vine Vines
+glow_lichen Glow Lichen
+brick_stairs Brick Stairs
+stone_brick_stairs Stone Brick Stairs
+mud_brick_stairs Mud Brick Stairs
+mycelium Mycelium
+lily_pad Lily Pad
+nether_bricks Nether Bricks
+cracked_nether_bricks Cracked Nether Bricks
+chiseled_nether_bricks Chiseled Nether Bricks
+nether_brick_fence Nether Brick Fence
+nether_brick_stairs Nether Brick Stairs
+sculk Sculk
+sculk_vein Sculk Vein
+sculk_catalyst Sculk Catalyst
+sculk_shrieker Sculk Shrieker
+enchanting_table Enchanting Table
+end_portal_frame End Portal Frame
+end_stone End Stone
+end_stone_bricks End Stone Bricks
+dragon_egg Dragon Egg
+sandstone_stairs Sandstone Stairs
+ender_chest Ender Chest
+emerald_block Block of Emerald
+oak_stairs Oak Stairs
+spruce_stairs Spruce Stairs
+birch_stairs Birch Stairs
+jungle_stairs Jungle Stairs
+acacia_stairs Acacia Stairs
+dark_oak_stairs Dark Oak Stairs
+mangrove_stairs Mangrove Stairs
+bamboo_stairs Bamboo Stairs
+bamboo_mosaic_stairs Bamboo Mosaic Stairs
+crimson_stairs Crimson Stairs
+warped_stairs Warped Stairs
+beacon Beacon
+cobblestone_wall Cobblestone Wall
+mossy_cobblestone_wall Mossy Cobblestone Wall
+brick_wall Brick Wall
+prismarine_wall Prismarine Wall
+red_sandstone_wall Red Sandstone Wall
+mossy_stone_brick_wall Mossy Stone Brick Wall
+granite_wall Granite Wall
+stone_brick_wall Stone Brick Wall
+mud_brick_wall Mud Brick Wall
+nether_brick_wall Nether Brick Wall
+andesite_wall Andesite Wall
+red_nether_brick_wall Red Nether Brick Wall
+sandstone_wall Sandstone Wall
+end_stone_brick_wall End Stone Brick Wall
+diorite_wall Diorite Wall
+blackstone_wall Blackstone Wall
+polished_blackstone_wall Polished Blackstone Wall
+polished_blackstone_brick_wall Polished Blackstone Brick Wall
+cobbled_deepslate_wall Cobbled Deepslate Wall
+polished_deepslate_wall Polished Deepslate Wall
+deepslate_brick_wall Deepslate Brick Wall
+deepslate_tile_wall Deepslate Tile Wall
+anvil Anvil
+chipped_anvil Chipped Anvil
+damaged_anvil Damaged Anvil
+chiseled_quartz_block Chiseled Quartz Block
+quartz_block Block of Quartz
+quartz_bricks Quartz Bricks
+quartz_pillar Quartz Pillar
+quartz_stairs Quartz Stairs
+white_terracotta White Terracotta
+orange_terracotta Orange Terracotta
+magenta_terracotta Magenta Terracotta
+light_blue_terracotta Light Blue Terracotta
+yellow_terracotta Yellow Terracotta
+lime_terracotta Lime Terracotta
+pink_terracotta Pink Terracotta
+gray_terracotta Gray Terracotta
+light_gray_terracotta Light Gray Terracotta
+cyan_terracotta Cyan Terracotta
+purple_terracotta Purple Terracotta
+blue_terracotta Blue Terracotta
+brown_terracotta Brown Terracotta
+green_terracotta Green Terracotta
+red_terracotta Red Terracotta
+black_terracotta Black Terracotta
+barrier Barrier
+hay_block Hay Bale
+white_carpet White Carpet
+orange_carpet Orange Carpet
+magenta_carpet Magenta Carpet
+light_blue_carpet Light Blue Carpet
+yellow_carpet Yellow Carpet
+lime_carpet Lime Carpet
+pink_carpet Pink Carpet
+gray_carpet Gray Carpet
+light_gray_carpet Light Gray Carpet
+cyan_carpet Cyan Carpet
+purple_carpet Purple Carpet
+blue_carpet Blue Carpet
+brown_carpet Brown Carpet
+green_carpet Green Carpet
+red_carpet Red Carpet
+black_carpet Black Carpet
+terracotta Terracotta
+packed_ice Packed Ice
+dirt_path Dirt Path
+sunflower Sunflower
+lilac Lilac
+rose_bush Rose Bush
+peony Peony
+tall_grass Tall Grass
+large_fern Large Fern
+white_stained_glass White Stained Glass
+orange_stained_glass Orange Stained Glass
+magenta_stained_glass Magenta Stained Glass
+light_blue_stained_glass Light Blue Stained Glass
+yellow_stained_glass Yellow Stained Glass
+lime_stained_glass Lime Stained Glass
+pink_stained_glass Pink Stained Glass
+gray_stained_glass Gray Stained Glass
+light_gray_stained_glass Light Gray Stained Glass
+cyan_stained_glass Cyan Stained Glass
+purple_stained_glass Purple Stained Glass
+blue_stained_glass Blue Stained Glass
+brown_stained_glass Brown Stained Glass
+green_stained_glass Green Stained Glass
+red_stained_glass Red Stained Glass
+black_stained_glass Black Stained Glass
+white_stained_glass_pane White Stained Glass Pane
+orange_stained_glass_pane Orange Stained Glass Pane
+magenta_stained_glass_pane Magenta Stained Glass Pane
+light_blue_stained_glass_pane Light Blue Stained Glass Pane
+yellow_stained_glass_pane Yellow Stained Glass Pane
+lime_stained_glass_pane Lime Stained Glass Pane
+pink_stained_glass_pane Pink Stained Glass Pane
+gray_stained_glass_pane Gray Stained Glass Pane
+light_gray_stained_glass_pane Light Gray Stained Glass Pane
+cyan_stained_glass_pane Cyan Stained Glass Pane
+purple_stained_glass_pane Purple Stained Glass Pane
+blue_stained_glass_pane Blue Stained Glass Pane
+brown_stained_glass_pane Brown Stained Glass Pane
+green_stained_glass_pane Green Stained Glass Pane
+red_stained_glass_pane Red Stained Glass Pane
+black_stained_glass_pane Black Stained Glass Pane
+prismarine Prismarine
+prismarine_bricks Prismarine Bricks
+dark_prismarine Dark Prismarine
+prismarine_stairs Prismarine Stairs
+prismarine_brick_stairs Prismarine Brick Stairs
+dark_prismarine_stairs Dark Prismarine Stairs
+sea_lantern Sea Lantern
+red_sandstone Red Sandstone
+chiseled_red_sandstone Chiseled Red Sandstone
+cut_red_sandstone Cut Red Sandstone
+red_sandstone_stairs Red Sandstone Stairs
+magma_block Magma Block
+nether_wart_block Nether Wart Block
+warped_wart_block Warped Wart Block
+red_nether_bricks Red Nether Bricks
+bone_block Bone Block
+shulker_box Shulker Box
+white_shulker_box White Shulker Box
+orange_shulker_box Orange Shulker Box
+magenta_shulker_box Magenta Shulker Box
+light_blue_shulker_box Light Blue Shulker Box
+yellow_shulker_box Yellow Shulker Box
+lime_shulker_box Lime Shulker Box
+pink_shulker_box Pink Shulker Box
+gray_shulker_box Gray Shulker Box
+light_gray_shulker_box Light Gray Shulker Box
+cyan_shulker_box Cyan Shulker Box
+purple_shulker_box Purple Shulker Box
+blue_shulker_box Blue Shulker Box
+brown_shulker_box Brown Shulker Box
+green_shulker_box Green Shulker Box
+red_shulker_box Red Shulker Box
+black_shulker_box Black Shulker Box
+white_glazed_terracotta White Glazed Terracotta
+orange_glazed_terracotta Orange Glazed Terracotta
+magenta_glazed_terracotta Magenta Glazed Terracotta
+light_blue_glazed_terracotta Light Blue Glazed Terracotta
+yellow_glazed_terracotta Yellow Glazed Terracotta
+lime_glazed_terracotta Lime Glazed Terracotta
+pink_glazed_terracotta Pink Glazed Terracotta
+gray_glazed_terracotta Gray Glazed Terracotta
+light_gray_glazed_terracotta Light Gray Glazed Terracotta
+cyan_glazed_terracotta Cyan Glazed Terracotta
+purple_glazed_terracotta Purple Glazed Terracotta
+blue_glazed_terracotta Blue Glazed Terracotta
+brown_glazed_terracotta Brown Glazed Terracotta
+green_glazed_terracotta Green Glazed Terracotta
+red_glazed_terracotta Red Glazed Terracotta
+black_glazed_terracotta Black Glazed Terracotta
+white_concrete White Concrete
+orange_concrete Orange Concrete
+magenta_concrete Magenta Concrete
+light_blue_concrete Light Blue Concrete
+yellow_concrete Yellow Concrete
+lime_concrete Lime Concrete
+pink_concrete Pink Concrete
+gray_concrete Gray Concrete
+light_gray_concrete Light Gray Concrete
+cyan_concrete Cyan Concrete
+purple_concrete Purple Concrete
+blue_concrete Blue Concrete
+brown_concrete Brown Concrete
+green_concrete Green Concrete
+red_concrete Red Concrete
+black_concrete Black Concrete
+white_concrete_powder White Concrete Powder
+orange_concrete_powder Orange Concrete Powder
+magenta_concrete_powder Magenta Concrete Powder
+light_blue_concrete_powder Light Blue Concrete Powder
+yellow_concrete_powder Yellow Concrete Powder
+lime_concrete_powder Lime Concrete Powder
+pink_concrete_powder Pink Concrete Powder
+gray_concrete_powder Gray Concrete Powder
+light_gray_concrete_powder Light Gray Concrete Powder
+cyan_concrete_powder Cyan Concrete Powder
+purple_concrete_powder Purple Concrete Powder
+blue_concrete_powder Blue Concrete Powder
+brown_concrete_powder Brown Concrete Powder
+green_concrete_powder Green Concrete Powder
+red_concrete_powder Red Concrete Powder
+black_concrete_powder Black Concrete Powder
+turtle_egg Turtle Egg
+dead_tube_coral_block Dead Tube Coral Block
+dead_brain_coral_block Dead Brain Coral Block
+dead_bubble_coral_block Dead Bubble Coral Block
+dead_fire_coral_block Dead Fire Coral Block
+dead_horn_coral_block Dead Horn Coral Block
+tube_coral_block Tube Coral Block
+brain_coral_block Brain Coral Block
+bubble_coral_block Bubble Coral Block
+fire_coral_block Fire Coral Block
+horn_coral_block Horn Coral Block
+tube_coral Tube Coral
+brain_coral Brain Coral
+bubble_coral Bubble Coral
+fire_coral Fire Coral
+horn_coral Horn Coral
+dead_brain_coral Dead Brain Coral
+dead_bubble_coral Dead Bubble Coral
+dead_fire_coral Dead Fire Coral
+dead_horn_coral Dead Horn Coral
+dead_tube_coral Dead Tube Coral
+tube_coral_fan Tube Coral Fan
+brain_coral_fan Brain Coral Fan
+bubble_coral_fan Bubble Coral Fan
+fire_coral_fan Fire Coral Fan
+horn_coral_fan Horn Coral Fan
+dead_tube_coral_fan Dead Tube Coral Fan
+dead_brain_coral_fan Dead Brain Coral Fan
+dead_bubble_coral_fan Dead Bubble Coral Fan
+dead_fire_coral_fan Dead Fire Coral Fan
+dead_horn_coral_fan Dead Horn Coral Fan
+blue_ice Blue Ice
+conduit Conduit
+polished_granite_stairs Polished Granite Stairs
+smooth_red_sandstone_stairs Smooth Red Sandstone Stairs
+mossy_stone_brick_stairs Mossy Stone Brick Stairs
+polished_diorite_stairs Polished Diorite Stairs
+mossy_cobblestone_stairs Mossy Cobblestone Stairs
+end_stone_brick_stairs End Stone Brick Stairs
+stone_stairs Stone Stairs
+smooth_sandstone_stairs Smooth Sandstone Stairs
+smooth_quartz_stairs Smooth Quartz Stairs
+granite_stairs Granite Stairs
+andesite_stairs Andesite Stairs
+red_nether_brick_stairs Red Nether Brick Stairs
+polished_andesite_stairs Polished Andesite Stairs
+diorite_stairs Diorite Stairs
+cobbled_deepslate_stairs Cobbled Deepslate Stairs
+polished_deepslate_stairs Polished Deepslate Stairs
+deepslate_brick_stairs Deepslate Brick Stairs
+deepslate_tile_stairs Deepslate Tile Stairs
+polished_granite_slab Polished Granite Slab
+smooth_red_sandstone_slab Smooth Red Sandstone Slab
+mossy_stone_brick_slab Mossy Stone Brick Slab
+polished_diorite_slab Polished Diorite Slab
+mossy_cobblestone_slab Mossy Cobblestone Slab
+end_stone_brick_slab End Stone Brick Slab
+smooth_sandstone_slab Smooth Sandstone Slab
+smooth_quartz_slab Smooth Quartz Slab
+granite_slab Granite Slab
+andesite_slab Andesite Slab
+red_nether_brick_slab Red Nether Brick Slab
+polished_andesite_slab Polished Andesite Slab
+diorite_slab Diorite Slab
+cobbled_deepslate_slab Cobbled Deepslate Slab
+polished_deepslate_slab Polished Deepslate Slab
+deepslate_brick_slab Deepslate Brick Slab
+deepslate_tile_slab Deepslate Tile Slab
+scaffolding Scaffolding
+redstone Redstone Dust
+redstone_torch Redstone Torch
+redstone_block Block of Redstone
+repeater Redstone Repeater
+comparator Redstone Comparator
+piston Piston
+sticky_piston Sticky Piston
+slime_block Slime Block
+honey_block Honey Block
+observer Observer
+hopper Hopper
+dispenser Dispenser
+dropper Dropper
+lectern Lectern
+target Target
+lever Lever
+lightning_rod Lightning Rod
+daylight_detector Daylight Detector
+sculk_sensor Sculk Sensor
+tripwire_hook Tripwire Hook
+trapped_chest Trapped Chest
 tnt TNT
-redstone_lamp 紅石燈
-note_block 音階盒
-stone_button 石製按鈕
-polished_blackstone_button 拋光黑石按鈕
-oak_button 橡木按鈕
-spruce_button 杉木按鈕
-birch_button 樺木按鈕
-jungle_button 叢林木按鈕
-acacia_button 相思木按鈕
-dark_oak_button 黑橡木按鈕
-mangrove_button 紅樹林木按鈕
-crimson_button 緋紅蕈木按鈕
-warped_button 扭曲蕈木按鈕
-stone_pressure_plate 石製壓力板
-polished_blackstone_pressure_plate 拋光黑石壓力板
-light_weighted_pressure_plate 輕質測重壓力板
-heavy_weighted_pressure_plate 重質測重壓力板
-oak_pressure_plate 橡木壓力板
-spruce_pressure_plate 杉木壓力板
-birch_pressure_plate 樺木壓力板
-jungle_pressure_plate 叢林木壓力板
-acacia_pressure_plate 相思木壓力板
-dark_oak_pressure_plate 黑橡木壓力板
-mangrove_pressure_plate 紅樹林木壓力板
-crimson_pressure_plate 緋紅蕈木壓力板
-warped_pressure_plate 扭曲蕈木壓力板
-iron_door 鐵門
-oak_door 橡木門
-spruce_door 杉木門
-birch_door 樺木門
-jungle_door 叢林木門
-acacia_door 相思木門
-dark_oak_door 黑橡木門
-mangrove_door 紅樹林木門
-crimson_door 緋紅蕈木門
-warped_door 扭曲蕈木門
-iron_trapdoor 鐵製地板門
-oak_trapdoor 橡木地板門
-spruce_trapdoor 杉木地板門
-birch_trapdoor 樺木地板門
-jungle_trapdoor 叢林木地板門
-acacia_trapdoor 相思木地板門
-dark_oak_trapdoor 黑橡木地板門
-mangrove_trapdoor 紅樹林木地板門
-crimson_trapdoor 緋紅蕈木地板門
-warped_trapdoor 扭曲蕈木地板門
-oak_fence_gate 橡木柵欄門
-spruce_fence_gate 杉木柵欄門
-birch_fence_gate 樺木柵欄門
-jungle_fence_gate 叢林木柵欄門
-acacia_fence_gate 相思木柵欄門
-dark_oak_fence_gate 黑橡木柵欄門
-mangrove_fence_gate 紅樹林木柵欄門
-crimson_fence_gate 緋紅蕈木柵欄門
-warped_fence_gate 扭曲蕈木柵欄門
-powered_rail 動力鐵軌
-detector_rail 感測鐵軌
-rail 鐵軌
-activator_rail 觸發鐵軌
-saddle 鞍
-minecart 礦車
-chest_minecart 儲物箱礦車
-furnace_minecart 熔爐礦車
-tnt_minecart TNT 礦車
-hopper_minecart 漏斗礦車
-carrot_on_a_stick 胡蘿蔔釣竿
-warped_fungus_on_a_stick 扭曲蕈菇釣竿
-elytra 鞘翅
-oak_boat 橡木船
-oak_chest_boat 儲物箱橡木船
-spruce_boat 杉木船
-spruce_chest_boat 儲物箱杉木船
-birch_boat 樺木船
-birch_chest_boat 儲物箱樺木船
-jungle_boat 叢林木船
-jungle_chest_boat 儲物箱叢林木船
-acacia_boat 相思木船
-acacia_chest_boat 儲物箱相思木船
-dark_oak_boat 黑橡木船
-dark_oak_chest_boat 儲物箱黑橡木船
-mangrove_boat 紅樹林木船
-mangrove_chest_boat 儲物箱紅樹林木船
-turtle_helmet 海龜殼
-scute 鱗甲
-flint_and_steel 打火石
-apple 蘋果
-bow 弓
-arrow 箭矢
-coal 煤炭
-charcoal 木炭
-diamond 鑽石
-emerald 綠寶石
-lapis_lazuli 青金石
-quartz 地獄石英
-amethyst_shard 紫水晶碎片
-raw_iron 鐵原礦
-iron_ingot 鐵錠
-raw_copper 銅原礦
-copper_ingot 銅錠
-raw_gold 金原礦
-gold_ingot 金錠
-netherite_ingot 獄髓錠
-netherite_scrap 獄髓碎片
-wooden_sword 木劍
-wooden_shovel 木鏟
-wooden_pickaxe 木鎬
-wooden_axe 木斧
-wooden_hoe 木鋤
-stone_sword 石劍
-stone_shovel 石鏟
-stone_pickaxe 石鎬
-stone_axe 石斧
-stone_hoe 石鋤
-golden_sword 金劍
-golden_shovel 金鏟
-golden_pickaxe 金鎬
-golden_axe 金斧
-golden_hoe 金鋤
-iron_sword 鐵劍
-iron_shovel 鐵鏟
-iron_pickaxe 鐵鎬
-iron_axe 鐵斧
-iron_hoe 鐵鋤
-diamond_sword 鑽石劍
-diamond_shovel 鑽石鏟
-diamond_pickaxe 鑽石鎬
-diamond_axe 鑽石斧
-diamond_hoe 鑽石鋤
-netherite_sword 獄髓劍
-netherite_shovel 獄髓鏟
-netherite_pickaxe 獄髓鎬
-netherite_axe 獄髓斧
-netherite_hoe 獄髓鋤
-stick 木棒
-bowl 碗
-mushroom_stew 蘑菇湯
-string 線
-feather 羽毛
-gunpowder 火藥
-wheat_seeds 小麥種子
-wheat 小麥
-bread 麵包
-leather_helmet 皮革帽子
-leather_chestplate 皮革上衣
-leather_leggings 皮革褲子
-leather_boots 皮革靴子
-chainmail_helmet 鎖鏈頭盔
-chainmail_chestplate 鎖鏈胸甲
-chainmail_leggings 鎖鏈護腿
-chainmail_boots 鎖鏈靴子
-iron_helmet 鐵製頭盔
-iron_chestplate 鐵製胸甲
-iron_leggings 鐵製護腿
-iron_boots 鐵製靴子
-diamond_helmet 鑽石頭盔
-diamond_chestplate 鑽石胸甲
-diamond_leggings 鑽石護腿
-diamond_boots 鑽石靴子
-golden_helmet 黃金頭盔
-golden_chestplate 黃金胸甲
-golden_leggings 黃金護腿
-golden_boots 黃金靴子
-netherite_helmet 獄髓頭盔
-netherite_chestplate 獄髓胸甲
-netherite_leggings 獄髓護腿
-netherite_boots 獄髓靴子
-flint 燧石
-porkchop 生豬肉
-cooked_porkchop 烤豬肉
-painting 繪畫
-golden_apple 金蘋果
-enchanted_golden_apple 附魔金蘋果
-oak_sign 橡木告示牌
-spruce_sign 杉木告示牌
-birch_sign 樺木告示牌
-jungle_sign 叢林木告示牌
-acacia_sign 相思木告示牌
-dark_oak_sign 黑橡木告示牌
-mangrove_sign 紅樹林木告示牌
-crimson_sign 緋紅蕈木告示牌
-warped_sign 扭曲蕈木告示牌
-bucket 鐵桶
-water_bucket 水桶
-lava_bucket 熔岩桶
-powder_snow_bucket 粉雪桶
-snowball 雪球
-leather 皮革
-milk_bucket 鮮奶桶
-pufferfish_bucket 河豚桶
-salmon_bucket 鮭魚桶
-cod_bucket 鱈魚桶
-tropical_fish_bucket 熱帶魚桶
-axolotl_bucket 六角恐龍桶
-tadpole_bucket 蝌蚪桶
-brick 紅磚頭
-clay_ball 黏土球
-dried_kelp_block 海帶乾塊
-paper 紙
-book 書
-slime_ball 史萊姆球
-egg 雞蛋
-compass 羅盤
-recovery_compass 回生羅盤
-bundle 束口袋
-fishing_rod 釣竿
-clock 時鐘
-spyglass 望遠鏡
-glowstone_dust 螢石粉
-cod 生鱈魚
-salmon 生鮭魚
-tropical_fish 熱帶魚
-pufferfish 河豚
-cooked_cod 烤鱈魚
-cooked_salmon 烤鮭魚
-ink_sac 墨囊
-glow_ink_sac 螢光墨囊
-cocoa_beans 可可豆
-white_dye 白色染料
-orange_dye 橙色染料
-magenta_dye 洋紅色染料
-light_blue_dye 淺藍色染料
-yellow_dye 黃色染料
-lime_dye 淺綠色染料
-pink_dye 粉紅色染料
-gray_dye 灰色染料
-light_gray_dye 淺灰色染料
-cyan_dye 青色染料
-purple_dye 紫色染料
-blue_dye 藍色染料
-brown_dye 棕色染料
-green_dye 綠色染料
-red_dye 紅色染料
-black_dye 黑色染料
-bone_meal 骨粉
-bone 骨頭
-sugar 糖
-cake 蛋糕
-white_bed 白色床
-orange_bed 橙色床
-magenta_bed 洋紅色床
-light_blue_bed 淺藍色床
-yellow_bed 黃色床
-lime_bed 淺綠色床
-pink_bed 粉紅色床
-gray_bed 灰色床
-light_gray_bed 淺灰色床
-cyan_bed 青色床
-purple_bed 紫色床
-blue_bed 藍色床
-brown_bed 棕色床
-green_bed 綠色床
-red_bed 紅色床
-black_bed 黑色床
-cookie 餅乾
-shears 剪刀
-melon_slice 西瓜片
-dried_kelp 海帶乾
-pumpkin_seeds 南瓜種子
-melon_seeds 西瓜種子
-beef 生牛肉
-cooked_beef 牛排
-chicken 生雞肉
-cooked_chicken 烤雞
-rotten_flesh 腐肉
-ender_pearl 終界珍珠
-blaze_rod 烈焰桿
-ghast_tear 幽靈之淚
-gold_nugget 金粒
-nether_wart 地獄疙瘩
-potion 藥水
-glass_bottle 玻璃瓶
-spider_eye 蜘蛛眼
-fermented_spider_eye 發酵蜘蛛眼
-blaze_powder 烈焰粉
-magma_cream 岩漿球
-brewing_stand 釀造台
-cauldron 鍋釜
-ender_eye 終界之眼
-glistering_melon_slice 鑲金西瓜片
-allay_spawn_egg 悅靈 生怪蛋
-axolotl_spawn_egg 六角恐龍 生怪蛋
-bat_spawn_egg 蝙蝠 生怪蛋
-bee_spawn_egg 蜜蜂 生怪蛋
-blaze_spawn_egg 烈焰使者 生怪蛋
-cat_spawn_egg 貓 生怪蛋
-cave_spider_spawn_egg 洞穴蜘蛛 生怪蛋
-chicken_spawn_egg 雞 生怪蛋
-cod_spawn_egg 鱈魚 生怪蛋
-cow_spawn_egg 牛 生怪蛋
-creeper_spawn_egg 苦力怕 生怪蛋
-dolphin_spawn_egg 海豚 生怪蛋
-donkey_spawn_egg 驢子 生怪蛋
-drowned_spawn_egg 沉屍 生怪蛋
-elder_guardian_spawn_egg 遠古深海守衛 生怪蛋
-enderman_spawn_egg 終界使者 生怪蛋
-endermite_spawn_egg 終界蟎 生怪蛋
-evoker_spawn_egg 喚魔者 生怪蛋
-fox_spawn_egg 狐狸 生怪蛋
-frog_spawn_egg 青蛙 生怪蛋
-ghast_spawn_egg 地獄幽靈 生怪蛋
-glow_squid_spawn_egg 螢光魷魚 生怪蛋
-goat_spawn_egg 山羊 生怪蛋
-guardian_spawn_egg 深海守衛 生怪蛋
-hoglin_spawn_egg 豬布獸 生怪蛋
-horse_spawn_egg 馬 生怪蛋
-husk_spawn_egg 屍殼 生怪蛋
-llama_spawn_egg 駱馬 生怪蛋
-magma_cube_spawn_egg 岩漿立方怪 生怪蛋
-mooshroom_spawn_egg 哞菇 生怪蛋
-mule_spawn_egg 騾子 生怪蛋
-ocelot_spawn_egg 山貓 生怪蛋
-panda_spawn_egg 貓熊 生怪蛋
-parrot_spawn_egg 鸚鵡 生怪蛋
-phantom_spawn_egg 夜魅 生怪蛋
-pig_spawn_egg 豬 生怪蛋
-piglin_spawn_egg 豬布林 生怪蛋
-piglin_brute_spawn_egg 豬布林蠻兵 生怪蛋
-pillager_spawn_egg 掠奪者 生怪蛋
-polar_bear_spawn_egg 北極熊 生怪蛋
-pufferfish_spawn_egg 河豚 生怪蛋
-rabbit_spawn_egg 兔子 生怪蛋
-ravager_spawn_egg 劫毀獸 生怪蛋
-salmon_spawn_egg 鮭魚 生怪蛋
-sheep_spawn_egg 綿羊 生怪蛋
-shulker_spawn_egg 界伏蚌 生怪蛋
-silverfish_spawn_egg 蠹魚 生怪蛋
-skeleton_spawn_egg 骷髏 生怪蛋
-skeleton_horse_spawn_egg 骷髏馬 生怪蛋
-slime_spawn_egg 史萊姆 生怪蛋
-spider_spawn_egg 蜘蛛 生怪蛋
-squid_spawn_egg 魷魚 生怪蛋
-stray_spawn_egg 流髑 生怪蛋
-strider_spawn_egg 熾足獸 生怪蛋
-tadpole_spawn_egg 蝌蚪 生怪蛋
-trader_llama_spawn_egg 商駝 生怪蛋
-tropical_fish_spawn_egg 熱帶魚 生怪蛋
-turtle_spawn_egg 海龜 生怪蛋
-vex_spawn_egg 惱鬼 生怪蛋
-villager_spawn_egg 村民 生怪蛋
-vindicator_spawn_egg 衛道士 生怪蛋
-wandering_trader_spawn_egg 流浪商人 生怪蛋
-warden_spawn_egg 伏守者 生怪蛋
-witch_spawn_egg 女巫 生怪蛋
-wither_skeleton_spawn_egg 凋零骷髏 生怪蛋
-wolf_spawn_egg 狼 生怪蛋
-zoglin_spawn_egg 豬屍獸 生怪蛋
-zombie_spawn_egg 殭屍 生怪蛋
-zombie_horse_spawn_egg 殭屍馬 生怪蛋
-zombie_villager_spawn_egg 殭屍村民 生怪蛋
-zombified_piglin_spawn_egg 殭屍化豬布林 生怪蛋
-experience_bottle 經驗瓶
-fire_charge 火焰彈
-writable_book 書和羽毛筆
-item_frame 物品展示框
-glow_item_frame 螢光物品展示框
-flower_pot 花盆
-carrot 胡蘿蔔
-potato 馬鈴薯
-baked_potato 烤馬鈴薯
-poisonous_potato 毒馬鈴薯
-map 空白彩繪畫布
-golden_carrot 金胡蘿蔔
-skeleton_skull 骷髏頭顱
-wither_skeleton_skull 凋零骷髏頭顱
-player_head 玩家頭顱
-zombie_head 殭屍頭顱
-creeper_head 苦力怕頭顱
-dragon_head 龍首
-nether_star 地獄之星
-pumpkin_pie 南瓜派
-firework_rocket 煙火
-firework_star 火藥球
-nether_brick 地獄磚頭
-prismarine_shard 海磷碎片
-prismarine_crystals 海磷晶體
-rabbit 生兔肉
-cooked_rabbit 烤兔肉
-rabbit_stew 兔肉湯
-rabbit_foot 兔子腳
-rabbit_hide 兔子皮
-armor_stand 盔甲座
-iron_horse_armor 鐵製馬鎧
-golden_horse_armor 黃金製馬鎧
-diamond_horse_armor 鑽石製馬鎧
-leather_horse_armor 皮革製馬鎧
-lead 拴繩
-name_tag 命名牌
-mutton 生羊肉
-cooked_mutton 烤羊肉
-white_banner 白色旗幟
-orange_banner 橙色旗幟
-magenta_banner 洋紅色旗幟
-light_blue_banner 淺藍色旗幟
-yellow_banner 黃色旗幟
-lime_banner 淺綠色旗幟
-pink_banner 粉紅色旗幟
-gray_banner 灰色旗幟
-light_gray_banner 淺灰色旗幟
-cyan_banner 青色旗幟
-purple_banner 紫色旗幟
-blue_banner 藍色旗幟
-brown_banner 棕色旗幟
-green_banner 綠色旗幟
-red_banner 紅色旗幟
-black_banner 黑色旗幟
-end_crystal 終界水晶
-chorus_fruit 歌萊果
-popped_chorus_fruit 爆開的歌萊果
-beetroot 甜菜根
-beetroot_seeds 甜菜種子
-beetroot_soup 甜菜湯
-dragon_breath 龍之吐息
-splash_potion 飛濺藥水
-spectral_arrow 追跡之箭
-tipped_arrow 藥水箭
-lingering_potion 滯留藥水
-shield 盾牌
-totem_of_undying 不死圖騰
-shulker_shell 界伏殼
-iron_nugget 鐵粒
-music_disc_13 唱片
-music_disc_cat 唱片
-music_disc_blocks 唱片
-music_disc_chirp 唱片
-music_disc_far 唱片
-music_disc_mall 唱片
-music_disc_mellohi 唱片
-music_disc_stal 唱片
-music_disc_strad 唱片
-music_disc_ward 唱片
-music_disc_11 唱片
-music_disc_wait 唱片
-music_disc_otherside 唱片
-music_disc_5 唱片
-music_disc_pigstep 唱片
-disc_fragment_5 唱片碎片
-trident 三叉戟
-phantom_membrane 夜魅皮膜
-nautilus_shell 鸚鵡螺殼
-heart_of_the_sea 海洋之心
-crossbow 弩
-suspicious_stew 可疑的燉湯
-loom 紡織機
-flower_banner_pattern 旗幟圖案
-creeper_banner_pattern 旗幟圖案
-skull_banner_pattern 旗幟圖案
-mojang_banner_pattern 旗幟圖案
-globe_banner_pattern 旗幟圖案
-piglin_banner_pattern 旗幟圖案
-goat_horn 山羊角
-composter 堆肥箱
-barrel 木桶
-smoker 煙燻爐
-blast_furnace 高爐
-cartography_table 製圖台
-fletching_table 製箭台
-grindstone 砂輪
-smithing_table 鍛造台
-stonecutter 切石機
-bell 鐘
-lantern 燈籠
-soul_lantern 靈魂燈籠
-sweet_berries 甜莓
-glow_berries 螢光莓
-campfire 營火
-soul_campfire 靈魂營火
-shroomlight 蕈光體
-honeycomb 蜂巢
-bee_nest 蜂窩
-beehive 蜂箱
-honey_bottle 蜂蜜瓶
-honeycomb_block 蜂巢塊
-lodestone 磁石
-crying_obsidian 哭泣的黑曜石
-blackstone 黑石
-blackstone_slab 黑石半磚
-blackstone_stairs 黑石階梯
-gilded_blackstone 鑲金黑石
-polished_blackstone 拋光黑石
-polished_blackstone_slab 拋光黑石半磚
-polished_blackstone_stairs 拋光黑石階梯
-chiseled_polished_blackstone 浮雕拋光黑石
-polished_blackstone_bricks 拋光黑石磚
-polished_blackstone_brick_slab 拋光黑石磚半磚
-polished_blackstone_brick_stairs 拋光黑石磚階梯
-cracked_polished_blackstone_bricks 裂紋拋光黑石磚
-respawn_anchor 重生錨
-candle 蠟燭
-white_candle 白色蠟燭
-orange_candle 橙色蠟燭
-magenta_candle 洋紅色蠟燭
-light_blue_candle 淺藍色蠟燭
-yellow_candle 黃色蠟燭
-lime_candle 淺綠色蠟燭
-pink_candle 粉紅色蠟燭
-gray_candle 灰色蠟燭
-light_gray_candle 淺灰色蠟燭
-cyan_candle 青色蠟燭
-purple_candle 紫色蠟燭
-blue_candle 藍色蠟燭
-brown_candle 棕色蠟燭
-green_candle 綠色蠟燭
-red_candle 紅色蠟燭
-black_candle 黑色蠟燭
-small_amethyst_bud 小型紫水晶芽
-medium_amethyst_bud 中型紫水晶芽
-large_amethyst_bud 大型紫水晶芽
-amethyst_cluster 紫水晶晶簇
-pointed_dripstone 鐘乳石
-ochre_froglight 赭黃蛙光體
-verdant_froglight 蒼翠蛙光體
-pearlescent_froglight 珠紫蛙光體
-frogspawn 青蛙卵
-echo_shard 回聲碎片
-laser_crystal_vanilla 雷射水晶
-laser_crystal_white 白色雷射水晶
-laser_crystal_light_gray 淺灰色雷射水晶
-laser_crystal_gray 灰色雷射水晶
-laser_crystal_black 黑色雷射水晶
-laser_crystal_brown 棕色雷射水晶
-laser_crystal_red 紅色雷射水晶
-laser_crystal_orange 橙色雷射水晶
-laser_crystal_yellow 黃色雷射水晶
-laser_crystal_lime 淺綠色雷射水晶
-laser_crystal_green 綠色雷射水晶
-laser_crystal_cyan 青色雷射水晶
-laser_crystal_light_blue 淺藍色雷射水晶
-laser_crystal_blue 藍色雷射水晶
-laser_crystal_purple 紫色雷射水晶
-laser_crystal_magenta 洋紅色雷射水晶
-laser_crystal_pink 粉紅色雷射水晶
-slime_chunk_probe 史萊姆區塊探針
-pitch_change_pen 音高調節棒
-red_mushroom_block 紅色蘑菇方塊
-brown_mushroom_block 棕色蘑菇方塊
-mushroom_stem 蘑菇柄
-simple_elevator 電梯
-simple_elevator_redstone_signal 紅石電梯
-particle_block 粒子激發器
-currency_converter 貨幣轉換包
-coin_copper 銅幣
-coin_iron 鐵幣
-coin_silver 銀幣
-coin_gold 金幣
-coin_star 星幣
-coin_copper_barrel 銅幣桶
-coin_iron_barrel 鐵幣桶
-coin_silver_barrel 銀幣桶
-coin_gold_barrel 金幣桶
-coin_star_barrel 星幣桶
-railway_acceleration_block 增加鐵路速限器
-railway_decelerate_block 減少鐵路速限器
-railway_exclude_block 強制鐵路方向器
-powerful_ejector_block 動力彈射器
-starlight_water_white 白色星光水
-starlight_water_light_gray 淺灰色星光水
-starlight_water_gray 灰色星光水
-starlight_water_black 黑色星光水
-starlight_water_brown 棕色星光水
-starlight_water_red 紅色星光水
-starlight_water_orange 橙色星光水
-starlight_water_yellow 黃色星光水
-starlight_water_lime 淺綠色星光水
-starlight_water_green 綠色星光水
-starlight_water_cyan 青色星光水
-starlight_water_light_blue 淺藍色星光水
-starlight_water_blue 藍色星光水
-starlight_water_purple 紫色星光水
-starlight_water_magenta 洋紅色星光水
-starlight_water_pink 粉紅色星光水
-palette 調色盤
-needle_pen 針筆
-fine_pen 細筆
-pen 筆
-thick_pen 粗筆
-plate_brush 板刷
-sound_bell_kizuna_akari 聲音鈴鐺
-sound_bell_yuzuki_yukari 聲音鈴鐺
-sound_bell_kotonoha_akane 聲音鈴鐺
-sound_bell_kotonoha_aoi 聲音鈴鐺
-sound_bell_iori_yuzuru 聲音鈴鐺
-beef_jerky 牛肉乾
-mouldy_bread 發霉麵包
-cheese 起司
-beef_cheese_sandwich 牛肉起司三明治
-chocolate 巧克力
-chocolate_cake 巧克力蛋糕
-chocolate_bread 巧克力麵包
-chocolate_cookie 巧克力餅乾
-ice_cream_cone 冰淇淋甜筒
-chocolate_ice_cream_cone 巧克力冰淇淋甜筒
-sweet_berries_ice_cream_cone 甜莓冰淇淋甜筒
-super_fish_cracker 超級魚餅乾
-chocolate_bone 巧克力骨頭
-cheese_puff 起司泡芙
-candy_cane_red 紅色拐杖糖
-candy_cane_orange 橙色拐杖糖
-candy_cane_yellow 黃色拐杖糖
-candy_cane_green 綠色拐杖糖
-candy_cane_blue 藍色拐杖糖
-candy_cane_purple 紫色拐杖糖
-candy_cane_pink 粉色拐杖糖
-canned_cat 貓糧罐
-reward_card 集點卡
-barter_menu 貿易書
-barter_sell_block 貿易刊登器
-logger_menu 紀錄書
-lottery_ticket_preparation 空的抽獎卷
-soul_link_core 靈魂鎖定核心
-soul_untie_core 靈魂釋放核心
-command_subtitle_block 小標題方塊
-command_title_block 標題方塊
-dragon_tooth 龍牙
-dragon_blood_tooth 血龍牙
-magic_nether_star 魔法地獄之星
-nightmare_crystal 夢魘結晶
-nightmare_crystal_fragment 夢魘結晶碎片
-nightmare_crystal_ore 夢魘結晶礦
-dragon_tooth_pickaxe 龍牙鎬
-dragon_tooth_axe 龍牙斧
-dragon_tooth_bow 龍牙弓
-dragon_tooth_crossbow 龍牙弩
-dragon_tooth_sword 龍牙劍
-dragon_tooth_shovel 龍牙鏟
-dragon_tooth_hoe 龍牙鋤
-dragon_blood_tooth_pickaxe 血龍牙鎬
-dragon_blood_tooth_axe 血龍牙斧
-dragon_blood_tooth_bow 血龍牙弓
-dragon_blood_tooth_crossbow 血龍牙弩
-dragon_blood_tooth_sword 血龍牙劍
-dragon_blood_tooth_shovel 血龍牙鏟
-dragon_blood_tooth_hoe 血龍牙鋤
-nightmare_crystal_pickaxe 夢魘結晶鎬
-nightmare_crystal_axe 夢魘結晶斧
-nightmare_crystal_bow 夢魘結晶弓
-nightmare_crystal_crossbow 夢魘結晶弩
-nightmare_crystal_sword 夢魘結晶劍
-nightmare_crystal_shovel 夢魘結晶鏟
-nightmare_crystal_hoe 夢魘結晶鋤
-dragon_tooth_helmet 龍牙頭盔
-dragon_tooth_chestplate 龍牙胸甲
-dragon_tooth_leggings 龍牙護腿
-dragon_tooth_boots 龍牙靴子
-dragon_blood_tooth_helmet 血龍牙頭盔
-dragon_blood_tooth_chestplate 血龍牙胸甲
-dragon_blood_tooth_leggings 血龍牙護腿
-dragon_blood_tooth_boots 血龍牙靴子
-nightmare_crystal_helmet 夢魘結晶頭盔
-nightmare_crystal_chestplate 夢魘結晶胸甲
-nightmare_crystal_leggings 夢魘結晶護腿
-nightmare_crystal_boots 夢魘結晶靴子
-dragon_hammer 龍槌
-elytra_of_chainmail_chestplate 鞘翅與鎖鏈胸甲
-elytra_of_iron_chestplate 鞘翅與鐵製胸甲
-elytra_of_diamond_chestplate 鞘翅與鑽石胸甲
-elytra_of_golden_chestplate 鞘翅與黃金胸甲
-elytra_of_netherite_chestplate 鞘翅與獄髓胸甲
-elytra_of_dragon_tooth_chestplate 鞘翅與龍牙胸甲
-elytra_of_dragon_blood_tooth_chestplate 鞘翅與血龍牙胸甲
-elytra_of_nightmare_crystal_chestplate 鞘翅與夢魘結晶胸甲
-peaceful_proof 和平之證
-peaceful_block 和平方塊
-peaceful_block_forever 永遠和平方塊
-cat_hair_brush 貓毛刷
-cat_hair 貓毛
-cat_hair_group 貓毛團
-cat_amulet 貓之護符
-notification_block 通知器
-world_map_view_closest 彗星地圖
-world_map_view_close 彗星地圖
-world_map_view_normal 彗星地圖
-world_map_view_far 彗星地圖
-world_map_view_farthest 彗星地圖
-world_map_capture 擷取彗星地圖
-land_system_book_empty 未啟用的領地群組之書
-land_flying_device 領地飛行鞘翅
-land_block_empty 領地產生器
-land_block_damaged 損壞的領地產生器
-land_energy_small 領地小能量
-land_energy_small_damaged 領地小能量
-land_energy_medium 領地中能量
-land_energy_medium_damaged 損壞的領地中能量
-land_energy_big 領地大能量
-land_energy_big_damaged 損壞的領地大能量
-builder_model_device 線條裝置
-ender_dragon_queue 終界龍排隊器
-cat_hat_black 貓帽
-cat_hat_british_shorthair 貓帽
-cat_hat_baby_calico 貓帽
-cat_hat_jellie 貓帽
-cat_hat_persian 貓帽
-cat_hat_ragdoll 貓帽
-cat_hat_red 貓帽
-cat_hat_siamese 貓帽
-cat_hat_tabby 貓帽
-cat_hat_tuxedo 貓帽
-cat_hat_baby_white 貓帽
-cat_hat_strawberry 貓帽
-cat_hat_pudding 貓帽
-cat_hat_cherry 貓帽
-cat_hat_firecracker 貓帽
-cat_hat_rainbow 貓帽
-cat_ear_white 貓耳
-cat_ear_light_gray 貓耳
-cat_ear_gray 貓耳
-cat_ear_black 貓耳
-cat_ear_brown 貓耳
-cat_ear_red 貓耳
-cat_ear_orange 貓耳
-cat_ear_yellow 貓耳
-cat_ear_lime 貓耳
-cat_ear_green 貓耳
-cat_ear_cyan 貓耳
-cat_ear_light_blue 貓耳
-cat_ear_blue 貓耳
-cat_ear_purple 貓耳
-cat_ear_magenta 貓耳
-cat_ear_pink 貓耳
-cat_ear_rainbow 貓耳
-rabbit_ear_white 兔耳
-rabbit_ear_light_gray 兔耳
-rabbit_ear_gray 兔耳
-rabbit_ear_black 兔耳
-rabbit_ear_brown 兔耳
-rabbit_ear_red 兔耳
-rabbit_ear_orange 兔耳
-rabbit_ear_yellow 兔耳
-rabbit_ear_lime 兔耳
-rabbit_ear_green 兔耳
-rabbit_ear_cyan 兔耳
-rabbit_ear_light_blue 兔耳
-rabbit_ear_blue 兔耳
-rabbit_ear_purple 兔耳
-rabbit_ear_magenta 兔耳
-rabbit_ear_pink 兔耳
-rabbit_ear_rainbow 兔耳
-angel_circle_white 天使環
-angel_circle_light_gray 天使環
-angel_circle_gray 天使環
-angel_circle_black 天使環
-angel_circle_brown 天使環
-angel_circle_red 天使環
-angel_circle_orange 天使環
-angel_circle_yellow 天使環
-angel_circle_lime 天使環
-angel_circle_green 天使環
-angel_circle_cyan 天使環
-angel_circle_light_blue 天使環
-angel_circle_blue 天使環
-angel_circle_purple 天使環
-angel_circle_magenta 天使環
-angel_circle_pink 天使環
-angel_circle_rainbow 天使環
-demon_corner_white 惡魔角
-demon_corner_light_gray 惡魔角
-demon_corner_gray 惡魔角
-demon_corner_black 惡魔角
-demon_corner_brown 惡魔角
-demon_corner_red 惡魔角
-demon_corner_orange 惡魔角
-demon_corner_yellow 惡魔角
-demon_corner_lime 惡魔角
-demon_corner_green 惡魔角
-demon_corner_cyan 惡魔角
-demon_corner_light_blue 惡魔角
-demon_corner_blue 惡魔角
-demon_corner_purple 惡魔角
-demon_corner_magenta 惡魔角
-demon_corner_pink 惡魔角
-demon_corner_rainbow 惡魔角
-deer_horn_white 鹿角
-deer_horn_light_gray 鹿角
-deer_horn_gray 鹿角
-deer_horn_black 鹿角
-deer_horn_brown 鹿角
-deer_horn_red 鹿角
-deer_horn_orange 鹿角
-deer_horn_yellow 鹿角
-deer_horn_lime 鹿角
-deer_horn_green 鹿角
-deer_horn_cyan 鹿角
-deer_horn_light_blue 鹿角
-deer_horn_blue 鹿角
-deer_horn_purple 鹿角
-deer_horn_magenta 鹿角
-deer_horn_pink 鹿角
-deer_horn_rainbow 鹿角
-alien_antenna 天線
-headband_headset 耳罩
-christmas_hat 聖誕帽
-christmas_tree 聖誕樹
-firework_star 煙火球
-lucky_money 壓歲錢
-witch_hat 巫婆帽
-wither_bone_meal 凋零粉
-advanced_tnt_x5 x5高級TNT
-advanced_tnt_x9 x9高級TNT
-advanced_tnt_x15 x15高級TNT
-advanced_tnt_x25 x25高級TNT
-advanced_tnt_x43 x43高級TNT
-advanced_tnt_x73 x73高級TNT
-advanced_tnt_x5_silk_touch x5絲綢之觸高級TNT
-advanced_tnt_x9_silk_touch x9絲綢之觸高級TNT
-advanced_tnt_x15_silk_touch x15絲綢之觸高級TNT
-advanced_tnt_x25_silk_touch x25絲綢之觸高級TNT
-advanced_tnt_x43_silk_touch x43絲綢之觸高級TNT
-advanced_tnt_x73_silk_touch x73絲綢之觸高級TNT
-rotten_flesh_block 腐肉塊
-amiability_rope_empty 空的友善生物收納繩
-malicious_rope_empty 空的邪惡生物收納繩
-fast_fill_magic_wand_stone 快速填充魔法石杖
-fast_fill_magic_wand_iron 快速填充魔法鐵杖
-fast_fill_magic_wand_diamond 快速填充魔法鑽石杖
-fast_fill_magic_wand_netherite 快速填充魔法獄髓杖
-fast_fill_magic_wand_star 快速填充魔法星杖
-fast_fill_magic_wand_dragon 快速填充魔法龍杖
-fast_fill_magic_wand_tooth 快速填充魔法龍牙杖
-fast_fill_magic_wand_blood_tooth 快速填充魔法血龍牙杖
-fast_fill_magic_wand_nightmare_crystal 快速填充魔法夢魘結晶杖
-fast_fill_magic_wand_creative 快速填充魔法創造者杖
-fast_break_magic_wand_stone 快速破壞魔法石杖
-fast_break_magic_wand_iron 快速破壞魔法鐵杖
-fast_break_magic_wand_diamond 快速破壞魔法鑽石杖
-fast_break_magic_wand_netherite 快速破壞魔法獄髓杖
-fast_break_magic_wand_star 快速破壞魔法星杖
-fast_break_magic_wand_dragon 快速破壞魔法龍杖
-fast_break_magic_wand_tooth 快速破壞魔法龍牙杖
-fast_break_magic_wand_blood_tooth 快速破壞魔法血龍牙杖
-fast_break_magic_wand_nightmare_crystal 快速破壞魔法夢魘結晶杖
-fast_break_magic_wand_creative 快速破壞魔法創造者杖
-record_point_gemstone 記錄寶石
-record_point_white_banner 可記錄點的白色旗幟
-record_point_orange_banner 可記錄點的橙色旗幟
-record_point_magenta_banner 可記錄點的洋紅色旗幟
-record_point_light_blue_banner 可記錄點的淺藍色旗幟
-record_point_yellow_banner 可記錄點的黃色旗幟
-record_point_lime_banner 可記錄點的淺綠色旗幟
-record_point_pink_banner 可記錄點的粉紅色旗幟
-record_point_gray_banner 可記錄點的灰色旗幟
-record_point_light_gray_banner 可記錄點的淺灰色旗幟
-record_point_cyan_banner 可記錄點的青色旗幟
-record_point_purple_banner 可記錄點的紫色旗幟
-record_point_blue_banner 可記錄點的藍色旗幟
-record_point_brown_banner 可記錄點的棕色旗幟
-record_point_green_banner 可記錄點的綠色旗幟
-record_point_red_banner 可記錄點的紅色旗幟
-record_point_black_banner 可記錄點的黑色旗幟
-back_golden_apple 重生金蘋果
-back_gemstone 重生寶石
-back_gemstone_block 重生寶石方塊
-transfer_golden_apple 傳送金蘋果
-transfer_gemstone 傳送寶石
-transfer_gemstone_block 傳送寶石方塊
-transfer_book 傳送之書
-random_transfer_golden_apple 隨機傳送金蘋果
-random_transfer_gemstone 隨機傳送寶石
-random_transfer_gemstone_block 隨機傳送寶石方塊
-invite_transfer_gemstone 邀請傳送寶石
-exchange_record_gemstone_empty 交換紀錄寶石
-invisible_light_5 小隱形光源
-invisible_light_10 中隱形光源
-invisible_light_15 大隱形光源
-cat_palm_glove_black 貓掌
-cat_palm_stick_black 貓掌棒
-cat_palm_glove_blue 貓掌
-cat_palm_stick_blue 貓掌棒
-cat_palm_glove_brown 貓掌
-cat_palm_stick_brown 貓掌棒
-cat_palm_glove_cyan 貓掌
-cat_palm_stick_cyan 貓掌棒
-cat_palm_glove_gray 貓掌
-cat_palm_stick_gray 貓掌棒
-cat_palm_glove_green 貓掌
-cat_palm_stick_green 貓掌棒
-cat_palm_glove_light_blue 貓掌
-cat_palm_stick_light_blue 貓掌棒
-cat_palm_glove_light_gray 貓掌
-cat_palm_stick_light_gray 貓掌棒
-cat_palm_glove_lime 貓掌
-cat_palm_stick_lime 貓掌棒
-cat_palm_glove_magenta 貓掌
-cat_palm_stick_magenta 貓掌棒
-cat_palm_glove_orange 貓掌
-cat_palm_stick_orange 貓掌棒
-cat_palm_glove_pink 貓掌
-cat_palm_stick_pink 貓掌棒
-cat_palm_glove_purple 貓掌
-cat_palm_stick_purple 貓掌棒
-cat_palm_glove_red 貓掌
-cat_palm_stick_red 貓掌棒
-cat_palm_glove_white 貓掌
-cat_palm_stick_white 貓掌棒
-cat_palm_glove_yellow 貓掌
-cat_palm_stick_yellow 貓掌棒
-cat_palm_glove_rainbow 貓掌
-cat_palm_stick_rainbow 貓掌棒
-build_replicator_block 建築複製器
-build_blueprint_empty 空的建築藍圖
-premium_hopper 高級漏斗
-restricted_crafting_table 工作檯限制器
+redstone_lamp Redstone Lamp
+note_block Note Block
+stone_button Stone Button
+polished_blackstone_button Polished Blackstone Button
+oak_button Oak Button
+spruce_button Spruce Button
+birch_button Birch Button
+jungle_button Jungle Button
+acacia_button Acacia Button
+dark_oak_button Dark Oak Button
+mangrove_button Mangrove Button
+bamboo_button Bamboo Button
+crimson_button Crimson Button
+warped_button Warped Button
+stone_pressure_plate Stone Pressure Plate
+polished_blackstone_pressure_plate Polished Blackstone Pressure Plate
+light_weighted_pressure_plate Light Weighted Pressure Plate
+heavy_weighted_pressure_plate Heavy Weighted Pressure Plate
+oak_pressure_plate Oak Pressure Plate
+spruce_pressure_plate Spruce Pressure Plate
+birch_pressure_plate Birch Pressure Plate
+jungle_pressure_plate Jungle Pressure Plate
+acacia_pressure_plate Acacia Pressure Plate
+dark_oak_pressure_plate Dark Oak Pressure Plate
+mangrove_pressure_plate Mangrove Pressure Plate
+bamboo_pressure_plate Bamboo Pressure Plate
+crimson_pressure_plate Crimson Pressure Plate
+warped_pressure_plate Warped Pressure Plate
+iron_door Iron Door
+oak_door Oak Door
+spruce_door Spruce Door
+birch_door Birch Door
+jungle_door Jungle Door
+acacia_door Acacia Door
+dark_oak_door Dark Oak Door
+mangrove_door Mangrove Door
+bamboo_door Bamboo Door
+crimson_door Crimson Door
+warped_door Warped Door
+iron_trapdoor Iron Trapdoor
+oak_trapdoor Oak Trapdoor
+spruce_trapdoor Spruce Trapdoor
+birch_trapdoor Birch Trapdoor
+jungle_trapdoor Jungle Trapdoor
+acacia_trapdoor Acacia Trapdoor
+dark_oak_trapdoor Dark Oak Trapdoor
+mangrove_trapdoor Mangrove Trapdoor
+bamboo_trapdoor Bamboo Trapdoor
+crimson_trapdoor Crimson Trapdoor
+warped_trapdoor Warped Trapdoor
+oak_fence_gate Oak Fence Gate
+spruce_fence_gate Spruce Fence Gate
+birch_fence_gate Birch Fence Gate
+jungle_fence_gate Jungle Fence Gate
+acacia_fence_gate Acacia Fence Gate
+dark_oak_fence_gate Dark Oak Fence Gate
+mangrove_fence_gate Mangrove Fence Gate
+bamboo_fence_gate Bamboo Fence Gate
+crimson_fence_gate Crimson Fence Gate
+warped_fence_gate Warped Fence Gate
+powered_rail Powered Rail
+detector_rail Detector Rail
+rail Rail
+activator_rail Activator Rail
+saddle Saddle
+minecart Minecart
+chest_minecart Minecart with Chest
+furnace_minecart Minecart with Furnace
+tnt_minecart Minecart with TNT
+hopper_minecart Minecart with Hopper
+carrot_on_a_stick Carrot on a Stick
+warped_fungus_on_a_stick Warped Fungus on a Stick
+elytra Elytra
+oak_boat Oak Boat
+oak_chest_boat Oak Boat with Chest
+spruce_boat Spruce Boat
+spruce_chest_boat Spruce Boat with Chest
+birch_boat Birch Boat
+birch_chest_boat Birch Boat with Chest
+jungle_boat Jungle Boat
+jungle_chest_boat Jungle Boat with Chest
+acacia_boat Acacia Boat
+acacia_chest_boat Acacia Boat with Chest
+dark_oak_boat Dark Oak Boat
+dark_oak_chest_boat Dark Oak Boat with Chest
+mangrove_boat Mangrove Boat
+mangrove_chest_boat Mangrove Boat with Chest
+bamboo_raft Bamboo Raft
+bamboo_chest_raft Bamboo Raft with Chest
+turtle_helmet Turtle Shell
+scute Scute
+flint_and_steel Flint and Steel
+apple Apple
+bow Bow
+arrow Arrow
+coal Coal
+charcoal Charcoal
+diamond Diamond
+emerald Emerald
+lapis_lazuli Lapis Lazuli
+quartz Nether Quartz
+amethyst_shard Amethyst Shard
+raw_iron Raw Iron
+iron_ingot Iron Ingot
+raw_copper Raw Copper
+copper_ingot Copper Ingot
+raw_gold Raw Gold
+gold_ingot Gold Ingot
+netherite_ingot Netherite Ingot
+netherite_scrap Netherite Scrap
+wooden_sword Wooden Sword
+wooden_shovel Wooden Shovel
+wooden_pickaxe Wooden Pickaxe
+wooden_axe Wooden Axe
+wooden_hoe Wooden Hoe
+stone_sword Stone Sword
+stone_shovel Stone Shovel
+stone_pickaxe Stone Pickaxe
+stone_axe Stone Axe
+stone_hoe Stone Hoe
+golden_sword Golden Sword
+golden_shovel Golden Shovel
+golden_pickaxe Golden Pickaxe
+golden_axe Golden Axe
+golden_hoe Golden Hoe
+iron_sword Iron Sword
+iron_shovel Iron Shovel
+iron_pickaxe Iron Pickaxe
+iron_axe Iron Axe
+iron_hoe Iron Hoe
+diamond_sword Diamond Sword
+diamond_shovel Diamond Shovel
+diamond_pickaxe Diamond Pickaxe
+diamond_axe Diamond Axe
+diamond_hoe Diamond Hoe
+netherite_sword Netherite Sword
+netherite_shovel Netherite Shovel
+netherite_pickaxe Netherite Pickaxe
+netherite_axe Netherite Axe
+netherite_hoe Netherite Hoe
+stick Stick
+bowl Bowl
+mushroom_stew Mushroom Stew
+string String
+feather Feather
+gunpowder Gunpowder
+wheat_seeds Wheat Seeds
+wheat Wheat Crops
+bread Bread
+leather_helmet Leather Cap
+leather_chestplate Leather Tunic
+leather_leggings Leather Pants
+leather_boots Leather Boots
+chainmail_helmet Chainmail Helmet
+chainmail_chestplate Chainmail Chestplate
+chainmail_leggings Chainmail Leggings
+chainmail_boots Chainmail Boots
+iron_helmet Iron Helmet
+iron_chestplate Iron Chestplate
+iron_leggings Iron Leggings
+iron_boots Iron Boots
+diamond_helmet Diamond Helmet
+diamond_chestplate Diamond Chestplate
+diamond_leggings Diamond Leggings
+diamond_boots Diamond Boots
+golden_helmet Golden Helmet
+golden_chestplate Golden Chestplate
+golden_leggings Golden Leggings
+golden_boots Golden Boots
+netherite_helmet Netherite Helmet
+netherite_chestplate Netherite Chestplate
+netherite_leggings Netherite Leggings
+netherite_boots Netherite Boots
+flint Flint
+porkchop Raw Porkchop
+cooked_porkchop Cooked Porkchop
+painting Painting
+golden_apple Golden Apple
+enchanted_golden_apple Enchanted Golden Apple
+oak_sign Oak Sign
+spruce_sign Spruce Sign
+birch_sign Birch Sign
+jungle_sign Jungle Sign
+acacia_sign Acacia Sign
+dark_oak_sign Dark Oak Sign
+mangrove_sign Mangrove Sign
+bamboo_sign Bamboo Sign
+crimson_sign Crimson Sign
+warped_sign Warped Sign
+oak_hanging_sign Oak Hanging Sign
+spruce_hanging_sign Spruce Hanging Sign
+birch_hanging_sign Birch Hanging Sign
+jungle_hanging_sign Jungle Hanging Sign
+acacia_hanging_sign Acacia Hanging Sign
+dark_oak_hanging_sign Dark Oak Hanging Sign
+mangrove_hanging_sign Mangrove Hanging Sign
+bamboo_hanging_sign Bamboo Hanging Sign
+crimson_hanging_sign Crimson Hanging Sign
+warped_hanging_sign Warped Hanging Sign
+bucket Bucket
+water_bucket Water Bucket
+lava_bucket Lava Bucket
+powder_snow_bucket Powder Snow Bucket
+snowball Snowball
+leather Leather
+milk_bucket Milk Bucket
+pufferfish_bucket Bucket of Pufferfish
+salmon_bucket Bucket of Salmon
+cod_bucket Bucket of Cod
+tropical_fish_bucket Bucket of Tropical Fish
+axolotl_bucket Bucket of Axolotl
+tadpole_bucket Bucket of Tadpole
+brick Brick
+clay_ball Clay Ball
+dried_kelp_block Dried Kelp Block
+paper Paper
+book Book
+slime_ball Slimeball
+egg Egg
+compass Compass
+recovery_compass Recovery Compass
+bundle Bundle
+fishing_rod Fishing Rod
+clock Clock
+spyglass Spyglass
+glowstone_dust Glowstone Dust
+cod Raw Cod
+salmon Raw Salmon
+tropical_fish Tropical Fish
+pufferfish Pufferfish
+cooked_cod Cooked Cod
+cooked_salmon Cooked Salmon
+ink_sac Ink Sac
+glow_ink_sac Glow Ink Sac
+cocoa_beans Cocoa Beans
+white_dye White Dye
+orange_dye Orange Dye
+magenta_dye Magenta Dye
+light_blue_dye Light Blue Dye
+yellow_dye Yellow Dye
+lime_dye Lime Dye
+pink_dye Pink Dye
+gray_dye Gray Dye
+light_gray_dye Light Gray Dye
+cyan_dye Cyan Dye
+purple_dye Purple Dye
+blue_dye Blue Dye
+brown_dye Brown Dye
+green_dye Green Dye
+red_dye Red Dye
+black_dye Black Dye
+bone_meal Bone Meal
+bone Bone
+sugar Sugar
+cake Cake
+white_bed White Bed
+orange_bed Orange Bed
+magenta_bed Magenta Bed
+light_blue_bed Light Blue Bed
+yellow_bed Yellow Bed
+lime_bed Lime Bed
+pink_bed Pink Bed
+gray_bed Gray Bed
+light_gray_bed Light Gray Bed
+cyan_bed Cyan Bed
+purple_bed Purple Bed
+blue_bed Blue Bed
+brown_bed Brown Bed
+green_bed Green Bed
+red_bed Red Bed
+black_bed Black Bed
+cookie Cookie
+shears Shears
+melon_slice Melon Slice
+dried_kelp Dried Kelp
+pumpkin_seeds Pumpkin Seeds
+melon_seeds Melon Seeds
+beef Raw Beef
+cooked_beef Steak
+chicken Raw Chicken
+cooked_chicken Cooked Chicken
+rotten_flesh Rotten Flesh
+ender_pearl Ender Pearl
+blaze_rod Blaze Rod
+ghast_tear Ghast Tear
+gold_nugget Gold Nugget
+nether_wart Nether Wart
+potion Potion
+glass_bottle Glass Bottle
+spider_eye Spider Eye
+fermented_spider_eye Fermented Spider Eye
+blaze_powder Blaze Powder
+magma_cream Magma Cream
+brewing_stand Brewing Stand
+cauldron Cauldron
+ender_eye Eye of Ender
+glistering_melon_slice Glistering Melon Slice
+allay_spawn_egg Allay Spawn Egg
+axolotl_spawn_egg Axolotl Spawn Egg
+bat_spawn_egg Bat Spawn Egg
+bee_spawn_egg Bee Spawn Egg
+blaze_spawn_egg Blaze Spawn Egg
+cat_spawn_egg Cat Spawn Egg
+camel_spawn_egg Camel Spawn Egg
+cave_spider_spawn_egg Cave Spider Spawn Egg
+chicken_spawn_egg Chicken Spawn Egg
+cod_spawn_egg Cod Spawn Egg
+cow_spawn_egg Cow Spawn Egg
+creeper_spawn_egg Creeper Spawn Egg
+dolphin_spawn_egg Dolphin Spawn Egg
+donkey_spawn_egg Donkey Spawn Egg
+drowned_spawn_egg Drowned Spawn Egg
+elder_guardian_spawn_egg Elder Guardian Spawn Egg
+ender_dragon_spawn_egg Ender Dragon Spawn Egg
+enderman_spawn_egg Enderman Spawn Egg
+endermite_spawn_egg Endermite Spawn Egg
+evoker_spawn_egg Evoker Spawn Egg
+fox_spawn_egg Fox Spawn Egg
+frog_spawn_egg Frog Spawn Egg
+ghast_spawn_egg Ghast Spawn Egg
+glow_squid_spawn_egg Glow Squid Spawn Egg
+goat_spawn_egg Goat Spawn Egg
+guardian_spawn_egg Guardian Spawn Egg
+hoglin_spawn_egg Hoglin Spawn Egg
+horse_spawn_egg Horse Spawn Egg
+husk_spawn_egg Husk Spawn Egg
+iron_golem_spawn_egg Iron Golem Spawn Egg
+llama_spawn_egg Llama Spawn Egg
+magma_cube_spawn_egg Magma Cube Spawn Egg
+mooshroom_spawn_egg Mooshroom Spawn Egg
+mule_spawn_egg Mule Spawn Egg
+ocelot_spawn_egg Ocelot Spawn Egg
+panda_spawn_egg Panda Spawn Egg
+parrot_spawn_egg Parrot Spawn Egg
+phantom_spawn_egg Phantom Spawn Egg
+pig_spawn_egg Pig Spawn Egg
+piglin_spawn_egg Piglin Spawn Egg
+piglin_brute_spawn_egg Piglin Brute Spawn Egg
+pillager_spawn_egg Pillager Spawn Egg
+polar_bear_spawn_egg Polar Bear Spawn Egg
+pufferfish_spawn_egg Pufferfish Spawn Egg
+rabbit_spawn_egg Rabbit Spawn Egg
+ravager_spawn_egg Ravager Spawn Egg
+salmon_spawn_egg Salmon Spawn Egg
+sheep_spawn_egg Sheep Spawn Egg
+shulker_spawn_egg Shulker Spawn Egg
+silverfish_spawn_egg Silverfish Spawn Egg
+skeleton_spawn_egg Skeleton Spawn Egg
+skeleton_horse_spawn_egg Skeleton Horse Spawn Egg
+slime_spawn_egg Slime Spawn Egg
+snow_golem_spawn_egg Snow Golem Spawn Egg
+spider_spawn_egg Spider Spawn Egg
+squid_spawn_egg Squid Spawn Egg
+stray_spawn_egg Stray Spawn Egg
+strider_spawn_egg Strider Spawn Egg
+tadpole_spawn_egg Tadpole Spawn Egg
+trader_llama_spawn_egg Trader Llama Spawn Egg
+tropical_fish_spawn_egg Tropical Fish Spawn Egg
+turtle_spawn_egg Turtle Spawn Egg
+vex_spawn_egg Vex Spawn Egg
+villager_spawn_egg Villager Spawn Egg
+vindicator_spawn_egg Vindicator Spawn Egg
+wandering_trader_spawn_egg Wandering Trader Spawn Egg
+warden_spawn_egg Warden Spawn Egg
+witch_spawn_egg Witch Spawn Egg
+wither_spawn_egg Wither Spawn Egg
+wither_skeleton_spawn_egg Wither Skeleton Spawn Egg
+wolf_spawn_egg Wolf Spawn Egg
+zoglin_spawn_egg Zoglin Spawn Egg
+zombie_spawn_egg Zombie Spawn Egg
+zombie_horse_spawn_egg Zombie Horse Spawn Egg
+zombie_villager_spawn_egg Zombie Villager Spawn Egg
+zombified_piglin_spawn_egg Zombified Piglin Spawn Egg
+experience_bottle Bottle o' Enchanting
+fire_charge Fire Charge
+writable_book Book and Quill
+item_frame Item Frame
+glow_item_frame Glow Item Frame
+flower_pot Flower Pot
+carrot Carrot
+potato Potato
+baked_potato Baked Potato
+poisonous_potato Poisonous Potato
+map Empty Map
+golden_carrot Golden Carrot
+skeleton_skull Skeleton Skull
+wither_skeleton_skull Wither Skeleton Skull
+player_head Player Head
+zombie_head Zombie Head
+creeper_head Creeper Head
+dragon_head Dragon Head
+piglin_head Piglin Head
+nether_star Nether Star
+pumpkin_pie Pumpkin Pie
+firework_rocket Firework Rocket
+firework_star Firework Star
+nether_brick Nether Brick
+prismarine_shard Prismarine Shard
+prismarine_crystals Prismarine Crystals
+rabbit Raw Rabbit
+cooked_rabbit Cooked Rabbit
+rabbit_stew Rabbit Stew
+rabbit_foot Rabbit's Foot
+rabbit_hide Rabbit Hide
+armor_stand Armor Stand
+iron_horse_armor Iron Horse Armor
+golden_horse_armor Golden Horse Armor
+diamond_horse_armor Diamond Horse Armor
+leather_horse_armor Leather Horse Armor
+lead Lead
+name_tag Name Tag
+mutton Raw Mutton
+cooked_mutton Cooked Mutton
+white_banner White Banner
+orange_banner Orange Banner
+magenta_banner Magenta Banner
+light_blue_banner Light Blue Banner
+yellow_banner Yellow Banner
+lime_banner Lime Banner
+pink_banner Pink Banner
+gray_banner Gray Banner
+light_gray_banner Light Gray Banner
+cyan_banner Cyan Banner
+purple_banner Purple Banner
+blue_banner Blue Banner
+brown_banner Brown Banner
+green_banner Green Banner
+red_banner Red Banner
+black_banner Black Banner
+end_crystal End Crystal
+chorus_fruit Chorus Fruit
+popped_chorus_fruit Popped Chorus Fruit
+beetroot Beetroot
+beetroot_seeds Beetroot Seeds
+beetroot_soup Beetroot Soup
+dragon_breath Dragon's Breath
+splash_potion Splash Potion
+spectral_arrow Spectral Arrow
+tipped_arrow Tipped Arrow
+lingering_potion Lingering Potion
+shield Shield
+totem_of_undying Totem of Undying
+shulker_shell Shulker Shell
+iron_nugget Iron Nugget
+music_disc_13 Music Disc
+music_disc_cat Music Disc
+music_disc_blocks Music Disc
+music_disc_chirp Music Disc
+music_disc_far Music Disc
+music_disc_mall Music Disc
+music_disc_mellohi Music Disc
+music_disc_stal Music Disc
+music_disc_strad Music Disc
+music_disc_ward Music Disc
+music_disc_11 Music Disc
+music_disc_wait Music Disc
+music_disc_otherside Music Disc
+music_disc_5 Music Disc
+music_disc_pigstep Music Disc
+disc_fragment_5 Disc Fragment
+trident Trident
+phantom_membrane Phantom Membrane
+nautilus_shell Nautilus Shell
+heart_of_the_sea Heart of the Sea
+crossbow Crossbow
+suspicious_stew Suspicious Stew
+loom Loom
+flower_banner_pattern Banner Pattern
+creeper_banner_pattern Banner Pattern
+skull_banner_pattern Banner Pattern
+mojang_banner_pattern Banner Pattern
+globe_banner_pattern Banner Pattern
+piglin_banner_pattern Banner Pattern
+goat_horn Goat Horn
+composter Composter
+barrel Barrel
+smoker Smoker
+blast_furnace Blast Furnace
+cartography_table Cartography Table
+fletching_table Fletching Table
+grindstone Grindstone
+smithing_table Smithing Table
+stonecutter Stonecutter
+bell Bell
+lantern Lantern
+soul_lantern Soul Lantern
+sweet_berries Sweet Berries
+glow_berries Glow Berries
+campfire Campfire
+soul_campfire Soul Campfire
+shroomlight Shroomlight
+honeycomb Honeycomb
+bee_nest Bee Nest
+beehive Beehive
+honey_bottle Honey Bottle
+honeycomb_block Honeycomb Block
+lodestone Lodestone
+crying_obsidian Crying Obsidian
+blackstone Blackstone
+blackstone_slab Blackstone Slab
+blackstone_stairs Blackstone Stairs
+gilded_blackstone Gilded Blackstone
+polished_blackstone Polished Blackstone
+polished_blackstone_slab Polished Blackstone Slab
+polished_blackstone_stairs Polished Blackstone Stairs
+chiseled_polished_blackstone Chiseled Polished Blackstone
+polished_blackstone_bricks Polished Blackstone Bricks
+polished_blackstone_brick_slab Polished Blackstone Brick Slab
+polished_blackstone_brick_stairs Polished Blackstone Brick Stairs
+cracked_polished_blackstone_bricks Cracked Polished Blackstone Bricks
+respawn_anchor Respawn Anchor
+candle Candle
+white_candle White Candle
+orange_candle Orange Candle
+magenta_candle Magenta Candle
+light_blue_candle Light Blue Candle
+yellow_candle Yellow Candle
+lime_candle Lime Candle
+pink_candle Pink Candle
+gray_candle Gray Candle
+light_gray_candle Light Gray Candle
+cyan_candle Cyan Candle
+purple_candle Purple Candle
+blue_candle Blue Candle
+brown_candle Brown Candle
+green_candle Green Candle
+red_candle Red Candle
+black_candle Black Candle
+small_amethyst_bud Small Amethyst Bud
+medium_amethyst_bud Medium Amethyst Bud
+large_amethyst_bud Large Amethyst Bud
+amethyst_cluster Amethyst Cluster
+pointed_dripstone Pointed Dripstone
+ochre_froglight Ochre Froglight
+verdant_froglight Verdant Froglight
+pearlescent_froglight Pearlescent Froglight
+frogspawn Frogspawn
+echo_shard Echo Shard
+red_mushroom_block Red Mushroom Block
+brown_mushroom_block Brown Mushroom Block
+mushroom_stem Mushroom Stem
+currency_converter Currency conversion pack
+piggy_bank Piggy bank
+coin_copper Copper coin
+coin_iron Iron coin
+coin_silver Silver coin
+coin_gold Gold coin
+coin_star Star coin
+coin_copper_barrel Copper coin barrel
+coin_iron_barrel Iron coin barrel
+coin_silver_barrel Silver coin barrel
+coin_gold_barrel Gold coin barrel
+coin_star_barrel Star coin barrel
+sound_bell_kizuna_akari Sound Bell
+sound_bell_yuzuki_yukari Sound Bell
+sound_bell_kotonoha_akane Sound Bell
+sound_bell_kotonoha_aoi Sound Bell
+sound_bell_iori_yuzuru Sound Bell
+beef_jerky Beef Jerky
+mouldy_bread Mouldy Bread
+cheese Cheese
+beef_cheese_sandwich Beef and Cheese Sandwich
+chocolate Chocolate
+chocolate_cake Chocolate Cake
+chocolate_bread Chocolate Bread
+chocolate_cookie Chocolate Cookie
+ice_cream_cone Ice Cream Cone
+chocolate_ice_cream_cone Chocolate Ice Cream Cone
+sweet_berries_ice_cream_cone Sweet Berries Ice Cream Cone
+super_fish_cracker Super Fish Cracker
+chocolate_bone Chocolate Bone
+cheese_puff Cheese Puff
+candy_cane_red Red Candy Cane
+candy_cane_orange Orange Candy Cane
+candy_cane_yellow Yellow Candy Cane
+candy_cane_green Green Candy Cane
+candy_cane_blue Blue Candy Cane
+candy_cane_purple Purple Candy Cane
+candy_cane_pink Pink Candy Cane
+canned_cat Canned Cat Food
+reward_card Reward Card
+barter_menu Trade book
+barter_sell_block Trade lister
+soul_link_core Soul Link Core
+soul_untie_core Soul Untie Core
+dragon_tooth Dragon Tooth
+dragon_blood_tooth Blood Dragon Tooth
+magic_nether_star Magic Nether Star
+nightmare_crystal Nightmare Crystal
+nightmare_crystal_fragment Nightmare Crystal Fragment
+nightmare_crystal_ore Nightmare Crystal Ore
+dragon_tooth_pickaxe Dragon Tooth Pickaxe
+dragon_tooth_axe Dragon Tooth Axe
+dragon_tooth_bow Dragon Tooth Bow
+dragon_tooth_crossbow Dragon Tooth Crossbow
+dragon_tooth_sword Dragon Tooth Sword
+dragon_tooth_shovel Dragon Tooth Shovel
+dragon_tooth_hoe Dragon Tooth Hoe
+dragon_blood_tooth_pickaxe Blood Dragon Tooth Pickaxe
+dragon_blood_tooth_axe Blood Dragon Tooth Axe
+dragon_blood_tooth_bow Blood Dragon Tooth Bow
+dragon_blood_tooth_crossbow Blood Dragon Tooth Crossbow
+dragon_blood_tooth_sword Blood Dragon Tooth Sword
+dragon_blood_tooth_shovel Blood Dragon Tooth Shovel
+dragon_blood_tooth_hoe Blood Dragon Tooth Hoe
+nightmare_crystal_pickaxe Nightmare Crystal Pickaxe
+nightmare_crystal_axe Nightmare Crystal Axe
+nightmare_crystal_bow Nightmare Crystal Bow
+nightmare_crystal_crossbow Nightmare Crystal Crossbow
+nightmare_crystal_sword Nightmare Crystal Sword
+nightmare_crystal_shovel Nightmare Crystal Shovel
+nightmare_crystal_hoe Nightmare Crystal Hoe
+dragon_tooth_helmet Dragon Tooth Helmet
+dragon_tooth_chestplate Dragon Tooth Chestplate
+dragon_tooth_leggings Dragon Tooth Leggings
+dragon_tooth_boots Dragon Tooth Boots
+dragon_blood_tooth_helmet Blood Dragon Tooth Helmet
+dragon_blood_tooth_chestplate Blood Dragon Tooth Chestplate
+dragon_blood_tooth_leggings Blood Dragon Tooth Leggings
+dragon_blood_tooth_boots Blood Dragon Tooth Boots
+nightmare_crystal_helmet Nightmare Crystal Helmet
+nightmare_crystal_chestplate Nightmare Crystal Chestplate
+nightmare_crystal_leggings Nightmare Crystal Leggings
+nightmare_crystal_boots Nightmare Crystal Boots
+dragon_hammer Dragon Hammer
+elytra_of_chainmail_chestplate Elytra of Chainmail Chestplate
+elytra_of_iron_chestplate Elytra of Iron Chestplate
+elytra_of_diamond_chestplate Elytra of Diamond Chestplate
+elytra_of_golden_chestplate Elytra of Golden Chestplate
+elytra_of_netherite_chestplate Elytra of Netherite Chestplate
+elytra_of_dragon_tooth_chestplate Elytra of Dragon Tooth Chestplate
+elytra_of_dragon_blood_tooth_chestplate Elytra of Dragon Blood Tooth Chestplate
+elytra_of_nightmare_crystal_chestplate Elytra of Nightmare Crystal Chestplate
+palette Palette
+needle_pen Needle Pen
+fine_pen Fine Pen
+pen Pen
+thick_pen Thick Pen
+plate_brush Plate Brush
+world_map_view_closest Comet Map
+world_map_view_close Comet Map
+world_map_view_normal Comet Map
+world_map_view_far Comet Map
+world_map_view_farthest Comet Map
+world_map_capture Capture Comet Map
+land_system_book_empty Deactivated Land Group Book
+land_flying_device Land Flying Sheath
+land_block_empty Land Generator
+land_block_damaged Damaged Land Generator
+land_energy_small Small Land Energy
+land_energy_small_damaged Small Land Energy
+land_energy_medium Medium Land Energy
+land_energy_medium_damaged Damaged Medium Land Energy
+land_energy_big Big Land Energy
+land_energy_big_damaged Damaged Big Land Energy
+amiability_rope_empty Empty Amiability Rope
+malicious_rope_empty Empty Malicious Rope
+wither_bone_meal Wither Bone Meal
+fast_fill_magic_wand_stone Fast Fill Magic Stone Wand
+fast_fill_magic_wand_iron Fast Fill Magic Iron Wand
+fast_fill_magic_wand_diamond Fast Fill Magic Diamond Wand
+fast_fill_magic_wand_netherite Fast Fill Magic Netherite Wand
+fast_fill_magic_wand_star Fast Fill Magic Star Wand
+fast_fill_magic_wand_dragon Fast Fill Magic Dragon Wand
+fast_fill_magic_wand_tooth Fast Fill Magic Dragon Tooth Wand
+fast_fill_magic_wand_blood_tooth Fast Fill Magic Blood Dragon Tooth Wand
+fast_fill_magic_wand_nightmare_crystal Fast Fill Magic Nightmare Crystal Wand
+fast_fill_magic_wand_creative Fast Fill Magic Creative Wand
+fast_break_magic_wand_stone Fast Break Magic Stone Wand
+fast_break_magic_wand_iron Fast Break Magic Iron Wand
+fast_break_magic_wand_diamond Fast Break Magic Diamond Wand
+fast_break_magic_wand_netherite Fast Break Magic Netherite Wand
+fast_break_magic_wand_star Fast Break Magic Star Wand
+fast_break_magic_wand_dragon Fast Break Magic Dragon Wand
+fast_break_magic_wand_tooth Fast Break Magic Dragon Tooth Wand
+fast_break_magic_wand_blood_tooth Fast Break Magic Blood Dragon Tooth Wand
+fast_break_magic_wand_nightmare_crystal Fast Break Magic Nightmare Crystal Wand
+fast_break_magic_wand_creative Fast Break Magic Creative Wand
+cat_hair_brush Cat Hair Brush
+cat_hair Cat Hair
+cat_hair_group Cat Hair Bundle
+cat_amulet Cat Amulet
+logger_menu Log Book
+pitch_change_pen Pitch Change Pen
+premium_hopper Premium Hopper
+peaceful_proof Peaceful Proof
+peaceful_block Peaceful Block
+peaceful_block_forever Forever Peaceful Block
+restricted_crafting_table Restricted Crafting Table
+ender_dragon_queue Ender Dragon Queue
+cat_hat_black Cat Hat
+cat_hat_british_shorthair Cat Hat
+cat_hat_baby_calico Cat Hat
+cat_hat_jellie Cat Hat
+cat_hat_persian Cat Hat
+cat_hat_ragdoll Cat Hat
+cat_hat_red Cat Hat
+cat_hat_siamese Cat Hat
+cat_hat_tabby Cat Hat
+cat_hat_tuxedo Cat Hat
+cat_hat_baby_white Cat Hat
+cat_hat_strawberry Cat Hat
+cat_hat_pudding Cat Hat
+cat_hat_cherry Cat Hat
+cat_hat_firecracker Cat Hat
+cat_hat_rainbow Cat Hat
+cat_ear_white Cat Ear
+cat_ear_light_gray Cat Ear
+cat_ear_gray Cat Ear
+cat_ear_black Cat Ear
+cat_ear_brown Cat Ear
+cat_ear_red Cat Ear
+cat_ear_orange Cat Ear
+cat_ear_yellow Cat Ear
+cat_ear_lime Cat Ear
+cat_ear_green Cat Ear
+cat_ear_cyan Cat Ear
+cat_ear_light_blue Cat Ear
+cat_ear_blue Cat Ear
+cat_ear_purple Cat Ear
+cat_ear_magenta Cat Ear
+cat_ear_pink Cat Ear
+cat_ear_rainbow Cat Ear
+rabbit_ear_white Rabbit Ear
+rabbit_ear_light_gray Rabbit Ear
+rabbit_ear_gray Rabbit Ear
+rabbit_ear_black Rabbit Ear
+rabbit_ear_brown Rabbit Ear
+rabbit_ear_red Rabbit Ear
+rabbit_ear_orange Rabbit Ear
+rabbit_ear_yellow Rabbit Ear
+rabbit_ear_lime Rabbit Ear
+rabbit_ear_green Rabbit Ear
+rabbit_ear_cyan Rabbit Ear
+rabbit_ear_light_blue Rabbit Ear
+rabbit_ear_blue Rabbit Ear
+rabbit_ear_purple Rabbit Ear
+rabbit_ear_magenta Rabbit Ear
+rabbit_ear_pink Rabbit Ear
+rabbit_ear_rainbow Rabbit Ear
+angel_circle_white Angel Circle
+angel_circle_light_gray Angel Circle
+angel_circle_gray Angel Circle
+angel_circle_black Angel Circle
+angel_circle_brown Angel Circle
+angel_circle_red Angel Circle
+angel_circle_orange Angel Circle
+angel_circle_yellow Angel Circle
+angel_circle_lime Angel Circle
+angel_circle_green Angel Circle
+angel_circle_cyan Angel Circle
+angel_circle_light_blue Angel Circle
+angel_circle_blue Angel Circle
+angel_circle_purple Angel Circle
+angel_circle_magenta Angel Circle
+angel_circle_pink Angel Circle
+angel_circle_rainbow Angel Circle
+demon_corner_white Demon Corner
+demon_corner_light_gray Demon Corner
+demon_corner_gray Demon Corner
+demon_corner_black Demon Corner
+demon_corner_brown Demon Corner
+demon_corner_red Demon Corner
+demon_corner_orange Demon Corner
+demon_corner_yellow Demon Corner
+demon_corner_lime Demon Corner
+demon_corner_green Demon Corner
+demon_corner_cyan Demon Corner
+demon_corner_light_blue Demon Corner
+demon_corner_blue Demon Corner
+demon_corner_purple Demon Corner
+demon_corner_magenta Demon Corner
+demon_corner_pink Demon Corner
+demon_corner_rainbow Demon Corner
+deer_horn_white Deer Horn
+deer_horn_light_gray Deer Horn
+deer_horn_gray Deer Horn
+deer_horn_black Deer Horn
+deer_horn_brown Deer Horn
+deer_horn_red Deer Horn
+deer_horn_orange Deer Horn
+deer_horn_yellow Deer Horn
+deer_horn_lime Deer Horn
+deer_horn_green Deer Horn
+deer_horn_cyan Deer Horn
+deer_horn_light_blue Deer Horn
+deer_horn_blue Deer Horn
+deer_horn_purple Deer Horn
+deer_horn_magenta Deer Horn
+deer_horn_pink Deer Horn
+deer_horn_rainbow Deer Horn
+alien_antenna Antenna
+headband_headset Headset
+christmas_hat Christmas Hat
+christmas_tree Christmas Tree
+firework_star Firework Star
+lucky_money Lucky Money
+witch_hat Witch Hat
+advanced_tnt_x5 x5 Advanced TNT
+advanced_tnt_x9 x9 Advanced TNT
+advanced_tnt_x15 x15 Advanced TNT
+advanced_tnt_x25 x25 Advanced TNT
+advanced_tnt_x43 x43 Advanced TNT
+advanced_tnt_x73 x73 Advanced TNT
+advanced_tnt_x5_silk_touch x5 Silk Touch Advanced TNT
+advanced_tnt_x9_silk_touch x9 Silk Touch Advanced TNT
+advanced_tnt_x15_silk_touch x15 Silk Touch Advanced TNT
+advanced_tnt_x25_silk_touch x25 Silk Touch Advanced TNT
+advanced_tnt_x43_silk_touch x43 Silk Touch Advanced TNT
+advanced_tnt_x73_silk_touch x73 Silk Touch Advanced TNT
+lottery_ticket_preparation Empty lottery ticket
+powerful_ejector_block Powerful Ejector
+invisible_light_5 Small Invisible Light
+invisible_light_10 Medium Invisible Light
+invisible_light_15 Large Invisible Light
+railway_acceleration_block Increase Railway Speed Limiter
+railway_decelerate_block Decrease Railway Speed Limiter
+railway_exclude_block Forced Railway Switch
+slime_chunk_probe Slime Chunk Probe
+notification_block Notification Block
+starlight_water_white White Starlight Water
+starlight_water_light_gray Light Gray Starlight Water
+starlight_water_gray Gray Starlight Water
+starlight_water_black Black Starlight Water
+starlight_water_brown Brown Starlight Water
+starlight_water_red Red Starlight Water
+starlight_water_orange Orange Starlight Water
+starlight_water_yellow Yellow Starlight Water
+starlight_water_lime Lime Starlight Water
+starlight_water_green Green Starlight Water
+starlight_water_cyan Cyan Starlight Water
+starlight_water_light_blue Light Blue Starlight Water
+starlight_water_blue Blue Starlight Water
+starlight_water_purple Purple Starlight Water
+starlight_water_magenta Magenta Starlight Water
+starlight_water_pink Pink Starlight Water
+command_subtitle_block Subtitle Command Block
+command_title_block Title Command Block
+particle_block Particle Exciter
+builder_model_device Line Device
+simple_elevator Elevator
+simple_elevator_redstone_signal Redstone elevator
+record_point_gemstone Gemstone Record Point
+record_point_white_banner White Banner Record Point
+record_point_orange_banner Orange Banner Record Point
+record_point_magenta_banner Magenta Banner Record Point
+record_point_light_blue_banner Light Blue Banner Record Point
+record_point_yellow_banner Yellow Banner Record Point
+record_point_lime_banner Lime Banner Record Point
+record_point_pink_banner Pink Banner Record Point
+record_point_gray_banner Gray Banner Record Point
+record_point_light_gray_banner Light Gray Banner Record Point
+record_point_cyan_banner Cyan Banner Record Point
+record_point_purple_banner Purple Banner Record Point
+record_point_blue_banner Blue Banner Record Point
+record_point_brown_banner Brown Banner Record Point
+record_point_green_banner Green Banner Record Point
+record_point_red_banner Red Banner Record Point
+record_point_black_banner Black Banner Record Point
+back_golden_apple Respawn Golden Apple
+back_gemstone Respawn Gemstone
+back_gemstone_block Respawn Gemstone Block
+transfer_golden_apple Transfer Golden Apple
+transfer_gemstone Transfer Gemstone
+transfer_gemstone_block Transfer Gemstone Block
+transfer_book Transfer Book
+random_transfer_golden_apple Random Transfer Golden Apple
+random_transfer_gemstone Random Transfer Gemstone
+random_transfer_gemstone_block Random Transfer Gemstone Block
+invite_transfer_gemstone Invite Transfer Gemstone
+exchange_record_gemstone_empty Exchange Record Gemstone
+internet_input_controller Internet Trigger
+internet_output_controller Internet Monitor
+rotten_flesh_block Rotten Flesh Block
+cat_palm_glove_black Cat Palm
+cat_palm_stick_black Cat Palm Stick
+cat_palm_glove_blue Cat Palm
+cat_palm_stick_blue Cat Palm Stick
+cat_palm_glove_brown Cat Palm
+cat_palm_stick_brown Cat Palm Stick
+cat_palm_glove_cyan Cat Palm
+cat_palm_stick_cyan Cat Palm Stick
+cat_palm_glove_gray Cat Palm
+cat_palm_stick_gray Cat Palm Stick
+cat_palm_glove_green Cat Palm
+cat_palm_stick_green Cat Palm Stick
+cat_palm_glove_light_blue Cat Palm
+cat_palm_stick_light_blue Cat Palm Stick
+cat_palm_glove_light_gray Cat Palm
+cat_palm_stick_light_gray Cat Palm Stick
+cat_palm_glove_lime Cat Palm
+cat_palm_stick_lime Cat Palm Stick
+cat_palm_glove_magenta Cat Palm
+cat_palm_stick_magenta Cat Palm Stick
+cat_palm_glove_orange Cat Palm
+cat_palm_stick_orange Cat Palm Stick
+cat_palm_glove_pink Cat Palm
+cat_palm_stick_pink Cat Palm Stick
+cat_palm_glove_purple Cat Palm
+cat_palm_stick_purple Cat Palm Stick
+cat_palm_glove_red Cat Palm
+cat_palm_stick_red Cat Palm Stick
+cat_palm_glove_white Cat Palm
+cat_palm_stick_white Cat Palm Stick
+cat_palm_glove_yellow Cat Palm
+cat_palm_stick_yellow Cat Palm Stick
+cat_palm_glove_rainbow Cat Palm
+cat_palm_stick_rainbow Cat Palm Stick
+laser_crystal_vanilla Laser Crystal
+laser_crystal_white White Laser Crystal
+laser_crystal_light_gray Light Gray Laser Crystal
+laser_crystal_gray Gray Laser Crystal
+laser_crystal_black Black Laser Crystal
+laser_crystal_brown Brown Laser Crystal
+laser_crystal_red Red Laser Crystal
+laser_crystal_orange Orange Laser Crystal
+laser_crystal_yellow Yellow Laser Crystal
+laser_crystal_lime Lime Laser Crystal
+laser_crystal_green Green Laser Crystal
+laser_crystal_cyan Cyan Laser Crystal
+laser_crystal_light_blue Light Blue Laser Crystal
+laser_crystal_blue Blue Laser Crystal
+laser_crystal_purple Purple Laser Crystal
+laser_crystal_magenta Magenta Laser Crystal
+laser_crystal_pink Pink Laser Crystal
+energy_laser_crystal High Energy Laser Crystal
+build_replicator_block Builder's Wand
+build_blueprint_empty Empty Blueprint
