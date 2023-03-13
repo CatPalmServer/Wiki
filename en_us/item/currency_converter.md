@@ -46,10 +46,10 @@ The exchange rate for currency conversion is always 50:1. For example, 50 copper
 </table>
 
 ### Currency Exchange
-Minute by minute, deposit `Online player count` x `Restock` quantity of currency into each pool with less than the `Pool` quantity, which can be exchanged for specific minerals. When the remaining amount in the pool is below 5%, the price will start to rise.
+Each pool can be injected with currency at a rate of `online player count` x `Replenishment` per minute, which is less than the number of `Pool` in the pool, and can be exchanged using specific minerals. When the remaining amount in the pool is below 5%, the price will start to rise.
 
 <table>
-    <tr><td align="center">Type</td><td align="center">Pool</td><td align="center">Restock</td><td align="center">Lowest Price</td><td align="center">Highest Price</td><td align="center">Lowest Exchange</td><td align="center">Highest Exchange</td></tr>
+    <tr><td align="center">Type</td><td align="center">Pool</td><td align="center">Replenishment</td><td align="center">Lowest Price</td><td align="center">Highest Price</td><td align="center">Lowest Exchange</td><td align="center">Highest Exchange</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/27FH0FO.png" width="48"/></td><td align="center">8000</td><td align="center">0.32</td><td align="center">20</td><td align="center">64</td><td align="center" colspan="2">1</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td align="center">500</td><td align="center">0.02</td><td align="center" colspan="2">16</td><td align="center">5</td><td align="center">16</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td align="center">250</td><td align="center">0.01</td><td align="center" colspan="2">1</td><td align="center">10</td><td align="center">32</td></tr>

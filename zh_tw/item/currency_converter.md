@@ -46,7 +46,7 @@
 </table>
 
 ### 貨幣兌換
-分鐘往少於`池子`數量的各池內投入`線上玩家數量`x`補貨`數量的貨幣，可使用特定礦物兌出，當池內剩餘5%以下時便會開始漲價，  
+每分鐘往少於`池子`數量的各池內投入`線上玩家數量`x`補貨`數量的貨幣，可使用特定礦物兌出，當池內剩餘5%以下時便會開始漲價，  
 
 <table>
     <tr><td align="center">類型</td><td align="center">池子</td><td align="center">補貨</td><td align="center">最低價位</td><td align="center">最高價位</td><td align="center">最低兌換</td><td align="center">最高兌換</td></tr>
