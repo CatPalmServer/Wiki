@@ -49,7 +49,7 @@
 `탱크` 수보다 적은 각 수영장에 `온라인 플레이어 수` x `보충` 수량의 화폐를 분 단위로 투입하여 특정 광물로 교환 할 수 있습니다. 남은 양이 5% 이하가되면 가격이 오르기 시작합니다.
 
 <table>
-    <tr><td align="center">유형</td><td align="center">풀</td><td align="center">보충</td><td align="center">최저 가격</td><td align="center">최고 가격</td><td align="center">최저 교환</td><td align="center">최고 교환</td></tr>
+    <tr><td align="center">유형</td><td align="center">탱크</td><td align="center">보충</td><td align="center">최저 가격</td><td align="center">최고 가격</td><td align="center">최저 교환</td><td align="center">최고 교환</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/27FH0FO.png" width="48"/></td><td align="center">8000</td><td align="center">0.32</td><td align="center">20</td><td align="center">64</td><td align="center" colspan="2">1</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td align="center">500</td><td align="center">0.02</td><td align="center" colspan="2">16</td><td align="center">5</td><td align="center">16</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td align="center">250</td><td align="center">0.01</td><td align="center" colspan="2">1</td><td align="center">10</td><td align="center">32</td></tr>
