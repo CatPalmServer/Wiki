@@ -49,7 +49,7 @@
 各プールに対して1分あたり`プール`の数より少ない数の`オンラインプレイヤーの数`x`補充`の通貨を投入でき、特定の鉱物を使用して交換することができます。プールの残量が5%以下になると、価格が上昇し始めます。
 
 <table>
-    <tr><td align="center">種類</td><td align="center">プール</td><td align="center">補充</td><td align="center">最低価格</td><td align="center">最高価格</td><td align="center">最低交換量</td><td align="center">最高交換量</td></tr>
+    <tr><td align="center">種類</td><td align="center">プール</td><td align="center">補充</td><td align="center">最低必要</td><td align="center">最高必要</td><td align="center">最低交換量</td><td align="center">最高交換量</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/27FH0FO.png" width="48"/></td><td align="center">8000</td><td align="center">0.32</td><td align="center">20</td><td align="center">64</td><td align="center" colspan="2">1</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td align="center">500</td><td align="center">0.02</td><td align="center" colspan="2">16</td><td align="center">5</td><td align="center">16</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td align="center">250</td><td align="center">0.01</td><td align="center" colspan="2">1</td><td align="center">10</td><td align="center">32</td></tr>
