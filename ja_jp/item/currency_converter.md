@@ -54,3 +54,18 @@
     <tr><td align="center"><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td align="center">500</td><td align="center">0.02</td><td align="center" colspan="2">16</td><td align="center">5</td><td align="center">16</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td align="center">250</td><td align="center">0.01</td><td align="center" colspan="2">1</td><td align="center">10</td><td align="center">32</td></tr>
 </table>
+
+### 計算公式
+必要条件
+
+<table>
+    <tr><td><code>プールの残量</code>が10％以上</td><td><code>最低必要量</code></td></tr>
+    <tr><td><code>プールの残量</code>が10％未満</td><td><code>最低必要量</code>+切り捨て(<code>1.0</code>-区間<code>0</code>〜<code>1</code>の範囲の立方根(<code>プールの残量</code>x<code>2.0</code>/(<code>プールの上限</code>x<code>10%</code>)))x(<code>最高必要量</code>-<code>最低必要量</code>))</td></tr>
+</table>
+
+交換条件
+
+<table>
+    <tr><td><code>プールの残量</code>が10％以上</td><td><code>最高交換量</code></td></tr>
+    <tr><td><code>プールの残量</code>が10％未満</td><td><code>最低交換量</code>+切り捨て(区間<code>0</code>〜<code>1</code>の範囲の立方根(<code>プールの残量</code>x<code>2.0</code>/(<code>プールの上限</code>x<code>10%</code>)))x(<code>最高交換量</code>-<code>最低交換量</code>))</td></tr>
+</table>

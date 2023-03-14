@@ -54,3 +54,18 @@
     <tr><td align="center"><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td align="center">500</td><td align="center">0.02</td><td align="center" colspan="2">16</td><td align="center">5</td><td align="center">16</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td align="center">250</td><td align="center">0.01</td><td align="center" colspan="2">1</td><td align="center">10</td><td align="center">32</td></tr>
 </table>
+
+### 計算公式
+所需
+
+<table>
+    <tr><td><code>池子剩餘</code>大於等於10%</td><td><code>最低所需</code></td></tr>
+    <tr><td><code>池子剩餘</code>小於10%</td><td><code>最低所需</code>+無條件捨去(<code>1.0</code>-界於<code>0</code>~<code>1</code>之間(立方根(<code>池子剩餘</code>x<code>2.0</code>/(<code>池子上限</code>x<code>10%</code>)))x(<code>最高所需</code>-<code>最低所需</code>))</td></tr>
+</table>
+
+兌換
+
+<table>
+    <tr><td><code>池子剩餘</code>大於等於10%</td><td><code>最高兌換</code></td></tr>
+    <tr><td><code>池子剩餘</code>小於10%</td><td><code>最低兌換</code>+無條件捨去(界於<code>0</code>~<code>1</code>之間(立方根(<code>池子剩餘</code>x<code>2.0</code>/(<code>池子上限</code>x<code>10%</code>)))x(<code>最高兌換</code>-<code>最低兌換</code>))</td></tr>
+</table>

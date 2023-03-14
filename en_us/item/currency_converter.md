@@ -54,3 +54,18 @@ Each pool can be injected with currency at a rate of `online player count` x `re
     <tr><td align="center"><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td align="center">500</td><td align="center">0.02</td><td align="center" colspan="2">16</td><td align="center">5</td><td align="center">16</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td align="center">250</td><td align="center">0.01</td><td align="center" colspan="2">1</td><td align="center">10</td><td align="center">32</td></tr>
 </table>
+
+### Calculation Formula
+Requirement
+
+<table>
+    <tr><td><code>Pool remaining</code> is 10% or more</td><td><code>Minimum required</code></td></tr>
+    <tr><td><code>Pool remaining</code> is less than 10%</td><td><code>Minimum required</code> + rounded down (<code>1.0</code> - cube root of <code>pool remaining</code> times <code>2.0</code> divided by (<code>pool capacity</code> times <code>10%</code>) in the range of 0 to 1) times (<code>Maximum required</code> - <code>Minimum required</code>)</td></tr>
+</table>
+
+Exchange
+
+<table>
+    <tr><td><code>Pool remaining</code> is 10% or more</td><td><code>Maximum exchangeable</code></td></tr>
+    <tr><td><code>Pool remaining</code> is less than 10%</td><td><code>Minimum exchangeable</code> + rounded down (cube root of <code>pool remaining</code> times <code>2.0</code> divided by (<code>pool capacity</code> times <code>10%</code>) in the range of 0 to 1) times (<code>Maximum exchangeable</code> - <code>Minimum exchangeable</code>)</td></tr>
+</table>

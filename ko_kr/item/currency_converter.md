@@ -54,3 +54,18 @@
     <tr><td align="center"><img src="https://i.imgur.com/qKVtU7P.png" width="48"/></td><td align="center">500</td><td align="center">0.02</td><td align="center" colspan="2">16</td><td align="center">5</td><td align="center">16</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td align="center">250</td><td align="center">0.01</td><td align="center" colspan="2">1</td><td align="center">10</td><td align="center">32</td></tr>
 </table>
+
+### 계산 공식
+조건
+
+<table>
+    <tr><td><code>풀의 잔량</code>이 10% 이상</td><td><code>최소 필요량</code></td></tr>
+    <tr><td><code>풀의 잔량</code>이 10% 미만</td><td><code>최소 필요량</code>+버림(<code>1.0</code>-구간 <code>0</code>~<code>1</code>의 범위 내의 세제곱근(<code>풀의 잔량</code>x<code>2.0</code>/(<code>풀의 상한선</code>x<code>10%</code>)))x(<code>최대 필요량</code>-<code>최소 필요량</code>))</td></tr>
+</table>
+
+교환
+
+<table>
+    <tr><td><code>풀의 잔량</code>이 10% 이상</td><td><code>최대 교환량</code></td></tr>
+    <tr><td><code>풀의 잔량</code>이 10% 미만</td><td><code>최소 교환량</code>+버림(구간 <code>0</code>~<code>1</code>의 범위 내의 세제곱근(<code>풀의 잔량</code>x<code>2.0</code>/(<code>풀의 상한선</code>x<code>10%</code>)))x(<code>최대 교환량</code>-<code>최소 교환량</code>))</td></tr>
+</table>
