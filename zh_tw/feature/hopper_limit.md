@@ -7,4 +7,4 @@
     <tr><td align="center">其他</td><td align="center">2</td></tr>
 </table>
 
-同區塊漏斗最多`480`點數，會優先移除高處的漏斗。
+同區塊漏斗最多`480`點數。

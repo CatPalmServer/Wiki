@@ -7,4 +7,4 @@
     <tr><td align="center">Other</td><td align="center">2</td></tr>
 </table>
 
-The maximum point value for hopper in the same chunk is 480, and hoppers at higher elevations will be removed first.
+The maximum point value for hopper in the same chunk is 480.

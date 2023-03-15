@@ -1,4 +1,4 @@
 [← Return to main page](../)
 # Redstone Limitations
 
-Within the same block, a maximum of `128` redstone state updates are allowed every [tick](https://minecraft.fandom.com/wiki/Tick) _(0.05 seconds once)_, and a brief peak of up to `512` redstone state updates is allowed.
+IThe same block can perform a maximum of `128` Redstone updates _(piston pushing, detector triggering, Redstone energy changing from 0 to 15)_ every [tick](https://minecraft.fandom.com/wiki/Tick) _(0.05 seconds)_.
