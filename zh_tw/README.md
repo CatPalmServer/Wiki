@@ -519,15 +519,15 @@
         <td width="20%"><a href="feature/drop_limit.md"><img src="https://i.imgur.com/R7LbWWx.png" width="198"/></a></td>
         <td width="20%"><a href="feature/entity_limit.md"><img src="https://i.imgur.com/t7AY2LM.png" width="198"/></a></td>
         <td width="20%"><a href="feature/hopper_limit.md"><img src="https://i.imgur.com/hIXRv09.png" width="198"/></a></td>
-        <td width="20%"><a href="feature/redstone_limit.md"><img src="https://i.imgur.com/1qGjdyO.png" width="198"/></a></td>
         <td width="20%"><a href="feature/removal_mechanism.md"><img src="https://i.imgur.com/alA6fm7.png" width="198"/></a></td>
+        <td width="20%"></td>
     </tr>
     <tr>
         <td width="20%" align="center"><a href="feature/drop_limit.md">掉落物限制</a></td>
         <td width="20%" align="center"><a href="feature/entity_limit.md">實體限制</a></td>
         <td width="20%" align="center"><a href="feature/hopper_limit.md">漏斗限制</a></td>
-        <td width="20%" align="center"><a href="feature/redstone_limit.md">紅石限制</a></td>
         <td width="20%" align="center"><a href="feature/removal_mechanism.md">清除機制</a></td>
+        <td width="20%"></td>
     </tr>
 </table>
 
