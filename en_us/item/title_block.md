@@ -67,4 +67,4 @@ Displays the size when stepped on:
     <tr><td><img src="https://i.imgur.com/1FTaBO1.png" width="480"/></td><td><img src="https://i.imgur.com/NubzEhC.png" width="480"/></td></tr>
 </table>
 
-Triggering a redstone signal will send a title to players within a radius of `24` blocks.
+Triggering a redstone signal will send a title to players within a radius of `16` blocks.
