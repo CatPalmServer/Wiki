@@ -66,3 +66,5 @@
 <td align="center">작은</td><td align="center">큰</td>
     <tr><td><img src="https://i.imgur.com/1FTaBO1.png" width="480"/></td><td><img src="https://i.imgur.com/NubzEhC.png" width="480"/></td></tr>
 </table>
+
+레드스톤 신호가 트리거되면, 반경 `24` 블록 내의 플레이어에게 제목이 전송됩니다.

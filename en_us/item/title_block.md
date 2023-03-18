@@ -66,3 +66,5 @@ Displays the size when stepped on:
 <td align="center">Small</td><td align="center">Large</td>
     <tr><td><img src="https://i.imgur.com/1FTaBO1.png" width="480"/></td><td><img src="https://i.imgur.com/NubzEhC.png" width="480"/></td></tr>
 </table>
+
+Triggering a redstone signal will send a title to players within a radius of `24` blocks.

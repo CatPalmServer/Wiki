@@ -66,3 +66,5 @@
 <td align="center">小</td><td align="center">大</td>
     <tr><td><img src="https://i.imgur.com/1FTaBO1.png" width="480"/></td><td><img src="https://i.imgur.com/NubzEhC.png" width="480"/></td></tr>
 </table>
+
+觸發紅石信號會發送標題給半徑`24`格內的玩家。

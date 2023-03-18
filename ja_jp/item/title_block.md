@@ -66,3 +66,5 @@
 <td align="center">小</td><td align="center">大</td>
     <tr><td><img src="https://i.imgur.com/1FTaBO1.png" width="480"/></td><td><img src="https://i.imgur.com/NubzEhC.png" width="480"/></td></tr>
 </table>
+
+レッドストーン信号がトリガーされると、半径`24`ブロック以内のプレイヤーにタイトルが送信されます。
