@@ -5,7 +5,7 @@
 <table>
     <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/K5udjhP.png" width="100"/><br/>※모든 블록</td><td align="center">=</td><td align="center">설치 블록</td></tr>
     <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/fCJInuU.png" width="100"/><br/>※모든 도끼, 곡괭이</td><td align="center">=</td><td align="center">파괴 블록</td></tr>
-    <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/aXV5l5r.png" width="100"/></td><td align="center">=</td><td align="center">배치 방법에 따라 항목 합성</br>※ 방벽은 해당 슬롯이 조합에 참여하지 않도록합니다.</td></tr>
+    <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/aXV5l5r.png" width="100"/></td><td align="center">=</td><td align="center">배치 방법에 따라 항목 합성</br>※ 방벽은 해당 슬롯이 조합에 참여하지 않도록합니다</td></tr>
     <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/ojHcQsH.png" width="100"/></td><td align="center">=</td><td align="center">아이템 제작 / 분류 아이템</td></tr>
     <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/FGiKUDQ.png" width="100"/></td><td align="center">=</td><td align="center">앞쪽 컨테이너 내 아이템 던지기</td></tr>
 </table>
