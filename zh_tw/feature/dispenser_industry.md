@@ -5,7 +5,7 @@
 <table>
     <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/K5udjhP.png" width="100"/><br/>※任何方塊</td><td align="center">=</td><td align="center">放置方塊</td></tr>
     <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/fCJInuU.png" width="100"/><br/>※任何鎬、斧</td><td align="center">=</td><td align="center">破壞方塊</td></tr>
-    <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/aXV5l5r.png" width="100"/></td><td align="center">=</td><td align="center">按照擺放方式合成物品</td></tr>
+    <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/aXV5l5r.png" width="100"/></td><td align="center">=</td><td align="center">按照擺放方式合成物品<br/>※ 屏障能阻止該欄位參與合成</td></tr>
     <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/ojHcQsH.png" width="100"/></td><td align="center">=</td><td align="center">合成物品／分類物品</td></tr>
     <tr><td><img src="https://i.imgur.com/FfkOSig.png" width="100"/></td><td align="center">+</td><td><img src="https://i.imgur.com/FGiKUDQ.png" width="100"/></td><td align="center">=</td><td align="center">扔出前方容器內物品</td></tr>
 </table>
