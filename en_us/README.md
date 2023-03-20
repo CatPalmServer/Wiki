@@ -18,6 +18,7 @@
 <a href="item/land_book.md"><img src="https://i.imgur.com/duGvD3y.png" width="48"/></a>
 <a href="item/land_block.md"><img src="https://i.imgur.com/wR67Nmg.png" width="48"/></a>
 <a href="item/land_block.md"><img src="https://i.imgur.com/fVdnF4X.png" width="48"/></a>
+<a href="item/land_block_child.md"><img src="https://i.imgur.com/iQ3sZVq.png" width="48"/></a>
 <a href="item/land_energy.md"><img src="https://i.imgur.com/Q7zi1Dp.png" width="48"/></a>
 <a href="item/land_energy.md"><img src="https://i.imgur.com/vfZYSPf.png" width="48"/></a>
 <a href="item/land_energy.md"><img src="https://i.imgur.com/gDlF2M6.png" width="48"/></a>
