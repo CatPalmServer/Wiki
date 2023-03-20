@@ -160,7 +160,7 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 - ### G 絵画
   領地内で誕生した動物だけを保護する
 - ### H エンティティへのダメージ
-  ?
+  ?  
   ※ ?
 - ### I ブロックのインタラクション
   [チェスト](https://minecraft.fandom.com/ja/wiki/チェスト)の使用  
