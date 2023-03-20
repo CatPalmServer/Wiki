@@ -163,9 +163,9 @@ I_PLAYER=ABDEFGHILMPRSTUVY
   ?
   ※ ?
 - ### I ブロックのインタラクション
-  [チェスト](https://minecraft.fandom.com/ja/wiki/チェスト)の使用
-  [烽火台](https://minecraft.fandom.com/ja/wiki/ビーコン) の使用
-  [看板](https://minecraft.fandom.com/ja/wiki/看板) の変更
+  [チェスト](https://minecraft.fandom.com/ja/wiki/チェスト)の使用  
+  [烽火台](https://minecraft.fandom.com/ja/wiki/ビーコン) の使用  
+  [看板](https://minecraft.fandom.com/ja/wiki/看板) の変更  
   [ノートブロック](https://minecraft.fandom.com/ja/wiki/ノートブロック) の調整
 - ### L 講義ノートの読み込み
   [講壇](https://minecraft.fandom.com/ja/wiki/講義台) の閲覧
@@ -174,25 +174,25 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 - ### P ブロックの設置
   [ブロック](https://minecraft.fandom.com/ja/wiki/ブロック) の設置
 - ### R オーナー
-  [領地生成機](land_block.md) の書き込み、解除
-  領地権限の変更
+  [領地生成機](land_block.md) の書き込み、解除  
+  領地権限の変更  
   領地エネルギーの設置、解除
 - ### S 生成されたエンティティ
-  [スポーンエッグ](https://minecraft.fandom.com/ja/wiki/スポーンエッグ) の使用
-  [友好的な生物の収納ロープ](rope.md) の使用
+  [スポーンエッグ](https://minecraft.fandom.com/ja/wiki/スポーンエッグ) の使用  
+  [友好的な生物の収納ロープ](rope.md) の使用  
   [敵対的な生物の収納ロープ](rope.md) の使用
 - ### T トリガー
-  [フックショット](https://minecraft.fandom.com/ja/wiki/フックショット) の発動
-  [トラップチェスト](https://minecraft.fandom.com/ja/wiki/トラップチェスト) の使用
+  [フックショット](https://minecraft.fandom.com/ja/wiki/フックショット) の発動  
+  [トラップチェスト](https://minecraft.fandom.com/ja/wiki/トラップチェスト) の使用  
   [プレッシャープレート](https://minecraft.fandom.com/ja/wiki/プレッシャープレート) の発動
 - ### U バケツ
-  [水バケツ](https://minecraft.fandom.com/ja/wiki/水バケツ) の使用
+  [水バケツ](https://minecraft.fandom.com/ja/wiki/水バケツ) の使用  
   [溶岩バケツ](https://minecraft.fandom.com/ja/wiki/溶岩バケツ) の使用
 - ### V PVP
   [プレイヤー](https://minecraft.fandom.com/ja/wiki/プレイヤー) のダメージ
 - ### Y 飛行
-  [領地フライングデバイス](land_flying_device.md) の飛行
-  [猫饲料](../feature/cat_bowl.md)の切り替え観察者
+  [領地フライングデバイス](land_flying_device.md) の飛行  
+  [猫饲料](../feature/cat_bowl.md)の切り替え観察者  
   [猫饲料](../feature/cat_bowl.md)の磁石によるアイテム吸引
   
 
