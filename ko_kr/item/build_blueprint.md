@@ -1,6 +1,6 @@
 [← 홈으로](../)
 # 건축 도면
-블루프린트 모듈보다 훨씬 편리하며, [ 건축 복제기 ] (build_replicator_block.md)도 살펴볼 수 있습니다.
+블루프린트 모듈보다 훨씬 편리하며, [건축 복제기](build_replicator_block.md)도 살펴볼 수 있습니다.
 
 ## 데이터
 <table>

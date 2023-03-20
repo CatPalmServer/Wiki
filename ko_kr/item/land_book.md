@@ -148,27 +148,27 @@ I_PLAYER=ABDEFGHILMPRSTUVY
 
 ## 권한
 - ### A 갑옷 거치대
-  [ 갑옷 거치대 ] (https://minecraft.fandom.com/ko/wiki/갑옷_거치대)의 배치, 손상, 의복 교체
+  [갑옷 거치대](https://minecraft.fandom.com/ko/wiki/갑옷_거치대)의 배치, 손상, 의복 교체
 - ### B 배
-  [ 보트 ] (https://minecraft.fandom.com/ko/wiki/보트)의 배치, 손상, 승선
+  [보트](https://minecraft.fandom.com/ko/wiki/보트)의 배치, 손상, 승선
 - ### D 블록 파괴
-  [ 블록 ] (https://minecraft.fandom.com/ko/wiki/블록)의 파괴
+  [블록](https://minecraft.fandom.com/ko/wiki/블록)의 파괴
 - ### E 엔티티 상호 작용
-  [ 엔티티 ] (https://minecraft.fandom.com/ko/wiki/동물)의 사료 주기
+  [엔티티](https://minecraft.fandom.com/ko/wiki/동물)의 사료 주기
 - ### F 아이템 액자
-  [ 아이템 표시 장 ] (https://minecraft.fandom.com/ko/wiki/아이템_액자)의 배치, 손상, 아이템 교체, 회전
+  [아이템 표시 장](https://minecraft.fandom.com/ko/wiki/아이템_액자)의 배치, 손상, 아이템 교체, 회전
 - ### G 그림 액자
-  [ 그림 ] (https://minecraft.fandom.com/ko/wiki/그림)의 배치, 손상
+  [그림](https://minecraft.fandom.com/ko/wiki/그림)의 배치, 손상
 - ### H 엔티티 공격
-  [ 엔티티 ] (https://minecraft.fandom.com/ko/wiki/엔티티)의 손상
+  [엔티티](https://minecraft.fandom.com/ko/wiki/엔티티)의 손상
   ※ 영토 내에서 태어난 동물 만 보호합니다.
 - ### I 블록 상호 작용
-  [ 창고 ] (https://minecraft.fandom.com/ko/wiki/창고)의 사용
-  [ 봉화대 ] (https://minecraft.fandom.com/ko/wiki/신호의_불)의 사용
-  [ 공지판 ] (https://minecraft.fandom.com/ko/wiki/갱신_표지판)의 수정
-  [ 음악 상자 ] (https://minecraft.fandom.com/ko/wiki/노래방_상자)의 조정
+  [창고](https://minecraft.fandom.com/ko/wiki/창고)의 사용
+  [봉화대](https://minecraft.fandom.com/ko/wiki/신호의_불)의 사용
+  [공지판](https://minecraft.fandom.com/ko/wiki/갱신_표지판)의 수정
+  [음악 상자](https://minecraft.fandom.com/ko/wiki/노래방_상자)의 조정
 - ### L 강의책 읽기
-  [ 강의 대 ] (https://minecraft.fandom.com/ko/wiki/강의_대)의 열람
+  [강의 대](https://minecraft.fandom.com/ko/wiki/강의_대)의 열람
 - ### M 광산 수레
   [광차](https://minecraft.fandom.com/ko/wiki/광차)의 설치, 피해, 탑승
 - ### P 블록 설치
