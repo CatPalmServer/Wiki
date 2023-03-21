@@ -22,7 +22,7 @@
 
 ## 使用
 
-彈射的方向取決於放置時朝向的方向，共有9種：  
+彈射的方向取決於放置時朝向的方向，彈射成功會觸發方塊更新，共有9種：  
 
 <table>
     <tr><td align="center" width="70" height="70">西北</td><td align="center" width="70" height="70">北</td><td align="center" width="70" height="70">北東</td></tr>

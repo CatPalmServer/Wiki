@@ -37,6 +37,6 @@
     <tr><td>在<a href="https://minecraft.fandom.com/zh/wiki/鐵砧">鐵砧</a>改成想要的價格</td><td><img src="https://i.imgur.com/LDgXCyC.png" width="720"/></td></tr>
     <tr><td>放置</td><td><img src="https://i.imgur.com/U6EMo3i.png" width="720"/></td></tr>
     <tr><td>前方容器放入商品</td><td><img src="https://i.imgur.com/DgI2arL.png" width="720"/></td></tr>
-    <tr><td>給予紅石信號</td><td><img src="https://i.imgur.com/dMGICtl.png" width="720"/></td></tr>
+    <tr><td>給予紅石信號</td><td><img src="https://i.imgur.com/dMGICtl.png" width="720"/><br/>※上架成功則觸發方塊更新</td></tr>
 </table>
 

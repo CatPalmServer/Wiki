@@ -60,8 +60,8 @@
 <img src="https://i.imgur.com/TCQMFr7.png" width="720"/>
 
 <table>
-    <tr><td align="center">跳躍</td><td align="center">前往上方的電梯</td></tr>
-    <tr><td align="center">蹲下</td><td align="center">前往下方的電梯</td></tr>
+    <tr><td align="center">跳躍</td><td align="center">前往上方的電梯並觸發方塊更新</td></tr>
+    <tr><td align="center">蹲下</td><td align="center">前往下方的電梯並觸發方塊更新</td></tr>
 </table>
 
 沒有高度限制，移動距離越遠耗費的飽食度越多。  
