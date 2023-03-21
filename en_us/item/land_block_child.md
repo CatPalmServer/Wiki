@@ -25,4 +25,5 @@ I have leased the blocks to you, please make good use of them!
     <tr><td>Change the territory group number to be used as a sub-territory using an <a href="https://minecraft.fandom.com/en/wiki/Anvil">anvil</a>.</td><td><img src="https://i.imgur.com/KPmFTXU.png" width="720"/></td></tr>
     <tr><td>Place it where there is a territory.</td><td><img src="https://i.imgur.com/WhutqQD.png" width="720"/></td></tr>
 </table>
+
 This area inherits all permissions from the territory number `486`.
