@@ -26,4 +26,4 @@
     <tr><td>在有領地的地方放置</td><td><img src="https://i.imgur.com/WhutqQD.png" width="720"/></td></tr>
 </table>
 
-該區域就繼承領地編號 `486` 內的全部權限。
+該區域就繼承子領地群組內的全部權限。

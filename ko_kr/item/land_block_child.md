@@ -26,4 +26,4 @@
     <tr><td>영지가 있는 곳에 설치합니다.</td><td><img src="https://i.imgur.com/WhutqQD.png" width="720"/></td></tr>
 </table>
 
-이 영역은 영지 번호 `486`의 모든 권한을 상속합니다.
+이 영역은 서브 영지 그룹 내의 모든 권한을 상속합니다.

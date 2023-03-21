@@ -26,4 +26,4 @@ I have leased the blocks to you, please make good use of them!
     <tr><td>Place it where there is a territory.</td><td><img src="https://i.imgur.com/WhutqQD.png" width="720"/></td></tr>
 </table>
 
-This area inherits all permissions from the territory number `486`.
+This area inherits all permissions from the sub-territory group.
