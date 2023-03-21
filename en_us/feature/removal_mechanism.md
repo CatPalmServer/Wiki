@@ -33,7 +33,7 @@ Not read for over `3 years` (`1,080 days`).
 Not read for over `6 months` (`180 days`).
 
 ### [Record Book](../item/logger_menu.md)
-Records over `6 months` (`180 days`) old.
+Records over `12 months` (`360 days`) old.
 
 ### World Map
 When upgrading versions (such as from `1.18.2` to `1.19.0`), areas without territories will be reset.
