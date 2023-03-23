@@ -1,5 +1,5 @@
 [← Return to main page](../)
-# Trapdoor
+# Trap or Snare
 Hahaha, gotcha!
 
 ## Data
