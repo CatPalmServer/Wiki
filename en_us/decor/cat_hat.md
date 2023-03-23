@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Cat Hat
 Cute kitty on your head.~
 

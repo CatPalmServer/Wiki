@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Teleportation Gem
 Hey everyone, come over here! There's fresh fish.
 

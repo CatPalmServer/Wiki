@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # High-Powered Laser Crystal
 Get away! Don't bring that to my house!
 

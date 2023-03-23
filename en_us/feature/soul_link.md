@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Soulbinding
 Can be applied to:
 - Helmet _(Diamond and higher)_

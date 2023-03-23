@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Edit Sign
 
 Right-clicking on a sign allows editing, using &+ format codes (https://minecraft.fandom.com/wiki/Formatting_codes) can add colors, bold text, and more. If you want to display the '&' character, enter it twice as '&&'.

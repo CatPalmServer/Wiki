@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Rope
 Absolutely cannot be used on players... otherwise... you will be... attacked.
 

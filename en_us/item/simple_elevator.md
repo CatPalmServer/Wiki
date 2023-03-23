@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Elevator
 Convenient way to go up and down... Are people still using stairs?
 

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Cat's Paw
 There are 2 series, each with 17 colors to choose from!
 

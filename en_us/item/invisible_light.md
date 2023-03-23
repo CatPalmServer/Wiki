@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Invisible light source
 A light source block without a hitbox.
 

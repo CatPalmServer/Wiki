@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Clearing Mechanism
 To save server resources, unused data is periodically cleared.
 

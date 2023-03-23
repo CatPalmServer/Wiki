@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Record a point
 Can be used to make a banner that records points (see record_point_banner.md).
 An essential material for home travel and (crafting).

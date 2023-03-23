@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Coin bank
 Every little bit counts.
 

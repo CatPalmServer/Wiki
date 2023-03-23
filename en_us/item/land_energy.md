@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Territory Energy
 A must-have block for [Land Claim Groups](land_book.md).
 

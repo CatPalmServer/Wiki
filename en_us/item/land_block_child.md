@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Subclaim Allocator
 I have leased the blocks to you, please make good use of them!  
 

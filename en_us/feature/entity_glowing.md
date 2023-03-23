@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # The creature glows.
 
 <img src="https://i.imgur.com/9nNApbn.png" width="200"/>

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Cat Ears
 Cute headgear to show off your cat-like personality.
 

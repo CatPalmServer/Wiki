@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Laser Crystal
 Annoying, but you'll love it.
 

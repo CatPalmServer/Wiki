@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Discord Server
 [Traditional Chinese](https://discord.gg/utTBPy6yVM), [Japanese](https://discord.gg/JfbdJQDkHA), [Korean](https://discord.gg/f6p96sBrdS), [English](https://discord.gg/gg5SHp2vFv)
 

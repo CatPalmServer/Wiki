@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Lottery Ticket
 Isn't the lottery machine great?
 

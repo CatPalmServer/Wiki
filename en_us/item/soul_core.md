@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Soul Core
 Prevent griefing, but not stupidity. See [Soul Link](../feature/soul_link.md) for more information.
 

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Item Placement
 
 Most miscellaneous items and food can be placed on the ground by sneaking and right-clicking.

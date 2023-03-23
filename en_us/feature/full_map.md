@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Full Map
 [https://drive.google.com/drive/folders/1aI9-JaXOk0zTIQg1kCILNMafWcnzFard](https://drive.google.com/drive/folders/1aI9-JaXOk0zTIQg1kCILNMafWcnzFard)  
 Essentially the same as the Comet Map (../item/world_map_view.md), except the entire world is rendered.

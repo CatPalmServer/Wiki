@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Wither Dust
 The negative counterpart of Bone Meal.
 

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Player Head
 Turns a mob or an armor stand into a player, just like a real player!
 

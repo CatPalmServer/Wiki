@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # AdvancedTNT
 Blows up a perfect square area.
 

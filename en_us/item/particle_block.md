@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Particle Generator
 Placing too many will cause your game to lag.
 

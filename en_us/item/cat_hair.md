@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Cat Hair
 You can also get it by cuddling with too many cats.
 

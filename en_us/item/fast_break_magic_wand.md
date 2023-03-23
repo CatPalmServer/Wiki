@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Efficient Destruction Wand
 A must-have tool for builders and lazy people.
 

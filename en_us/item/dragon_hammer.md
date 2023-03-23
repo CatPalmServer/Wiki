@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Dragon hammer
 High damage, watch me go! Sizzling!
 

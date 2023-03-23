@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Quick Charge Crossbow
 A must-have tool for builders and lazy people.
 

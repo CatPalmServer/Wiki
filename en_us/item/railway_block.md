@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Rail Block
 Expands the functionality of rails~
 

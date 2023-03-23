@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Tuning stick
 Quickly change the tone of the [Note Block](https://minecraft.fandom.com/wiki/Note_Block).
 

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Barter Publisher
 A Good Partner for Quickly Listing Bulk Items.
 

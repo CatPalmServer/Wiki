@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Comet map
 Not a satellite! It's a comet! Co-met!
 Placing it in a item frame has no effect, so keep it in your hand.

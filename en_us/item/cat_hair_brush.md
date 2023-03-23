@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Cat Hairbrush
 Come here, cute kitty~ Hehehe~
 

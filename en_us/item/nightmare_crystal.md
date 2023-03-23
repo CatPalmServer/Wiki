@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Dream Weaver
 Highest Grade Material.  
 Not vulnerable to explosion, burning or damage.

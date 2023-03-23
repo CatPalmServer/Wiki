@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Capture Comet Map
 [Comet Maps](world_map_view.md) move constantly... how do I save a still image?
 Here it is!!  

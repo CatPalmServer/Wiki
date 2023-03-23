@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Super Fish Biscuit
 Why not Super Star instead?？
 

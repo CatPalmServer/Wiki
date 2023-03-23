@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Peaceful Block
 You can also check out the [Peaceful Proof] (peaceful_proof.md).
 

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Palette
 Requires [Painting Canvas](draw_map.md) and [Paintbrush](pen.md) to paint.
 

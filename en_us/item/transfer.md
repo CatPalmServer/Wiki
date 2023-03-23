@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Teleportation series
 Wait... who are you? How did you get into my house??
 

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Dragon Tooth
 High-grade Material.  
 Not vulnerable to explosion, burning or damage.

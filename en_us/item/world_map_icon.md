@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Compass Icon
 [Compass Map](world_map_view.md) In addition to saving flag points, it can also add other icons!
 Cannot be crafted, only obtained from loot chests or villager trades.

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Launcher Industry
 Your good partner for AFK activities. The following combinations are available:
 

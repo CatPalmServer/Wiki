@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Anniversary Celebration
 The week of anniversary celebration is from the 20th to the 26th of July each year. For example, if Monday is the 20th and Sunday is the 26th, then the anniversary celebration is from the 20th to the 26th of July.
 The anniversary celebration activities may vary each day, but generally include the following:

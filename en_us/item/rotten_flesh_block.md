@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Rotten Flesh
 Definitely not something you can eat...
 

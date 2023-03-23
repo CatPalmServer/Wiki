@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Notifier
 Allows other players to notify you, provided you are in the [Discord server](../feature/discord_server.md).
 

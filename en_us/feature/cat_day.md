@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Cat Day
 There are a total of four Cat Days each year:
 

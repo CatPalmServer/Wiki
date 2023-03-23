@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Loyalty card
 You'll regret it if you don't sign in often enough.!
 

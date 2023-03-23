@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Respawn Series
 You can respawn in the game, but not in real life.
 

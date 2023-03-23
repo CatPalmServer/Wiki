@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Paintbrush
 Requires a [Drawn Map] (draw_map.md) and a [Palette] (palette.md) to paint.
 

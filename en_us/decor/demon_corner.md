@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Devil Horns
 Cute devilish horns.
 

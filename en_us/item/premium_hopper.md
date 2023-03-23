@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Hopper
 Sorter? Give it a try!
 

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Teleportation Record Gem
 Running back and forth between two places.
 

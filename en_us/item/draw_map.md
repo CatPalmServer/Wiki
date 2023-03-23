@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Painting Canvas
 Can draw pixel art, but... everyone just uploads images.
 

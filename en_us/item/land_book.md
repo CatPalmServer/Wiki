@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Land Claim Groups
 Protect your belongings and prevent theft. Plus, creepers can't blow it up/ it's amazing~
 Can bind an infinite number of [Land Claim Generators](land_block.md)!

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Currency Exchange Bundle
 Necessary items for [copper coins, iron coins, silver coins, gold coins, and star coins](coin.md)!
 

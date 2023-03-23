@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Music Disc
 This song! It's my favorite!
 

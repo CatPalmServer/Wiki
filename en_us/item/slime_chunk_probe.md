@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Slime Block Finder
 Isn't this better than checking seed codes?
 

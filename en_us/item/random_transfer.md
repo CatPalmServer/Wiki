@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Random Teleportation Series.
 Looking for new biomes? Why not try random teleportation!
 

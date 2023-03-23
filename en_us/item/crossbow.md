@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Crossbow
 Stronger than Netherite!
 

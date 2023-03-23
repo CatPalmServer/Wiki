@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Glowing Mineral
 
 <img src="https://i.imgur.com/85qqFOd.png" width="200"/>

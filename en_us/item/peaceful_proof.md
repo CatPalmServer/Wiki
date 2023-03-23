@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Peaceful Certificate
 You can also check out the [Peaceful Block] (peaceful_block.md).
 

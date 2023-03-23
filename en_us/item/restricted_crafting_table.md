@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Crafting table ingredient (recipe item)
 One of the modes of the dispenser industry (see dispenser_industry.md).
 

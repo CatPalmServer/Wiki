@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Angel Ring
 Angel in a Bottle？
 

@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Blueprint
 It is more convenient than the blueprint module and you can also take a look at [ Build Replicator Block ](build_replicator_block.md).
 

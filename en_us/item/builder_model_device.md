@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Line block
 The best choice for obstacles drawn with slant lines.
 

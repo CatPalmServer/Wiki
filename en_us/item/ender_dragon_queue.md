@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # End Crystal Beam
 One by one, please don't be noisy.
 

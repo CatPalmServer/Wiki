@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Wandering merchant spawn egg
 
 ## Crafting

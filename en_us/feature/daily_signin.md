@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Daily check-in
 Sending "`喵`"/"`meow`" in the global synchronized channel daily can earn rewards, the rewards depend on certain conditions from the previous day.
 

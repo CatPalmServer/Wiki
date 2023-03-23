@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Book of Teleportation
 Can store [teleportation golden apples, teleportation gems](transfer.md).
 

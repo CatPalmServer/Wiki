@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Territory Flight Wings
 The combination of flight and wings, it's amazing.
 

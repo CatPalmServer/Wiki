@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 
 # Cat Food
 After consuming a [canned cat food](../item/canned_cat.md), you can enjoy the following privileges:

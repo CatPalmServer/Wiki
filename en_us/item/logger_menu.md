@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Record Book
 Who stole my stuff?! I'm going to investigate right away!
 

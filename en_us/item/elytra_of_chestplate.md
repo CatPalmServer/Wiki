@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Elytra and Chestplate
 Two wishes fulfilled at once.
 

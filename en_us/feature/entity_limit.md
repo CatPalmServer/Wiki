@@ -1,4 +1,4 @@
-[← Return to main page](../)
+[← Back to home](../)
 # Entity Restrictions
 
 The maximum number of entities in the same block is `32`, and newer and unnamed entities are removed first.
