@@ -269,7 +269,7 @@
 <a href="item/internet_controller.md"><img src="https://i.imgur.com/Ax29g76.png" width="48"/></a>
 <a href="item/trap_block.md"><img src="https://i.imgur.com/3P6VTYv.png" width="48"/></a>
 <a href="item/trap_block.md"><img src="https://i.imgur.com/hXcd2KD.png" width="48"/></a>
-<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/lEnauBv.png" width="48"/></a>
+<a href="item/silent_block.md"><img src="https://i.imgur.com/K43ihOZ.png" width="48"/></a>
 
 # Toys
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/XtnjByk.png" width="48"/></a>
