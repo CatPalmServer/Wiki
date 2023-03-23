@@ -269,6 +269,7 @@
 <a href="item/internet_controller.md"><img src="https://i.imgur.com/Ax29g76.png" width="48"/></a>
 <a href="item/trap_block.md"><img src="https://i.imgur.com/3P6VTYv.png" width="48"/></a>
 <a href="item/trap_block.md"><img src="https://i.imgur.com/hXcd2KD.png" width="48"/></a>
+<a href="item/explosive_starlight_water.md"><img src="https://i.imgur.com/lEnauBv.png" width="48"/></a>
 
 # おもちゃ
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/XtnjByk.png" width="48"/></a>
@@ -327,6 +328,7 @@
 <a href="food/candy_cane.md"><img src="https://i.imgur.com/LfuePOU.png" width="48"/></a>
 <a href="food/candy_cane.md"><img src="https://i.imgur.com/XWclnLY.png" width="48"/></a>
 <a href="food/candy_cane.md"><img src="https://i.imgur.com/aC0rrW4.png" width="48"/></a>
+<a href="food/burnt_berry.md"><img src="https://i.imgur.com/ecZSKjw.png" width="48"/></a>
 
 # 装飾品
 <a href="decor/alien_antenna.md"><img src="https://i.imgur.com/7kP0AMr.gif" width="48"/></a>
