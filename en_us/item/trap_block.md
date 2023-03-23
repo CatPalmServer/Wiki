@@ -25,7 +25,7 @@ Hahaha, gotcha!
 ---
 
 ## Usage
-When placed, if there is a creature above it, the trapdoor will activate and cause a block update. Trapped creatures cannot move and inflict 1.15 damage. Players can avoid triggering by sneaking.
+When placed, if there is a creature above it, the trapdoor will activate and cause a block update. Trapped creatures cannot move and inflict `1.15` damage. Players can avoid triggering by sneaking.
 
 <table>
     <tr><td align="center">Not triggered</td><td align="center">Triggered</td></tr>
