@@ -123,6 +123,8 @@
 <a href="item/entity_storage_rope.md"><img src="https://i.imgur.com/horYOR1.png" width="48"/></a>
 <a href="item/entity_storage_rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
 <a href="item/entity_storage_rope.md"><img src="https://i.imgur.com/qvrHVFH.png" width="48"/></a>
+<a href="item/entity_storage_block.md"><img src="https://i.imgur.com/t5hSkSU.png" width="48"/></a>
+<a href="item/entity_storage_block.md"><img src="https://i.imgur.com/hyk6PYU.png" width="48"/></a>
 <a href="item/cat_palm.md"><img src="https://i.imgur.com/NPueuTE.png" width="48"/></a>
 <a href="item/cat_palm.md"><img src="https://i.imgur.com/KRZdBzb.png" width="48"/></a>
 <a href="item/cat_palm.md"><img src="https://i.imgur.com/c1inAh8.png" width="48"/></a>
@@ -270,6 +272,8 @@
 <a href="item/trap_block.md"><img src="https://i.imgur.com/3P6VTYv.png" width="48"/></a>
 <a href="item/trap_block.md"><img src="https://i.imgur.com/hXcd2KD.png" width="48"/></a>
 <a href="item/silent_block.md"><img src="https://i.imgur.com/K43ihOZ.png" width="48"/></a>
+<a href="food/item_cloud_storage.md"><img src="https://i.imgur.com/lUOeDyv.png" width="48"/></a>
+<a href="food/naming_device.md"><img src="https://i.imgur.com/jfcavFo.png" width="48"/></a>
 
 # おもちゃ
 <a href="item/laser_crystal.md"><img src="https://i.imgur.com/XtnjByk.png" width="48"/></a>
