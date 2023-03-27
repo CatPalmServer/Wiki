@@ -33,7 +33,7 @@ Raw material for equipment, tools, and items.
 <a href="chestplate.md"><img src="https://i.imgur.com/A2lVkZG.png" width="48"/></a>
 <a href="leggings.md"><img src="https://i.imgur.com/2GF9HK6.png" width="48"/></a>
 <a href="boots.md"><img src="https://i.imgur.com/eTBvKLO.png" width="48"/></a>
-<a href="rope.md"><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></a>
-<a href="rope.md"><img src="https://i.imgur.com/horYOR1.png" width="48"/></a>
-<a href="rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
-<a href="rope.md"><img src="https://i.imgur.com/qvrHVFH.png" width="48"/></a>
+<a href="entity_storage_rope.md"><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></a>
+<a href="entity_storage_rope.md"><img src="https://i.imgur.com/horYOR1.png" width="48"/></a>
+<a href="entity_storage_rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
+<a href="entity_storage_rope.md"><img src="https://i.imgur.com/qvrHVFH.png" width="48"/></a>

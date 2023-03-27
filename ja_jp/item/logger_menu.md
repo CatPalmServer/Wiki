@@ -74,7 +74,7 @@
         <td align="center">ダメージ</td>
     </tr>
     <tr>
-        <td align="center"><a href="rope.md">捕獲</a></td>
+        <td align="center"><a href="entity_storage_rope.md">捕獲</a></td>
     </tr>
     <tr>
         <td align="center">生成</td>

@@ -160,8 +160,8 @@ Exchange 8 Iron Coins for 1, up to 1 time.
 <a href="../item/chestplate.md"><img src="https://i.imgur.com/A2lVkZG.png" width="48"/></a>
 <a href="../item/leggings.md"><img src="https://i.imgur.com/2GF9HK6.png" width="48"/></a>
 <a href="../item/boots.md"><img src="https://i.imgur.com/eTBvKLO.png" width="48"/></a>
-<a href="../item/rope.md"><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></a>
-<a href="../item/rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
+<a href="../item/entity_storage_rope.md"><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></a>
+<a href="../item/entity_storage_rope.md"><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></a>
 <a href="../decor/cat_hat.md"><img src="https://i.imgur.com/UT94IRj.png" width="48"/></a>
 <a href="../decor/cat_hat.md"><img src="https://i.imgur.com/OqQl5jU.png" width="48"/></a>
 <a href="../decor/cat_hat.md"><img src="https://i.imgur.com/OAL1rFF.png" width="48"/></a>

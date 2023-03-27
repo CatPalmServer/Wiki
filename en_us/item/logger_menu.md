@@ -74,7 +74,7 @@ Record Player Behavior,
         <td align="center">Damage</td>
     </tr>
     <tr>
-        <td align="center"><a href="rope.md">Capture</a></td>
+        <td align="center"><a href="entity_storage_rope.md">Capture</a></td>
     </tr>
     <tr>
         <td align="center">Spawn</td>

@@ -179,8 +179,8 @@ and will disappear after the update.
   Territory energy placement and demolition
 - ### S Spawn entity
   [Spawn Egg](https://minecraft.fandom.com/wiki/Spawn_Egg) usage
-  [Friendly Mob Leash](rope.md) usage
-  [Hostile Mob Leash](rope.md) usage
+  [Friendly Mob Leash](entity_storage_rope.md) usage
+  [Hostile Mob Leash](entity_storage_rope.md) usage
 - ### T Trigger mechanism
   [Tripwire Hook] (https://minecraft.fandom.com/wiki/Fishing_Rod) triggered
   [Trapped Chest] (https://minecraft.fandom.com/wiki/Trapped_Chest) used

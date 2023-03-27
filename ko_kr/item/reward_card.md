@@ -45,7 +45,7 @@
     <tr><td align="center">전투</td><td align="start"></td></tr>
     <tr><td align="center">음식 및 음료</td><td align="start"></td></tr>
     <tr><td align="center">원료</td><td align="start"><a href="coin.md">고양이 코인</a> 시리즈</td></tr>
-    <tr><td align="center">스폰 알</td><td align="start">스폰 블럭, <a href="rope.md">수집 불가능한</a> 스폰 알</td></tr>
+    <tr><td align="center">스폰 알</td><td align="start">스폰 블럭, <a href="entity_storage_rope.md">수집 불가능한</a> 스폰 알</td></tr>
     <tr><td align="center">기타</td><td align="start">상점 아이템, 장식품, 무지개 외관 아이템, 지옥 별 시리즈, <a href="magic_nether_star.md">마법의 지옥 별</a> 시리즈, 드래곤 알 시리즈, <a href="dragon_tooth.md">드래곤 이빨</a> 시리즈, <a href="dragon_blood_tooth.md">혈룡 이빨</a> 시리즈, <a href="nightmare_crystal.md">악몽 결정</a> 시리즈</td></tr>
 </table>
 

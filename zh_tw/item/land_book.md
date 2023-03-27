@@ -179,8 +179,8 @@ I_PLAYER=ABDEFGHILMPRSTUVY
   領地能量的放置、拆除
 - ### S 生成實體
   [生怪蛋](https://minecraft.fandom.com/zh/wiki/生怪蛋)的使用  
-  [友善生物收納繩](rope.md)的使用  
-  [邪惡生物收納繩](rope.md)的使用
+  [友善生物收納繩](entity_storage_rope.md)的使用  
+  [邪惡生物收納繩](entity_storage_rope.md)的使用
 - ### T 觸發機關
   [絆線鉤](https://minecraft.fandom.com/zh/wiki/絆線鉤)的觸發  
   [陷阱儲物箱](https://minecraft.fandom.com/zh/wiki/陷阱儲物箱)的使用  

@@ -74,7 +74,7 @@
         <td align="center">피해</td>
     </tr>
     <tr>
-        <td align="center"><a href="rope.md">포획</a></td>
+        <td align="center"><a href="entity_storage_rope.md">포획</a></td>
     </tr>
     <tr>
         <td align="center">생성</td>

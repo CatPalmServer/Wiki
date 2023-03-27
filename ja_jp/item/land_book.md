@@ -179,8 +179,8 @@ I_PLAYER=ABDEFGHILMPRSTUVY
   領地エネルギーの設置、解除
 - ### S 生成されたエンティティ
   [スポーンエッグ](https://minecraft.fandom.com/ja/wiki/スポーンエッグ) の使用  
-  [友好的な生物の収納ロープ](rope.md) の使用  
-  [敵対的な生物の収納ロープ](rope.md) の使用
+  [友好的な生物の収納ロープ](entity_storage_rope.md) の使用  
+  [敵対的な生物の収納ロープ](entity_storage_rope.md) の使用
 - ### T トリガー
   [フックショット](https://minecraft.fandom.com/ja/wiki/フックショット) の発動  
   [トラップチェスト](https://minecraft.fandom.com/ja/wiki/トラップチェスト) の使用  

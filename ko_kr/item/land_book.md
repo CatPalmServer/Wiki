@@ -179,8 +179,8 @@ I_PLAYER=ABDEFGHILMPRSTUVY
   영지 에너지의 설치, 철거
 - ### S 엔티티 생성
   [스폰 에그](https://minecraft.fandom.com/ko/wiki/스폰_알)의 사용
-  [우호적인 동물 수집 줄](rope.md)의 사용
-  [악의적인 동물 수집 줄](rope.md)의 사용
+  [우호적인 동물 수집 줄](entity_storage_rope.md)의 사용
+  [악의적인 동물 수집 줄](entity_storage_rope.md)의 사용
 - ### T 트리거 작동
   [그물갈고리](https://minecraft.fandom.com/ko/wiki/그물_갈고리)의 작동
   [함정 상자](https://minecraft.fandom.com/ko/wiki/함정_상자)의 사용

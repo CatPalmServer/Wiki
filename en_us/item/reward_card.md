@@ -45,7 +45,7 @@ May appear:
     <tr><td align="center">Combat</td><td align="start"></td></tr>
     <tr><td align="center">Food and Drink</td><td align="start"></td></tr>
     <tr><td align="center">Raw Materials</td><td align="start"><a href="coin.md">Cat Coins</a> Series</td></tr>
-    <tr><td align="center">Spawn Egg</td><td align="start">Monster spawner, Spawn egg that cannot be <a href="rope.md">collected</a></td></tr>
+    <tr><td align="center">Spawn Egg</td><td align="start">Monster spawner, Spawn egg that cannot be <a href="entity_storage_rope.md">collected</a></td></tr>
     <tr><td align="center">Miscellaneous</td><td align="start">Shop items, decorative items, rainbow appearance items, Nether Star series, <a href="magic_nether_star.md">Magic Nether Star</a> series, Dragon Egg series, <a href="dragon_tooth.md">Dragon Tooth</a> series, <a href="dragon_blood_tooth.md">Blood Dragon Tooth</a> series, <a href="nightmare_crystal.md">Nightmare Crystal</a> series</td></tr>
 </table>
 
