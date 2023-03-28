@@ -33,9 +33,10 @@ Raw material for equipment, tools, and items.
 <a href="shovel.md"><img src="https://i.imgur.com/8xf18Pa.png" width="48"/></a>
 <a href="hoe.md"><img src="https://i.imgur.com/VeOmr49.png" width="48"/></a>
 <a href="peaceful_block.md"><img src="https://i.imgur.com/ChdGHZh.png" width="48"/></a>
-<a href="peaceful_block.md"><img src="https://i.imgur.com/cTC2fkv.png" width="48"/></a>
-<a href="peaceful_block.md"><img src="https://i.imgur.com/tZPaxWI.png" width="48"/></a>
 <a href="peaceful_block.md"><img src="https://i.imgur.com/zj97a5z.png" width="48"/></a>
 <a href="peaceful_block.md"><img src="https://i.imgur.com/5NXrwba.png" width="48"/></a>
 <a href="notification_block.md"><img src="https://i.imgur.com/ATkGUJe.png" width="48"/></a>
 <a href="build_replicator_block.md"><img src="https://i.imgur.com/gs5l20b.png" width="48"/></a>
+<a href="build_replicator_block.md"><img src="https://i.imgur.com/t5hSkSU.png" width="48"/></a>
+<a href="build_replicator_block.md"><img src="https://i.imgur.com/hyk6PYU.png" width="48"/></a>
+<a href="build_replicator_block.md"><img src="https://i.imgur.com/jfcavFo.png" width="48"/></a>
