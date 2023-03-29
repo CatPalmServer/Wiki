@@ -78,9 +78,8 @@ Return to the place of last death. If no previous death, die at current location
 <table>
     <tr><td align="center">Image</td><td align="center">Type</td><td align="center">Usage</td><td align="center">Consumption</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/ILnnHV1.png" width="48"/></td><td align="center">Golden Apple</td><td align="center">Eating</td><td align="center">1</td></tr>
-    <tr><td align="center" rowspan="2"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></td><td align="center" rowspan="2">Block of Emerald</td><td align="center">Standing above and crouching<br/>※Triggers block update</td><td align="center" rowspan="2">Does not consume</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></td><td align="center">Gem</td><td align="center">Right-Click Use</td><td align="center">Level 3<br/>※Damage without enough level</td></tr>
+    <tr><td align="center" rowspan="2"><img src="https://i.imgur.com/R3EtEh7.png" width="48"/></td><td align="center" rowspan="2">Block of Emerald</td><td align="center">Standing above and crouching<br/>※Triggers block update</td><td align="center" rowspan="2">Does not consume</td></tr>
     <tr><td align="center">Receives Redstone signal<br/>※Players within 6 blocks</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/R3EtEh7.png" width="48"/></td><td align="center">Gem Block</td><td align="center">Standing on top and crouching</td><td align="center">Level 1</td></tr>
 </table>
-
 Invincible for `1 second` and Weakness II for `10 seconds` after teleportation.
