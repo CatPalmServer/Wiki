@@ -79,7 +79,8 @@
     <tr><td align="center">圖片</td><td align="center">類型</td><td align="center">使用方式</td><td align="center">每次消耗</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/ILnnHV1.png" width="48"/></td><td align="center">金蘋果</td><td align="center">食用</td><td align="center">1個</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></td><td align="center">寶石</td><td align="center">右鍵使用</td><td align="center">3等級<br/>※等級不夠會損傷</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/R3EtEh7.png" width="48"/></td><td align="center">寶石方塊</td><td align="center">站在上方蹲下</td><td align="center">1等級</td></tr>
+    <tr><td align="center" rowspan="2"><img src="https://i.imgur.com/R3EtEh7.png" width="48"/></td><td align="center" rowspan="2">寶石方塊</td><td align="center">站在上方蹲下<br/>※觸發方塊更新</td><td align="center" rowspan="2">不消耗</td></tr>
+    <tr><td align="center">受到紅石信號<br/>※附近 6 格內玩家</td></tr>
 </table>
 
 傳送後會有`1秒無敵`+`10秒虛弱II`。

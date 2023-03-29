@@ -79,7 +79,8 @@
     <tr><td align="center">画像</td><td align="center">種類</td><td align="center">使用方法</td><td align="center">毎回消耗</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/2QdmOdE.png" width="48"/></td><td align="center">金りんご</td><td align="center">食べる</td><td align="center">1個</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/ME1CeOE.png" width="48"/></td><td align="center">宝石</td><td align="center">右クリック使用</td><td align="center">3レベル<br/>※レベル不足で損傷します</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/xv4Ph4E.png" width="48"/></td><td align="center">宝石ブロック</td><td align="center">上に立ってしゃがむ</td><td align="center">1レベル</td></tr>
+    <tr><td align="center" rowspan="2"><img src="https://i.imgur.com/xv4Ph4E.png" width="48"/></td><td align="center" rowspan="2">宝石ブロック</td><td align="center">上に立ちしゃがむ<br/>※ブロック更新をトリガーする</td><td align="center" rowspan="2">消耗しない</td></tr>
+    <tr><td align="center">レッドストーン信号を受ける<br/>※近くの6マス以内のプレイヤー</td></tr>
 </table>
 
 もし世界でランダムテレポートが許可されていない場合、消費したアイテムは返却され、エラーメッセージが表示されます。

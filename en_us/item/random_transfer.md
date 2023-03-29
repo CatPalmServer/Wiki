@@ -79,7 +79,8 @@ In the Overworld and the End, every 10 seconds a random location within a `+-100
     <tr><td align="center">Image</td><td align="center">Type</td><td align="center">Usage</td><td align="center">Consumption</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/2QdmOdE.png" width="48"/></td><td align="center">Golden Apple</td><td align="center">Eaten</td><td align="center">1</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/ME1CeOE.png" width="48"/></td><td align="center">Gemstone</td><td align="center">Right-click to use</td><td align="center">Level 3<br/>※Damage will be taken if the level is insufficient.</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/xv4Ph4E.png" width="48"/></td><td align="center">Block of Gemstone</td><td align="center">Stand on top and crouch</td><td align="center">Level 1</td></tr>
+    <tr><td align="center" rowspan="2"><img src="https://i.imgur.com/xv4Ph4E.png" width="48"/></td><td align="center" rowspan="2">Block of Emerald</td><td align="center">Standing above and crouching<br/>※Triggers block update</td><td align="center" rowspan="2">Does not consume</td></tr>
+    <tr><td align="center">Receives Redstone signal<br/>※Players within 6 blocks</td></tr>
 </table>
 
 If the world does not allow random teleportation, the consumed items will be returned, and an error message will be displayed.
