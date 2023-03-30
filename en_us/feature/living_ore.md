@@ -1,15 +1,15 @@
 [← Back to home](../)
 # Living Ore
-In the Overworld and the Nether, they attempt to generate every 4 game ticks in areas with light levels below 8 and solid blocks below them, within a distance of 8 to 48 blocks from the player's position. The probability of generation varies in different biomes:
+In the Overworld and the Nether, they attempt to generate every 6 game ticks in areas with light levels below 8 and solid blocks below them, within a distance of 8 to 48 blocks from the player's position. The probability of generation varies in different biomes:
 
 <table>
     <tr>
         <td align="center"><a href="https://minecraft.fandom.com/wiki/Soul_Sand_Valley">Soul Sand Valley</a></td>
-        <td align="center">20%</td>
+        <td align="center">6%</td>
     </tr>
     <tr>
         <td align="center">Other</td>
-        <td align="center">4%</td>
+        <td align="center">2%</td>
     </tr>
 </table>
 
@@ -22,9 +22,9 @@ The probability of generated ores is:
         <td align="center" rowspan="8">
             <table>
                 <tr>
-                    <td align="center">45%</td>
-                    <td align="center">45%</td>
-                    <td align="center">10%</td>
+                    <td align="center">48%</td>
+                    <td align="center">48%</td>
+                    <td align="center">4%</td>
                 </tr>
                 <tr>
                     <td align="center">Ore</td>
@@ -68,8 +68,8 @@ The probability of generated ores is:
         <td align="center">
             <table>
                 <tr>
-                    <td align="center">90%</td>
-                    <td align="center">10%</td>
+                    <td align="center">96%</td>
+                    <td align="center">4%</td>
                 </tr>
                 <tr>
                     <td align="center">Ancient Debris</td>

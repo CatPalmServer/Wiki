@@ -1,15 +1,15 @@
 [← ホームに戻る](../)
 # 生きた鉱石
-[主世界](https://minecraft.fandom.com/ja/wiki/オーバーワールド)、[ネザー](https://minecraft.fandom.com/ja/wiki/ネザー)は、明るさが`8未満で、下が固体ブロックであり、プレイヤーが距離8〜48ブロックの範囲内にいる場合に生成されます。異なるバイオームの確率が異なります： 
+[オーバーワールド](https://minecraft.fandom.com/ja/wiki/オーバーワールド)、[ネザー](https://minecraft.fandom.com/ja/wiki/ネザー)では、光度が`8`未満で下に固体ブロックがある場所で、プレイヤーが距離`8`〜`48`ブロック以内にいる場合に、毎`6`ゲームティックごとに生命鉱物が生成されることを試みます。異なるバイオームにおける発生確率は異なります：  
 
 <table>
     <tr>
         <td align="center"><a href="https://minecraft.fandom.com/ja/wiki/ソウルサンドバレー">ソウルサンドバレー</a></td>
-        <td align="center">20%</td>
+        <td align="center">6%</td>
     </tr>
     <tr>
         <td align="center">その他</td>
-        <td align="center">4%</td>
+        <td align="center">2%</td>
     </tr>
 </table>
 
@@ -22,9 +22,9 @@
         <td align="center" rowspan="8">
             <table>
                 <tr>
-                    <td align="center">45%</td>
-                    <td align="center">45%</td>
-                    <td align="center">10%</td>
+                    <td align="center">48%</td>
+                    <td align="center">48%</td>
+                    <td align="center">4%</td>
                 </tr>
                 <tr>
                     <td align="center">鉱石</td>
@@ -68,8 +68,8 @@
         <td align="center">
             <table>
                 <tr>
-                    <td align="center">90%</td>
-                    <td align="center">10%</td>
+                    <td align="center">96%</td>
+                    <td align="center">4%</td>
                 </tr>
                 <tr>
                     <td align="center">古代の残骸</td>
