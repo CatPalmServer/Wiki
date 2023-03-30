@@ -78,7 +78,7 @@
 <table>
     <tr><td align="center">이미지</td><td align="center">타입</td><td align="center">사용 방법</td><td align="center">사용 횟수</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/ILnnHV1.png" width="48"/></td><td align="center">황금 사과</td><td align="center">섭취</td><td align="center">1개</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></td><td align="center">보석</td><td align="center">우클릭 사용</td><td align="center">3 레벨<br/>※ 레벨 부족 시 손상</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/1KwfKwH.png" width="48"/></td><td align="center">보석</td><td align="center">우클릭 사용</td><td align="center">2 레벨<br/>※ 레벨 부족 시 손상</td></tr>
     <tr><td align="center" rowspan="2"><img src="https://i.imgur.com/R3EtEh7.png" width="48"/></td><td align="center" rowspan="2">보석 블록</td><td align="center">위에 서서 앉기<br/>※블록 업데이트 트리거</td><td align="center" rowspan="2">소모하지 않음</td></tr>
     <tr><td align="center">레드스톤 신호 받기<br/>※근처 6블록 내 플레이어</td></tr>
 </table>

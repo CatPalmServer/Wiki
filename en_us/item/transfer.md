@@ -80,7 +80,7 @@ In the Teleportation series, rename the anvil to the name of the record point yo
 <table>
     <tr><td align="center">Image</td><td align="center">Type</td><td align="center">Usage</td><td align="center">Consumption</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/4eKYni0.png" width="48"/></td><td align="center">Golden Apple</td><td align="center">Consumable</td><td align="center">1</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></td><td align="center">Gem</td><td align="center">Right-click use</td><td align="center">Level 3<br/>※Insufficient level will cause damage</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></td><td align="center">Gem</td><td align="center">Right-click use</td><td align="center">Level 2<br/>※Insufficient level will cause damage</td></tr>
     <tr><td align="center" rowspan="2"><img src="https://i.imgur.com/zWMjq19.png" width="48"/></td><td align="center" rowspan="2">Block of Emerald</td><td align="center">Standing above and crouching<br/>※Triggers block update</td><td align="center" rowspan="2">Does not consume</td></tr>
     <tr><td align="center">Receives Redstone signal<br/>※Players within 6 blocks</td></tr>
 </table>

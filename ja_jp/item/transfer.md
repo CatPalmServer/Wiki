@@ -80,7 +80,7 @@
 <table>
     <tr><td align="center">画像</td><td align="center">種類</td><td align="center">使用方法</td><td align="center">毎回消耗</td></tr>
     <tr><td align="center"><img src="https://i.imgur.com/4eKYni0.png" width="48"/></td><td align="center">金の林檎</td><td align="center">食べる</td><td align="center">1個</td></tr>
-    <tr><td align="center"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></td><td align="center">宝石</td><td align="center">右クリック使用</td><td align="center">レベル3<br/>※レベル不足でダメージを受ける</td></tr>
+    <tr><td align="center"><img src="https://i.imgur.com/OAmPEYz.png" width="48"/></td><td align="center">宝石</td><td align="center">右クリック使用</td><td align="center">レベル2<br/>※レベル不足でダメージを受ける</td></tr>
     <tr><td align="center" rowspan="2"><img src="https://i.imgur.com/zWMjq19.png" width="48"/></td><td align="center" rowspan="2">宝石ブロック</td><td align="center">上に立ちしゃがむ<br/>※ブロック更新をトリガーする</td><td align="center" rowspan="2">消耗しない</td></tr>
     <tr><td align="center">レッドストーン信号を受ける<br/>※近くの6マス以内のプレイヤー</td></tr>
 </table>
