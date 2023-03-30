@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <td align="center">2.9%</td>
-        <td align="center">ダイヤモンド鉱石/深層岩ダイヤモンド鉱石</td>
+        <td align="center">ダイヤモンド</td>
     </tr>
     <tr>
         <td align="center">0.1%</td>

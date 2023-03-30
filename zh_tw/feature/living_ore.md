@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <td align="center">2.9%</td>
-        <td align="center">鑽石礦／深板岩鑽石礦</td>
+        <td align="center">鑽石</td>
     </tr>
     <tr>
         <td align="center">0.1%</td>

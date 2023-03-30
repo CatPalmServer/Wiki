@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <td align="center">2.9%</td>
-        <td align="center">다이아몬드 광석/깊은 바위 다이아몬드 광석</td>
+        <td align="center">다이아몬드</td>
     </tr>
     <tr>
         <td align="center">0.1%</td>

@@ -60,7 +60,7 @@ The probability of generated ores is:
     </tr>
     <tr>
         <td align="center">2.9%</td>
-        <td align="center">Diamond Ore/Deepslate Diamond Ore</td>
+        <td align="center">Diamond</td>
     </tr>
     <tr>
         <td align="center">0.1%</td>
