@@ -1,6 +1,6 @@
 [← 回主頁](../)
 # 活體礦物
-[主世界](https://minecraft.fandom.com/zh/wiki/主世界)、[地獄](https://minecraft.fandom.com/zh/wiki/地獄)每`6`個遊戲刻度嘗試在亮度小於`8`且下方為固體方塊、玩家界於距離`8`~`48`格內的位置生成，不同生態域機率有所不同：  
+[主世界](https://minecraft.fandom.com/zh/wiki/主世界)、[地獄](https://minecraft.fandom.com/zh/wiki/地獄)每`4`個遊戲刻度嘗試在亮度小於`8`且下方為固體方塊、玩家界於距離`8`~`48`格內的位置生成，不同生態域機率有所不同：  
 
 <table>
     <tr>
