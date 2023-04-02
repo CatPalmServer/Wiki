@@ -50,7 +50,7 @@ You can only mine with the following tools:
 ---
 
 ## Generate
-In each [End](https://minecraft.fandom.com/en/wiki/End) block, there is a 0.01% chance to attempt generating Nightmare Crystal Ore at height 20~60. If the chosen coordinate is not [End Stone](https://minecraft.fandom.com/en/wiki/End_Stone), the generation is abandoned.
+In each [End](https://minecraft.fandom.com/en/wiki/End) chunk, there is a 0.01% chance to attempt generating Nightmare Crystal Ore at height 20~60. If the chosen coordinate is not [End Stone](https://minecraft.fandom.com/en/wiki/End_Stone), the generation is abandoned.
 
 ---
 
