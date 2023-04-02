@@ -38,9 +38,19 @@ Not vulnerable to explosion, burning or damage.
 ---
 
 ## Obtain
+You can only mine with the following tools:
 
-Nightmare Crystal Ore can only be mined with [Dragon Tooth Hoe, Blood Dragon Tooth Hoe, Nightmare Crystal Hoe ](pickaxe.md), [Dragon Tooth Destruction Tool, Blood Dragon Tooth Destruction Tool, Nightmare Crystal Destruction Tool ](fast_break_magic_wand.md), and will drop 1 Nightmare Crystal Fragment without using [Silk Touch ](https://minecraft.fandom.com/wiki/Silk_Touch).
-In the [End](https://minecraft.fandom.com/wiki/The_End), there is a 0.01% chance per block to attempt to generate a Nightmare Crystal Ore at heights 20-60. If the selected coordinates are not [End Stone](https://minecraft.fandom.com/wiki/End_Stone), the generation attempt is abandoned.
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/W49RaLU.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/wrtJ1c4.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/4tg5NLb.png" width="48"/></a>
+
+---
+
+## Generate
+In each [End](https://minecraft.fandom.com/en/wiki/End) block, there is a 0.01% chance to attempt generating Nightmare Crystal Ore at height 20~60. If the chosen coordinate is not [End Stone](https://minecraft.fandom.com/en/wiki/End_Stone), the generation is abandoned.
 
 ---
 

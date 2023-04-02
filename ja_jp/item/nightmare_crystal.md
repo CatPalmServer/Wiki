@@ -38,9 +38,19 @@
 ---
 
 ## 入手
+次のツールのみで掘ることができます：
 
-ナイトメア結晶鉱は、[ドラゴンの牙鎬、ブラッドドラゴンの牙鎬、ナイトメア結晶鎬](pickaxe.md)、[ドラゴンの破壊仗、ブラッドドラゴンの破壊仗、ナイトメア結晶破壊仗](fast_break_magic_wand.md)を使用して採掘する必要があり、[シルクタッチ](https://minecraft.fandom.com/ja/wiki/シルクタッチ)を使用しない場合、1つのナイトメア結晶欠片をドロップします。  
-[ジ・エンド](https://minecraft.fandom.com/ja/wiki/エンド)の各チャンクには、高度20~60でナイトメア結晶鉱が生成される0.01%の確率があります。生成される座標が[ジ・エンドストーン](https://minecraft.fandom.com/ja/wiki/エンドストーン)でない場合、この生成は放棄されます。  
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/W49RaLU.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/wrtJ1c4.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/4tg5NLb.png" width="48"/></a>
+
+---
+
+## 生成
+[エンド](https://minecraft.fandom.com/ja/wiki/エンド)の各チャンクには、0.01%の確率で、高度20〜60の間に悪夢の結晶鉱石が生成されることがあります。選ばれた座標が[エンドストーン](https://minecraft.fandom.com/ja/wiki/エンドストーン)でない場合、この回の生成を諦めます。
 
 ---
 

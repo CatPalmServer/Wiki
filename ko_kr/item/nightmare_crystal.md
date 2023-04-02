@@ -38,9 +38,19 @@
 ---
 
 ## 획득
+다음 도구만 사용하여 채굴할 수 있습니다:
 
-몽상 결정 광석은 드래곤 치아 곡괭이, 혈룡 치아 곡괭이, 몽상 결정 곡괭이, 드래곤 치아 파괴망치, 혈룡 치아 파괴망치, 몽상 결정 파괴망치로 캘 수 있으며, [실의 손길을 사용하지 않은 경우 몽상 결정 조각 1개가 떨어집니다.  
-종말의 지역에서 0.01%의 확률로 몽상 결정 광석이 높이 20~60에 생성되려고 시도하며, 선택된 좌표가 종말석이 아니면 이번 생성을 포기합니다.  
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="item/pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/W49RaLU.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/wrtJ1c4.png" width="48"/></a>
+<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/4tg5NLb.png" width="48"/></a>
+
+---
+
+## 생성
+[엔드](https://minecraft.fandom.com/ko/wiki/엔드)의 각 블록에는 0.01%의 확률로 악몽 수정 무더기 광산이 높이 20~60에서 생성되려고 시도합니다. 선택한 좌표가 [엔드 스톤](https://minecraft.fandom.com/ko/wiki/엔드_스톤)이 아닌 경우 이번 생성을 포기합니다.
 
 ---
 
