@@ -22,7 +22,7 @@
 ---
 
 ## クラフト
-鉄床(https://minecraft.fandom.com/ja/wiki/鉄床)とカミツキ(https://minecraft.fandom.com/ja/wiki/カミツキ)+`30`の経験値レベルで合成し、ハサミ(https://minecraft.fandom.com/ja/wiki/ハサミ)+`5`の経験値レベルで分解できます：
+[鉄床](https://minecraft.fandom.com/ja/wiki/鉄床)[とカミツキ](https://minecraft.fandom.com/ja/wiki/カミツキ)+`30`の経験値レベルで合成し、[ハサミ](https://minecraft.fandom.com/ja/wiki/ハサミ)+`5`の経験値レベルで分解できます：
 
 <table>
     <tr><td align="center">質感</td><td align="center" colspan="5">合成</td><td align="center" colspan="5">分解</td></tr>
