@@ -60,8 +60,8 @@ Place at least two elevators at the same level:
 <img src="https://i.imgur.com/TCQMFr7.png" width="720"/>
 
 <table>
-    <tr><td align="center">Jump</td><td align="center">Go to the elevator above</td></tr>
-    <tr><td align="center">Crouch</td><td align="center">Go to the elevator below</td></tr>
+    <tr><td align="center">Jump</td><td align="center">Go to the elevator above and trigger the block update</td></tr>
+    <tr><td align="center">Crouch</td><td align="center">Go to the elevator below and trigger the block update</td></tr>
 </table>
 
 No height limit, the farther the distance, the more hunger will be consumed.

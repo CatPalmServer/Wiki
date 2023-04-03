@@ -29,7 +29,7 @@ When someone else uses the notifier, the person who placed it will receive the n
 </table>
 
 ### Call
-Other players can use the notifier regardless of territory permissions, with a 60 second cooldown per use:
+Other players can use notifiers to update blocks regardless of land ownership. There is a 60-second cooldown after each use:
 
 <img src="https://i.imgur.com/vQPNsSz.png" width="480"/>  
 

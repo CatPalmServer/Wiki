@@ -22,7 +22,7 @@ Bouncy, bouncy!~
 
 ## Use
 
-The direction of bounce depends on the direction the block is facing when placed. There are a total of 9 directions: 
+The direction of the shot is determined by the direction faced when placed, and successful shots trigger block updates, with a total of 9 types available: 
 
 <table>
     <tr><td align="center" width="70" height="70">Northwest</td><td align="center" width="70" height="70">North</td><td align="center" width="70" height="70">Northeast</td></tr>

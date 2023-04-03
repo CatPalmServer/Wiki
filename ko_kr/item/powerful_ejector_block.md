@@ -22,7 +22,7 @@
 
 ## 사용
 
-발사 방향은 설치할 때의 방향에 따라 결정되며 총 9가지가 있습니다. 
+발사 방향은 설치할 때 바라보는 방향에 따라 결정되며, 발사가 성공하면 블록 업데이트가 트리거되며 총 9가지 유형이 있습니다:
 
 <table>
     <tr><td align="center" width="70" height="70">북서</td><td align="center" width="70" height="70">북</td><td align="center" width="70" height="70">북동</td></tr>

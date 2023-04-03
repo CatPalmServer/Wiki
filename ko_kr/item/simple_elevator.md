@@ -60,8 +60,8 @@
 <img src="https://i.imgur.com/TCQMFr7.png" width="720"/>
 
 <table>
-    <tr><td align="center">점프</td><td align="center">위쪽 엘리베이터로 이동</td></tr>
-    <tr><td align="center">웅크리기</td><td align="center">아래쪽 엘리베이터로 이동</td></tr>
+    <tr><td align="center">점프</td><td align="center">위층 엘리베이터로 이동하여 블록을 업데이트하십시오</td></tr>
+    <tr><td align="center">웅크리기</td><td align="center">아래층 엘리베이터로 이동하여 블록을 업데이트하십시오</td></tr>
 </table>
 
 높이 제한이 없으며 이동 거리가 먼 경우 더 많은 포만감이 소모됩니다.

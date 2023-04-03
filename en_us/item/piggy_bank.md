@@ -25,7 +25,7 @@ Every little bit counts.
 Place on the ground to collect [Cat Coins](coin.md) and trigger a block update above it.
 
 ### Withdraw
-You can only hold currency or air in your main hand. Right-clicking the coin bank will incrementally withdraw [Copper Coins](coin.md)/[Iron Coins](coin.md)/[Silver Coins](coin.md)/[Gold Coins](coin.md)/[Star Coins](coin.md) in quantities of `1`/`5`/`20`.
+In the main hand, only currency or air can be held, and right-clicking on a savings box can add or withdraw [Copper Coins](coin.md)/[Iron Coins](coin.md)/[Silver Coins](coin.md)/[Gold Coins](coin.md)/[Star Coins](coin.md) in quantities of `1`/`5`/`20`, triggering a block update.
 
 ### Destroy
 Drops all [Cat Coins](coin.md) and consumes the coin bank.

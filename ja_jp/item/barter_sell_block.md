@@ -37,6 +37,6 @@
     <tr><td>在<a href="https://minecraft.fandom.com/ja/wiki/鉄砧">铁砧</a>改成想要的价格</td><td><img src="https://i.imgur.com/LDgXCyC.png" width="720"/></td></tr>
     <tr><td>放置</td><td><img src="https://i.imgur.com/U6EMo3i.png" width="720"/></td></tr>
     <tr><td>前方容器放入商品</td><td><img src="https://i.imgur.com/DgI2arL.png" width="720"/></td></tr>
-    <tr><td>レッドストーン信号を与える</td><td><img src="https://i.imgur.com/dMGICtl.png" width="720"/></td></tr>
+    <tr><td>レッドストーン信号を与える</td><td><img src="https://i.imgur.com/dMGICtl.png" width="720"/><br/>※上架成功した場合、ブロックが更新されます。</td></tr>
 </table>
 

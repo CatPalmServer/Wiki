@@ -22,7 +22,7 @@
 
 ## 使用方法
 
-設置時に向きを決め、9つの方向から選択できます：
+弾射する方向は、設置時の向きによって決まります。弾射が成功すると、ブロックの更新がトリガーされ、9種類があります：
 
 <table>
     <tr><td align="center" width="70" height="70">北西</td><td align="center" width="70" height="70">北</td><td align="center" width="70" height="70">北東</td></tr>

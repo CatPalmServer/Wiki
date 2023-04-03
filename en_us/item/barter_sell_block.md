@@ -37,6 +37,6 @@ When Triggered by Redstone Signal, the Items in the Container in the Facing Dire
     <tr><td>Change the price you want at an <a href="https://minecraft.fandom.com/wiki/Anvil">anvil</a></td><td><img src="https://i.imgur.com/LDgXCyC.png" width="720"/></td></tr>
     <tr><td>Place</td><td><img src="https://i.imgur.com/U6EMo3i.png" width="720"/></td></tr>
     <tr><td>Put items into container in front</td><td><img src="https://i.imgur.com/DgI2arL.png" width="720"/></td></tr>
-    <tr><td>Give a redstone signal</td><td><img src="https://i.imgur.com/dMGICtl.png" width="720"/></td></tr>
+    <tr><td>Give a redstone signal</td><td><img src="https://i.imgur.com/dMGICtl.png" width="720"/><br/>※ If successful, the block will be updated upon placement.</td></tr>
 </table>
 

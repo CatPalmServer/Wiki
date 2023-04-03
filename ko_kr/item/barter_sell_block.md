@@ -37,6 +37,6 @@
     <tr><td>철판에서 원하는 가격으로 변경</td><td><img src="https://i.imgur.com/LDgXCyC.png" width="720"/></td></tr>
     <tr><td>설치</td><td><img src="https://i.imgur.com/U6EMo3i.png" width="720"/></td></tr>
     <tr><td>앞쪽 컨테이너에 아이템 넣기</td><td><img src="https://i.imgur.com/DgI2arL.png" width="720"/></td></tr>
-    <tr><td>레드스톤 신호 전달</td><td><img src="https://i.imgur.com/dMGICtl.png" width="720"/></td></tr>
+    <tr><td>레드스톤 신호 전달</td><td><img src="https://i.imgur.com/dMGICtl.png" width="720"/><br/>※ 배치 성공시 블록이 업데이트됩니다.</td></tr>
 </table>
 

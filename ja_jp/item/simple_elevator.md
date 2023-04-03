@@ -60,8 +60,8 @@
 <img src="https://i.imgur.com/TCQMFr7.png" width="720"/>
 
 <table>
-    <tr><td align="center">ジャンプ</td><td align="center">上のエレベーターに移動する</td></tr>
-    <tr><td align="center">しゃがむ</td><td align="center">下のエレベーターに移動する</td></tr>
+    <tr><td align="center">ジャンプ</td><td align="center">上のエレベーターに行ってブロックを更新してください</td></tr>
+    <tr><td align="center">しゃがむ</td><td align="center">下のエレベーターに行ってブロックを更新してください</td></tr>
 </table>
 
 高さ制限はありませんが、移動距離が遠いほど食料を多く消費します。
