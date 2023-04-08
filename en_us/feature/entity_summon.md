@@ -56,12 +56,12 @@
 
 If placed below specific minerals, it will additionally strengthen summoned creatures,
 
-<table>
+<table width="2000">
     <tr>
-        <td width="300" colspan="2" align="center"><img src="https://i.imgur.com/vf9af85.png" width="48"/></td>
-        <td width="300" colspan="2" align="center"><img src="https://i.imgur.com/12xJcqL.png" width="48"/></td>
-        <td width="300" colspan="2" align="center"><img src="https://i.imgur.com/bcneq4q.png" width="48"/></td>
-        <td width="300" colspan="2" align="center"><img src="https://i.imgur.com/yIuTHWI.png" width="48"/></td>
+        <td colspan="2" align="center"><img src="https://i.imgur.com/vf9af85.png" width="48"/></td>
+        <td colspan="2" align="center"><img src="https://i.imgur.com/12xJcqL.png" width="48"/></td>
+        <td colspan="2" align="center"><img src="https://i.imgur.com/bcneq4q.png" width="48"/></td>
+        <td colspan="2" align="center"><img src="https://i.imgur.com/yIuTHWI.png" width="48"/></td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/zxfoph8.png" width="48"/></td>
