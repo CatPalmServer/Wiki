@@ -56,12 +56,10 @@
 
 If placed below specific minerals, it will additionally strengthen summoned creatures,
 
-<table width="2000">
+<table>
     <tr>
         <td colspan="2" align="center"><img src="https://i.imgur.com/vf9af85.png" width="48"/></td>
         <td colspan="2" align="center"><img src="https://i.imgur.com/12xJcqL.png" width="48"/></td>
-        <td colspan="2" align="center"><img src="https://i.imgur.com/bcneq4q.png" width="48"/></td>
-        <td colspan="2" align="center"><img src="https://i.imgur.com/yIuTHWI.png" width="48"/></td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/zxfoph8.png" width="48"/></td>
@@ -84,6 +82,113 @@ If placed below specific minerals, it will additionally strengthen summoned crea
                 <tr><td align="center">Protection</td><td align="center">II</td></tr>
             </table>
         </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/w72cMVi.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Protection</td><td align="center">II</td></tr>
+            </table>
+        </td>
+        <td><img src="https://i.imgur.com/EVLOHyn.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Protection</td><td align="center">II</td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/KxtYDRb.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Protection</td><td align="center">II</td></tr>
+            </table>
+        </td>
+        <td><img src="https://i.imgur.com/UPI7cGj.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Protection</td><td align="center">II</td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/ikaPFM7.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Protection</td><td align="center">II</td></tr>
+            </table>
+        </td>
+        <td><img src="https://i.imgur.com/ac5j2mv.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
+                <tr><td align="center">Protection</td><td align="center">II</td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Power</td><td align="center">II</td></tr>
+            </table>
+        </td>
+        <td><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Power</td><td align="center">II</td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/9ATlzPY.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Sharpness</td><td align="center">II</td></tr>
+            </table>
+        </td>
+        <td><img src="https://i.imgur.com/E70Hdwe.png" width="48"/></td>
+        <td>
+            <table>
+                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
+                <tr><td align="center">Sharpness</td><td align="center">II</td></tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td colspan="2" align="center"><img src="https://i.imgur.com/bcneq4q.png" width="48"/></td>
+        <td colspan="2" align="center"><img src="https://i.imgur.com/yIuTHWI.png" width="48"/></td>
+    </tr>
+    <tr>
         <td><img src="https://i.imgur.com/nksRRP3.png" width="48"/></td>
         <td>
             <table>
@@ -110,26 +215,6 @@ If placed below specific minerals, it will additionally strengthen summoned crea
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/w72cMVi.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Protection</td><td align="center">II</td></tr>
-            </table>
-        </td>
-        <td><img src="https://i.imgur.com/EVLOHyn.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Protection</td><td align="center">II</td></tr>
-            </table>
-        </td>
         <td><img src="https://i.imgur.com/7bKmJmD.png" width="48"/></td>
         <td>
             <table>
@@ -154,26 +239,6 @@ If placed below specific minerals, it will additionally strengthen summoned crea
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/KxtYDRb.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Protection</td><td align="center">II</td></tr>
-            </table>
-        </td>
-        <td><img src="https://i.imgur.com/UPI7cGj.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Protection</td><td align="center">II</td></tr>
-            </table>
-        </td>
         <td><img src="https://i.imgur.com/WDQ3Uls.png" width="48"/></td>
         <td>
             <table>
@@ -198,26 +263,6 @@ If placed below specific minerals, it will additionally strengthen summoned crea
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/ikaPFM7.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Protection</td><td align="center">II</td></tr>
-            </table>
-        </td>
-        <td><img src="https://i.imgur.com/ac5j2mv.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Blast Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Fire Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Projectile Protection</td><td align="center">II</td></tr>
-                <tr><td align="center">Protection</td><td align="center">II</td></tr>
-            </table>
-        </td>
         <td><img src="https://i.imgur.com/bnJuDqT.png" width="48"/></td>
         <td>
             <table>
@@ -250,20 +295,6 @@ If placed below specific minerals, it will additionally strengthen summoned crea
         <td>
             <table>
                 <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Power</td><td align="center">II</td></tr>
-            </table>
-        </td>
-        <td><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Power</td><td align="center">II</td></tr>
-            </table>
-        </td>
-        <td><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
                 <tr><td align="center">Flame</td><td align="center">I</td></tr>
                 <tr><td align="center">Power</td><td align="center">IV</td></tr>
             </table>
@@ -278,20 +309,6 @@ If placed below specific minerals, it will additionally strengthen summoned crea
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/9ATlzPY.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Sharpness</td><td align="center">II</td></tr>
-            </table>
-        </td>
-        <td><img src="https://i.imgur.com/E70Hdwe.png" width="48"/></td>
-        <td>
-            <table>
-                <tr><td align="center">Curse of Vanishing</td><td align="center">I</td></tr>
-                <tr><td align="center">Sharpness</td><td align="center">II</td></tr>
-            </table>
-        </td>
         <td><img src="https://i.imgur.com/MdyI4FQ.png" width="48"/></td>
         <td>
             <table>
