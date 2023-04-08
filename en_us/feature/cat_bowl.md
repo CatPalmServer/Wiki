@@ -12,4 +12,4 @@ After consuming a [canned cat food](../item/canned_cat.md), you can enjoy the fo
 - Use `/magnet` to enable item drop magnet.
 - Ignore connection limits.
 - Increase land hanging activity level by +`1` per second, increased to +`4`.
-- - Use [WebAPI](https://catpalm.gitbook.io/webapi/).
+- Use [WebAPI](https://catpalm.gitbook.io/webapi/).
