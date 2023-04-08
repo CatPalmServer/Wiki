@@ -64,7 +64,7 @@
         <td colspan="2" align="center"><img src="https://i.imgur.com/yIuTHWI.png" width="48"/></td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/zxfoph8.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/zxfoph8.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">II</td></tr>
@@ -74,7 +74,7 @@
                 <tr><td align="center">保護</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/PPCT2zw.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/PPCT2zw.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">II</td></tr>
@@ -84,7 +84,7 @@
                 <tr><td align="center">保護</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/nksRRP3.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/nksRRP3.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">親水性</td><td align="center">I</td></tr>
@@ -96,7 +96,7 @@
                 <tr><td align="center">尖刺</td><td align="center">I</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/J5Tl0XS.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/J5Tl0XS.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">親水性</td><td align="center">I</td></tr>
@@ -110,7 +110,7 @@
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/w72cMVi.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/w72cMVi.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">II</td></tr>
@@ -120,7 +120,7 @@
                 <tr><td align="center">保護</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/EVLOHyn.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/EVLOHyn.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">II</td></tr>
@@ -130,7 +130,7 @@
                 <tr><td align="center">保護</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/7bKmJmD.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/7bKmJmD.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">III</td></tr>
@@ -141,7 +141,7 @@
                 <tr><td align="center">尖刺</td><td align="center">I</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/pYRy32b.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/pYRy32b.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">IV</td></tr>
@@ -154,7 +154,7 @@
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/KxtYDRb.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/KxtYDRb.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">II</td></tr>
@@ -164,7 +164,7 @@
                 <tr><td align="center">保護</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/UPI7cGj.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/UPI7cGj.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">II</td></tr>
@@ -174,7 +174,7 @@
                 <tr><td align="center">保護</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/WDQ3Uls.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/WDQ3Uls.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">III</td></tr>
@@ -185,7 +185,7 @@
                 <tr><td align="center">尖刺</td><td align="center">I</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/hxjwY5c.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/hxjwY5c.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">IV</td></tr>
@@ -198,7 +198,7 @@
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/ikaPFM7.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/ikaPFM7.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">II</td></tr>
@@ -208,7 +208,7 @@
                 <tr><td align="center">保護</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/ac5j2mv.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/ac5j2mv.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">II</td></tr>
@@ -218,7 +218,7 @@
                 <tr><td align="center">保護</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/bnJuDqT.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/bnJuDqT.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">III</td></tr>
@@ -231,7 +231,7 @@
                 <tr><td align="center">尖刺</td><td align="center">I</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/JHLT95L.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/JHLT95L.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">爆炸保護</td><td align="center">IV</td></tr>
@@ -246,21 +246,21 @@
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">消失詛咒</td><td align="center">I</td></tr>
                 <tr><td align="center">強力</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">消失詛咒</td><td align="center">I</td></tr>
                 <tr><td align="center">強力</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">消失詛咒</td><td align="center">I</td></tr>
@@ -268,7 +268,7 @@
                 <tr><td align="center">強力</td><td align="center">IV</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/xluox0d.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">消失詛咒</td><td align="center">I</td></tr>
@@ -278,21 +278,21 @@
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/9ATlzPY.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/9ATlzPY.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">消失詛咒</td><td align="center">I</td></tr>
                 <tr><td align="center">鋒利</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/E70Hdwe.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/E70Hdwe.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">消失詛咒</td><td align="center">I</td></tr>
                 <tr><td align="center">鋒利</td><td align="center">II</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/MdyI4FQ.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/MdyI4FQ.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">消失詛咒</td><td align="center">I</td></tr>
@@ -300,7 +300,7 @@
                 <tr><td align="center">鋒利</td><td align="center">IV</td></tr>
             </table>
         </td>
-        <td><img src="https://i.imgur.com/zn1zW5x.png" width="48"/></td>
+        <td width="76"><img src="https://i.imgur.com/zn1zW5x.png" width="48"/></td>
         <td>
             <table>
                 <tr><td align="center">消失詛咒</td><td align="center">I</td></tr>
