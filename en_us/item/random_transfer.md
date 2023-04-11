@@ -73,7 +73,7 @@ Looking for new biomes? Why not try random teleportation!
 ---
 
 ## Use
-In the Overworld and the End, every 10 seconds a random location within a `+-10000` block radius centered at `(0,0)` will be selected, and using it before the next cycle will result in arriving at the same location.
+In the main world and the End world, every 10 seconds, a random safe and unclaimed location within a radius of ±10000 from the center point (0,0) is selected, and it will reach the same location before the next cycle.  
 
 <table>
     <tr><td align="center">Image</td><td align="center">Type</td><td align="center">Usage</td><td align="center">Consumption</td></tr>
