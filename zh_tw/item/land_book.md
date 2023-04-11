@@ -57,7 +57,7 @@
 
 頂層方塊為[領地產生器](land_block.md)  
 下四層可以是[領地小能量、領地中能量、領地大能量](land_energy.md)混搭  
-放滿四層滿獲得額外+20%能量點，能量點轉換公式：
+放滿四層會獲得額外+20%能量點，能量點轉換公式：
 
 <table>
     <tr><td align="center">能量</td><td align="center">點數</td></tr>
