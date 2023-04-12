@@ -90,4 +90,4 @@ Record Player Behavior,
     </tr>
 </table>
 
-Longest retention period is 180 days.
+Longest retention period is 360 days.
