@@ -40,12 +40,12 @@
 ## 獲取
 只能使用以下工具挖掘：
 
-<a href="item/pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
-<a href="item/pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
-<a href="item/pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
-<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/W49RaLU.png" width="48"/></a>
-<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/wrtJ1c4.png" width="48"/></a>
-<a href="item/fast_break_magic_wand.md"><img src="https://i.imgur.com/4tg5NLb.png" width="48"/></a>
+<a href="pickaxe.md"><img src="https://i.imgur.com/8Az4lnz.png" width="48"/></a>
+<a href="pickaxe.md"><img src="https://i.imgur.com/JNU7eKp.png" width="48"/></a>
+<a href="pickaxe.md"><img src="https://i.imgur.com/lHvmvzX.png" width="48"/></a>
+<a href="fast_break_magic_wand.md"><img src="https://i.imgur.com/W49RaLU.png" width="48"/></a>
+<a href="fast_break_magic_wand.md"><img src="https://i.imgur.com/wrtJ1c4.png" width="48"/></a>
+<a href="fast_break_magic_wand.md"><img src="https://i.imgur.com/4tg5NLb.png" width="48"/></a>
 
 ---
 
