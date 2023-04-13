@@ -93,6 +93,11 @@ Whoosh
 
 ---
 
+## Usage
+Place it in the rightmost slot of the hotbar.
+
+---
+
 ## Data
 Extra sound effects are played when performing various actions.
 
