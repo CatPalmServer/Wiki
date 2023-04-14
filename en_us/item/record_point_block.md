@@ -22,4 +22,5 @@ A must-have block for home travel.
 
 ## Use
 After renaming in an [Anvil](https://minecraft.fandom.com/wiki/Anvil), place it down to be able to use [Transfer Golden Apple, Transfer Gem, Transfer Gem Block](transfer.md) to return to that location.  
+The direction it was placed in will become the direction you face when teleporting.  
 If the name is already in use, a flag with a recording point will be returned and an error message will be displayed.
