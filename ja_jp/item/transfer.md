@@ -73,7 +73,7 @@
 ---
 
 ## 使用方法
-テレポートするには[記録地点の旗](record_point_banner.md)を設置してから、そこに移動する必要があります。
+テレポートするには[記録ポイントブロック](record_point_block.md)を設置してから、そこに移動する必要があります。
 テレポートシリーズでは、[アンビル](https://minecraft.fandom.com/ja/wiki/金床)で移動先の記録地点の名前を変更する必要があります。
 
 <img src="https://i.imgur.com/RscWLaF.png" width="480"/>

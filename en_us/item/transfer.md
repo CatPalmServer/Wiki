@@ -73,7 +73,7 @@ Wait... who are you? How did you get into my house??
 ---
 
 ## Use
-Requires a [record point banner](record_point_banner.md) to be set up as a record point before teleportation can occur.
+Requires a [Record Point Block](record_point_block.md) to be set up as a record point before teleportation can occur.
 In the Teleportation series, rename the anvil to the name of the record point you want to go to. 
 
 <img src="https://i.imgur.com/RscWLaF.png" width="480"/>

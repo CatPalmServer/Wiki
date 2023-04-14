@@ -40,7 +40,7 @@ Use points to redeem items. The default starting points are `1000`.
     <tr><td align="center"><a href="../food/cheese_puff.md">Cheese Puff</a></td></tr>
     <tr><td align="center"><a href="../item/random_transfer.md">Random Teleportation Golden Apple</a></td><td align="center" rowspan="2">4</td></tr>
     <tr><td align="center"><a href="../item/back.md">Respawn Golden Apple</a></td></tr>
-    <tr><td align="center"><a href="../item/record_point_banner.md">Recordable White Flag</a></td><td align="center">40</td><td align="center">1</td></tr>
+    <tr><td align="center"><a href="../item/record_point_block.md">Record Point Block</a></td><td align="center">40</td><td align="center">1</td></tr>
     <tr><td align="center"><a href="../item/transfer.md">Teleportation Golden Apple</a></td><td align="center">4</td><td align="center" rowspan="3"></td></tr>
     <tr><td align="center"><a href="../item/coin.md">Copper Coin</a></td><td align="center">10</td></tr>
     <tr><td align="center"><a href="../item/cat_amulet.md">Cat Amulet</a></td><td align="center">4</td></tr>

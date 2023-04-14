@@ -73,7 +73,7 @@
 ---
 
 ## 사용
-[기록점 깃발](record_point_banner.md)을 설정해야만 전송할 수 있습니다.
+[기록 지점 블록](record_point_block.md)을 설정해야만 전송할 수 있습니다.
 전송 시리즈에서[모루](https://minecraft.fandom.com/ko/wiki/모루)에서 전송할 기록점의 이름으로 변경합니다.
 
 <img src="https://i.imgur.com/RscWLaF.png" width="480"/>

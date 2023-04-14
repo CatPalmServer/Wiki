@@ -40,7 +40,7 @@
     <tr><td align="center"><a href="../food/cheese_puff.md">치즈 파이</a></td></tr>
     <tr><td align="center"><a href="../item/random_transfer.md">랜덤 이동 황금사과</a></td><td align="center" rowspan="2">4</td></tr>
     <tr><td align="center"><a href="../item/back.md">재생 황금사과</a></td></tr>
-    <tr><td align="center"><a href="../item/record_point_banner.md">기록 가능한 하얀 깃발</a></td><td align="center">40</td><td align="center">1</td></tr>
+    <tr><td align="center"><a href="../item/record_point_block.md">기록 지점 블록</a></td><td align="center">40</td><td align="center">1</td></tr>
     <tr><td align="center"><a href="../item/transfer.md">이동 황금사과</a></td><td align="center">4</td><td align="center" rowspan="3"></td></tr>
     <tr><td align="center"><a href="../item/coin.md">동전</a></td><td align="center">10</td></tr>
     <tr><td align="center"><a href="../item/cat_amulet.md">고양이 부적</a></td><td align="center">4</td></tr>

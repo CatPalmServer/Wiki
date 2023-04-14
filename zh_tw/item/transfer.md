@@ -73,7 +73,7 @@
 ---
 
 ## 使用
-需要[可記錄點的旗幟](record_point_banner.md)先設置紀錄點，才能傳送過去。  
+需要[記錄點方塊](record_point_block.md)先設置紀錄點，才能傳送過去。  
 傳送系列在[鐵砧](https://minecraft.fandom.com/zh/wiki/鐵砧)改名成要去的紀錄點名稱。  
 
 <img src="https://i.imgur.com/RscWLaF.png" width="480"/>

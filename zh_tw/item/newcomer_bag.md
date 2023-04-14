@@ -40,7 +40,7 @@
     <tr><td align="center"><a href="../food/cheese_puff.md">起司泡芙</a></td></tr>
     <tr><td align="center"><a href="../item/random_transfer.md">隨機傳送金蘋果</a></td><td align="center" rowspan="2">4</td></tr>
     <tr><td align="center"><a href="../item/back.md">重生金蘋果</a></td></tr>
-    <tr><td align="center"><a href="../item/record_point_banner.md">可記錄點的白色旗幟</a></td><td align="center">40</td><td align="center">1</td></tr>
+    <tr><td align="center"><a href="../item/record_point_block.md">記錄點方塊</a></td><td align="center">40</td><td align="center">1</td></tr>
     <tr><td align="center"><a href="../item/transfer.md">傳送金蘋果</a></td><td align="center">4</td><td align="center" rowspan="3"></td></tr>
     <tr><td align="center"><a href="../item/coin.md">銅幣</a></td><td align="center">10</td></tr>
     <tr><td align="center"><a href="../item/cat_amulet.md">貓之護符</a></td><td align="center">4</td></tr>
