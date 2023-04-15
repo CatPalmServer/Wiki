@@ -5,10 +5,10 @@
 ## 傷害減免
 <table>
     <tr>
-        <td align="center">累計時數少於天數</td>
-        <td align="center">1</td>
-        <td align="center">2</td>
-        <td align="center">4</td>
+        <td align="center">累計時數少於</td>
+        <td align="center">1天</td>
+        <td align="center">2天</td>
+        <td align="center">4天</td>
     </tr>
     <tr>
         <td align="center">減免程度</td>
