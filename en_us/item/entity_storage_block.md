@@ -34,9 +34,9 @@ It's time to show them what "magic" means!
         <td align="center">Friendly</td>
         <td>
             <table>
-                <tr><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td colspan="3"></td></tr>
                 <tr><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td><img src="https://i.imgur.com/IWZz8YM.png" width="48"/></td><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/t5hSkSU.png" width="48"/></td><td width="70"></td></tr>
-                <tr><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td><img src="https://i.imgur.com/ZvzYK32.png" width="48"/></td><td><img src="https://i.imgur.com/Nz7hGwj.png" width="48"/></td><td colspan="3"></td></tr>
             </table>
         </td>
     </tr>
@@ -44,9 +44,9 @@ It's time to show them what "magic" means!
         <td align="center">Hostile</td>
         <td>
             <table>
-                <tr><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td colspan="3"></td></tr>
                 <tr><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td><img src="https://i.imgur.com/IWZz8YM.png" width="48"/></td><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td width="70" align="center"><img src="https://i.imgur.com/VE0KqIE.png" width="40"/></td><td><img src="https://i.imgur.com/hyk6PYU.png" width="48"/></td><td width="70"></td></tr>
-                <tr><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td colspan="3"></td></tr>
+                <tr><td><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td><img src="https://i.imgur.com/bLvlyCD.png" width="48"/></td><td><img src="https://i.imgur.com/p7vVzp7.png" width="48"/></td><td colspan="3"></td></tr>
             </table>
         </td>
     </tr>
