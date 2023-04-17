@@ -1,6 +1,6 @@
 [← 홈으로](../)
 # 생체 광물
-[주 세계](https://minecraft.fandom.com/ko/wiki/주_세계)와 [지옥](https://minecraft.fandom.com/ko/wiki/지옥)에서 4 게임 틱마다 밝기가 8 이하이고 아래에 고체 블록이 있으며, 플레이어가 거리 8~48 칸 내에 위치한 경우 생성을 시도하며 다른 생태계에서 확률이 다릅니다.
+[주 세계](https://minecraft.fandom.com/ko/wiki/주_세계)와 [지옥](https://minecraft.fandom.com/ko/wiki/지옥)에서 4 게임 틱마다 밝기가 8 이하이고 아래에 고체 블록이 있으며, 플레이어가 거리 8~24 칸 내에 위치한 경우 생성을 시도하며 다른 생태계에서 확률이 다릅니다.
 
 <table>
     <tr>

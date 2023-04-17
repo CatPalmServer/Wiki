@@ -1,6 +1,6 @@
 [← Back to home](../)
 # Living Ore
-In the Overworld and the Nether, they attempt to generate every 4 game ticks in areas with light levels below 8 and solid blocks below them, within a distance of 8 to 48 blocks from the player's position. The probability of generation varies in different biomes:
+In the Overworld and the Nether, they attempt to generate every 4 game ticks in areas with light levels below 8 and solid blocks below them, within a distance of 8 to 24 blocks from the player's position. The probability of generation varies in different biomes:
 
 <table>
     <tr>
