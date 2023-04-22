@@ -17,7 +17,7 @@ You'll regret it if you don't sign in often enough.!
 ---
 
 ## Usage
-After opening the menu by right-clicking for the first time, you can accumulate up to 30 points within 30 days. To receive one point per day, you must turn in one specific item, and you cannot make up for missed days.
+After opening the menu by right-clicking for the first time, you can accumulate up to 30 points within 35 days. To receive one point per day, you must turn in one specific item, and you cannot make up for missed days.
 
 <table>
     <tr><td align="center">Title</td><td colspan="9">Collection Card</td></tr>
