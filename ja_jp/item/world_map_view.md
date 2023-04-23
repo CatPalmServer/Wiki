@@ -72,15 +72,7 @@
 </table>
 
 ### 保存されたウェイポイントリスト
-最大で45個のウェイポイントを保存できます。 ウェイポイントを追加する場合は、
-
-<table>
-    <tr><td>常用手持ち彗星マップ</td><td><img src="https://i.imgur.com/Br7zuQC.png" width="720"/></td></tr>
-    <tr><td>ウェイポイント旗の下を向いて右クリック</td><td><img src="https://i.imgur.com/WqttmNy.png" width="720"/><br/>アクションバーが"位置を彗星マップに記録しました"と応答したら成功です。</td></tr>
-    <tr><td>保存されたウェイポイントは画面に表示されます。<br/>表示状態を切り替えたり、削除したりできます。</td><td><img src="https://i.imgur.com/IFqzYqV.png" width="720"/></td></tr>
-</table>
-
-ウェイポイントの表示/非表示  
+最大45個の座標を保存できます。表示/非表示切り替えはこちら：
 
 <table>
     <tr><td align="center">表示</td><td align="center">非表示</td></tr>

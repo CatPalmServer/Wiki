@@ -72,15 +72,7 @@ Right-click with an active map in hand to open the menu:
 </table>
 
 ### Saved Waypoints List
-You can save up to 45 waypoint coordinates. To add a waypoint:  
-
-<table>
-    <tr><td>Trident in the off-hand</td><td><img src="https://i.imgur.com/Br7zuQC.png" width="720"/></td></tr>
-    <tr><td>Right-click below the waypoint flag while aiming</td><td><img src="https://i.imgur.com/WqttmNy.png" width="720"/><br/>The action bar will show "Position saved to compass" upon success.</td></tr>
-    <tr><td>The saved waypoints will be displayed on the screen.<br/>You can toggle their visibility or remove them using the menu.</td><td><img src="https://i.imgur.com/IFqzYqV.png" width="720"/></td></tr>
-</table>
-
-Waypoint Display  
+You can save up to 45 coordinate waypoints. To toggle visibility, click here:
 
 <table>
     <tr><td align="center">Show</td><td align="center">Hide</td></tr>

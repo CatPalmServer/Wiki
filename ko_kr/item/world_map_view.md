@@ -72,15 +72,7 @@
 </table>
 
 ### 저장된 기록 지점 목록
-최대 45개의 기록 지점 좌표를 저장할 수 있으며, 기록 지점을 추가하려면: 
-
-<table>
-    <tr><td>편의용 손에 들고 있는 혜성 지도</td><td><img src="https://i.imgur.com/Br7zuQC.png" width="720"/></td></tr>
-    <tr><td>기록 지점 깃발 아래쪽을 조준하고 우클릭하십시오.</td><td><img src="https://i.imgur.com/WqttmNy.png" width="720"/><br/>작업란이 "위치를 혜성 지도에 기록했습니다"라는 응답을 반환하면 성공입니다.</td></tr>
-    <tr><td>저장된 기록 지점이 화면 내에 표시됩니다. <br/> 메뉴를 열어 표시 상태를 전환하거나 제거할 수 있습니다.</td><td><img src="https://i.imgur.com/IFqzYqV.png" width="720"/></td></tr>
-</table>
-
-기록 지점 표시/비표시  
+최대 45개의 좌표를 저장할 수 있으며, 표시/비표시를 전환하려면 여기를 클릭하세요:
 
 <table>
     <tr><td align="center">표시</td><td align="center">비표시</td></tr>
