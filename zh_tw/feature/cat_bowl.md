@@ -1,6 +1,6 @@
 [← 回主頁](../)
 # 貓糧
-食用[貓糧罐](../item/canned_cat.md)後享受以下特權。
+食用[貓糧罐](../item/canned_cat.md)後享受以下特權：  
 
 - 飛行許可能在有[Y權限的領地](../item/land_book.md#y-飛行)內飛行、使用`/ob`/`F3+N`/`F3+F4`切換成[旁觀者模式](https://minecraft.fandom.com/zh/wiki/旁觀者模式)
 - 使用`/cr`/`F3+F4`切換成[模擬創造模式](virtual_creative.md)
