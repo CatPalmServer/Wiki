@@ -513,14 +513,14 @@
         <td width="20%"><a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/wkgN4s7.png" width="198"/></a></td>
         <td width="20%"><a href="feature/living_ore.md"><img src="https://i.imgur.com/jhrPE3M.png" width="198"/></a></td>
         <td width="20%"><a href="feature/newbie_protection.md"><img src="https://i.imgur.com/9NRE5xt.png" width="198"/></a></td>
-        <td width="20%"></td>
+        <td width="20%"><a href="feature/virtual_creative.md"><img src="https://i.imgur.com/sda2wAa.png" width="198"/></a></td>
         <td width="20%"></td>
     </tr>
     <tr>
         <td width="20%" align="center"><a href="feature/auto_backpack_sort.md">自動整理バッグ</a></td>
         <td width="20%" align="center"><a href="feature/living_ore.md">生きた鉱石</a></td>
         <td width="20%" align="center"><a href="feature/newbie_protection.md">初心者保護</a></td>
-        <td width="20%"></td>
+        <td width="20%" align="center"><a href="feature/virtual_creative.md">クリエイティブモードのシミュレーション</a></td>
         <td width="20%"></td>
     </tr>
     <tr>

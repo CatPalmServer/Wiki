@@ -2,7 +2,8 @@
 # 貓糧
 食用[貓糧罐](../item/canned_cat.md)後享受以下特權。
 
-- 飛行許可能在有[Y權限的領地](../item/land_book.md#y-飛行)內飛行、使用`/ob`或`F3+N`切換成[旁觀者模式](https://minecraft.fandom.com/zh/wiki/旁觀者模式)
+- 飛行許可能在有[Y權限的領地](../item/land_book.md#y-飛行)內飛行、使用`/ob`/`F3+N`/`F3+F4`切換成[旁觀者模式](https://minecraft.fandom.com/zh/wiki/旁觀者模式)
+- 使用`/cr`/`F3+F4`切換成[模擬創造模式](virtual_creative.md)
 - 上傳[圖片](https://discord.com/channels/799977829805981716/1050904585746784258)、[音樂](https://discord.com/channels/799977829805981716/1050912245758050326)、[皮膚](https://discord.com/channels/799977829805981716/1052733588765937694)、[暱稱](https://discord.com/channels/799977829805981716/1052733336138825808)許可
 - 最大視野距離從`10`提升到`18`
 - 可使用`/experience`扔出身上的經驗值

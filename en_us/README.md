@@ -513,14 +513,14 @@
         <td width="20%"><a href="feature/auto_backpack_sort.md"><img src="https://i.imgur.com/wkgN4s7.png" width="198"/></a></td>
         <td width="20%"><a href="feature/living_ore.md"><img src="https://i.imgur.com/jhrPE3M.png" width="198"/></a></td>
         <td width="20%"><a href="feature/newbie_protection.md"><img src="https://i.imgur.com/9NRE5xt.png" width="198"/></a></td>
-        <td width="20%"></td>
+        <td width="20%"><a href="feature/virtual_creative.md"><img src="https://i.imgur.com/sda2wAa.png" width="198"/></a></td>
         <td width="20%"></td>
     </tr>
     <tr>
         <td width="20%" align="center"><a href="feature/auto_backpack_sort.md">Automatic Inventory Sorting</a></td>
         <td width="20%" align="center"><a href="feature/living_ore.md">Living Ore</a></td>
         <td width="20%" align="center"><a href="feature/newbie_protection.md">Beginner Protection</a></td>
-        <td width="20%"></td>
+        <td width="20%" align="center"><a href="feature/virtual_creative.md">Simulation of Creative Mode</a></td>
         <td width="20%"></td>
     </tr>
     <tr>
