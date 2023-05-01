@@ -17,9 +17,6 @@ Not retrieved for over `1 month` (`30 days`).
 ### Discord Team chat
 Not used for over `10 days`.
 
-### [Temporary Backpack](cat_bowl.md)
-Not retrieved for over `1 month` (`30 days`).
-
 ### [Blueprint](../item/build_blueprint.md)
 Not read for over `3 years` (`1,080 days`).
 
