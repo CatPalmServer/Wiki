@@ -1,5 +1,7 @@
 [← Back to home](../)
 # Enhanced Wandering Trader
+If there is a player within 24 blocks with the Luck effect in Minecraft, the probability multiplier of rare trades (6.5%/2.95%/0.5%/0.05%) will increase by 1% per level, up to a maximum of 10%.  
+_For example, if 4 players have Luck III, the probability of 0.5% will be increased to 0.5% x (1.0 + min(10, 3 x 4) x 0.01) = 0.55%._
 
 ## Trades
 ### 90% (During specific holidays 89.5%)

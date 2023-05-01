@@ -21,15 +21,12 @@
 
 <table>
     <tr><td align="center">效果</td><td align="center">時間</td><td align="center">等級</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/夜視">夜視</a></td><td align="center">10:00</td><td align="center">I</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/跳躍提升">跳躍提升</a></td><td align="center">10:00</td><td align="center">III</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/水下呼吸">水下呼吸</a></td><td align="center">10:00</td><td align="center">I</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/幸運">幸運</a></td><td align="center">10:00</td><td align="center">III</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/速度">加速</a></td><td align="center">10:00</td><td align="center">III</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/力量">力量</a></td><td align="center">10:00</td><td align="center">V</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/回復">回復</a></td><td align="center">10:00</td><td align="center">I</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/挖掘加速">挖掘加速</a></td><td align="center">10:00</td><td align="center">III</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/抗火">抗火</a></td><td align="center">10:00</td><td align="center">I</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/飽食">飽食</a></td><td align="center">10:00</td><td align="center">I</td></tr>
-    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/生命值提升">生命值提升</a></td><td align="center">10:00</td><td align="center">V</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/夜視">夜視</a></td><td align="center">05:00</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/水下呼吸">水下呼吸</a></td><td align="center">05:00</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/幸運">幸運</a></td><td align="center">05:00</td><td align="center">III</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/力量">力量</a></td><td align="center">05:00</td><td align="center">VII</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/回復">回復</a></td><td align="center">05:00</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/挖掘加速">挖掘加速</a></td><td align="center">05:00</td><td align="center">III</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/抗火">抗火</a></td><td align="center">05:00</td><td align="center">I</td></tr>
+    <tr><td align="center"><a href="https://minecraft.fandom.com/zh/wiki/飽食">飽食</a></td><td align="center">05:00</td><td align="center">I</td></tr>
 </table>

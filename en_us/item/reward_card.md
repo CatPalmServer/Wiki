@@ -17,7 +17,7 @@ You'll regret it if you don't sign in often enough.!
 ---
 
 ## Usage
-After opening the menu by right-clicking for the first time, you can accumulate up to 30 points within 35 days. To receive one point per day, you must turn in one specific item, and you cannot make up for missed days.
+After the first time opening the menu with right-click, you can accumulate up to 30 points within 30 days. You need to submit a designated item every day to obtain 1 point. You can use [Super Fish Cracker](super_fish_cracker.md) to make up for the backlog:  
 
 <table>
     <tr><td align="center">Title</td><td colspan="9">Collection Card</td></tr>
